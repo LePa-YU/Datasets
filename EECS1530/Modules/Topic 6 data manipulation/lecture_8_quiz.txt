@@ -1,0 +1,37 @@
+A csv file is a text file which can only be separated by commas.
+
+Select one:
+True
+False
+
+A pandas dataframe can read a .csv file.
+
+Select one:
+True
+False
+
+A CSV file:
+
+Select one:
+a. can be manipulated using write/read the easiest.
+b.
+is always separated by a comma.
+c. cannot be called by the standard library.
+d.
+is used to store tabular data.
+
+Pandas
+
+Select one:
+a. is a data manipulation library.
+b. is a graphics library.
+c. is a graph library.
+d. is a data analysis library.
+
+A pandas dataframe
+
+Select one:
+a. can be used to import data from a text file only.
+b. is part of the python standard library.
+c. is a two (or more) dimensional data structure, or table with columns and rows.
+d. cannot be altered after it's been created.

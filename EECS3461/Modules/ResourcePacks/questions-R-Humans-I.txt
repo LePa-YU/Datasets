@@ -1,0 +1,66 @@
+What should be the focus of designing for humans?
+A) Design should focus solely on user tasks. After all, tasks consist of operations and help users perform activities.
+B) Design should focus solely on user activities. After all, actvities are the intermediate steps that help someone to reach a goal or set of goals
+C) Design should focus solely on user operations. Operations are the smallest unit of action and thus most important to interface design.
+D) Design should consider operations, activities, tasks, but most importantly goals, since goals pertain to the 'why' of the activities and the meaning of the tasks
+ANSWER: D
+Which are connected to the the 'what' and the 'why' of human behaviours?
+A) Goals and motivation are connected to the 'why' of human behaviours, whereas tasks, activities and operations are connected to the 'what' of human behaviour
+B) Tasks and activities are connected to the 'why' of human behaviours, whereas goals are connected to the 'what' of human behaviour
+C) Operations are connected to the 'why' of human behaviours, whereas motivations are connected to the 'what' of human behaviour
+D) We can't ever really know the 'why' of human behaviours, we can only investigate the 'what' of human behaviour
+ANSWER: A
+Which best describes Rational Choice Theory?
+A) Humans operate as individual actors who optimize their actions and interaction, given their available resources.
+B) Humans operate as social aggregates, the sum of individual decisions.
+C) Humans operate by determining when to continuously calculating according to explicit rational and economic criteria
+D) Humans operate as social creatures, choosing social connection because that is the rational course of action.
+ANSWER: A
+What is a cognitive heuristic?
+A) a mental strategy to tackle problem solving and decision-making that makes use of a shortcut "rule of thumb"
+B) a mental strategy to tackle problem solving and decision-making that makes use of a weighing the pros and cons of each option
+C) a mental strategy to tackle problem solving and decision-making that makes use of a weighing the pros and cons of each option, albeit in a very quick way
+D) a mental strategy to tackle problem solving and decision-making that has systematic mistakes
+ANSWER: A
+Which one of these statements is true?
+A) Errors from cognitive bias, even though systematic, are not the same thing as as a logical fallacy.
+B) Since a cognitive bias can leads to sub-optimal outcome, a cognitive bias is a type of logical fallacy.
+C) Errors from cognitive bias are logical fallacies when the errors are systematic.
+D) Not all cognitive heuristics lead to cognitive biases.
+ANSWER: A
+Does cognition reside solely in the brain? (Probe question; not in the resource pack)
+A) Perhaps, depending on how cognition is characterized (internal vs external cognition)
+B) Yes
+C) No
+D) Perhaps, depending on the person
+ANSWER: A
+Is emotion considered a cognitive process? (Probe question; not in the resource pack)
+A) affective processes are typically considered to be different than cognitive processes, but there are connections between them
+B) affective processes are considered to be different than cognitive processes and they are completely separate and disjoint
+C) affective processes are considered to be a type a cognitive process
+D) cognitive processes are considered to be a type of affective process
+ANSWER: A
+Is emotion considered a cognitive process? (Probe question; not in the resource pack)
+A) traditionally no, but there is some debate about whether this is correct
+B) traditionally yes, but there is some debate about whether this is correct
+C) no, emotion is separate from cognition
+D) yes, emotion a cognitive process
+ANSWER: A
+Which of these is not a category of cognitive heuristic? 
+A) needing to be rational
+B) needing to act with not enough meaning
+C) needing to act fast
+D) needing to be selective about remembering
+ANSWER: A
+Is conformity a type of cognitive heuristic? Choose the best answer
+A) no, conformity refers to broader sociological phenomena
+B) no, conformity only affects some people and thus can't be a heuristic
+C) yes, conformity is equivalent to bias
+D) yes, conformity leads to conformity bias, and conformity bias leads to cognitive bias
+ANSWER: A
+What is the bandwagon effect?
+A) The bandwagon effect is the tendency of people who will do or believe things because many other people do or believe that thing.
+B) The bandwagon effect is the tendency of people who wait to see whether something is popular before joining in.
+C) The bandwagon effect is the tendency of large groups of people to travel together.
+D) The bandwagon effect is the tendency of people to place higher value on things that are perceived to be more scarce.
+ANSWER: A

@@ -1,0 +1,6 @@
+Week 8 (to be completed by Wednesday, March 16)
+Weekly goals
+Learn about design documentation and the corresponding UML diagrams
+Create the first draft of the design document including the diagrams prepared for the lab task
+Study the additional requirements posted about the project and start implementing them
+Produce a version of the system that implements as many requirements as possible for submission on Wednesday, Mar 16.

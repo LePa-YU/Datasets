@@ -1,0 +1,7 @@
+Week 3 (to be completed by Wednesday, February 2)
+Weekly goals
+Understand gitflow
+Organize your team repository according to gitflow
+Complete and submit the Team Agreement
+Finalize and submit the first draft of the system's Requirements document
+Your master branch now has the latest stable version of your system. You can always switch to it and demo to your customer.

@@ -1,0 +1,869 @@
+SPEAKER 1
+Okay, so welcome everyone. We've done some other activities this class meeting, but at this point we're going to do a walk through of the very first resource pack and um ideally we're going to use a flip format, so we're not going to use class time for me to talk through slides, but
+
+SPEAKER 0
+it's the start of the course and we're just going to take things slow.
+
+SPEAKER 1
+So I'm going to do it for this time, but just keep in mind in the future of these things
+
+SPEAKER 0
+are going to be posted in advance and you're going to listen to the lecture ahead of time. So this is a get this the way that bothers me. Um This is I believe 21 pages Long. So my heuristic is roughly 1-2 minutes per slide. So if I go fast, this is going to be 20 minutes, It's a heuristic, it's not 100% always accurate, but that's how I see it.
+
+SPEAKER 1
+And as I'm talking, you're free to ask questions in the chat or let me get the discouraged channel up
+
+SPEAKER 0
+again. Uh I'm in the text channel class discussion, so feel free to put questions there or commentary that's fine. If you want to flag things or if I say something that's funny inadvertently and you want to make fun
+
+SPEAKER 1
+of me, just do it in a way that I
+
+SPEAKER 0
+don't notice we're going to go through this and you
+
+SPEAKER 1
+know, there's a reason why this content is the first
+
+SPEAKER 0
+content.
+
+SPEAKER 1
+It looks kind of basic, but it's actually setting the foundation and it's the jumping off point for a lot
+
+SPEAKER 0
+of different themes next class, we're going to do our design resource pack. So these foundational concept concepts are going to drive design practice material, so that's where we're going with this. So uh let me go through this.
+
+SPEAKER 1
+Okay, this content is something I crafted by curating content from a lot of pieces.
+
+SPEAKER 0
+So this is my copyright notice at the start of
+
+SPEAKER 1
+each resource pack, I will identify dependencies, some of the concepts build upon other concepts, but since this is the
+
+SPEAKER 0
+very first one, we have no dependencies.
+
+SPEAKER 1
+And I like to structure the resource packs around like
+
+SPEAKER 0
+action things, questions like inquiry and I find it's a
+
+SPEAKER 1
+good way to like structure the material as in response
+
+SPEAKER 0
+to a question as opposed to just like here's some stuff for you to know because that's sometimes you know,
+
+SPEAKER 1
+I don't know about you but like as a learner
+
+SPEAKER 0
+myself, when someone's telling me about this stuff, I'm always saying like why are you telling me this? Like why do I need to know this? Is it on a test? Do I needed to do an assignment?
+
+SPEAKER 1
+Is it for my health and well being like why
+
+SPEAKER 0
+are you telling me these things? So I like to uh anticipate that question and answer it for you. So the first question is like what our goals, what our activities and tasks. So I'm starting to introduce nomenclature goals, activity tasks, Operations
+
+SPEAKER 1
+motivation, these are like core concepts that are slippery, They mean a lot of different things to a lot of different people but we're going to just establish a common
+
+SPEAKER 0
+understanding here now like design and user interfaces are all
+
+SPEAKER 1
+about like Supporting human activity. So to do that you need some model of like why do people do the things they do? Like basically it's that, but this is not like whole psychology degree and one three credit course.
+
+SPEAKER 0
+So we're going to have to like blast through that
+
+SPEAKER 1
+pretty fast. So I'm summoning all my like experience to try and give you the super condensed version of why do people do the things they do in a size that matches the course? So this is a tall order but you know, it can't be detailed because we don't have enough time but it has to be detailed enough so that you can
+
+SPEAKER 0
+use it as the foundation for design. So that's like pretty well impossible. But we're going to give it a try.
+
+SPEAKER 1
+So why do people do the things they do? But let's ask an easier version of the question. Like if you look at the people, the things that people do these activities, is it based on rational choice, rational decision making or is it some other process or the more nuanced thing must be both.
+
+SPEAKER 0
+Right. So some parts is rational, some part is not rational. So we have to get started with that and the last one is what is the bandwagon effect.
+
+SPEAKER 1
+And this is very clearly paving the way for our dark pattern resource pack, which is coming next.
+
+SPEAKER 0
+So there's lots of of these effects in psychology and
+
+SPEAKER 1
+cognitive science.
+
+SPEAKER 0
+Let's start with one of them. So what is the one I'm chosen is the bandwagon
+
+SPEAKER 1
+effect. What is it? And how is it an example of cognitive bias?
+
+SPEAKER 0
+So those are the three questions we're going to ask and answer. Let me just look at the time. So look, this was one slide and it took me four minutes so I'm going to have to pick up the pace here. Okay. First cushion what our goals, what our activities and tests
+
+SPEAKER 1
+here is some understanding of this terminology and I'm basing this on Alan Cooper's textbook called About Face, which is pretty good. You know, like big chunks of it are really actually very good.
+
+SPEAKER 0
+It's also really, really expensive and it's for the life
+
+SPEAKER 1
+of me, it's not floating around on the interwebs in any kind of pdf format easily. So I unfortunately I don't use this textbook in the
+
+SPEAKER 0
+course because it violates my principle of like the material should be open. You know, students should be able to um access centrally,
+
+SPEAKER 1
+but I can use up to 10 percent or 20%
+
+SPEAKER 0
+of a published work under fair use sky dealing. So that's what I'm doing here. I'm excerpting part of Chapter one from Alan Cooper's textbook textbook. So this is a nice summary Goals are not the
+
+SPEAKER 1
+same as tasks or activities.
+
+SPEAKER 0
+A goal is an expectation of an and condition.
+
+SPEAKER 1
+Whereas both activities and tasks are intermediate steps that help someone reach a goal or a set of goals and the activities and tasks are at different levels of organization.
+
+SPEAKER 0
+So we have goals in order to achieve our goals.
+
+SPEAKER 1
+We have activities and tasks.
+
+SPEAKER 0
+Activities are composed of task. So if I'm like engaged in, let's say the activity of leading Class, meaning 02, I have a whole bunch
+
+SPEAKER 1
+of task on happening. I've got the task of managing zoom, I've got the
+
+SPEAKER 0
+task of advancing my PowerPoint slide deck, I've got the task of making sure that discord is basically okay, so
+
+SPEAKER 1
+I've got all these tests that I'm juggling in parallel and then tests in terms are composed of actions. So this is where we get into the user interface, the layer of like which widgets, which things do we provide to users so they can perform their actions.
+
+SPEAKER 0
+So zoom has a bunch of buttons, they have a bunch of menus, discord has actions that are afforded and
+
+SPEAKER 1
+then these actions are in turn composed of operations, click drag and so on. So what we have here is a kind of hierarchy that is emerging.
+
+SPEAKER 0
+So we've got motivations that, you know form the basis
+
+SPEAKER 1
+for goals and then to realize goals, we undertake one or more activities and each of the activities are composed of tasks and the tasks are composed of operations in order to perform operations. You need like, you know um tools that have functionality afforded to like the user to perform these operations.
+
+SPEAKER 0
+So you see what we're doing like establishing from like
+
+SPEAKER 1
+meaning down to like physical action.
+
+SPEAKER 0
+So that's like nice a like that's the whole course of psychology condensed into one slide and because it's condensed, it's glossing over a lot of nuance. So when I say a hierarchy is implied, that's me
+
+SPEAKER 1
+being careful not to be categorical and say there is a hierarchy, there is some sense of a hierarchy, but
+
+SPEAKER 0
+it's of course more nuanced than that. Okay, so all of this is important for design because
+
+SPEAKER 1
+what we want in the end is to focus on meaning like why not? The what? It's very short sighted and narrow to like concern yourself with the optimal itty of a button of one dimension versus another dimension. When you're not even paying attention to like why do
+
+SPEAKER 0
+we need the buttons in the first place? So I'm really signaling clearly that we don't want to
+
+SPEAKER 1
+be at the level of like the what, you know
+
+SPEAKER 0
+what buttons and you know what real estate and like what, you know, characters per second do we want to, you know, support.
+
+SPEAKER 1
+That's all in service of the why? So designed that purposes and understanding the tasks that people are performing there is that kind of design that kind of like I don't care about the why I just
+
+SPEAKER 0
+you know, assume that there's some kind of task and
+
+SPEAKER 1
+I'm going to support it and then there's design that focuses on understanding supporting activities.
+
+SPEAKER 0
+Like you know these tasks are in service of what purpose, so these are on the what of the human
+
+SPEAKER 1
+behavior, but like I said, they don't focus on the why and the why is the important question. Why are people engaged in this activity In the 1st place? For me, my philosophy and teaching the courses, like I
+
+SPEAKER 0
+care about hawaii, others don't care about the why they
+
+SPEAKER 1
+just assume there is some task that's already set up. Given that task, let us perform it as efficiently as possible as effectively as possible with the greatest degree of learn ability and memorability and and safety, like you know, once you just make an assumption about the task, it becomes very much an applied engineering exercise, Applied ergonomics, just
+
+SPEAKER 0
+to like focus on these performance measures, that's just not like the way that I'm choosing to emphasize the material in this course. Okay, so goals and motivation, motivation goals motivate people to perform activities more or less. Sometimes people perform activities not because they have goals so much, but other reasons, but let's leave that aside understanding goals allows you to understand the expectations and aspirations of actual and prospective users, which in turn can help you decide which activities are truly relevant to a design. So this is, is the horse driving the cart or the car driving the horse kind of situation cast and
+
+SPEAKER 1
+activity analyses are used at the detailed level, but only after you have some understanding of the users goals and asking what are the users goals, lets you understand the
+
+SPEAKER 0
+meaning of the activities to the users. So all of this is just like getting the goals established and setting up the thing like you have the
+
+SPEAKER 1
+goals and then how do users advance their goals? Because you need some understanding of that process so that
+
+SPEAKER 0
+you can support it. Okay, so distinguishing goals versus activities and tasks. So we've got this hierarchy, motivation gives goals. Goals get intern activities. Activities are made of tasks.
+
+SPEAKER 1
+Tests are made up of operations.
+
+SPEAKER 0
+Operations are made of actions. Goals are driven by human motivations. Okay, I just said this second bullet point how you
+
+SPEAKER 1
+can tell the difference between a goal and an activity.
+
+SPEAKER 0
+So goals change solely activity and tests are transient. They happen in response to the goals. Goals are higher level activities.
+
+SPEAKER 1
+Independent tests are lower level. They depend on the goals and they also depend on the technology.
+
+SPEAKER 0
+Whereas the goals, this is tricky depend on a person's like experience in their environment which includes technology but are thought to be a higher level kind of entity.
+
+SPEAKER 1
+This is an example. Alan cooper has an example which honestly is like horrible.
+
+SPEAKER 0
+It's like very colonial with like guns and stuff. So I took it and I like morphed it a little bit. So here's just an example.
+
+SPEAKER 1
+My goal might be, I want to travel from trying
+
+SPEAKER 0
+to Ottawa, I want to be as quickly as comfortable
+
+SPEAKER 1
+and as safe as possible.
+
+SPEAKER 0
+So I've got these goals now you'll notice those goals maybe are not usually satisfy a ble like they might stand in tension with each other because something might be
+
+SPEAKER 1
+really quick but it might be very uncomfortable. So via rail is like more comfortable than going to the airport and dealing with a flight but it's not
+
+SPEAKER 0
+as quick so goals can stand in tension with each
+
+SPEAKER 1
+other and that's just a feature of human behavior. So in the 1850s, you know, if you have the school then, you're.
+
+SPEAKER 0
+oh my God, hang on, I had a frog in my throat In the 1850s you have the goal.
+
+SPEAKER 1
+But your activities would be totally different because the technologies
+
+SPEAKER 0
+at the time are totally different. So there's no plane, you have to go in like a covered wagon for instance. And if you want to be safe, you bring along a rifle.
+
+SPEAKER 1
+This is already like colonial and I hate this example,
+
+SPEAKER 0
+but It was like 5:00 AM and that's the best I could do at the moment.
+
+SPEAKER 1
+But right now and pre pandemic because like the pandemic
+
+SPEAKER 0
+is unusual.
+
+SPEAKER 1
+You might have the same goal but the activities are going to be different because the technologies are different, we
+
+SPEAKER 0
+have the technology of flight so you can take a
+
+SPEAKER 1
+plane and for safety like you don't bring firearms because
+
+SPEAKER 0
+that's actually unsafe, you're going to get flagged as security control etcetera.
+
+SPEAKER 1
+So this is just a little baby example to show
+
+SPEAKER 0
+like you have the same goal, but because the technological meal views so different, the activities and tasks are going to change quite a lot. So we're all clear on this kind of goals versus activities in past distinction, we're going to use it like
+
+SPEAKER 1
+from now on in the course all the time.
+
+SPEAKER 0
+Okay, so you've got these goals and the goals are kind of driving the activities in part because activities also depend on so many other factors including technologies that are available. So like what gives activities their forms? Like why do people do the things they do when they're advancing their bulls? Yeah, so if you're either naive or really idealistic, you're going to think, oh this is like very logical, you go through this hierarchy and you know, humans engage in
+
+SPEAKER 1
+conscious thought and explicit decision making and deliberate, like how can I best realize my goals? What here? All the possible sets of activities, which one is going to be optimal in terms of trading off pros and cons, I can even use a formal things like utility
+
+SPEAKER 0
+theory to model this and then I'm going to choose
+
+SPEAKER 1
+the activity that's optimal in terms of advancing my goals.
+
+SPEAKER 0
+So this kind of thinking is tantamount to saying humans are rational agents, their agents in the world that operate according to rational thought processes. And my next slide is going to respond to this, like premise, what do you think it's going to be
+
+SPEAKER 1
+our humans rational?
+
+SPEAKER 0
+It's no, I know I'm not rational.
+
+SPEAKER 1
+I know there was a point where I thought it
+
+SPEAKER 0
+was rational because you know, I did my degree in
+
+SPEAKER 1
+math at Waterloo and I thought like, oh, we're all
+
+SPEAKER 0
+like very rational people, but people think they are, they
+
+SPEAKER 1
+aspire to be. But there is like honestly, so much literature that shows
+
+SPEAKER 0
+even like the supposed most rational person is actually not rational all of the time.
+
+SPEAKER 1
+And this is actually the basis of a Nobel Prize in economics in the 1970s, to give, like, a real form to this intuition that we all knew even before
+
+SPEAKER 0
+that, that people are not rational.
+
+SPEAKER 1
+Long term rational thinking makes you irrational.
+
+SPEAKER 0
+Well, that's a very provocative statement. I'm going to have to think about this.
+
+SPEAKER 1
+Is there a study on the claim? So, Read one is asking a study on the claim that people are rational? Yes, hundreds and hundreds, but basically this is um uh condiment and terse keys like Nobel prize on rational choice,
+
+SPEAKER 0
+what did they call it?
+
+SPEAKER 1
+Well, I'm losing the name of the name, The particular
+
+SPEAKER 0
+theory. So in the 70s, they devised this theory and there's like hundreds of scholars that make the whole scholarly career looking at irrationality, whole fields of behavioral economics, like the
+
+SPEAKER 1
+whole field of behavioral economics is predicated on this.
+
+SPEAKER 0
+I maybe should assemble like a big impressive list of citations to prove to you. Like how massive the body of evidence is. Yes. The author of thinking fast and slow. Indeed. Good.
+
+SPEAKER 1
+Okay, so rational choice theory at one time was like paramount in the 60s. That's like how economists and psychologists legit thought people operated this way.
+
+SPEAKER 0
+So it was a perspective of sociological perspective because it's looking at humans as social agents out in the world,
+
+SPEAKER 1
+not in like a baby kind of fake scenario with
+
+SPEAKER 0
+like everything controlled, but like how do people actually work in the world? It focuses on individual behavior. It's assumed that the behavior is rational and I found
+
+SPEAKER 1
+from able a textbook on social theory, the quote that
+
+SPEAKER 0
+say understanding individual actors is acting or likely interacting in
+
+SPEAKER 1
+a manner such that they can be deemed to be doing the best they can for themselves given there. And then we have an enumeration objectives resources, circumstances as they see them. So not as they are objectively, but as their perceived.
+
+SPEAKER 0
+And here doing the best they can is a kind
+
+SPEAKER 1
+of informal way of articulating optimal itty which if you do, you know, um systems of linear equation or linear or nonlinear optimization. And you have like the objective function that's a formal
+
+SPEAKER 0
+statement of like optimal itty and rational choice theories about
+
+SPEAKER 1
+individual behaviors. But it also claims to explain social behavior at the group level, the mezzo analytical level as opposed to the
+
+SPEAKER 0
+micro analytical level which is the level of the individual
+
+SPEAKER 1
+which is saying like social behaviors at the meso analytical
+
+SPEAKER 0
+level. The aggregate level just results from the individual, the behaviors of the actors working together. There's no like special emergent thing. It's just explained in terms of the individual behavior. But this we know if you know her behavior and
+
+SPEAKER 1
+groupthink and all of these things, these are phenomena that happened at the message level that don't have their basis
+
+SPEAKER 0
+like solely explained an individual level. We know there's emergent phenomena. Mhm. Okay. So 1104. I gotta pick up the pace here. Okay, so sociologists along with others argue that humans are
+
+SPEAKER 1
+social agents and do not continuously calculate according to explicit
+
+SPEAKER 0
+rational and economic criteria are thinking.
+
+SPEAKER 1
+Must contend with a bunch of things. We have huge amounts of information flowing in from all our senses. We can't possibly contend with all of it. The information that is flowing in is incomplete, ambiguous. So we can't like firm it all up before deciding
+
+SPEAKER 0
+to act and we have to act quickly.
+
+SPEAKER 1
+Right? Yeah.
+
+SPEAKER 0
+That's a little typo So if you had all the
+
+SPEAKER 1
+time in the world, maybe you can map out optimal
+
+SPEAKER 0
+choices but you don't have to act quickly. Like the car is heading towards you, you gotta move right or else you're gonna get smoked. So so humans use what are called cognitive heuristics if
+
+SPEAKER 1
+you want, you know, citation for this. You can look for bordeaux, the philosopher sociologist.
+
+SPEAKER 0
+So there's like this, there's a whole course on this topic. Okay, so what is a cognitive heuristic?
+
+SPEAKER 1
+It's a mental shortcut. It's a rule of thumb. And because it's a rule of thumb, it works well in some scenarios and works not too well in other
+
+SPEAKER 0
+scenarios. That's the nature of it because it's quick.
+
+SPEAKER 1
+You know, you get something it's quick but you give up something which is it's not awesome in all scenarios.
+
+SPEAKER 0
+So when it works well you think oh my heuristic is good and when it's not working well.
+
+SPEAKER 1
+Okay, that's an error.
+
+SPEAKER 0
+So that's just the name of the that's the nature
+
+SPEAKER 1
+of the beast.
+
+SPEAKER 0
+When you have a heuristic it like that's what it means to be heuristic, it works quickly but it's not
+
+SPEAKER 1
+going to work optimally across all the situations. So by definition it has to result in errors.
+
+SPEAKER 0
+If it was if the heuristic work optimally in all
+
+SPEAKER 1
+scenarios, then that's not a heuristic anymore.
+
+SPEAKER 0
+Like that's built into the definition of heuristic.
+
+SPEAKER 1
+So because of that by definition a heuristic is not
+
+SPEAKER 0
+rational. It doesn't always produce the best outcome given you know, all of these factors that play into determining what the goodness of an outcome is.
+
+SPEAKER 1
+So it's a kind of strategy.
+
+SPEAKER 0
+It's to tackle problem solving and decision making quickly without
+
+SPEAKER 1
+having to continually consider huge amounts of information or to
+
+SPEAKER 0
+adjudicate among like a huge number of options.
+
+SPEAKER 1
+If you were deductive rational you would generate all the possible courses of action. You would evaluate each one, you would have some way of measuring fitness or optimal A. T. And then you would choose the best one.
+
+SPEAKER 0
+But I'm telling you humans don't do that. They don't they're not able to generate all the possible options and they're not able to adjudicate among them at
+
+SPEAKER 1
+least within like the amount of time that they have
+
+SPEAKER 0
+available. Okay so we got the heuristics and now we move
+
+SPEAKER 1
+to how does the heuristic cause a bias? Because the heuristic by definition results in errors and at
+
+SPEAKER 0
+least some scenarios. And these scenarios that are like yielding non optimal results
+
+SPEAKER 1
+tend to be follow patterns. Cognitive heuristics when they fail tend to be failing in a certain way it's systemic. So they're systemically wrong. And that's you know, the nature of the bias, cognitive bias refers to systematic mistakes that derived from limits that
+
+SPEAKER 0
+are inherent in our capacity to process information. I didn't put the citation but this is a cognitive science textbook that this is coming from. So cognitive biases derived from cognitive heuristics, cognitive heuristics are
+
+SPEAKER 1
+not cognitive biases.
+
+SPEAKER 0
+Heuristic is a strategy.
+
+SPEAKER 1
+But because of the definition it leads to something that we identify to be a cognitive bias. And like someone said in the chat, you know we all have cognitive biases but we can't always perceive them. And we also tend to think that we don't have them. So even when confronted we can reject their existence.
+
+SPEAKER 0
+And the people who are best able to contend with their biases are those that are able to self reflect and at least admit I might not see it but I can understand that it's there. Okay. A cognitive bias is not a logical fallacy because the definition doesn't match a cognitive biases. A systematic mistake that derives from the use of cognitive heuristics. A logical fallacy is an error in a logical argument. So they're not the same thing at all.
+
+SPEAKER 1
+Um Mohammad is asking do cognitive biases only come about in cases where cognitive heuristic cause errors or they involved
+
+SPEAKER 0
+regardless. It's a very subtle question you're asking because it has
+
+SPEAKER 1
+to do with like what's the nature of a bias?
+
+SPEAKER 0
+So it's a bias always wrong, bad or is the bias good.
+
+SPEAKER 1
+I have really searched for like a year to find
+
+SPEAKER 0
+like a really good source and they behavioral economics literature to explain the connection between the two and from what
+
+SPEAKER 1
+I can gather the construction of a cognitive bias like
+
+SPEAKER 0
+as a as a construct. It's not like a natural kind of thing derives from
+
+SPEAKER 1
+the fact that you're in a domain where you're trying to talk about optimal results and the fact that you are looking to get the best results given constraints.
+
+SPEAKER 0
+So my interpretation is that um cognitive biases always come
+
+SPEAKER 1
+about because cognitive heuristics by their definition are not optimal
+
+SPEAKER 0
+across all the scenarios. However you call optimal A.
+
+SPEAKER 1
+T. And that depends like in a way that's relative to
+
+SPEAKER 0
+the decision making agent. So whether you call this an error or sub optimal
+
+SPEAKER 1
+adi or like you know a partial goodness. Like you have to have some way to talk about like optimal and not optimal.
+
+SPEAKER 0
+Because the whole premise here is against the foil of rational behavior biases can be beneficial.
+
+SPEAKER 1
+Absolutely. Because the cognitive bias when it works well it's hugely beneficial because it like works well for you. For sure biases tend to have the connotation of bad but that's like I'm trying to point out the subtlety
+
+SPEAKER 0
+between like the nature of the heuristic is that it
+
+SPEAKER 1
+works well in some situations and not well and others and that it's systematically like working well and it's systematically not working well. So the systematic city is the bias.
+
+SPEAKER 0
+Okay so let's continue on because we're rounding to the
+
+SPEAKER 1
+finish line. How many cognitive biases are there?
+
+SPEAKER 0
+Okay. Wait this wouldn't it be better but wouldn't taking up
+
+SPEAKER 1
+the bias make it objectively better. Exactly. But if you take up the bias and it's objectively better then it's not a heuristic anymore because the definition of a heuristic is that it works well.
+
+SPEAKER 0
+Only some of the time and if it doesn't work
+
+SPEAKER 1
+well all of the top, if it works well all of the time then that's in fact the definition of rational because you're choosing the best, the optimal outcome given
+
+SPEAKER 0
+the preconditions.
+
+SPEAKER 1
+Because we can't say intrinsically if something is good or not, it always has to be relative to the goals.
+
+SPEAKER 0
+Do you advance schools? So we're into like a subtle philosophical point here of like the nature of what is optimal and how it's dependent on the decision making agent. So let's just get that on on the floor and
+
+SPEAKER 1
+then we're going to come back to this because I
+
+SPEAKER 0
+like these questions. They're like really insightful and good. But I'm going to run out of time. So I'm just going to say let's like keep them
+
+SPEAKER 1
+there. I'm not dismissing them, we're going to come back to it. But I do want to move on. It's natural to say like how many cognitive biases are
+
+SPEAKER 0
+there? Like I want to know them all and that's a
+
+SPEAKER 1
+tall order because there's like so many, there's like more than 100. It depends on how you count and people count differently. This is like whole sector, like a whole disciplinary chunk of knowledge. There is some work in the grey literature, I'll talk more about what that means to try to like simplify this and there's a pretty popular categorization that says like they basically all boiled Down into four categories.
+
+SPEAKER 0
+We have heuristics that help us deal with acting fast.
+
+SPEAKER 1
+You know, you don't have time, so you just choose
+
+SPEAKER 0
+something, you would have heuristics that help us act when
+
+SPEAKER 1
+we don't have complete meaning. There are heuristics that help us when we have like too much information and we have to like adjudicate among like what to pay attention to and what to ignore. And we have um whole class of cognitive heuristics about figuring out of all the things I'm dealing with. Like what are these things Should I commit to memory and what things should I just forget about? Because you can't remember everything your brain has to filter and only selectively engage memory for some of the things. So there's 100 of them. And I've decided before I would do like 20 of
+
+SPEAKER 0
+them at once and it's too much. Let's just start with one and build from there.
+
+SPEAKER 1
+So the one that I'm starting with is the bandwagon effect. So what is it? And how is it an example of cognitive bias and then we're going to be done. Mhm.
+
+SPEAKER 0
+Okay, so um the band, you know this, you know
+
+SPEAKER 1
+it from your own lives, but maybe you haven't heard it.
+
+SPEAKER 0
+He called this.
+
+SPEAKER 1
+But the bandwagon effect is the tendency of people, people who are engaged in where otherwise you might use rational
+
+SPEAKER 0
+choice theory. Like you want to I think the right thing, you
+
+SPEAKER 1
+want to come to the right conclusion or you want to make the best choice or you want to take the best course of action. So the scenario is like there's a need to act or think or do.
+
+SPEAKER 0
+So it's the tendency in that situation to do the
+
+SPEAKER 1
+thing or believe the thing that other people do.
+
+SPEAKER 0
+So the idea is like I can't figure it out
+
+SPEAKER 1
+for myself, Let's use another person as a proxy and I'm going to substitute their judgment for mine. And if I trust or hold the other person is steam, then I'm gonna rely on their judgment more. Or if there's a lot of people who think that I might think well the crowd, you know, they must know something and I don't know what it is, but
+
+SPEAKER 0
+I'm gonna just trust this.
+
+SPEAKER 1
+So this idea of replacing your personal judgment and you see by proxy the judgment of others.
+
+SPEAKER 0
+That's the bandwagon effect. There's it's a kind of conformity bias and hear things
+
+SPEAKER 1
+complicated because we have our cognitive heuristics which help us in decision making situations, but you know, being human beings,
+
+SPEAKER 0
+it's not all about decision making. We have all these layers of like affect emotion, beliefs, motivations, you know, like the need to connect.
+
+SPEAKER 1
+So there's a lot about us that is not only
+
+SPEAKER 0
+about decision making is all these other dimensions of like being like a human in a social context and all
+
+SPEAKER 1
+of this is connected with um social connection connection and from connection, we have conformity is like a phenomenon like
+
+SPEAKER 0
+there's all kinds of ways in which we seek to conform societally and in that realm there are conformity biases. So we tap into a cognitive heuristic into like social
+
+SPEAKER 1
+itty like what does it mean to be a human? So like I've knocked out how decision making is just one part of the big thing, what it means to
+
+SPEAKER 0
+be human.
+
+SPEAKER 1
+So bandwagon effect is a kind of conformity bias, but there's a whole set of things that arrived from conformity
+
+SPEAKER 0
+and conformance and societal conformance that are not only about decision making, it's about other things as well. Okay, so this bias is connected to this phenomenon called
+
+SPEAKER 1
+social proof. So social proof in of itself is not a cognitive
+
+SPEAKER 0
+heuristic, but it's a thing that happens connected to the bandwagon effect and this is just a thing that we
+
+SPEAKER 1
+see that people copy the actions of others, they don't
+
+SPEAKER 0
+copy only because the bandwagon effect, there's other effects, but it's all connected together.
+
+SPEAKER 1
+And this is like where we wanted to land this phenomenon of social proof is the thing that a designer
+
+SPEAKER 0
+of an interactive system first of all should be aware of because it explains why people do the things they do, but more than that it can be exploited, You can recruit it and put things into your interface to
+
+SPEAKER 1
+exploit this tendency and create an illicit behaviors from users,
+
+SPEAKER 0
+it's like super superpower, right? You can get people to do things even if they
+
+SPEAKER 1
+don't consciously decide to do it because you're exploiting their
+
+SPEAKER 0
+bias.
+
+SPEAKER 1
+So here's some examples, voters are more likely to cast
+
+SPEAKER 0
+their votes for the candidate they think is winning. So that's just like a heuristic like who should I
+
+SPEAKER 1
+vote for? Let me, I don't know all the candidates position, Let me choose the position that is appealing to like people
+
+SPEAKER 0
+who I respect.
+
+SPEAKER 1
+So this effect can be exploited by, for instance, if people in different campaigns like put out news about, oh my candidate is in the lead, whether they are or not, you know, just the perception that someone is in the lead will cause people to vote for them. That's why Canadian election doesn't allow Like campaign materials within
+
+SPEAKER 0
+24 hours of the polling and why the news stations are not allowed to report that is contested right now.
+
+SPEAKER 1
+But for a long time it was the law like blanket blackout because we don't want to influence people for
+
+SPEAKER 0
+the uh, bandwagon effect.
+
+SPEAKER 1
+Bandwagon effect is used in social media streaming, uh, influencers, bloggers, That whole realm of like social performative itty that
+
+SPEAKER 0
+is now like ubiquitous. So that's why people pay to get like, you know,
+
+SPEAKER 1
+those farms to like generate a bunch of fake followers because it creates like the appearance of having a huge following and then people will be affected by a bandwagon
+
+SPEAKER 0
+effect and will follow.
+
+SPEAKER 1
+So that's why you see these huge Effects where some
+
+SPEAKER 0
+people have like, you know, 15 million followers, it's because of the bandwagon effect. Uh there's a clip, we don't have time to show it, but truly it's hilarious. I'll post just the website which just shows that this
+
+SPEAKER 1
+experiment and if you're all going to, if you create a set up and you have like, you know, an unsuspecting person and then others who are part of the
+
+SPEAKER 0
+experimental setup, you get into an elevator and if you
+
+SPEAKER 1
+have all your confederates face the back of the elevator, then the unsuspecting person will see this and we'll turn
+
+SPEAKER 0
+around and face backwards in the elevator, like, you know, that's an experiment, you can do, you can get people to like turn in an elevator by getting other people to do it and then they'll follow along and this
+
+SPEAKER 1
+is what I really wanted to land on.
+
+SPEAKER 0
+Like how interfaces illicit this bandwagon effect. They're using social proof to like get the users to do certain things. Okay, that's the last slide, we have a summary here.
+
+SPEAKER 1
+The apparent hierarchy of motivation, goals, activities, task operations.
+
+SPEAKER 0
+Uh actually, I'm not going to read all of this, you can read it.
+
+SPEAKER 1
+Um I just want to acknowledge that it's 11 20
+
+SPEAKER 0
+say I used up all the time.
+
+SPEAKER 1
+Are there any quick questions because if not, I think
+
+SPEAKER 0
+we should stop this coverage. Okay, yeah, so feel free to ask questions.
+
+SPEAKER 1
+You can also ask questions in the cost discussion even
+
+SPEAKER 0
+afterwards and this recording will be posted and I'm going
+
+SPEAKER 1
+to do another recording in the next section right after this, so you'll have to coverage of the same slide
+
+SPEAKER 0
+decks and if you're really keen and interested you can compare and contrast. No activity starts today. There are no activities today. Today we're just getting going, we're laying the foundation, we're testing under breakout rooms and hopefully your brain is starting
+
+SPEAKER 1
+to like awake to this theme of um hierarchy, from
+
+SPEAKER 0
+the goals to the activities and the role that cognitive heuristics have in this activity based way of looking at the world. Good. Okay, so with that I'm going to sign off, let's

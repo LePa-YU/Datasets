@@ -1,0 +1,163 @@
+Error:
+Okay so let's take a look at. 
+Debugging types for your. 
+Plug-in development. 
+So wishing already. what kind. 
+Aw fast so advanced as soon as we build. 
+Plug-in. 
+Error:
+Buchanan said break bones if you want in your plug-in and. 
+Stop and look at the values of different variables and so on. 
+So if that works for you. 
+Please go ahead and do it. 
+I find that it's not as. 
+Convenient. 
+In the case of plug-ins because. 
+The plugin is running the horse the horse is calling a process block. 
+How many times a second. 
+So i stopping every time and continuing until you get to the point where you want to examine things. 
+A little bit tedious. 
+So i find that often a few does. 
+Output values of some variables. 
+Fantastic look at them. 
+Changed between different applications of process can help you see what's going on matt's easier. 
+In any of the things we'll do for a 71 there isn't going to be dug many variables to work that would be really yeah. 
+A very time-consuming task to do. 
+Now because your plug-in is running in the house there's no standard output so bring that doesn't work very well at all.. 
+So i just want to show you an example of doing that. 
+This is a process block. 
+Coda of the last article that i gave you. 
+I have decided three lines before that if statement that. 
+Error:
+Creates no dolphin note on events in some cases. 
+Iso. 
+You can see that the condition for their statement. 
+Basically looks at the vale. 
+All three different things inside of a time plus them samples to know direction to safeway. 
+Stop the car right now to start the next one. 
+So. 
+Maybe only what exactly is going on here. 
+Test. 
+Puta. 
+This alliance was before so we can output the value of the time variable. 
+And i'm samples variable and an alteration variable. 
+And see what's happening. 
+Right so i also have this little piece of texture the beginning so i know which one is which. 
+And he's certified. 
+Error:
+Operator here is a c+ way of certified. 
+Producing ice put into strength. 
+But basically this will produce the time eagles and then the value of a time variable or something. 
+Okay so. 
+When i build up around 8 or just a regular horse. 
+I made the connections. 
+Determined quotes. 
+Right so then. 
+Leslie albert. 
+I saw. 
+And we can see if you think cr. 
+For one thing i can say about the value of numb samples and no direction doesn't make it rain. 
+Right and that's actually as expected. 
+Num samples is the size of a buffer. 
+So this system will always give us the same size buffer. 
+Alright so. 
+We don't really need to read it out so many times but. 
+Error:
+This goes around every time process block. 
+Robinson that you go you say that every time. 
+I also know duration isabella got calculated. 
+Appear. 
+Right so depends on the appreciation speed so if i change that value in my slider than you will see a different value there. 
+But for whatever reason at the standard. 
+Appreciate appreciation state. 
+The calculation says that. 
+It's note that i'll hear. 
+Error:
+We lost four 6616. 
+Error:
+Samples. 
+Time periods. 
+That's still less than a second but. 
+Display all calculations at this is how long this going to be. 
+Oh. 
+You can do the math if you want but says its value is not a multiple of five 12 so that means that we're not going to have. 
+An exact match in between buffers. 
+Error:
+And notes. 
+But. 
+Is what happens time start sub-zero. 
+And then this is the first time we are. 
+We call prosser blog. 
+Nothing happens because. 
+Isaiah. 
+You can see this expression over here is not going to be through. 
+But later on in the cold weird. 
+The size of a buffer time right so basically time tells us. 
+How many samples have we seen so far so it was that 10 next time we call. 
+Process block 12in 1024. 
+And so on. 
+Cenotes.. 
+Error:
+Time keeps going up and in fact no events get creative or any of his clothes to post clock. 
+Because... 
+Condition easter falls. 
+Play sigala b further down will see that. 
+At some point. 
+Time is 6 - 44. 
+Error:
+And then + 512 this would be 66-56. 
+It'll be larger than no direction. 
+So that point. 
+We go into a statement body and say okay let's stop this note we kind of line and let's start another.. 
+Right. 
+Error:
+That will happen i haven't printed that out so we cannot see it here. 
+But you'll see that next time we called time he's down to 40 which is actually. 
+1656 - 1616. 
+Error:
+Solo. 
+That means we start again. 
+We. 
+Used 40. 
+All of them. 
+Of the samples of the next buffer. 
+And then. 
+Will continue again if we keep going up so next time we have 2552. 
+At 1064 right so you can see that is not an exact match. 
+Between buffers and that was with a start at zero again. 
+And go up by 5:12. 
+Every time there's a bit of an offset to 40. 
+Error:
+What is fine. 
+So so that's the idea. 
+By looking at these values i can set up. 
+Get an idea what's happening. 
+We can see that the time variable. 
+Tells us all right, stomp has elapsed and when we get to the point where we know we need to start. 
+The next note. 
+Language. 
+Then we go. 
+And i do the body of this if statement here. 
+Error:
+Create a note of. 
+To stop the babies now.. 
+And the note on the staff. 
+Error:
+Play.. 
+Start the next note. 
+Advanced are the same process again. 
+Error:
+A job. 
+512 to the time but if. 
+This is a large dino direction because we have the most operator care would go back down to the remainder of that division. 
+And that's right so hopefully if we're not sure what's going on with the code they just looking at how these variables interact with each other. 
+Helps us to see. 
+Once you have your own variables. 
+Something nice nobody clear. 
+You can use the same approach to to figure out what's going on your code. 
+Okay so hopefully that was helpful. 
+Good luck with coding up. 
+Error:
+Assemblyman. 
+I'll see you guys next weekend appointments. 
+Error:

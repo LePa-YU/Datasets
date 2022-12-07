@@ -1,0 +1,5 @@
+Week 5 (to be completed by Wednesday, February 16)
+Study material
+Our topic this week is debugging. Start by watching these two videos on debugging in Eclipse: 1. Breakpoints 2. Debugging
+When using Gradle, the process is a bit more involved, so next watch this instructor video on how to set up Gradle for debugging.
+Click here for the Week 5 lecture video.

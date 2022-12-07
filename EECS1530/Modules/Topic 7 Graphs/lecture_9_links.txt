@@ -1,0 +1,4 @@
+https://matplotlib.org/
+https://www.python-graph-gallery.com/matplotlib/
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/
+https://pknerd.medium.com/data-visualization-in-python-line-graph-in-matplotlib-9dfd0016d180

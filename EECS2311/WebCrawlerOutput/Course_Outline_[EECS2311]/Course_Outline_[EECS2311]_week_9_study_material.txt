@@ -1,0 +1,5 @@
+Week 9 (to be completed by Wednesday, March 23)
+Study material
+Our topic this week is bug reporting. Start by watching Section 4 (Bug Reporting) of this online course.
+For the bug reports that you will create this week, use the list of sections in this video. You should also add the input you tested with as an attachment, and list which MusicXML viewer(s) you tested with.
+If you'd like to learn more about bug reports, this is a great but longer online course. If you have time for only one video from it, watch this one.

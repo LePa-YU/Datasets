@@ -1,0 +1,5 @@
+Week 6 (to be completed by Thursday, October 22)Study material
+Our focus this week is on finishing Assignment 2, as well as learning about the human sound perception.
+Start by watching this video on the Human Sound Perception System.
+Next, study the slides on Sound Perception, finishing with a fun video on Auditory Illusions.
+Finally, continue with our Weekly Unity Background: Complete Section 5. Prefabs.

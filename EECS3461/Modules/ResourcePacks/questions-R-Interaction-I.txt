@@ -1,0 +1,49 @@
+Why is it challenging to define what is meant by a 'user interface'?  (Choose the answer that best reflects the resource pack materials)
+A) because characterizing 'user interface' boils down to characterizing interaction and technology, both of which are nuanced 
+B) because there are so many different types, it is difficult to list them all
+C) because UX designers and Computer Scientists use different meanings for this term
+D) because computing technology has advanced so far, creating fuzzy boundaries and cyborgs
+ANSWER: A
+What is the definition of an interface from the computing domain?
+A) an interface is a shared boundary across which two or more separate components exchange information
+B) an interface is a shared boundary across which a human and a digital component exchange information
+C) an interface is a shared boundary between a client and server, the API
+D) an interface is a shared boundary between sensors and articulators
+ANSWER: A
+What is the main idea of co-evolution? (Choose the answer that best reflects the resource pack materials)
+A) The digital artefacts that are designed shape us humans, and we humans shape the digital artefacts are are designed
+B) faster mouse, faster mousetrap: there is an arms race between designers and humans 
+C) appropriation is stronger that adoption
+D) dominant interests get reflected in technological artefacts
+ANSWER: A
+What is the main idea of inscription? (Choose the answer that best reflects the resource pack materials)
+A) social actors --- with presumed aspirations, motives and other attributed --- arise in the predictive vision of designers, and then designers inscribe the vision of these presumed social actors into the artefacts that they create
+B) technology is mostly created by the most powerful societal forces
+C) technology is mostly created by the dominant societal forces
+D) social actors influence designers via dominant market research, and then designers inscribe this empirical data into the artefacts that they create
+ANSWER: A
+What is meant by soft technology? (Choose the answer that best reflects the resource pack materials)
+A) an assembly that orchestrates phenomena to some purpose using concepts, such as categorization schemes
+B) an assembly that orchestrates non-technical phenomena to some purpose
+C) an assembly that orchestrates phenomena to some purpose using concepts, such as single board computers like Raspberry Pi
+D) an assembly that orchestrates social phenomena to some purpose
+ANSWER: A
+What are the essential components of a digital platform? (Choose the answer that best reflects the resource pack materials)
+A) the ability to perform digital computation, plus the capability to detect input actions from the user and to articulate output actions that can be perceived by the user
+B) the capability to detect input actions from the user and to articulate output actions that can be perceived by the user
+C) the capability to have physical form
+D) the capability to have an operating system and network connectivity
+ANSWER: A
+Which of these is not a digital platform?
+A) gaming consoles
+B) in-ear devices, like hearing aids 
+C) augmented reality heads-up displays 
+D) shape-memory alloys 
+ANSWER: D
+What is meant by digital artefact 'posture'? (Choose the best answer)
+A) the predominant manner in which the digital artefact asks and requires things of the user (such as attention and body position)
+B) the predominant manner in which the digital artefact “presents itself” to users
+C) the predominant manner in which the digital artefact is aligned with the body posture of the user
+D) the predominant manner in which the digital artefact is aligned with its underlying digital platform
+ANSWER: A
+

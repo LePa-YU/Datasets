@@ -1,0 +1,7 @@
+Week 4 (to be completed by Wednesday, February 9)
+Study material
+Our target this week is to start on our system's testing. The system you are developing in this course must be fully tested. We will use the JUnit framework to do this.
+Start by going through this online course. Focus on these videos: 1-5, 7-12, 14-17. You can ignore videos 6 and 13 on Maven. Maven and Gradle projects have the same folder structure, so the rest of the course applies to our course. Videos 18 and after are more advanced features of JUnit that are good to know but not necessary for this course.
+These slides present the main points about JUnit as well. To get the Counter example, check out the EECS 2311 project from https://github.com/biltzerpos/TeachingCode
+You can find detailed information about JUnit 5 in its official documentation (use only as reference).
+Click here for the Week 4 lecture video.

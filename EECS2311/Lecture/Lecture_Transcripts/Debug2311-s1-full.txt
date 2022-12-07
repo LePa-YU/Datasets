@@ -1,0 +1,183 @@
+So now that we've seen my little bit about debugging with a clips let's take a look at how we can do that too when we actually use greater which will be a liver different the difference here is that gradle uses its own virtual machine so that they will likely have to connect to that promotion in order to sell that information about what's happening during the debugging process. 
+So let's start by taking a look at the builder greater fall that we already having a project if you didn't notify then. 
+This is how they start schedule d bag. 
+And it's a little bit of a groovy code that defines a new task called the bag which could be in the same group as run right the group application. 
+How does a description for it. 
+And it says that the will around the project need to badmouth on port 2311. 
+Really all this task does is this one here. 
+Rapunzel customizes. 
+Error:
+The application plug-in. we're using in in our system. 
+To have some additional. 
+Arguments wedding events. 
+B o up. 
+As you can see here we are adding the extra bag argument and a whole big thing. 
+Error:
+Over here that sort of these describes how the debugging process with run. 
+Important for us is that we. 
+Specify port 2311. 
+Cures for for the debugger to actually listen. 
+Singapore. 
+I will send a second why that's important. 
+Error:
+Just changes the way that virtual machine will run and then. 
+I think this last night he is actually runs the program after that. 
+So. 
+My husband is in our bill to grateful or that means that when we go to my cradle tasks. 
+That he's not only that the ramp attacks that we've seen so far but also asked which is exactly what was she over here. 
+But i will try that. 
+Error:
+As we can see that here everything's fine. 
+Correctly on the council. 
+You see some people be familiar but when he gets to actually running around with his new arguments. 
+So the alpha doesn't come up because. 
+It says it's listening import 2211 480-volt to connect and this will be the eclipse eclipse okay are we going to be bugging or up nothing will change. 
+Play deluxe edition william currently doing is just waiting so now we'll have to go to eclipse and tell it to connect to this virtual machine and start running arab. 
+So the way to do this is when you create a new device configuration. 
+Right we cannot click out here and go to the bar, gracians. 
+Or from the rai manual so you can access the book of galatians. 
+And i'm. 
+When we going to need tia is a new remote job application. 
+B o. 
+I was just going to base that click on this button up here to do a new long configuration. 
+And now we can specify this situation that we're going to use throughout the course. 
+So i will call it ladybug 2311. 
+Already have one like this so. 
+Error:
+Extra space there to attaboy the problem. 
+We have the specified water project uses for select the right project. 
+And i have to go to the port here select the right port but i specified ate my gretel apollo right. 
+It's a good idea to. 
+Allow termination of the virtual machine from from leesburg va. 
+If you're down that you can kill everything with one button. 
+Error:
+And that's what we do here i will definitely come and also clicking on the common table. 
+And enabling. 
+This little thing here so this debacle figuration is always delayed display the only on the debug. 
+Emmanuel a when you click on it so you can always find it very easily if you like. 
+So you apply and now we actually have a 10:40 figuration it's ready to go. 
+Error:
+Now. 
+If we don't want to use it right away when i get close or we can start bugging way that right away in this case since i'm already i already have a great electrician waiting for this i'll take the back right away with it. 
+Are you bi pranks. 
+And i get the window.. 
+I want to pick up for my up. 
+No. 
+Would have done already is actually have a backbone in my code that was in a second right so you shouldn't need to set that up. 
+Beforehand. 
+But i'll just run my up as normal right until i cater breakbone nothing will be different right. 
+Play the song open. 
+One of the examples i have. 
+Giving you guys. 
+I noticed that soundly even though he brings it up everything changes on the screen and that's because. 
+Error:
+The code that boxes the input and creates vxml alfred. 
+Arista breakpoint so i put it back on summer in my coat here doesn't matter what part of the code it is i do not really supposed to understand everybody of lakota provided to you you'll do the same for your own code i guess i have a break over the six-year and execution got to this point and just stopped right so. 
+At this point we can continue dividing as you show me the other videos right away you have set everything up so we can execute from gradle and use the debugging facilities of eclipse. 
+A quick review of some of the things you can do with this you can say that i can see. 
+Error:
+Money on the make a silly bigger here. 
+Myspace over here. 
+I can see a whole bunch of variables all the variables of having this method that i'm currently in i can see the values, doctor has valley favorite right. 
+Biggest wings have an array of string sierra with 12 items. 
+So i cannot open it up and see. 
+All those things that are a and so on. 
+If i have. 
+Another object such as a matter of jake's here. 
+Then i see the values of all the variables. 
+Or i can see all. 
+Over-the-counter notebook under this. 
+Alright i can open it up and see these are all the attributes of his. 
+So i can see everything about what's happening in the execution of my program so far with his great-great 85 season values that don't match what i thought this would be happening than i can now start investigating why this is happening realize i need to put a breakfast earlier to see what has led to this situation and so on. 
+Some of the other things i can do if i can actually change the value of any of these variables such as when the other videos right so. 
+To say well what if i coming up the valley was actually a 6. 
+Error:
+Right then i can continue their today so they being sick as opposed to free if i think that this is a value that we will actually show me what's going on live me to find the bag so this way even if the input to provide it wasn't exactly what i wanted i can't make it look like that of course i have to make it be careful if i. 
+Change it to somebody that doesn't make sense or could never be possible when the system is executed. 
+Then i won't get a lot of value from putting in the execution of this point but i do have this option. 
+Error:
+No at this point i can take a look at all the broken and i have a lot but i'm using this case but only have one enabled. 
+Point. 
+Error:
+Another expressions i can actually. 
+Calculate expressions with a coronavirus that i have so far double if i have an array of things i can say already. get zero and give me back and so on. 
+People get their book review. 
+I stepped through the application using this a step buttons here. 
+B o i. 
+February is what i usually use that is texting but basically one line of code at a time so if i go back to the variables. 
+Will see the difference er you see that this is variable codename found doesn't exist yet because it's a local variable and i have an execute this line so when i stopped at the breakpoint is just before this line executes so name from does exist if i press on step over. 
+I will see that name phone is now. 
+One of the rebels i can track his values. which of course makes sense. 
+Chaka khan. 
+Step over a little bit. 
+Error:
+Can we have. 
+Error:
+A condition for the wild love we can see the friday 7 so we know this is going to be through. 
+So we can keep going to go in and so on. 
+Alright so let's say this couple times now i figure if expression. 
+True or false if you'd like to figure that out before continue the execution. 
+I can actually get the expressions on look here and sad cartoon faces depression care. 
+Write an expression and type it in. 
+Error:
+Error:
+And then. 
+When i look at it i can actually calculator this expression is false right i haven't actually around this line of code so my execution calculate the study burger helped me. 
+I see that this is going to be falls so i can decide what they want to do next with the dinosaur. 
+Iso. 
+Quite often i am somewhere and i need to know okay but what is happening with some parts of the code i can actually calculate expressions even though they're not in the code right so it's not something you have to copy from the code. 
+You can just type in whatever transfer expression that would make sense with the variables as you can really have. 
+And the valley would be calculated so that can be very powerful. 
+It doesn't figuring out what is going on in your coat. 
+Error:
+Alright one more thing to note very quickly and let's say i keep going here right so that was full so didn't return now. 
+And so on. 
+Let's say i get to this point and. 
+I'm going to be equal equals ignore case. 
+It's a java method. 
+But. 
+For the sake of form. 
+The most recent one of my old mattress so. 
+I can maybe calculate that. 
+This will. 
+B w l'italien so they're melting expression for the here and i can see that it's going to be false. 
+I can see that this returns falls. 
+And maybe i'm not sure why like i thought maybe you should return true so. 
+I actually want to see what happened to the execution of this method to actually return falls right so that's the case. 
+Bad instead of a stopover actually want to use to step into. 
+I sold it to basically say let's note calculate this whole line at once. 
+That's going sides any mythical we can continue their. 
+70s that painted will see that. 
+The context your changes right some of my expressions don't make sense anymore cuz i'm not in that class anymore right that's fine in fact it's against the code of the stained-glass for java weight equals ignore space. 
+It wasn't no case and i could continue their expedition from here if it was my own methods and i will make a lot more sense right i could see whether there's a bug now in this part of the cold sometimes you'll go into my mouth like i did here and realize we are going into this matter at the previous level. 
+This method is prolong you don't want to step over everything in there. 
+So thankful thursdays says tap return bottom here that says. 
+Execution until this the method you currently in the returns which is exactly what i want to hear so i'll press that. 
+And this will take me back to where i was before. 
+Arno's again descriptions now how many footballers. 
+And i can continue stepping over this way with your chicken turn off my coat. 
+And that's basically the way to sort of deal with all of this. 
+I just watched the video i can press the region button to say. 
+Just keep going with execution out until the next breakpoint. 
+I say if i do this. 
+I noticed that. 
+I think it's a good thing you and i got back to the beginning of the next time i actually called this method to to do this. 
+Error:
+All right. take care of most things that like to cover in this video. 
+There is a. 
+I bought them here to out the time ain't that the whole idea baking process if let's say i just okay i figured i wouldn't know what the problem is let me go back and fix my colon stuff. 
+I don't want to bug you anymore i can just kill everything from here. 
+I noticed that i'm still in ladybug perspective here. 
+So if i want to go back to the usual view that i am familiar with. 
+The democracy. 
+Is up here so i can just click on it. 
+And this is my more of my usual q44 the code so i can help fix my bug. 
+I said. just a quick review then for the debugging process is to steps. 
+Thirstyrun ladybug task here. 
+Why did the bus pass then. 
+As soon as this is listening was to be pretty fast. 
+Then you go here you notice that my keyboard configuration is here like we did in example. 
+First. and then you're running it about mode and then continue the same process in this case all close. 
+Whatever ever getting to the backbone and everything's fine that doesn't help me fight. 
+But that's the idea right so tuesday process disorder press the d-back task figuration annually buggy. 
+Okay good luck with all that. 

@@ -1,0 +1,14 @@
+Lecture 5 - Data structures
+Class: February 10 & 12
+Lecture slides: (available Feb 10)
+Pre-class material: 
+Chapter 11: Lists
+Chapter 9: Tuples
+Chapter 8: Strings
+w3schools.com (lists)
+w3schools.com (sets)
+w3schools.com (tuples)
+w3schools.com (strings)
+swaroopch.com (lists, sets, tuples)
+Pre-class quiz due: Feb 10, 5pm
+Assignment 5 due: Feb 23

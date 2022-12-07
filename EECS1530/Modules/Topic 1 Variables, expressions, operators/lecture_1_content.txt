@@ -1,0 +1,22 @@
+Topic 1: Variables, expressions, operators
+Topic 1: Variables, expressions, operators
+Lecture 1.1 - Introduction
+Class: January 6
+Lecture slides: (available Jan 6)
+Pre-class material: N/A
+IDE: colab.research.google.com
+
+
+
+
+Week 1.1 - SlidesFile
+Restricted Available from 6 January 2020, 7:00 PM
+Lecture 1.2 - Variables, expressions, operators
+Class: January 8
+Lecture slides: (available Jan 8)
+Pre-class material: 
+Chapter 2: Variables, expressions, operators
+swaroopch.com
+geeksforgeeks.org
+Pre-class quiz due: Jan 8, 5pm
+Assignment 1 due: Jan 12

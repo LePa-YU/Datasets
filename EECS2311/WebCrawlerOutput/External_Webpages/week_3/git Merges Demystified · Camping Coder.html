@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)https://www.campingcoder.com/2018/03/git-merges-demystified/ -->
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://www.campingcoder.com//post/20180301-git-merge-conflict-7.png">
+<meta name="twitter:title" content="git Merges Demystified">
+<meta name="twitter:description" content="In this installment of our git series we&#39;re expanding on the merge command and looking into merge conflicts, which are everyone&#39;s pain point when using git.">
+<meta name="twitter:site" content="@">
+<meta property="og:title" content=" git Merges Demystified ·  Camping Coder">
+<meta property="og:site_name" content="Camping Coder">
+<meta property="og:url" content="https://www.campingcoder.com/2018/03/git-merges-demystified/">
+<meta property="og:description" content="In this installment of our git series we&#39;re expanding on the merge command and looking into merge conflicts, which are everyone&#39;s pain point when using git.">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://www.campingcoder.com//post/20180301-git-merge-conflict-7.png">
+<meta property="og:article:published_time" content="2018-03-01T01:00:00-05:00">
+<meta property="og:article:tag" content="Technology">
+<meta property="og:article:tag" content="git">
+<meta property="og:article:tag" content="Learning">
+<meta property="og:article:tag" content="2018">
+<title>
+       git Merges Demystified ·  Camping Coder
+    </title>
+<meta name="description" content="In this installment of our git series we&#39;re expanding on the merge command and looking into merge conflicts, which are everyone&#39;s pain point when using git.">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="https://www.campingcoder.com/images/favicons/favicon.ico">
+<link rel="apple-touch-icon" href="https://www.campingcoder.com/images/apple-touch-icon.png">
+<link rel="stylesheet" type="text/css" href="git%20Merges%20Demystified%20·%20Camping%20Coder_files/theme.css">
+<link rel="stylesheet" type="text/css" href="git%20Merges%20Demystified%20·%20Camping%20Coder_files/custom.css">
+<link rel="stylesheet" href="git%20Merges%20Demystified%20·%20Camping%20Coder_files/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<script async="" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/analytics.js.download"></script><script type="text/javascript" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/jquery.js.download"></script>
+<script type="text/javascript" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/index.js.download"></script>
+<link href="https://www.campingcoder.com/index.xml" rel="alternate" type="application/rss+xml" title="Camping Coder">
+<meta name="generator" content="Hugo 0.33">
+<link rel="canonical" href="https://www.campingcoder.com/2018/03/git-merges-demystified/">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Camping Coder",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.campingcoder.com/images/logo.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Camping Coder",
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.campingcoder.com/images/logo.png",
+            "width": 250,
+            "height": 250
+        },
+        
+        "url": "https://www.campingcoder.com/",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "git Merges Demystified",
+    "name": "git Merges Demystified",
+    "wordCount": 738,
+    "timeRequired": "PT4M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://www.campingcoder.com/2018/03/git-merges-demystified/",
+    "datePublished": "2018-03-01T01:00Z",
+    "dateModified": "2018-03-01T01:00Z",
+    
+    
+      
+        "image": {
+            "@type": "ImageObject",
+            
+            
+            "url": "https://www.campingcoder.com/post/20180301-git-merge-conflict-7.png",
+            "width": 1020,
+            "height": 547
+        },
+      
+    
+    
+    "keywords": "Technology, git, Learning, 2018",
+    "description": "In this installment of our git series we&#39;re expanding on the merge command and looking into merge conflicts, which are everyone&#39;s pain point when using git.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.campingcoder.com/2018/03/git-merges-demystified/"
+    }
+}
+    </script>
+<script type="text/javascript">
+      if(window.location.port === "1313"){
+        console.log('devmode');
+      } else {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-101480131-2', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+      }
+    </script>
+<link rel="stylesheet" type="text/css" href="git%20Merges%20Demystified%20·%20Camping%20Coder_files/cookieconsent.min.css">
+<script src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/cookieconsent.min.js.download" type="text/javascript"></script>
+<script type="text/javascript"> 
+    window.addEventListener("load", function(){ 
+        window.cookieconsent.initialise({
+            "palette":{
+                "popup":{
+                    "background": "#eaf7f7",
+                    "text": "#5c7291"
+                },
+                "button": { 
+                    "background": "#56cbdb",
+                    "text": "#ffffff" 
+                } 
+            },
+            "theme": "classic",
+            "position": "bottom-right",
+            "content": { 
+                "href": "https:\/\/www.campingcoder.com\/privacy-policy/" 
+            } 
+        })}); 
+</script>
+<script type="text/javascript" async="" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/embed.js.download"></script><style></style><link rel="prefetch" as="style" href="https://c.disquscdn.com/next/embed/styles/lounge.63860eb743c7d9d2adf0fa435788abe7.css"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/embed/common.bundle.33bc87b2c4f9324203cc85b7dd1d0492.js"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/embed/lounge.bundle.32832f15c4c8e81b25c95a8d3124fc68.js"><link rel="prefetch" as="script" href="https://disqus.com/next/config.js"><script async="" id="dsq_recs_scr" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/recommendations.js.download"></script><link rel="prefetch" as="style" href="https://c.disquscdn.com/next/recommendations/styles/recommendations.10022a97346f1c6e3798931bbd8e4bb5.css"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/recommendations/common.bundle.a59fbd11efae764ccd959d61e4925fee.js"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/recommendations/recommendations.bundle.926bc472e4859a48daa346b4ba2ab4f4.js"><link rel="prefetch" as="script" href="https://disqus.com/next/config.js"></head>
+<body class="nav-closed"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-floating cc-type-info cc-theme-classic cc-bottom cc-right cc-color-override--1608664607 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This website uses cookies to ensure you get the best experience on our website. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://www.campingcoder.com/privacy-policy/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Got it!</a></div><!--googleon: all--></div>
+<div class="topnav" id="myTopnav">
+<a href="https://www.campingcoder.com/" class="" style="">
+<img style="height:32px;padding:0px 10px 0px 2px" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/logo.png" alt="Home">
+<snap class="home"> Home 
+</snap></a>
+<div class="mobile-nav-break">&nbsp;</div>
+<div class="dropdown">
+<button class="dropbtn">
+Reviews
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-content">
+<a title="Camping Reviews" href="https://www.campingcoder.com/camping-reviews/">
+Camping Reviews
+</a>
+<a title="Product Reviews" href="https://www.campingcoder.com/tags/product-reviews/">
+Product Reviews
+</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+Series
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-content">
+<a title="3D Printing" href="https://www.campingcoder.com/series/3d-printing/">
+3D Printing
+</a>
+<a title="Camper Maintenance" href="https://www.campingcoder.com/series/camper-maintenance/">
+Camper Maintenance
+</a>
+
+<a title="Chromebook" href="https://www.campingcoder.com/series/chromebook/">
+Chromebook
+</a>
+<a title="Hugo" href="https://www.campingcoder.com/series/hugo/">
+Hugo
+</a>
+<a title="Learning Git" href="https://www.campingcoder.com/series/learning-git/">
+Learning Git
+</a>
+<a title="Savannah" href="https://www.campingcoder.com/series/savannah/">
+Savannah
+</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+Other
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-content">
+<a title="About Us" href="https://www.campingcoder.com/about-camping-coder/">
+About Us
+</a>
+<a title="Contact Us" href="https://www.campingcoder.com/contact-us/">
+Contact Us
+</a>
+<a title="RSS Feed" href="https://www.campingcoder.com/index.xml">
+RSS Feed
+</a>
+<a title="Privacy policy" href="https://www.campingcoder.com/privacy-policy/">
+Privacy policy
+</a>
+</div>
+</div>
+<span class="nav-search">
+<form action="https://www.campingcoder.com/search/">
+
+<input type="search" name="search" id="search" class="search">
+<button class="button search">Search</button>
+</form>
+
+</span>
+<a href="javascript:void(0);" class="icon" onclick="if (!window.__cfRLUnblockHandlers) return false; navagationBtn()">☰</a>
+</div>
+<script type="text/javascript">
+function navagationBtn() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+<div class="site-wrapper">
+<main class="content container" role="main">
+<div class="row">
+<article class="post columns twelve post">
+<header class="post-header">
+<h1 class="post-title">git Merges Demystified</h1>
+</header>
+<section class="post-content">
+<p>Last time in our git series, we looked into <a href="https://www.campingcoder.com/2018/02/git-branches-simply-explained/">branching and merging</a> - setting the ground work for how to merge code when your working by yourself. While that is all well and good, the real power is in collaborating with a team. In this post, we discuss the dreaded merge conflict, what they are, and how to resolve them.</p>
+<h2 id="setting-the-stage">Setting the stage</h2>
+<p>To explain a merge conflict, it is easier to tell the story of two developers - in out case Dev A and Dev B. They are both awesome developers and always branch from the right branch, check in their code, and write great commit messages. They have both been assigned to different features on our project.</p>
+<hr>
+<p>First they pull the latest code from their git repository and they both independently create branches to work on.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-1.png" alt="All the same"></p>
+<hr>
+<p>Developer A finishes all her coding and commits on her branch.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-2.png" alt="Dev A commits"></p>
+<hr>
+<p>Developer B finishes all his coding and commits on his branch. Note at this point we don’t care about time and the commit <em>dot</em> is just for representation purposes.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-3.png" alt="Dev B commits"></p>
+<hr>
+<p>Developer A is ready to merge the feature that she worked on and simply merges the code. The base branch didn’t have any changes so there were not any issues.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-4.png" alt="Dev A merges"></p>
+<hr>
+<p>Developer B has also completed his coding and goes to merge his code into the base branch, but is greeted with a message similar to <em>your branch is behind</em> and cannot merge his code. This is because Developer A’s changes updated the base branch and might have changed some of the same code as Developer B’s. Either way Developer B’s base branch needed updating.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-5.png" alt="Dev B tries to merge"></p>
+<hr>
+<p>So Developer B, knowing his way around git, switches back to his branch and then pulls Developer A’s changes on the <em>base branch</em> into his branch. Then using his choice of merge tool whether it be a text editor or something fancy like <a href="http://meldmerge.org/" target="_blank">meld</a>, he merges the changes and then commits the code.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-6.png" alt="Dev B pulls the changes"></p>
+<hr>
+<p>Now that all of the branches match, Developer B can now merge their code to the base branch without any problems.</p>
+<p><img src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/20180301-git-merge-conflict-7.png" alt="Dev a merges code"></p>
+<h2 id="things-to-ponder">Things to ponder</h2>
+<p>What we just went through is the typical issue when merging code that shares files or parts. There are many way to eliminate or reduce this from happening to you and your team. They are:</p>
+<ol>
+<li><p>Have smaller concise files - this not only helps with git, but also makes general development a lot easier.</p></li>
+<li><p>Only commit what you know you changed. Many IDE’s - I’m looking at you Visual Studio, will create a bunch of this and that type of files when you use them. When your working alone it’s fine to be lazy and commit all the changes, but when working on a team you really need to have structured commits. My rule of thumb is if I didn’t write it, then don’t add it to your commit. This is one of the biggest causes of merge conflicts that I have seen.</p></li>
+<li><p>Pull often from the base branch. The longer you go without updating your branch from the base the harder it will be to merge into it. This also drives quicker feature branches which can be merged back into the base quickly. It’s just less maintenance and work all around.</p></li>
+</ol>
+<h2 id="what-s-next">What’s next?</h2>
+<p>Now you should be able to handle merging like a pro. Like anything, practice will only increase your understanding. You might even want to try causing a merge conflict on a simple project, just so you can see it before you really need to deal with it. From here on out, the git series is going to focus on the lesser used commands in git, which will make working with git even easier. We’ll also start looking at different patterns to use with git such as pull requests and git flow.</p>
+<p>If you missed one of the articles, select it from the below series link.</p>
+<h5> Links to the other posts in the Learning git series</h5>
+<hr>
+<ol>
+
+<li>
+<a href="https://www.campingcoder.com/2017/11/intro-to-git---part-1/">Intro to git - Part 1</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2017/12/the-git-cycle/">The git cycle</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2017/12/setting-up-git/">Setting up git</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2017/12/initializing-git/">Initializing git</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/01/whats-a-remote-in-git/">What's a remote in git</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/02/git-branches-simply-explained/">git branches simply explained</a>
+</li>
+<li>
+git Merges Demystified
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/04/how-to-use-git-flow/">How to use git flow</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/04/git-stash-and-pop/">git stash and pop</a>
+</li>
+</ol>
+<p>
+<em>
+Always follow the manufacturers instructions, this write up is simply the way that I do it, and it may or may not be the right way.
+Use your common sense when applying products to or altering your stuff and always wear the appropriate safety gear.
+</em>
+</p>
+</section>
+<footer class="post-footer">
+<figure class="author-image">
+<a class="img" href="https://www.campingcoder.com/" style="background-image: url(https://www.campingcoder.com/images/logo.png)"><span class="hidden">Camping Coder's Picture</span></a>
+</figure>
+<aside class="releated">
+<h3>You Might Also Enjoy</h3>
+<ul>
+<li><a href="https://www.campingcoder.com/2018/04/git-stash-and-pop/">git stash and pop</a></li>
+<li><a href="https://www.campingcoder.com/2018/04/how-to-use-git-flow/">How to use git flow</a></li>
+<li><a href="https://www.campingcoder.com/2018/03/scheduling-code-deployment-with-bitbucket/">Scheduling code deployment with Bitbucket</a></li>
+<li><a href="https://www.campingcoder.com/2018/02/git-branches-simply-explained/">git branches simply explained</a></li>
+<li><a href="https://www.campingcoder.com/2018/01/automated-code-deployment-with-bitbucket-and-docker/">Automated code deployment with Bitbucket and Docker</a></li>
+</ul>
+</aside>
+<hr>
+<section class="share row">
+<h4>Share this post</h4>
+<a style="font-size: 1.4em" href="https://twitter.com/share?text=git%20Merges%20Demystified%C2%A0-%C2%A0Camping%20Coder&amp;url=https%3a%2f%2fwww.campingcoder.com%2f2018%2f03%2fgit-merges-demystified%2f" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;twitter-share&#39;, &#39;width=550,height=235&#39;);return false;">
+<i class="fab fa-twitter"></i>
+<span class="hidden">Twitter</span>
+</a>
+<a style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.campingcoder.com%2f2018%2f03%2fgit-merges-demystified%2f" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;facebook-share&#39;,&#39;width=580,height=296&#39;);return false;">
+<i class="fab fa-facebook"></i>
+<span class="hidden">Facebook</span>
+</a>
+<a style="font-size: 1.4em" href="https://pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.campingcoder.com%2f2018%2f03%2fgit-merges-demystified%2f&amp;description=git%20Merges%20Demystified" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;pinterest-share&#39;,&#39;width=580,height=296&#39;);return false;">
+<i class="fab fa-pinterest"></i>
+<span class="hidden">Pinterest</span>
+</a>
+<a style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fwww.campingcoder.com%2f2018%2f03%2fgit-merges-demystified%2f" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;google-plus-share&#39;, &#39;width=490,height=530&#39;);return false;">
+<i class="fab fa-google-plus"></i>
+<span class="hidden">Google+</span>
+</a>
+</section>
+<div class="row">
+<div id="disqus_recommendations" style="margin-bottom: 12px;"><iframe id="dsq-app7122" name="dsq-app7122" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/saved_resource.html" style="width: 100% !important; border: none !important; overflow: hidden !important; height: 268px !important; display: inline !important; box-sizing: border-box !important;" horizontalscrolling="no" verticalscrolling="no"></iframe></div><div id="disqus_thread" class="columns twelve"><iframe id="dsq-app8172" name="dsq-app8172" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/saved_resource(1).html" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 394px !important;" horizontalscrolling="no" verticalscrolling="no"></iframe></div>
+</div>
+<script type="text/javascript">
+  var disqus_shortname = 'https-www-campingcoder-com';
+  var disqus_url = 'https:\/\/www.campingcoder.com\/2018\/03\/git-merges-demystified\/';
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</footer>
+</article>
+</div>
+</main>
+<aside class="read-next">
+<a class="read-next-story" style="background-image: url(/post/201803-Lake-Louisa-7.jpg)" href="https://www.campingcoder.com/2018/03/camping-at-lake-louisa-state-park/">
+<section class="post">
+<h2>Camping at Lake Louisa State Park</h2>
+<p>We visit Lake Louisa State Park to relax in its rolling hills and tour western Orlando on the cheap.</p>
+</section>
+</a>
+<a class="read-next-story prev" style="background-image: url(/post/2018-02-wekiwa-springs-state-park-3.jpg)" href="https://www.campingcoder.com/2018/02/wekiwa-springs-state-park-camping-review/">
+<section class="post">
+<h2>Wekiwa Springs State Park Camping review</h2>
+<p>We visit Wekiwa Springs State Park just north of Orlando in Apopka. We enjoyed the wooded sites and swimming in the spring.</p>
+</section>
+</a>
+</aside>
+<footer class="site-footer clearfix">
+<section class="copyright"><a href="https://www.campingcoder.com/2018/03/git-merges-demystified/">Camping Coder</a> All rights reserved - 2018</section>
+<section class="privacy-policy"><a href="https://www.campingcoder.com/privacy-policy/">Privacy Policy</a> </section>
+</footer>
+</div>
+<script type="text/javascript" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/jquery.js.download"></script>
+<script type="text/javascript" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/index.js.download"></script>
+
+
+<script>mendeleyWebImporter = {
+  downloadPdfs(e,t) { return this._call('downloadPdfs', [e,t]); },
+  open() { return this._call('open', []); },
+  setLoginToken(e) { return this._call('setLoginToken', [e]); },
+  _call(methodName, methodArgs) {
+    const id = Math.random();
+    window.postMessage({ id, token: '0.9534864946698496', methodName, methodArgs }, 'https://www.campingcoder.com');
+    return new Promise(resolve => {
+      const listener = window.addEventListener('message', event => {
+        const data = event.data;
+        if (typeof data !== 'object' || !('result' in data) || data.id !== id) return;
+        window.removeEventListener('message', listener);
+        resolve(data.result);
+      });
+    });
+  }
+};</script><iframe style="display: none;" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/saved_resource(2).html"></iframe><iframe style="display: none;" src="git%20Merges%20Demystified%20·%20Camping%20Coder_files/saved_resource(3).html"></iframe></body></html>

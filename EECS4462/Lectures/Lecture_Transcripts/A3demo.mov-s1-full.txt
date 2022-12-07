@@ -1,0 +1,123 @@
+Error:
+Okay so before we look at the starter code for a cemetery. 
+Let's see what time the plugin actually does. 
+So already the vcr player that i saw you before and 73. 
+Kia connected them. 
+Error:
+Open up the vcr player then i can put them. 
+Only following there. 
+For us to use. 
+Error:
+And before i can have my. 
+Ctrl-c are 401 enough which is actually. 
+Reverse this is about whether the bypass is on the owner of. 
+And. 
+Thundercats. 
+Goalie for a cemetery as well as you can see. 
+G73 code implements filter and a phaser. 
+Crazy being a particular fact. 
+I will here in a little bit of that just provides an accommodation for as well. 
+So. 
+The side where the filter. 
+As we can see here. 
+Both of these effects start to self so. 
+If we just stop play some sounds. 
+Then. 
+Then now. 
+We are. 
+Psi mean that sounds reasonable. 
+I thought define gates the filter have a low pass filter for example. 
+Find whitaker are you sounds quite different. 
+Dinosaur sounds like it's behind the wall. 
+Which actually makes sense because. 
+Anguilla somebody that absorbs low frequencies. 
+So on the fight when you nibble is playing music very loud you can feel the bass. 
+Jordan the wall and coming through to you. 
+While the hecticness is he cannot hear them. 
+Iso. 
+I can play around with avocado. 
+Error:
+Barometer and let's see how that actually sounds. 
+When the caterpillar becomes larger and larger. 
+Then mortimore frequencies pass through so it starts sounding like that. 
+The actual song. 
+Well when i figured out the 23rd it's pretty much nothing goes through. 
+What kind of tyranny of those weaknesses. 
+Okay. 
+Bypass filter. 
+I said we'll see that defy have this. 
+Pierre was here only the very high frequencies of encino. 
+Error:
+Error:
+So what do you expect from a local lady. 
+Sound. 
+A production system from a locality stereo system. 
+Has no bass friend. 
+And again. 
+We can play around with south african c. 
+Error:
+The bumpass. 
+Error:
+Persian. 
+Only lasts a particular certifications go through. 
+So we'll see. 
+How they affect once we give it to you in a sec. 
+So i duford. 
+When we are. 
+Metallica cds high then we just hear the hypothesis for livewell. 
+And so what are they want go-go low that would just give the base. 
+Filters that get unemployment. 
+Error:
+With this. 
+And we're going to swing tonight. 
+Other effects same time so the phaser is is in effect.. 
+Error:
+Provide some sort of form. 
+Space grimokan affect the musical s8. 
+Ibrahimi with it / this year. 
+Another alternate on wednesday music playing to see what the difference is. 
+Error:
+So. 
+Let me pick a maybe a better part of the musical so we can chat if i better. 
+Error:
+So you hear this sort of. 
+Spacey counterfeit company. 
+I so that's about going to affect our. 
+These different populations that we're hearing any sound and also how fast they go so play around us to get an idea of what it sounds like. 
+Error:
+Okay so. 
+He might have heard that 20 months of 80s high then those oscillation shopping alabaster. 
+And the death makes them stronger or not. 
+Error:
+I just wanted is basically if you're looking for a weather-glass talent for your music collection you can play around with his parameters. 
+Get different sounds. 
+Error:
+Is also gained by medicare so. 
+Let's play around with this little bit of this. 
+Kaiser on. 
+Error:
+Error:
+So you might have noticed opposed.. 
+Games about volume so whenever. 
+Make it much lower. 
+The sound goes away. 
+Quite louder was. 
+Another great idea. 
+Sowell. 
+But you notice that is off. 
+Error:
+Anime. 
+The game does nothing and that's because it is practical implementation of the way i've set it up and we'll see that in the code. 
+The game is in the process of changes would say with a phaser so fraser gain go together. 
+Kaiser first and gain so the gain only applies to the phaser if the phaser is enabled right. 
+If the freezer is off then the game doesn't do any. 
+So. 
+Error:
+We'll see different ways to combine. 
+Effects of codeine let's hear that the game is combined with a phaser so it's the game of the face are not of the full signal. 
+Error:
+And i said. 
+So you can play around with this that's to see the effect by the important thing is to. 
+Understand now following the code we can set off. 
+Error:
+Set things up so we can combine different effects together and what do you want and so let's go to that text. 

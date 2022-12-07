@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)https://www.campingcoder.com/2018/04/how-to-use-git-flow/ -->
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://www.campingcoder.com//post/20180412-git-flow.png">
+<meta name="twitter:title" content="How to use git flow">
+<meta name="twitter:description" content="Having trouble learning git or need a place to start? In this installment in our git series, we take a look at the git flow pattern.  It&#39;s one pattern really worth looking into, especially if your just learning.">
+<meta name="twitter:site" content="@">
+<meta property="og:title" content=" How to use git flow ·  Camping Coder">
+<meta property="og:site_name" content="Camping Coder">
+<meta property="og:url" content="https://www.campingcoder.com/2018/04/how-to-use-git-flow/">
+<meta property="og:description" content="Having trouble learning git or need a place to start? In this installment in our git series, we take a look at the git flow pattern.  It&#39;s one pattern really worth looking into, especially if your just learning.">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://www.campingcoder.com//post/20180412-git-flow.png">
+<meta property="og:article:published_time" content="2018-04-05T00:00:00-05:00">
+<meta property="og:article:tag" content="Technology">
+<meta property="og:article:tag" content="git">
+<meta property="og:article:tag" content="Learning">
+<meta property="og:article:tag" content="2018">
+<title>
+       How to use git flow ·  Camping Coder
+    </title>
+<meta name="description" content="Having trouble learning git or need a place to start? In this installment in our git series, we take a look at the git flow pattern.  It&#39;s one pattern really worth looking into, especially if your just learning.">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="https://www.campingcoder.com/images/favicons/favicon.ico">
+<link rel="apple-touch-icon" href="https://www.campingcoder.com/images/apple-touch-icon.png">
+<link rel="stylesheet" type="text/css" href="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/theme.css">
+<link rel="stylesheet" type="text/css" href="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/custom.css">
+<link rel="stylesheet" href="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+<script async="" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/analytics.js.download"></script><script type="text/javascript" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/jquery.js.download"></script>
+<script type="text/javascript" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/index.js.download"></script>
+<link href="https://www.campingcoder.com/index.xml" rel="alternate" type="application/rss+xml" title="Camping Coder">
+<meta name="generator" content="Hugo 0.33">
+<link rel="canonical" href="https://www.campingcoder.com/2018/04/how-to-use-git-flow/">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Camping Coder",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.campingcoder.com/images/logo.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Camping Coder",
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.campingcoder.com/images/logo.png",
+            "width": 250,
+            "height": 250
+        },
+        
+        "url": "https://www.campingcoder.com/",
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": "How to use git flow",
+    "name": "How to use git flow",
+    "wordCount": 802,
+    "timeRequired": "PT4M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": "en"
+    },
+    "url": "https://www.campingcoder.com/2018/04/how-to-use-git-flow/",
+    "datePublished": "2018-04-05T00:00Z",
+    "dateModified": "2018-04-05T00:00Z",
+    
+    
+      
+        "image": {
+            "@type": "ImageObject",
+            
+            
+            "url": "https://www.campingcoder.com/post/20180412-git-flow.png",
+            "width": 1020,
+            "height": 547
+        },
+      
+    
+    
+    "keywords": "Technology, git, Learning, 2018",
+    "description": "Having trouble learning git or need a place to start? In this installment in our git series, we take a look at the git flow pattern.  It&#39;s one pattern really worth looking into, especially if your just learning.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.campingcoder.com/2018/04/how-to-use-git-flow/"
+    }
+}
+    </script>
+<script type="text/javascript">
+      if(window.location.port === "1313"){
+        console.log('devmode');
+      } else {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-101480131-2', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+      }
+    </script>
+<link rel="stylesheet" type="text/css" href="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/cookieconsent.min.css">
+<script src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/cookieconsent.min.js.download" type="text/javascript"></script>
+<script type="text/javascript"> 
+    window.addEventListener("load", function(){ 
+        window.cookieconsent.initialise({
+            "palette":{
+                "popup":{
+                    "background": "#eaf7f7",
+                    "text": "#5c7291"
+                },
+                "button": { 
+                    "background": "#56cbdb",
+                    "text": "#ffffff" 
+                } 
+            },
+            "theme": "classic",
+            "position": "bottom-right",
+            "content": { 
+                "href": "https:\/\/www.campingcoder.com\/privacy-policy/" 
+            } 
+        })}); 
+</script>
+<script type="text/javascript" async="" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/embed.js.download"></script><style></style><link rel="prefetch" as="style" href="https://c.disquscdn.com/next/embed/styles/lounge.63860eb743c7d9d2adf0fa435788abe7.css"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/embed/common.bundle.33bc87b2c4f9324203cc85b7dd1d0492.js"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/embed/lounge.bundle.32832f15c4c8e81b25c95a8d3124fc68.js"><link rel="prefetch" as="script" href="https://disqus.com/next/config.js"><script async="" id="dsq_recs_scr" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/recommendations.js.download"></script><link rel="prefetch" as="style" href="https://c.disquscdn.com/next/recommendations/styles/recommendations.10022a97346f1c6e3798931bbd8e4bb5.css"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/recommendations/common.bundle.a59fbd11efae764ccd959d61e4925fee.js"><link rel="prefetch" as="script" href="https://c.disquscdn.com/next/recommendations/recommendations.bundle.926bc472e4859a48daa346b4ba2ab4f4.js"><link rel="prefetch" as="script" href="https://disqus.com/next/config.js"></head>
+<body class="nav-closed"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-floating cc-type-info cc-theme-classic cc-bottom cc-right cc-color-override--1608664607 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">This website uses cookies to ensure you get the best experience on our website. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://www.campingcoder.com/privacy-policy/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">Got it!</a></div><!--googleon: all--></div>
+<div class="topnav" id="myTopnav">
+<a href="https://www.campingcoder.com/" class="" style="">
+<img style="height:32px;padding:0px 10px 0px 2px" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/logo.png" alt="Home">
+<snap class="home"> Home 
+</snap></a>
+<div class="mobile-nav-break">&nbsp;</div>
+<div class="dropdown">
+<button class="dropbtn">
+Reviews
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-content">
+<a title="Camping Reviews" href="https://www.campingcoder.com/camping-reviews/">
+Camping Reviews
+</a>
+<a title="Product Reviews" href="https://www.campingcoder.com/tags/product-reviews/">
+Product Reviews
+</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+Series
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-content">
+<a title="3D Printing" href="https://www.campingcoder.com/series/3d-printing/">
+3D Printing
+</a>
+<a title="Camper Maintenance" href="https://www.campingcoder.com/series/camper-maintenance/">
+Camper Maintenance
+</a>
+<a title="Chromebook" href="https://www.campingcoder.com/series/chromebook/">
+Chromebook
+</a>
+<a title="Hugo" href="https://www.campingcoder.com/series/hugo/">
+Hugo
+</a>
+<a title="Learning Git" href="https://www.campingcoder.com/series/learning-git/">
+Learning Git
+</a>
+<a title="Savannah" href="https://www.campingcoder.com/series/savannah/">
+Savannah
+</a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+Other
+<i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-content">
+<a title="About Us" href="https://www.campingcoder.com/about-camping-coder/">
+About Us
+</a>
+<a title="Contact Us" href="https://www.campingcoder.com/contact-us/">
+Contact Us
+</a>
+<a title="RSS Feed" href="https://www.campingcoder.com/index.xml">
+RSS Feed
+</a>
+<a title="Privacy policy" href="https://www.campingcoder.com/privacy-policy/">
+Privacy policy
+</a>
+</div>
+</div>
+<span class="nav-search">
+<form action="https://www.campingcoder.com/search/">
+
+<input type="search" name="search" id="search" class="search">
+<button class="button search">Search</button>
+</form>
+
+</span>
+<a href="javascript:void(0);" class="icon" onclick="if (!window.__cfRLUnblockHandlers) return false; navagationBtn()">☰</a>
+</div>
+<script type="text/javascript">
+function navagationBtn() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+<div class="site-wrapper">
+<main class="content container" role="main">
+<div class="row">
+<article class="post columns twelve post">
+<header class="post-header">
+<h1 class="post-title">How to use git flow</h1>
+</header>
+<section class="post-content">
+<p>git flow is among one of my favorite ways to teach git, and frankly one of my favorite ways to use git. It’s a pattern to follow and one of the best parts about git flow is that it makes automation on top of git <strong><em>very</em></strong> simple. Additionally, most of the graphical user interfaces already have it built in, so you can’t lose.</p>
+<h2 id="what-is-it-really">What is it really?</h2>
+<p>git flow is nothing except a git branching model. If you already read <a href="https://www.campingcoder.com/2018/02/git-branches-simply-explained/">git branches simply explained</a> and <a href="https://www.campingcoder.com/2018/03/git-merges-demystified/">git Merges Demystified</a> in our git series, then you have all the tools needed to start using git flow. Initially published by Vincent Driessen, the <a href="http://nvie.com/posts/a-successful-git-branching-model/" target="_blank">git flow model</a> has been a welcomed pattern for git branching and from there the tie ins to it have been just flowing.</p>
+<h3 id="high-level">High level</h3>
+<p>In the diagram below, you can see the basic pattern of git flow, but while it looks like a bad subway map, it really is an easy pattern to follow. Essentially, it gives you a few different things that don’t come out of the box with git. There’s a way to fix production code, work on new things, and even prepare for deployments. We’ll cover all of them in detail in the next few sections.</p>
+<p><img src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/20180412-git-flow.png" alt="git flow overview"></p>
+<h3 id="master">Master</h3>
+<p>This is production code - simple as that. The big change that git flow adds to the mix is that you don’t actually code ever on master. Everything here is done via merging or pull requests. This ensures that your code has gone through the process and is ready to go!</p>
+<h3 id="hotfix">Hotfix</h3>
+<p>Need to fix production? Easy, start a hotfix branch and code away. When you’re done something different happens, a double merge - one into master and one into develop, ensuring that the bug you just squashed does not come back!</p>
+<h3 id="develop">Develop</h3>
+<p>This branch-like master is not committed on directly, it <em>is</em> a direct copy of the master branch when you enable it though. This is a one time thing, so keeping the pattern will ensure that the branches stay <em>synced</em> together. Merges will happen to it from both hotfix and feature branches - develop acts as an integration branch to that extent. The beauty of this is that all of the code comes together before a deployment, saving you time and lots of unneeded stress.</p>
+<h3 id="feature">Feature</h3>
+<p>This is the closest to <em>normal</em> git branching as you will get in git flow. Essentially, it’s a place to try out and implement new functionality. This is great, because you can have virtually unlimited features in progress and never have to worry about them breaking the main branches. On that note, you really want to start and end a feature as quickly as possible to avoid <a href="https://www.campingcoder.com/2018/03/git-merges-demystified/">merge conflicts</a>, because no one like them.</p>
+<h3 id="release">Release</h3>
+<p>This is one of the greatest built-in features of the git flow pattern. This gives you a place to start staging your release to production. While that is awesome on its own, it like hotfix has a double merge at the end of it. This means that if a bug or other issue is found during a release you can still fix it and have that code automatically flow into both your master and develop branches.</p>
+<h2 id="overall">Overall</h2>
+<p>While git flow will not solve all of the problems that you face in a day, it can help you with a simple pattern for branching. There are a lot of add-on’s out there, which make use of it, and now you can as well. Don’t worry too much though if you cannot use a <strong>built in</strong> git flow tool either. I personally use the <strong><em>pattern</em></strong> on my <a href="https://www.campingcoder.com/2017/12/thinkpad-chromebook-a-year-later/">Thinkpad Chromebook</a> through the <a href="https://www.campingcoder.com/2018/01/resetting-my-chromebook-back-to-stock/">Termux</a> application and have no issues.</p>
+<p>Keep in mind there are other patterns out there. Some even include the very popular <em>forking</em> workflow. You should at least explore them so you know your options, but git flow is a solid option if your looking for a little structure in your branching pattern.</p>
+<h2 id="what-s-next">What’s next?</h2>
+<p>Now that we know about git flow, there are a few new things that we can start to look at using the branch naming pattern. Particularly, git hooks which will allow us to do almost anything connected to commits and merges that can be done via a shell script. This is a very powerful addition to your tool box, and might even let you stick your toes in the water for continuous deployment.</p>
+<p>If you missed one of the git articles, please check it out from the below series links.</p>
+<h5> Links to the other posts in the Learning git series</h5>
+<hr>
+<ol>
+
+<li>
+<a href="https://www.campingcoder.com/2017/11/intro-to-git---part-1/">Intro to git - Part 1</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2017/12/the-git-cycle/">The git cycle</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2017/12/setting-up-git/">Setting up git</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2017/12/initializing-git/">Initializing git</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/01/whats-a-remote-in-git/">What's a remote in git</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/02/git-branches-simply-explained/">git branches simply explained</a>
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/03/git-merges-demystified/">git Merges Demystified</a>
+</li>
+<li>
+How to use git flow
+</li>
+<li>
+<a href="https://www.campingcoder.com/2018/04/git-stash-and-pop/">git stash and pop</a>
+</li>
+</ol>
+</section>
+<footer class="post-footer">
+<figure class="author-image">
+<a class="img" href="https://www.campingcoder.com/" style="background-image: url(https://www.campingcoder.com/images/logo.png)"><span class="hidden">Camping Coder's Picture</span></a>
+</figure>
+<aside class="releated">
+<h3>You Might Also Enjoy</h3>
+<ul>
+<li><a href="https://www.campingcoder.com/2018/04/git-stash-and-pop/">git stash and pop</a></li>
+<li><a href="https://www.campingcoder.com/2018/03/scheduling-code-deployment-with-bitbucket/">Scheduling code deployment with Bitbucket</a></li>
+<li><a href="https://www.campingcoder.com/2018/03/git-merges-demystified/">git Merges Demystified</a></li>
+<li><a href="https://www.campingcoder.com/2018/02/git-branches-simply-explained/">git branches simply explained</a></li>
+<li><a href="https://www.campingcoder.com/2018/01/automated-code-deployment-with-bitbucket-and-docker/">Automated code deployment with Bitbucket and Docker</a></li>
+</ul>
+</aside>
+<hr>
+<section class="share row">
+<h4>Share this post</h4>
+<a style="font-size: 1.4em" href="https://twitter.com/share?text=How%20to%20use%20git%20flow%C2%A0-%C2%A0Camping%20Coder&amp;url=https%3a%2f%2fwww.campingcoder.com%2f2018%2f04%2fhow-to-use-git-flow%2f" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;twitter-share&#39;, &#39;width=550,height=235&#39;);return false;">
+<i class="fab fa-twitter"></i>
+<span class="hidden">Twitter</span>
+</a>
+<a style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.campingcoder.com%2f2018%2f04%2fhow-to-use-git-flow%2f" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;facebook-share&#39;,&#39;width=580,height=296&#39;);return false;">
+<i class="fab fa-facebook"></i>
+<span class="hidden">Facebook</span>
+</a>
+<a style="font-size: 1.4em" href="https://pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.campingcoder.com%2f2018%2f04%2fhow-to-use-git-flow%2f&amp;description=How%20to%20use%20git%20flow" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;pinterest-share&#39;,&#39;width=580,height=296&#39;);return false;">
+<i class="fab fa-pinterest"></i>
+<span class="hidden">Pinterest</span>
+</a>
+<a style="font-size: 1.4em" href="https://plus.google.com/share?url=https%3a%2f%2fwww.campingcoder.com%2f2018%2f04%2fhow-to-use-git-flow%2f" onclick="if (!window.__cfRLUnblockHandlers) return false; window.open(this.href, &#39;google-plus-share&#39;, &#39;width=490,height=530&#39;);return false;">
+<i class="fab fa-google-plus"></i>
+<span class="hidden">Google+</span>
+</a>
+</section>
+<div class="row">
+<div id="disqus_recommendations" style="margin-bottom: 12px;"><iframe id="dsq-app121" name="dsq-app121" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/saved_resource.html" style="width: 100% !important; border: none !important; overflow: hidden !important; height: 268px !important; display: inline !important; box-sizing: border-box !important;" horizontalscrolling="no" verticalscrolling="no"></iframe></div><div id="disqus_thread" class="columns twelve"><iframe id="dsq-app5710" name="dsq-app5710" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/saved_resource(1).html" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 394px !important;" horizontalscrolling="no" verticalscrolling="no"></iframe></div>
+</div>
+<script type="text/javascript">
+  var disqus_shortname = 'https-www-campingcoder-com';
+  var disqus_url = 'https:\/\/www.campingcoder.com\/2018\/04\/how-to-use-git-flow\/';
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</footer>
+</article>
+</div>
+</main>
+<aside class="read-next">
+<a class="read-next-story" style="background-image: url(/post/20180410-Lake-Kissimmee-1.jpg)" href="https://www.campingcoder.com/2018/04/hanging-out-at-lake-kissimmee-state-park/">
+<section class="post">
+<h2>Hanging out at Lake Kissimmee State Park</h2>
+<p>Lake Kissimmee State Park is one of the hidden gems in central Florida. We love it for its remoteness and wildlife - even in the campground!</p>
+</section>
+</a>
+<a class="read-next-story prev" style="background-image: url(/images/LogoText.png)" href="https://www.campingcoder.com/2018/04/post-number-50/">
+<section class="post">
+<h2>Post Number 50</h2>
+<p>Sometimes it's just worth celebrating the little milestones in the world. This post is simply a celebration of our 50th post and look at our top 5 unexpected findings of writing the blog.</p>
+</section>
+</a>
+</aside>
+<footer class="site-footer clearfix">
+<section class="copyright"><a href="https://www.campingcoder.com/2018/04/how-to-use-git-flow/">Camping Coder</a> All rights reserved - 2018</section>
+<section class="privacy-policy"><a href="https://www.campingcoder.com/privacy-policy/">Privacy Policy</a> </section>
+</footer>
+</div>
+<script type="text/javascript" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/jquery.js.download"></script>
+<script type="text/javascript" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/index.js.download"></script>
+
+
+<script>mendeleyWebImporter = {
+  downloadPdfs(e,t) { return this._call('downloadPdfs', [e,t]); },
+  open() { return this._call('open', []); },
+  setLoginToken(e) { return this._call('setLoginToken', [e]); },
+  _call(methodName, methodArgs) {
+    const id = Math.random();
+    window.postMessage({ id, token: '0.37357697004851786', methodName, methodArgs }, 'https://www.campingcoder.com');
+    return new Promise(resolve => {
+      const listener = window.addEventListener('message', event => {
+        const data = event.data;
+        if (typeof data !== 'object' || !('result' in data) || data.id !== id) return;
+        window.removeEventListener('message', listener);
+        resolve(data.result);
+      });
+    });
+  }
+};</script><iframe style="display: none;" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/saved_resource(2).html"></iframe><iframe style="display: none;" src="How%20to%20use%20git%20flow%20·%20Camping%20Coder_files/saved_resource(3).html"></iframe></body></html>

@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('bit', 11), ('branch', 8), ('class', 8), ('course', 8), ('deadline', 11), ('dont', 7), ('feedback', 9), ('feel', 7), ('get', 13), ('know', 8), ('like', 19), ('little', 15), ('make', 10), ('one', 7), ('project', 11), ('right', 17), ('see', 15), ('something', 10), ('sure', 13), ('things', 24), ('time', 12), ('want', 12), ('week', 13), ('well', 10), ('would', 9)]
+tfidf: 
+['bit', 'branch', 'class', 'course', 'deadline', 'dont', 'feedback', 'feel', 'know', 'like', 'little', 'make', 'maybe', 'okay', 'project', 'questions', 'right', 'sure', 'things', 'think', 'time', 'want', 'week', 'work', 'youre']
+Stemmed tfidf: 
+['bit', 'branch', 'class', 'cours', 'deadlin', 'extend', 'feedback', 'feel', 'know', 'like', 'littl', 'make', 'okay', 'project', 'question', 'right', 'someth', 'sure', 'thing', 'think', 'time', 'use', 'want', 'week', 'work']
+Lemma tfidf: 
+['bit', 'branch', 'class', 'course', 'deadline', 'dont', 'feedback', 'feel', 'know', 'like', 'little', 'make', 'okay', 'project', 'question', 'right', 'sure', 'thing', 'think', 'time', 'today', 'want', 'week', 'work', 'youre']
+Combination items: 
+[('bit', 3), ('branch', 3), ('class', 3), ('course', 3), ('deadline', 3), ('dont', 3), ('feedback', 3), ('feel', 3), ('get', 1), ('know', 3), ('like', 3), ('little', 3), ('make', 3), ('maybe', 1), ('okay', 2), ('one', 1), ('project', 3), ('question', 1), ('questions', 1), ('right', 3), ('see', 1), ('something', 1), ('sure', 3), ('thing', 1), ('things', 2), ('think', 2), ('time', 3), ('today', 1), ('want', 3), ('week', 3), ('well', 1), ('work', 2), ('would', 1), ('youre', 2)]
+Combination most_common: 
+[('like', 3), ('right', 3), ('little', 3), ('sure', 3), ('week', 3), ('want', 3), ('time', 3), ('bit', 3), ('project', 3), ('deadline', 3), ('make', 3), ('feedback', 3), ('course', 3), ('know', 3), ('class', 3), ('branch', 3), ('dont', 3), ('feel', 3), ('things', 2), ('okay', 2), ('youre', 2), ('think', 2), ('work', 2), ('see', 1), ('get', 1), ('well', 1), ('something', 1), ('would', 1), ('one', 1), ('today', 1), ('question', 1), ('thing', 1), ('maybe', 1), ('questions', 1)]

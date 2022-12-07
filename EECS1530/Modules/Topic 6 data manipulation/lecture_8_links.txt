@@ -1,0 +1,7 @@
+https://docs.python.org/3.7/library/csv.html
+https://www.geeksforgeeks.org/working-csv-files-python/
+https://realpython.com/python-csv/
+https://www.programiz.com/python-programming/reading-csv-files
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
+https://towardsdatascience.com/pandas-dataframe-playing-with-csv-files-944225d19ff

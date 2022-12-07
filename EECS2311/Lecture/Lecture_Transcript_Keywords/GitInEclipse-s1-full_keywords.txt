@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('actually', 17), ('change', 13), ('changed', 8), ('changes', 27), ('commit', 10), ('conflict', 12), ('different', 13), ('dont', 11), ('get', 18), ('going', 9), ('happened', 10), ('know', 14), ('last', 9), ('made', 11), ('online', 15), ('project', 11), ('right', 34), ('say', 9), ('see', 26), ('things', 14), ('two', 11), ('version', 28), ('want', 23), ('way', 10), ('youll', 8)]
+tfidf: 
+['actually', 'change', 'changed', 'changes', 'commit', 'conflict', 'different', 'directory', 'dont', 'going', 'happened', 'history', 'know', 'local', 'online', 'project', 'right', 'say', 'thats', 'theres', 'things', 'version', 'want', 'way', 'youll']
+Stemmed tfidf: 
+['actual', 'chang', 'commit', 'conflict', 'decor', 'differ', 'dont', 'file', 'happen', 'histori', 'know', 'local', 'look', 'make', 'notic', 'onlin', 'project', 'right', 'say', 'thing', 'version', 'want', 'way', 'work', 'youll']
+Lemma tfidf: 
+['actually', 'change', 'changed', 'commit', 'conflict', 'decoration', 'different', 'directory', 'dont', 'file', 'going', 'happened', 'history', 'know', 'local', 'online', 'project', 'right', 'say', 'thats', 'thing', 'version', 'want', 'way', 'youll']
+Combination items: 
+[('actually', 3), ('change', 3), ('changed', 3), ('changes', 2), ('commit', 3), ('conflict', 3), ('decoration', 1), ('different', 3), ('directory', 2), ('dont', 3), ('file', 1), ('get', 1), ('going', 3), ('happened', 3), ('history', 2), ('know', 3), ('last', 1), ('local', 2), ('made', 1), ('online', 3), ('project', 3), ('right', 3), ('say', 3), ('see', 1), ('thats', 2), ('theres', 1), ('thing', 1), ('things', 2), ('two', 1), ('version', 3), ('want', 3), ('way', 3), ('youll', 3)]
+Combination most_common: 
+[('right', 3), ('version', 3), ('want', 3), ('actually', 3), ('online', 3), ('know', 3), ('change', 3), ('different', 3), ('conflict', 3), ('project', 3), ('dont', 3), ('commit', 3), ('happened', 3), ('way', 3), ('say', 3), ('going', 3), ('youll', 3), ('changed', 3), ('changes', 2), ('things', 2), ('local', 2), ('history', 2), ('directory', 2), ('thats', 2), ('see', 1), ('get', 1), ('made', 1), ('two', 1), ('last', 1), ('file', 1), ('decoration', 1), ('thing', 1), ('theres', 1)]

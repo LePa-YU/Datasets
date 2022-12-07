@@ -1,0 +1,40 @@
+Course Calendar
+Course Calendar
+Date	Topics	Lecture Pdf	Activity
+Jan. 6	Intro. - admin stuff; language; IDE; textbook;
+programming languages; simple Python scripts		Lecture
+Jan. 8	Variables, expressions, statements		Lecture
+Jan. 12	Assignment 1: Variables, expressions		DUE
+Jan. 13	Control flow (If/Else)		Lecture
+Jan. 15	Unit Testing		Lecture
+Jan. 19	Assignment 2: Control flow (If/Else)		DUE
+Jan. 20	Control flow (While/For)		Lecture
+Jan. 22	Control flow		Lecture
+Jan. 26	Assignment 3: Control flow (While/For)		DUE
+Jan. 27	Functions		Lecture
+Jan. 29	QUIZ 1 (Variables, Control flow)		QUIZ
+Feb. 3	Functions		Lecture
+Feb. 5	Functions		Lecture
+Feb. 9	Assignment 4: Functions		DUE
+Feb. 10	Data structures (lists/sets)		Lecture
+Feb. 12	Data structures (tuple)		Lecture
+Feb. 17	READING WEEK		
+Feb. 19	READING WEEK		
+Feb. 23	Assignment 5: Data structures		DUE
+Feb. 24	Data structures (dictionary)		Lecture
+Feb. 26	Review		Lecture
+Mar. 1	Assignment 6: Data Structures		DUE
+Mar. 2	File management		Lecture
+Mar. 4	QUIZ 2 (Functions, Data structures)		QUIZ
+Mar. 9	File management/Modules		Lecture
+Mar. 11	Data manipulation		Lecture
+Mar. 15	Assignment 7: File management		DUE
+Mar. 16	Data manipulation		Lecture
+Mar. 18	Data manipulation		Lecture
+Mar. 22	Assignment 8: Data manipulation		DUE
+Mar. 23	Review		Lecture
+Mar. 25	QUIZ 3 (File management, Data manipulation)		QUIZ
+Mar. 30	Graphs		Lecture
+Apr. 1	Review		Lecture
+Apr. 5	Assignment 9: Graphs		DUE
+Apr. 9 - 23	Exam period (do not make plans to leave!)		FINAL

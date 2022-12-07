@@ -1,0 +1,322 @@
+Alright. 
+So now that you've seen a little bit about gets in the command line. 
+And you've heard about bronson say things like that. 
+Let's see how to do. 
+Hello to those things in eclipse. 
+Let's start by taking a look at how eclipse actually decorate some of the icons in the pockets explorer base under get status. 
+Right so you'll notice that in a project here. 
+And always icons have these little yellow cylinder in the corner and that tells us that this particular file or folder is being tracked by gates and it actually hasn't really changed since the last version that we have committed so everything is okay if you see that we'll see if you more decorations like that in fact we can see. 
+That the bill directory here and the doll cradle directory don't have any decorations. 
+Error:
+That's because we actually ignoring. 
+Those files. 
+Error:
+If i go. get ignore right i cannot do any directory. 
+That he's being tracked by gates. 
+And there you can mention what actually you don't want to be tracked by. 
+So the digrado's directory i'm saying i ignore it. 
+The builder activities in a bunch of other things as well. 
+That's why those things don't have a decoration and also. 
+The text is a little bit darker means that twit forget is does not record. 
+Error:
+Ucso this decoration kiowas looks like a?. 
+And that means that's okay at least your hair is not ignored but also not being tracked by gator the same time. 
+Error:
+And we could add it to the get index as we say by other moment we haven't.. 
+This is a bin directory which gets recreated every time you compiled in fact if he goes gradle doesn't really being used so it's okay that is not being talked right now. 
+Error:
+Everything else looks good so we're ready to to see some more things that will happen the first thing we'll notice is up here. 
+The. 
+Start spotify playlist called the java right. 
+And. 
+Listen to make a change to its that says hi right if i say this then. 
+You'll notice that the decorations actually changed. 
+Right so. 
+Alexa. 
+Because you get with his gun would like an angle bracket next to the founding and that tells me that these files has changed. 
+Since the last commit. 
+Error:
+That we did. 
+Night so we know there's changes there. 
+That have to decide we want to commit them or do we want to delete them or what do we want. 
+But since the last committed this has changed and in fact that you can see the package on the folder and the project each other all having decorated. 
+We've is uncle bracket and also the text. 
+Becomes blue. 
+To indicate that there's changes that have not been. 
+I did to get all right. 
+Once we have this and if you're developing a new picture of you might have a lot of files i have changed. 
+Error:
+If you don't know exactly where that's happened i wanted things you can do. 
+Emmanuel society compared with. 
+You can compare the current version of this file with about certain things. 
+Okay you might want to compare to the head revision which is basically what's alaska made if you want. 
+Error:
+And. 
+This will give us this view which is a comparative view of the source of the. 
+2. 
+Virgins. 
+And it will highlight the changes fight so it's change will be sort of so into you with his little connector here. 
+Error:
+That's the way i did. 
+This comment to the local version or the current version which doesn't exist in the committed version. 
+So we can see. 
+For any follow-up we want the changes that have happened since the last commit. 
+I have begun to that for the whole project. 
+Will get at least of all the changes in what can go through them on my on. 
+If we want. 
+No i open what happens is you started making some changes and i realized well this is not really working out i thought i go back to what i had doing the last comment. 
+Set alarm. 
+And is what you do this again from this magnet to go to replace with and again you can choose. 
+Replace it with versions that were in the particular command or whatever 99% of the time i replace with heather vision was what i had before i started making these changes to my last comment there are so. 
+If i do this. 
+You'll notice that i got a warning to make sure that all these cold that about it will go away i will lose it forever. 
+Writing this case i'll just lose the high command says no big deal. 
+Southside this causes changes. 
+You notice adamantly the high, causeway. 
+Hyundai. 
+The status of everything is now back to no changes right i lost all this decorations with the ankle breakers. 
+So now i'm back to the beginning decided i was making a mistake before. 
+Error:
+Alright. 
+Error:
+And other things one can do with. 
+Getting eclipse is totally see the history project right so. 
+You can do this for the whole project of a particular file if you want to focus on it. 
+Saso in history. 
+And then you'll get this view here. 
+That's how has you all the commits all the branches that happened. 
+The history of this project right so that i work on the most advanced for a while. 
+But then when we get back to when the team was working this project than this whole bunch of other branches different people doing different commits. 
+And those things managing and so on so. 
+You guys will do something similar this term as well and of course i will talk about medusa bit later on in this video. 
+Legacy bicycle the whole history of this project and how it changed from the beginning. 
+All the way to 2 now. 
+What time behind if i want to figure out what happened and. 
+Of course this is ruby much are they from looking at a file that only changed a few times so. 
+If i'm trying to figure out how do we get to the to the cold being like this then i can do this. 
+Error:
+In fact i can choose any, taiwan. 
+Error:
+Say opening, if you are so i can drill down into a lot more information about this kamate. 
+Right i can see that this committee actually change 26 miles. 
+And i can see the history. 
+Here still. 
+There's a lot of information i can throw down to if i if i really want to. 
+To go that way. 
+Now what the history of you. 
+Another thing i can do is actually two different two different. 
+Persians select two separate ones. 
+Then i kind of wish i could borrow these two persons with each other. 
+So now i have the view that it was 64 with comparing two different versions by the two things a periodontist. 
+Two commits the happened one was six weeks ago the other was 10 weeks ago. 
+They're not consecutive tomato anything i'm just wearing these two so i can see exactly the differences that happened in those four weeks in someone. 
+So is it going to see i can basically drill down and find out exactly what happened in the history of this project. 
+Error:
+To what a mighty tail. 
+All right now what's we really want to get to hear is. 
+What happens with. 
+Brunzies and merging process and conflicts right. 
+So. 
+Is a couple things to see. 
+At the top here is a tamales the name of the folder i have the same thing in my phone system but master is the brand so always know which park which island. 
+Transom looking at by saying what eclipse tells me here. 
+So i could. 
+If i want to create a new. 
+Braunschweig 22 team. 
+Switch to newberg. 
+Right so at some point next week we'll see that you'll have to create new braunfels for sure so. 
+That's how you'll do it right and you'll trade in your branch and then you can start developing into a trance if you want. 
+Error:
+What's. 
+Tricky maybe for 7 a m this is how do we actually. 
+Deal with. 
+Different members of the team developing a different pronunciations and putting it together that change the same picture called so how do we actually use all that so to to demonstrate that to you let me know that. 
+Someone has made a change of mind made a change. 
+To one of the finals. 
+And i supposed to get up i since i don't have it i'm going to actually directly make that change. 
+Error:
+Intuit indeed job for the repository. 
+I definitely. 
+I don't recommend doing that this way. 
+Error:
+He's a business person your changes from eclipse but just for the sake of. 
+Demonstrating cara. 
+I'll do this way so incapable your can actually editor file directly and comatose changes right there. 
+But it's not working the way you want to develop a software system so. 
+Are there going to edit this fellow here and just put a comment i'll call these the online version. 
+And i'm here i can commit those changes. 
+This is michael made smashes updates go to java. 
+It's fine. 
+Error:
+So no this is audrey fatima remind me to change the starter job on adding this coming online to and post it to get up. 
+Wow. 
+I am developing. 
+Error:
+Let's go to java in my computer. 
+Write the other day this and let's say that over here i got to come in this is my version. 
+I know okay so i save right so i can see that there are changes. 
+Since the last commit that's fine. 
+I can know. 
+Going to team. 
+Commitment say i'm happy with my version right. 
+So are other commands this would bring up please get staging you. 
+Doctor. 
+You don't become a very familiar with sign this course. 
+So here we can see that basically these changes that i made already stayed. 
+Error:
+What does staging mean again. 
+It means basically that it's ready to go into the next, time saying that. 
+I'm happy with the changes in this file so whenever the next time it happens is going to go in. 
+I can actually i'm stage it. 
+And say i'm not quite sure yet that i want to put you there in fact if you have multiple files that you made changes so you can choose which ones to stage at which ones to know stage-by-stage the ones are you sore for hours and then the others will remain for a later, maybe. 
+I don't open and up doing that but i definitely have the flexibility to do that. 
+Error:
+Nice guys want to come with us change so i can stay again. 
+Notice that states fellows have a different decoration here this stuff around the black background even on the package explorer we can see that these estates. 
+Falls that have changes that we already have decided to changes that we want to commit next right. 
+Answer and i'll commit. 
+Error:
+Nfl. 
+It's a noticeably fica made this is committing to my local repository right so all the changes. 
+I don't hear nothing looks like it has changed since the last commit which is true i just committed all the changes so i'm happy but i want to let my teammates know about this has created so. 
+The way this is the first to push my changes to. 
+To be online with. 
+So you may find.. 
+Error:
+Sometimes i do this right figure. 
+Perhaps a abilities. 
+All looks good. 
+Error:
+You see the preview and then you will get this message that says rejected non fast forward. 
+What this means is that while the trains you trying to push conflicts with something that has already happened in the online repository.. 
+Error:
+You have never actually i'll pull down right so someone else i made a change there so i kind of just going fast forward your changes from the committed you started from 2 to the lack of me that you did because there's another commit up there that sort of conflict. 
+Basically what guetta saying here i don't know how to make this. 
+Changes notes to bill for me to do it. 
+So. 
+Error:
+You can. 
+Sphinx and whatever but it's always best not to do that unless you actually know what you doing. 
+I'm going to cancel. 
+And when you see this it can be kind of confusing but basically what it means is that someone else has put the version that you need to. 
+To deal with. 
+So this religion for this. 
+Is 2 okay i made my changes but now before i can push them have to merge them with what. 
+Other people have uploaded. 
+Mypaymentsplus. 
+What i do a lego team. 
+I'm going to pull. 
+By the way discuss already how i should. working so i'm working with the latest version but it is possible that i did that about the changes happen while i was working right so it's always possible to publish. 
+Complex. 
+So. 
+Facebook again. 
+So i did a pool. 
+And you notice if your things happen there. 
+Error:
+Looks a little bit scary but we'll see that is nothing so so bad. 
+I've expected because our posting work when we make the pool there's a conflict. 
+This way to kill gives us a little bit of information about it. 
+Tells us. 
+English origin master bronson in it online branch. 
+Which commits that was related to. 
+And which of the two girls are conflicting right so the last online comments and michael mates here locally. 
+Error:
+Conflict. 
+Okay. 
+Error:
+Not much i can get from that window there. 
+If i could phillips tells me that so there's problems very clearly right there lots of red in this picture. 
+Some of it is the familiar right off. 
+Something that doesn't compile right so you'll see the decorations here unescorted java exactly two new ones that the familiar around with a red background and an x on the red background with his mirror. 
+Error:
+And that's not. 
+Hard to see why it's because. 
+The pool mechanism put all that stuff. 
+Here we're lying to us that will look on your second so force is not valuable cultured it doesn't composite now but we're going to fix it so that compiles very soon so that's not a problem. 
+And the other decorations here is this big red thing with see if you zoom in. 
+To otto's hitting each other. 
+And that's the question that says this phone is in conflict right now right so. 
+It means that we have dust try to merge two different branches in this case the online brands to my local branch and this conflict so you have to resolve it otherwise we cannot really move forward resolving the. 
+Error:
+Error:
+Crazy nothing too harder than those going to the code. 
+Error:
+Erasing all these stuff that they put there. 
+2. 
+Leave the part that we actually want to have right so you'll say that again already tells me what were the two versions of one conflict right so the head version so my local version. 
+Tacoma goes my version. 
+This equal sign separated and. 
+The person that came from the mustard brands from the online repository right so basically the online. 
+Version. 
+The comment was online version so gates. 
+Does not decide which one is correct obviously right. 
+It is quite good and if you make changes to different methods in the same file it will put them together no problem also if it's the same as about different parts of the method i can figure things that this out but if course you may change the doctor the same line of cold then decide which one is the correct version right so it was a tell you there's a conflict so you go and. 
+Thanks a lot to do with this busy edit this part of my phone. 
+And i created to just keep them my version or the online version. 
+Error:
+Or in fact. 
+Error:
+I can just say. 
+You know what after i seal this. 
+What i think of that right thing is this a final version of resolving the conflict i'm deciding that we should have. 
+There. 
+And this will override both my version and my teammates version if you want. 
+I so i save and you know that as soon as i save. 
+Error:
+X the red x fingers as it is doesn't compound go to waco right now this is bali java code. 
+It was old one with the problems and. 
+Publix still there but we're very close to resolving because the way we say you know what this resolved the conflict is to actually stage. 
+The following coffee so this is so maybe she'll get is waiting maybe we still changing him every we need to add more comments there or more cold in the conflict part but once we decided this is all the changes that we need to do then you can stay this. 
+Take me to leave that all these are red decorations go away. 
+So what about the stage decoration care. 
+Error:
+Error:
+Other than that we're good to know. 
+And that's what we need to do. 
+We have already committed message america bronze master from the online directory we can keep that we can add more to that message if we want to describe what happened right. 
+Error:
+But now i can commit. 
+Everything is good in my local directory so my local directory now has. 
+This version. 
+Error:
+Critical theories of this version also has been designated as resolving the conflict i just had before. 
+So now i want to try to push. 
+And i do appreciate you. 
+You noticed i don't get rejected no fast forward. 
+If i accept the post confirmation told me that if you hit possible it will work fine. 
+So you post. 
+That's actually being pushed. 
+To the be online repository and there is no conflict. 
+Error:
+Error:
+So if i go to them when i was over here and reload this page you'll see that now it says final version. 
+Right. 
+So this is now. 
+Fresno meat of course online and it has this version and resolve the conflict that i had before with my teammates were the changes that make sense for the project and if you see something like this happen to you so maybe talk and decide what this final but this is how you resolved it. 
+Just as a final. 
+Think you we can look at the history. 
+How far. 
+Of a project. 
+We can see. 
+That's a. 
+Two different things happened right this is what we started then. 
+The live version of myself made a change. 
+The dates for the java. 
+Then the local version of myself made a different change different branches. 
+And now. 
+After. 
+Committing the merged version then there's only one. 
+And. 
+My local. 
+Error:
+France and the online box at all in the same committee. 
+Error:
+No. 
+Hopefully what will happen is you will also get the new version and of course. 
+They will also merited into repository as well. 
+Error:
+Alright so. 
+I think they spell accomplish this video. 
+It's something that takes a while to sort of. 
+Wrap your hand around for sure and i will will go through my neck samples even lecture and i'm very happy to sort of help you navigate these. 
+Kids world. 

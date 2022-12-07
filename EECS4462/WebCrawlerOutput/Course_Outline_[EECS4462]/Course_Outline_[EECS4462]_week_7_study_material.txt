@@ -1,0 +1,10 @@
+Week 7 (to be completed by Thursday, October 29)Study material
+Our next target is to learn how to use the digital signal processing (DSP) module in JUCE to build plugins that implement and combine various audio effects.
+Start by studying the slides on Audio Effects. There is an eClass quiz related to these slides.
+For a different look at these effects (and more) check out this playlist (ignore the first video on Console Signal Flow). This video on compression is also worth checking out. If you have not heard a wahwah effect, check this out.
+Before we look at the starter code for Assignment 3, take a look at this video on including a plugin to play an audio file in the Audio Plugin Host. You can find the code on github.
+Next, it's time to look at the starter code. There's 3 videos on it:
+A demo of the plugin functionality
+A description of the new way to handle parameters
+A description of the processing part
+Finally, continue with our Weekly Unity Background: Complete Section 6. Level Building.

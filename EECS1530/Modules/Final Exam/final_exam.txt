@@ -1,0 +1,259 @@
+The statement a = 14 // 3 assigns the value 4 to variable a.
+Select one:
+True
+False
+
+The statement a = 12 + 3 / 6 - 5 assigns the value 7.5 to variable a.
+Select one:
+True
+False
+
+The statement  (a and b) == 3 is true when both a and b have the value 3.
+Select one:
+True
+False
+
+With a for loop it is never necessary to initialize any variables.
+Select one:
+True
+False
+
+In this program the statements on lines 3 and 4 will never be executed.
+Select one:
+True
+False
+
+This program will fail on line 7.
+Select one:
+True
+False
+
+If a string variable aStr has the value "Which character" (note: the quotes are not part of the value) the expression aStr.find ("c", 3) will have the value 6.
+Select one:
+True
+False
+
+The statement a[i:j] = [4,5,6] is valid syntax when a is a list.
+Select one:
+True
+False
+
+This program will print out all the lines within file 'file.txt'.
+Select one:
+True
+False
+
+In this program the statement on line 6 will never be executed.
+Select one:
+True
+False
+
+This program will fail on line 7.
+Select one:
+True
+False
+
+This program will print out the contents of 'text.csv'.
+Select one:
+True
+False
+
+There are multiple graphing libraries you can use in Python to create graphs.
+Select one:
+True
+False
+
+The following code always has the following output.
+Output:
+Select one:
+True
+False
+
+An example of a Boolean expression in Python is:
+Select one:
+if a >= b:
+%
+and
+==
+x <= y
+
+The for statement for i in range(115): will
+Select one:
+The statement is invalid syntax
+Execute the loop body until i = 114 provided there is no statement that interrupts the loop execution
+Always execute the loop body 114 times
+Execute the loop body until i = 115 provided there is no statement that interrupts the loop execution
+Always execute the loop body 115 times
+
+An if statement such as
+will execute the print statement when
+Select one:
+x=9, y=9
+x=9, y=5
+x=9, y=12
+always, whatever the values of x and y
+never
+
+Which of the following is the correct use of a global variable
+Select one:
+
+The statements  
+will
+Select one:
+be invalid because a is immutable
+assign the characters sgoingo to a[3]
+assign the characters tsgoing to a[3]
+assign the characters sgoing to a[3]
+assign the characters tsgoin to a[3]
+
+There is a file called file.txt. The contents of this file can be seen below.
+
+
+
+What is the content of the file file.txt after the following code executes:
+Select one:
+   It is rainy today.
+   It was sunny yesterday.
+   Sentence 1Sentence 2
+
+   It is rainy today.
+   It was sunny yesterday.Sentence 1Sentence 2
+
+   It is rainy today.
+   It was sunny yesterday.Sentence 1
+   Sentence 2
+
+   It is rainy today.
+   It was sunny yesterday.
+   Sentence 1
+   Sentence 2
+
+   Sentence 1Sentence 2
+
+You have a dataset as follows:
+You want to change it to look like:
+Which of the following pieces of code reads the data in the correct format?
+Select one:
+
+For each row of the table fill in the last column with the value of the Boolean expression
+not b and (x >= y or m < n)
+when the variables take the values specified in the table for that row.
+Answer should be in the following format: TRUE, TRUE, TRUE, TRUE (this is not the actual answer of course!)
+Answer:
+
+You want to roll a 8-sided die and print out the side. Using a for-loop, how would you iterate through all the sides of the die?
+Complete the for-loop in this code:
+Answer:
+
+You are given the following function. What is the value of a if the return (i.e. the value of c) is 8?
+Answer:
+
+You have the following variable: 
+a = "An early summer's day"
+Complete a print statement to extract and print the word 'early' from the variable value. Do not use the word 'early' in your code. The only statement you need to add is the print statement.
+Answer format where you replace the ?? with your code: print(??)
+Answer: 
+
+You have the following function. 
+The contents of the file named file.txt is as follows:
+  python
+  python is great!
+  python is the best
+  python is amazing!
+What would the value of a be if the output is:
+  python is great!
+  python is amazing!
+Answer:
+
+You have the following function.
+What is the value of the variable data if the resulting content of the file test.csv is:
+  department,grade
+  EECS,85%
+**Write answer on one row.
+Answer: 
+
+You have the following function.
+What is the value of variable a if the resulting graph is:
+Answer:
+
+You have the following piece of code. 
+The print statement prints out the following:
+What is the value of d that is input to the function?
+Answer: 
+
+You have the following piece of code. 
+The print statement prints out the following:
+What are the values of a, b and c that are input to the function?
+Answer: 
+
+You have the following piece of code. 
+The print statement prints out the following:
+What is the value of a that is input to the function?
+Answer: 
+
+You have the following code:
+a) Please explain what the purpose of the code is.
+b) What is output by the two print statements?
+
+You have the following code. Assume all import statements have been made correctly.
+File 'a.txt' content:
+File 'b.txt' content:
+a) Please explain what the purpose of the code is.
+b) What is output by the print statement?
+
+You have the following code. Assume all import statements have been made correctly.
+a) Please explain what the purpose of the code is.
+b) Given the following output from the print statement what is in the file 'a.csv'?
+
+Write a function called reverse_words(s) which takes a string parameter s which may have a value such as
+Don’t switch the    order of words. 
+and (for this particular value of s) returns
+words. of order the switch Don’t
+I.e. the "words" in s are reversed. Words are defined as any sequence of non-space characters, and spaces are the only characters that separate words. The string s may have leading and trailing spaces, and multiple spaces between words. Note that the returned value has just one space between the "words" in the string.
+Start of answer:
+  def reverse_words(s):
+
+Write a function called grade_points(letter_grade) that returns an integer 0 to 9 corresponding to values of a string parameter letter_grade according to the mapping:
+For example, if letter_grade is D+ the value 3 is returned. If letter_grade is not one of F, E, D, D+, C, C+, B, B+, A, or A+ return -1. Use a loop to solve, and also use the variable grades defined below in the start of your answer.
+Start of answer:
+def grade_points(letter_grade):
+   grades = [('A+',9),('A',8),('B+',7),('B',6),('C+',5),('C',4),('D+',3),('D',2),('E',1),('F',0)]
+
+Devise test cases to unit test the insert_sort function, which returns a list of sorted elements constructed by inserting the value y in the correct position of the already sorted list x. (See the test_suite function for example.)
+One example test case is given in the code above. Write five additional test cases by specifying values for list1 and list2 and the expected result from the merge_sorted function. Answer using the formatting below. The test case given in the code is shown as an example - obviously this should not be part of your answer!
+a. list1 = [2, 9, 14]
+   var = 3
+   expected result from function == [2,3,9,14]
+b. list1 = [ specify values ]
+   var = specify value
+   expected result from function == [ list values ]
+c. list1 = [ specify values ]
+   var = specify value
+   expected result from function == [ list values ]
+d. list1 = [ specify values ]
+   var = specify value
+   expected result from function == [ list values ]
+e. list1 = [ specify values ]
+   var = specify value
+   expected result from function == [ list values ]
+
+You have a file named april_weather.csv which contains weather data for one month. The format is as follows:
+Date,Temperature (C),Precipitation (mm)
+01,3,12.3
+02,-1,0
+There are 30 data points with each one filled in (no empty cells).
+a) [4 pts] Add a new column into the .csv file named "Weather". If precipitation is over 0 and the temperature is negative write 'snow'. If precipitation is over 0 and temperature is positive write 'rain'. Otherwise write, 'no rain'.
+b) [2 pts] Save the new data into file 'april_weather_2.csv'.
+c) [4 pts] Create a scatter plot using the 'april_weather.csv' file. Use date as the x-axis and the temperature as the y-axis.
+Note: you can assume that each part of the question is individual and the previous has been done correctly.
+
+a) [3 pts] Write a function date(value) that will add value (i.e. the value input to the function) to today's date and return the future date.
+b) [3 pts] Write a function weekday(date) that will get the weekday of the specified input value date.
+c) [4 pts] Create a main function where you ask the user to provide a numerical value and use the date() function with the user input. The program will then print the future date and the weekday of that date. The program should continue until a keyword is entered by the user. Make sure that regardless of the user input the program doesn't fail.
+Note: The parts can be completed separately. In particular, to write the main function you can assume that the previous parts have been done correctly.
+
+
+
+
+
+

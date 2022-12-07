@@ -1,0 +1,5 @@
+Week 5 (to be completed by Wednesday, February 16)
+Weekly goals
+Set up and use debugging with Gradle
+Submit the prototype and user manual of your system by Wed Feb 16
+Continue developing your application and test code and the documentation (Requirements, Testing, User Manual) of your system.

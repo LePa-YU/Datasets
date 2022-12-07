@@ -1,0 +1,17 @@
+Original project description
+Anyone interested in learning how to play a particular piece of music can usually find help on doing that on the internet in a variety forms, such as videos or tutorials. A common way to convey the way to play a given song for instruments such guitar, bass, or drums is through the use of tablature or tab. These are often created in text as it is the easiest format to do that in.
+The starter code that you were provided with is a system that accepts text-based tablature and converts it to a format called MusicXML. MusicXML can be visualized or printed as sheet music, or played by a virtual instrument. Our project this term will be to add this visualization / printing / playing functionality to the system you were provided.
+If you cannot read music, do not worry. There are existing programs/websites that implement this functionality, so you will know what the expected output is (see the Useful Resources below). However, no Java library exists for this purpose, hence our project.
+Look up some of the tabs for your favourite songs to get a feel for what these look like. Run the system with the starter examples provided below to see what the output looks like. You can find more examples under /src/test/resources/system in the code. capricho.txt and parabola.txt are large examples that you should aim to be able to visualize by the midterm submission.
+Study the MusicXML documentation, so you can start understanding the format.
+Detailed requirements for our project will be developed during the term.
+Useful Resources
+Guitar tablature explanation
+Drum tablature explanation
+MusicXML Documentation. Click on Tutorial for an introduction. When looking for information on a particular MusicXML element, it's usually best to google “musicxml element-name”.
+A starter example of a guitar text tab.
+A starter example of a drum text tab.
+Existing MusicXML previewers:
+Desktop app: MuseScore
+You can preview any MusicXML file by dragging and dropping it onto this page.
+An online previewer with playing functionality

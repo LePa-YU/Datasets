@@ -1,0 +1,37 @@
+Assignment 6 - Data Structures (Dictionary)
+1. Create a program that will update a store inventory. 
+
+Create a function that will add a new category into the inventory. Create a function that will delete a category from inventory. Create a function that will add a new item into a category. Create a function that will delete an item from inventory. Create a function that will change the count of an item (e.g. apple/pear). 
+Create a function that will print the inventory
+Use the given dictionary
+Use a main -function
+The program should continue until the user types in “Exit” or “0” (zero)
+The program should give the user the following menu:
+Program to change inventory: Type in corresponding number
+
+Add category
+Delete category
+Add item
+Delete item
+Change item
+Print inventory
+      0. Exit
+Dictionary:
+
+inventory = {
+    'fruit': {
+        'apple': 250,
+        'pear': 500,
+        'orange': 10
+    },
+    'vegetable': {
+        'cucumber': 300,
+        'broccoli': 100
+    }
+}
+
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle

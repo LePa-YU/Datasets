@@ -1,0 +1,123 @@
+Okay welcome everybody this is our last meeting i guess before. 
+Let me throw some mission so hopefully everybody's. 
+Well on their way to fulfilling these requirements. 
+Error:
+I'll just mention a couple things very quickly. 
+How do you know then i'll have meetings with the remaining things today and. 
+Before i'll be available for all the other teams. 
+Most likely at the end around 1:20 or so. 
+Or if i have some time in between maybe as well. 
+Error:
+So. 
+Error:
+The one thing to do to mention is as you may have noticed i posted the material for this week for the next week which is of course just how to submit your me-time submission right. 
+We'll see. basically all you need to do is provide us again on the enclosed michelin provided with the url if she'll get help repository and we'll find everything there right so. 
+One thing to mention is you could go ahead and make that submission now assuming no changing your repository until sunday so you can make us a mission and then just make sure you. 
+Commit and push to your repository everything by sunday night. 
+Error:
+As a measurement in the instructions will. 
+Take the last commit to the master branch before the deadline and that's what we were going to look at. 
+Other than that it's up to you to sort of get everything together get the best formation you can don't forget the document of course. 
+And then. 
+I'm down.. 
+Error:
+I don't have anything else i think they start yourself fairly obvious but i'm very happy to take any questions about about the world about the project itself. 
+Answer one. 
+Usher mansion.. 
+But you should see the sections on the monday after the decimation deadline. 
+I your laptop skin science h2. 
+Give a quick demo of your submission 220r ta in the online link. 
+I gots. 
+Yo x desoto presents. 
+Your submission and highlight the best things about it and so on so that you know we don't mix it with the marking. 
+So that would be you left us there's a schedule there for his team-mates then gets 9 minutes so we can fit every everybody in within 210 minutes that we have for the lab. 
+And then next week on the wednesday we'll talk about maybe some new requirements. 
+That's what time i plan and maybe posters on tuesday next week. 
+Okay. 
+That's only thing i have. 
+General announcements mother course we have about 15 minutes or so before i start the meetings with with the teams. 
+So feel free to to post any questions you might have in the chat. 
+Error:
+Or raise your hand in the meeting and someone. 
+Yes and the first question is whether you have to resend me that user manual of it, so i come in on sunday as well. 
+Well in a sense yes because. 
+Isaiah stockton these documents have to be part of your data repository so you should have the latest versions of those things there and for sure i would imagine that as you doing things and changing your code. 
+They'll be tension required to your user manual and in the requirements document this amount so yes you should be updating these documents well throughout the course and definitely this week as well and make sure that. 
+The latest version of reflects what is actually in your repository in in the master branch in the latest commit in the master brand. 
+Integration of the documents should be. 
+I also need to get some proposed as a stock shows say so. 
+Yes. 
+There is always have a comment to have his documentation updated with the latest version of. 
+I hope your software right fully-fit silly outdated so yes of course. 
+That's most important when you submit like a m submission all your final submission for sure that i can shop online with you with your code. 
+But it's generally good idea to be doing that anyway throughout the course of the process. 
+That's open. answer this yes it's important and again the importance of the documentation and you may have noticed a little break its 50% of the marks so that's important. 
+Error:
+Have a question about. 
+Greater. 
+To those two used to have a better development experience. 
+Error:
+I'm not sure what you're referring exactly. 
+Right so get that with gretel is that once you put a dependency to a new library right. 
+Then soon as you. 
+Put that. 
+Bolido live stream that specifies that the name of the library the artifact id and the version right in the dependency section of your gradle script. 
+Then all those then become automatically part of your project right so. 
+Error:
+The whole point of greatest but they supervised with good development experience by itself any benefits go there so then you don't have to. 
+Error:
+Download jar files yourselves and put them tumbling your project and so long. 
+Error:
+Perhaps more importantly for the point of your discourse is. 
+Anyone else.. 
+Download your system and maybe more properly say. 
+Error:
+Us when we try to mark guesstimation then the cradle streets will we get. 
+The run task and then this will download any libraries you may have used that we may not even have heard of. 
+That will be downloaded and your system it will run without us having to worry about all the defenses so. 
+That's why i'm a size in gradle i mean of course it's also. 
+Error:
+A very important tool that everybody uses in the real world as well. 
+But it's been yours because specifically does have all these benefits with regards to dependencies to libraries and there's no need to worry about. 
+Different people having different versions and things like that. 
+So. 
+I'm not sure if i ask you a question very well cuz i'm not sure i understand exactly what the problem may be if if you have a clarification of habitude. 
+Discuss this further. 
+Error:
+So i guess you know you're referring to. 
+Remind me the credits house whenever the code is changed. 
+Error:
+Or basically if you if you change your code then all you need to do which is. 
+Run the run task to run it back in a sense it's not really different than running the way you might have done before 4 through eclipse directly you still have to press one button double click on the run task to ronnie there shouldn't be any more than his right. 
+Like in a sentence. 
+You don't. 
+But like one of the things maybe that you're referring to that i've seen simpson the series they always tried to build before they run you don't necessarily have to do that if you just want to take a quick change all you need is around task write the bill task does other things i have to do that every time. 
+So dustin use around tosca's restaurant in your code compile your money which is there's no way you can avoid that. parkinson. 
+Error:
+Alright. 
+Any further questions i know a few more people came in a little bit late so we still have about. 
+9 minutes before the meeting starts. 
+So let me know in the child if you have any. 
+Other questions. 
+Or asking plus by raising your hand. 
+Error:
+Error:
+Error:
+Alright i don't see a lot of. 
+Questions looks like probably everybody's like anxious to get going with the project. 
+You probably know by now what you need to do. 
+You just have to do it in the next. 
+Four and a half days. 
+So. 
+I love you open up the the room so i'll see you. 
+Hey there so. 
+Plus a questions while i get the rooms open. 
+Error:
+Alright so. 
+The rooms are not open so i'll see team 7 in a few minutes. 
+And all the other things later today. 
+Everybody else is going to go to the rooms and work on the project call me for help. 
+I'll try to get there before the end of the lecture. 
+That other forget to you. 
+For sure before the meeting is over. 
+I thought of something cody here as well. 

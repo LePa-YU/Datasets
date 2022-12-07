@@ -1,0 +1,26 @@
+Assignment 1 - Variables, expressions, statements
+Assignment 1 - Variables, expressions, statements
+1. Write a python program that will accept the radius of a circle from the user and compute the area
+
+Test using the following values:
+
+r = 1.1, Area = 3.7994
+r = 2.2, Area = 15.1976
+Note: Formula for Area of a circle: A = π*r2
+Note: Use varibles for pi, r and area
+Note: For pi, use approximation 3.14
+2. Write a python program that asks the user their name. Then print out a line saying name +", what year were you born?". Then ask the user what year they were born. Print the line "You are" + age + "years old."
+
+Example:
+
+Input: What is your name?
+Bob
+Output: Bob, what year were you born?
+1980
+Output: You are 40 years old.
+Note: You have to first ask the user's name before asking for a year
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle

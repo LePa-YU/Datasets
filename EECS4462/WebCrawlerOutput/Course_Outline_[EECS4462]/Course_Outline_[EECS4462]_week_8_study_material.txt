@@ -1,0 +1,6 @@
+Week 8 (to be completed by Thursday, November 5)Study material
+Our next target is to learn about impulse responses and convolution, concepts that will be needed for the second and third reverb in Assignment 3.
+Start by watching a video on what reverb is, and a video on how to create reverb with delays and convolution. These are both from LinkedIn Learning, so you'll need to login with Passport York.
+Continue by watching this video on the theory behind impulse responses and convolution. The input function in our case is the incoming audio signal, and the linear system is the plugin you are developing. The video describes impulse responses in a continuous fashion, but if you imagine each input pulse as a sample everything else still works.
+Next, study the slides on convolution and impulse responses. They contain useful hints with regard to implementing Assignment 3.
+Finally, continue with our Weekly Unity Background: Complete Section 7. Creating and Implementing Animation.

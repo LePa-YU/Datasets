@@ -1,0 +1,28 @@
+EECS 2311
+[EECS2311]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS2311
+Project
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Grades
+Contact
+Academic
+Honesty
+EECS 2311
+EECS 2311
+Delivery Mode
+The course will be delivered online for the first few weeks, and then in-person. In either case, there will be no live lectures, except on the first week, which will be dedicated to forming the teams, and introducing the project. On all other weeks, we will use the flipped classroom style. This means that readings/videos and lab tasks will be posted on a weekly basis after the Wednesday meeting time. Students are expected to study the readings/videos, complete the lab task with the help of the TAs on Monday, and be ready to ask questions/discuss the project on the next Wednesday.
+All study material and the lab task for the week will be posted under Course Outline (see sidebar).
+EECS 2311 Learning Outcomes
+Upon successful completion of the course, students should be able to:
+Describe the requirements of a large software system.
+Select appropriate system elements for a high-level design description.
+Derive and implement test cases at the unit and system level.
+Produce a detailed user manual for an interactive system.
+Implement a large software system.
+Last modified: 2022/01/11 11:25

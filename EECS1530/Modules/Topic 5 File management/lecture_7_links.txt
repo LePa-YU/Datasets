@@ -1,0 +1,9 @@
+http://openbookproject.net/thinkcs/python/english3e/files.html
+https://www.w3schools.com/python/python_file_handling.asp
+https://www.w3schools.com/python/python_file_open.asp
+https://www.w3schools.com/python/python_file_write.asp
+https://www.w3schools.com/python/python_file_remove.asp
+https://python.swaroopch.com/io.html
+http://openbookproject.net/thinkcs/python/english3e/modules.html
+https://www.w3schools.com/python/python_modules.asp
+https://python.swaroopch.com/modules.html

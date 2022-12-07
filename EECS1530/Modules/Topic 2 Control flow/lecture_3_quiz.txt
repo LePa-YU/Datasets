@@ -1,0 +1,61 @@
+A files are saved into RAM.
+
+Select one:
+True
+False
+
+There are many modules in the standard library.
+
+Select one:
+True
+False
+
+Which of the following statements is true:
+
+Select one:
+a.
+To update a variable in a loop is called incrementing the variable
+b.
+You cannot update the assigned variable in a loop.
+c. Repeated execution of statements is called 'repetition'.
+d. There are three types of loops in Python.
+
+Which of the following is correct:
+
+Select one:
+a. for i in range(7):
+   print( y )
+b. for i in (7):
+    print( i )
+c.
+for i in range(7,2,1):
+   print( i )
+d. for (7,2):
+    print( i )
+	
+Which of the following is correct:
+
+Select one:
+a. i=1
+
+while i in 7:
+    i++
+    print(i)
+b.
+
+i=1
+while i < 7:
+    i+=1
+    print(i)
+c. i=1
+
+while i in 7:
+    i+=1
+
+   print(i)
+d.
+i=1
+
+while i < 7:
+    i++
+    print(i)

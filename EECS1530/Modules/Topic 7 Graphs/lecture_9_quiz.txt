@@ -1,0 +1,60 @@
+Graphs are a part of the standard library in Python.
+
+Select one:
+True
+False
+
+Graphs can get their data from multiple sources such as csv files or pandas dataframes. 
+
+Select one:
+True
+False
+
+A graph
+
+Select one:
+a.
+is a part of the matplotlib library.
+b.
+is a part of the graph library.
+c. is the only visualization technique native to Python.
+d. can be created using the standard library.
+
+The graphing library (matplotlib) can
+
+Select one:
+a. can create one type of graph from the same data.
+b. create many different types of graphs from the same data.
+c. can create only line graphs.
+d. can create a single graph before the data used needs to be read into memory again.
+
+The following will create a line graph
+
+Select one:
+a. import matplotlib.pyplot as plt
+
+import numpy as np
+x = np.random.normal(size=50000)
+y = x * 3 + np.random.normal(size=50000)
+plt.hist2d(x, y, bins=(50, 50), cmap=plt.cm.Reds)
+plt.title("A 2D histogram")
+b. from matplotlib import pyplot as plt
+import pandas as pd
+import numpy as np
+df=pd.DataFrame({'x': range(1,101), 'y': np.random.randn(100)*15+range(1,101), 'z': (np.random.randn(100)*15+range(1,101))*2 })
+plt.plot( 'x', 'y', data=df, marker='o', color='mediumvioletred')
+c. import numpy as np
+import matplotlib.pyplot as plt
+height = [3, 12, 5, 18, 45]
+bars = ('A', 'B', 'C', 'D', 'E')
+y_pos = np.arange(len(bars))
+plt.bar(y_pos, height, color=(0.2, 0.4, 0.6, 0.6))
+plt.xlabel('title of the xlabel', fontweight='bold', color = 'orange', fontsize='17', horizontalalignment='center')
+d. import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+df=pd.DataFrame({'x': range(1,101), 'y': np.random.randn(100)*15+range(1,101) })
+plt.plot( 'x', 'y', data=df, linestyle='none', marker='o')
+plt.annotate(
+'This point is interesting!', xy=(25, 50), xytext=(0, 80),
+arrowprops=dict(facecolor='black', shrink=0.05)

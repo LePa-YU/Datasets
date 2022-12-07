@@ -1,0 +1,6 @@
+Week 2 (to be completed by Thursday, September 17)Weekly goals
+Compile and test the volume MIDI plugin
+Understand the code for the volume MIDI plugin
+Read and understand Assignment 1 (repeated goal from last week)
+Understand the physics of sound and complete the eClass quiz on it
+Get started with Unity

@@ -1,0 +1,13 @@
+Assignment 7 - Files & Modules
+1. Write a Python program that finds all the Friday the 13ths from 2000 to 2020
+Use functions, including a main function
+Save the results in a list and print the list
+2. Write a Python program that creates a file called “cards.txt”
+Create an algorithm that will save a random set of playing cards into a file.
+Playing cards include 4 suits: hearts, diamonds, spades and clubs and each have 13 cards
+Cards should include 2-10, plus aces, jacks, queens and kings
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle

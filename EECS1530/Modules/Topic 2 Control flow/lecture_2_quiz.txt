@@ -1,0 +1,60 @@
+A Boolean value 
+
+Select one:
+a. can be either true or false.
+b. is the Python type bool.
+c. is a result of comparison operators.
+d. All of the above
+
+Which of the following statements will equal True?
+
+Select one:
+a. i = 10
+print(i < 10)
+b. i = 10
+print(i > 10)
+c. i = 10
+print(i = 10)
+d. i = 10
+print(i is 10)
+
+Which is the correct way of using elif i.e. which of the routes will hit the elif print statement?
+
+Select one:
+a. i = True
+if != i:
+    print("True")
+elif = i:
+    print("True")
+b. i = True
+if not i:
+    print("True")
+elif i:
+    print("True")
+c. i = true
+if != i:
+    print("True")
+elif == i:
+    print("True")
+d. i = True
+
+if is not i:
+    print("True")
+elif is i:
+    print("True")
+	
+An else statement
+
+Select one or more:
+a. always comes after an if statement.
+b. cannot be used with an elif statement since it already consist of an else statement.
+c. can only appear once within an if-else block.
+d. None of the above
+
+A try-except block 
+
+Select one:
+a. is similar to an if-else block structure.
+b. is used to ward off possible exceptions that can cause a program to crash.
+c. can have many exceptions, just like elif statements in an if-else block.
+d. All of the above

@@ -1,0 +1,7 @@
+Week 1 (to be completed by Wednesday, January 19)
+Weekly goals
+Understand the basics of git
+Set up group repository, all members are able to push/pull
+Start coding
+Start on a draft of the system's requirements (what does the system do for the user)
+Prepare your questions for the next lecture

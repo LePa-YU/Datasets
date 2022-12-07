@@ -1,0 +1,12 @@
+Lecture 7 - File Management
+Class: March 2, 9 & 11
+Lecture slides: (available Mar 2)
+Pre-class material: 
+Chapter 13: Files
+w3Schools.com 1, 2, 3, 4
+swaroopch.com (files)
+Chapter 12: Modules
+w3schools.com (modules)
+swaroopch.com (modules)
+Pre-class quiz due: Mar 9, 5pm
+Assignment 5 due: Mar 15

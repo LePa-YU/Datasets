@@ -1,0 +1,3 @@
+Week 2 (to be completed by Wednesday, January 26)
+Lab task
+For this lab task, you will work in groups of 2 or 3. Create a conflict by editing the same file at the same time. After one student pushes the update to the team repository, another must pull and resolve the conflict in any way they see fit. Every student must be able to demonstrate the process of resolving the conflict.

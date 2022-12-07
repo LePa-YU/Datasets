@@ -1,0 +1,5 @@
+http://openbookproject.net/thinkcs/python/english3e/fruitful_functions.html
+https://python.swaroopch.com/functions.html
+https://www.geeksforgeeks.org/python-functions/
+https://www.w3schools.com/python/python_functions.asp
+https://www.guru99.com/learn-python-main-function-with-examples-understand-main.html

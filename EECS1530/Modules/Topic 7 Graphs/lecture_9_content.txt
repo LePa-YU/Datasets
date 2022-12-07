@@ -1,0 +1,10 @@
+Lecture 9 - Graphs
+Class: March 30 & April 1
+Lecture slides: (available Mar 30)
+Pre-class material: 
+Matplotlib
+Matplotlib: examples
+GeeksforGeeks
+Data visualization
+Pre-class quiz due: Mar 30, 5pm
+Assignment 5 due: April 5

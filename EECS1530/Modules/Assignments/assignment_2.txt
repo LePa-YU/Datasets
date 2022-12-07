@@ -1,0 +1,25 @@
+Assignment 2 - Control Flow (If/Else)
+1. Write a python program that asks the user the following question:
+
+What year student are you?
+
+If they answer 1:
+Print "Welcome to York University!"
+If they answer 2:
+Print "Almost halfway done!"
+If they answer 3:
+Print "Just a little more!"
+If they answer 4:
+Print "Final stretch!"
+If they answer anything else:
+Print "Please answer with a number between 1-4"
+2. Write a python program that will take an input from the user and check if the input is a string or integer.
+
+Example 1
+Input: Give an example input. 123
+Output: Your input was an integer.
+Example 2
+Input: Give an example input. Hello World
+Output: Your input was a string
+Extra practice: 
+Add a check for a float type (not graded)

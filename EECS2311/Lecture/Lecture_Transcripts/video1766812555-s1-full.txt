@@ -1,0 +1,126 @@
+Alright so welcome everybody i hope you all had a good reading week this is going to be a special session of course it's a monday sort of lecture kind of thing but we're doing this so that. 
+We have a chance to. 
+Talk with everything before. 
+Let me throw some d's on that makes you there have. 
+The most. 
+Dlc bike possible from the customer. 
+Before actually making a summation so. 
+As you probably know what it was either today's a little bit of discussion here and then starting at 11:50 i'm going to have meetings with its team or the other. 
+Breakout rooms will be open you can join your team there and i work. 
+If it's your time slow today i will join you together with rt84 for a quick discussion 15 minutes and i will do the same thing on on wednesday as well. 
+Error:
+Set alarm. 
+Error:
+That's basically weather is for today and really this week is all about so you finishing your mother's ambition i will pass.. 
+Einstok turns on how to do in san juan. 
+Probably later on today or tomorrow morning at the latest and we can discuss those wednesday. 
+But basically you you know everything you need to do you need to prepare. 
+Everything else in the robotic right of the documents and the code and. 
+Your submission will designated be a link to your github so. 
+It's only basically a matter of formality actually making a submission. 
+Error:
+So we'll talk more about that than wednesday about the instructions. 
+Pronouncing so there's only 30 minutes until the first meeting i'll open up the the floor for any questions discussions from the whole class about how things are going what's going on with the project anyting. 
+Feel free to use the chat or. 
+Raise your hand or unmute yourself and ask a question. 
+Error:
+Error:
+Error:
+As i have a question of their tattoos start with that question says how do we know where is the node located. 
+Within the measure. 
+Error:
+I'm not sure what you mean exactly. 
+In the in the music xml we have basically a sequence of notes right so one comes after the other. 
+Right that'll. 
+In a row unless there's the court tag that we discussed other means they're at the same time otherwise. 
+Presenting them to these aries 18 the duckling the order you see them in the music. 
+Xml aquatune they have the order of the notes modders it's not like. 
+I tried the second note starts after the first note will finish again unless there's a chord tag chord right which means that those two notes are at the same time. 
+Error:
+Error:
+I have also another question care about. 
+The dam park. 
+Location from toronto for the damn tabs. 
+Error:
+I assume you mean okay you have a note you don't know which line or space between lines to put it right so. 
+That has the time in based on the page right so you'll say that there's a correspondence between the page and where you put it which i opposed it about on the discussion board. 
+I basically the piece tells you which location in the. 
+In a stop in those five power lines to actually put the note right so if it's before then goes in the first place between the two bottom lines right and then it goes after that so. 
+The correspondences standard music notation you can find that anywhere on the internet but it's also important. 
+Okay. looks like you guys are getting down to the nitty-gritty is good. 
+Any further questions about. 
+The project of this month. 
+Error:
+Error:
+Error:
+If not then the hard things going tell me are you stressed about it you'll feel that you'll make it what are your main concerns about it. 
+We have few minutes to talk about it if you guys want. 
+Error:
+Alright so. 
+Error:
+The question is what is expectation for the meter. 
+Error:
+Thermistor. 
+How you mean exactly in a sentence definition is what was on the beginning write the description of the project and discussion with the customers will decide whether their requirements and expectation is to to fulfill these requirements as best as possible. 
+Right now i do understand that. 
+If you're concerned about that say no bugs whatsoever then for sure we're not going to be very picky about it at this one. 
+After the vision we will go through discussing a bug reports and things like that so. 
+You have a chance to to fix some of those issues but maybe all the basic functionality that we've discussed will expect her to to see. 
+Kitchen. 
+Error:
+Error:
+If i answered your question exactly if you have any smaller specific. 
+Questions about this feel free to. 
+The boston. 
+Good to hear. 
+So the next question was he here is about. 
+Edge cases are all other examples. 
+I mean that you should make the best of mission you can as a team you can decide how far you can take your testing you definitely should be able to handle this dismal examples that i gave you some more than welcome to get advanced maybe. 
+A bit of a challenge as long as we have the basic functionality than giving getting to. 
+Some of the more advanced pictures if you were. 
+Right so for sure part of the meetings today is to try to establish with the customer. 
+Exactly what is it that they care about today in based on what you've done with right. 
+The main requirements of the same but based on the direction of your team is going hopefully we'll give you some feedback today and tell you what to focus on and what not to worry about so much so hopefully these meetings will be helpful today or wednesday. 
+Error:
+Error:
+Alright. 
+Error:
+Any further questions we still have a little bit of time. 
+Error:
+Error:
+I see that people are still joining us so. 
+If there are any questions would still have about. 
+4 minutes or so. 
+So feel free to put them up. 
+Yes so brazenly. question the conversion in the case of qatar. 
+What the customer is interested into the tablet screen rotation. 
+Error:
+As programmable a musicals doing right now that even on this car. 
+It's tablet about you do have the the no types there at the bottom of the table to write so. 
+Error:
+As i've. 
+Boston el smiley discussion board. 
+To answer some of these questions that you guys have to do it but if you cannot find me. 
+Assume that the customer goes with what musical is doing. 
+Error:
+Alright. 
+Error:
+Santa questions are soto. 
+Dying down so it will have another transporter discussing likeliest on wednesday but i'll go ahead and create the breakout rooms that don't have their meeting today. 
+Error:
+You can of course work with your team in the bathrooms and i will be available. 
+After. 
+The the meetings around 1:20 or so. 
+I'll stick around pointing christmas to you guys, so i will send a little message and you can call me in your room if you were late for like to ask question so even if your meeting is not today you still have the option to go to talk to me if you want. 
+Error:
+Alright let me know. 
+Get this back i was going and it's your last chance to deposit any questions on the tat. 
+Error:
+Error:
+Error:
+Error:
+I'd say nothing i'm going to open the rooms and i'll be in the roman in 23 minutes with an e r t a. 
+And later on to the other rooms at the same time but feel free to join your domes and work with your team. 
+Alright see you later. 
+Error:
+Error:

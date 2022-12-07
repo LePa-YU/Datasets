@@ -1,0 +1,5 @@
+Week 1 (to be completed by Thursday, September 10)Week 1 (to be completed by Thursday, September 10)
+Start by watching the instructor video for this week.
+If you are using your own computer for the programming assignments, install JUCE, Visual Studio (Community), and
+Unity Hub.
+If you will be using the EECS Virtual Lab, become familiar with it here. For EECS 4462, use any of the GSP hosts. Make sure to locate the Projucer app (click on Shortcuts), the Visual Studio app, and the Unity app (use the Search function).

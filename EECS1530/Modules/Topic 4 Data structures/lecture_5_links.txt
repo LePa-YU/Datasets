@@ -1,0 +1,8 @@
+http://openbookproject.net/thinkcs/python/english3e/lists.html
+http://openbookproject.net/thinkcs/python/english3e/tuples.html
+http://openbookproject.net/thinkcs/python/english3e/strings.html
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_sets.asp
+https://www.w3schools.com/python/python_tuples.asp
+https://www.w3schools.com/python/python_strings.asp
+https://python.swaroopch.com/data_structures.html

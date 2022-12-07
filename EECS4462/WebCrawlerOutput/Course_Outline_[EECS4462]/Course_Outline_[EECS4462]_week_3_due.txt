@@ -1,0 +1,4 @@
+Week 3 (to be completed by Thursday, September 24)Week 3 (to be completed by Thursday, September 24)
+Start by watching the instructor video for this week.
+Next, a video tutorial on processBlock.
+The Arpeggiator Plugin: This tutorial explains the code of a simple Arpeggiator plugin. You will make a more elaborate one for Assignment 1. I have modified the code a bit and posted it as Starter Code in the Assignment 1 page. Focus on the explanation for prepareToPlay and processBlock in the tutorial. Do NOT enable the “MIDI Effect Plugin” option in the “Plugin Characteristics” field of the project settings in the Projucer, only the “Plugin MIDI Input” and “Plugin MIDI Output” ones.

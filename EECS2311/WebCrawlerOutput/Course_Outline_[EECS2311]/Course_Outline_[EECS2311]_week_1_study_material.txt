@@ -1,0 +1,8 @@
+Week 1 (to be completed by Wednesday, January 19)
+Study material
+Our target this week is to learn the basics of git and github.
+Start by making sure that all team members have completed the setup demonstrated in lecture.
+The lecture slides list all the steps for that setup.
+A video of the first lecture is also available.
+Next, read the first three chapters of the Pro Git Book. Focus on the concepts of version control, not the command-line syntax, as we will use git through Eclipse. This set of slides describes the important concepts from these chapters as well.
+For those of you that prefer videos to reading, this course is a great introduction to git (login with Passport York credentials). It also focuses on the command-line syntax of git which will not be a focus in this course, so focus more on the version control concepts.

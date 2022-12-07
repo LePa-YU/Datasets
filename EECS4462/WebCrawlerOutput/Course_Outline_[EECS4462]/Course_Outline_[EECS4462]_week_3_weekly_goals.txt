@@ -1,0 +1,5 @@
+Week 3 (to be completed by Thursday, September 24)Weekly goals
+Compile and test the JUCE Arpeggiator plugin
+Understand the code for the JUCE Arpeggiator plugin
+Start on coding Assignment 1. You now know everything you need to add all the functionality required by the assignment. We'll make the GUI better next week.
+Continue with Unity

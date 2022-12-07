@@ -1,0 +1,99 @@
+Culligan. 
+Just finished week 4. 
+Both meetings. 
+One day before their salmon run deadline. 
+I'm really good stuff happening i hope you are doing well have this will be. 
+Let me busy in the next. 
+32 hours or so. 
+Until the deadline. 
+So proud of you make sure to look at the assignment once at mission page well before the deadline. 
+Especially if you're never used peerscholar before which is what we use for the ps estimates in this course. 
+So you may take a little bit of time to familiarize yourself with holly works so don't do that. 
+5 minutes before the deadline. 
+That would be very. 
+Frustrating for you i think. 
+I'll be available. 
+As much as i can until the deadline. 
+Error:
+But you know don't email me at 11:30 on friday night you might be out of luck at that point. 
+Are you doing friday for sure i'll try to answer all. 
+Questions on discussion board. 
+Emails. 
+Be available for zoom meetings also. 
+No the rest of this video is about what will happen after 71. 
+So weak you haven't finished it yet then just. 
+Go do that and then come back and what's that. 
+This video later. 
+Cuz this basically about. 
+Going forward. 
+Okay first of what will happen. 
+After friday. 
+A night. 
+Pierce college. 
+A submission covid-19. 
+For you to provide free.com. 
+Error:
+Please read the instructions on how to do that with carefully. 
+I'm provide a detailed feedback as possible. 
+As you probably know a third of your marks for its assignment. 
+Is based on the feedback you provide. 
+So be sure to do a good job there. 
+The harbour. 
+One week to provide a feedback so the deadline for that is again friday before midnight. 
+After that it song 2. 
+A new section of the course developing audio plugins. 
+On assignment to which is already published. 
+So. 
+Started looking at all the slides and videos about digitizing audio that i posted. 
+Is it able to go through but the important takeaway for our course is that basically a digital audio signal. 
+He's a series of numbers. 
+When we started numbers in a file that usually 16 bates or 24-bit integers. 
+That one we process them. 
+Lisa. 
+I dissolved their workstation or juice this case. 
+We deal with the real numbers between -1 and 1. 
+Wright's allowable signal. 
+Error:
+Series of real numbers. 
+Between -1 and 1. 
+That's what we will process basically for assignment 2. 
+Gazelle audio is. 
+The sampling rate. 
+Craigslist tells us. 
+How many samples. 
+How many of these real numbers we have. 
+Per second. 
+I saw for jumbo youth assembly babies 48,000 parrots. 
+48 khz. 
+This means that if i have a buffer of 48,000 samples. 
+48000 numbers. 
+Then i'm looking at. 
+One second. 
+Capaldi. 
+Alright. 
+Audio processing gun. 
+He's changing his numbers. 
+Anyway who like. 
+To create. 
+Effects such as delay which is what we're doing, too. 
+Or distortion on reverb that will see later. 
+Play so we want to change that. 
+The way are audio sounds. 
+Anyway that's. 
+Make santora's. 
+The only way to do this is by changing these numbers. 
+And. 
+We'll use just to do that in this car. 
+So incorporation for next week's postmates then make sure you study all the material diseases you no deal. 
+As well as the timing to make sure you really understand what it asks. 
+So we can discuss it and resolve any questions you may have during the the pot winnings. 
+Finally. 
+The material for this week also includes the next section of the online unity course. 
+As usual. 
+As you may have seen already your cousin new contract with linkedin learning. 
+So there should be no disruption in. 
+Accessing the course. 
+And no problems.. 
+Okay. 
+I'll see you next week. 
+Error:

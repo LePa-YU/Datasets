@@ -1,0 +1,7 @@
+http://openbookproject.net/thinkcs/python/english3e/iteration.html
+https://python.swaroopch.com/control_flow.html
+https://www.geeksforgeeks.org/python-for-loops/
+https://www.geeksforgeeks.org/python-while-loop/
+https://www.w3schools.com/python/python_lists.asp
+https://www.dotnetperls.com/not-python
+https://www.programiz.com/python-programming/operators

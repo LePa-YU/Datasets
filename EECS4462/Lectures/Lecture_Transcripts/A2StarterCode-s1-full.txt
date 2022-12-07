@@ -1,0 +1,193 @@
+Error:
+Okay so let's take a look at the starter code for a swimming suit. 
+Starting with the gooey part of it exactly the same as an assemblyman so there's nothing. 
+Really new here is example of. 
+Just a slider. 
+Like before. 
+Error:
+This time we just affects the volume of the audio coming in. 
+So. 
+In plug-in adulterates i declare the slider. 
+In the sippy file. 
+The slider value. 
+As you can see that here. 
+It's assigned to. 
+If anybody has my processor called volume boost. 
+Other than that just lie to get centralized at the same as before. 
+Error:
+Maybe examples tocino ready. 
+So the glee for your assignment also would be very similar the same way you ubuildit 571. 
+You can create the components for a 72 and. 
+How's the weather. 
+Valley cycle slider volume affect some of the parameters in your processor. 
+Now the brother side. 
+Error:
+You'll see that's a declaring a couple of variables here. 
+Error:
+I'll talk about his whereabouts. 
+When we get to the code. 
+But the delay buffer is available.. 
+Will be very important to us. 
+Also at the pr still have my volume boost. 
+Perimeter which is public so that mcguigan. 
+Change it. 
+So really most of the work as eucerin assemblyman is done in the processor. 
+Unless i was prepared to play. 
+So as you remember this method. 
+Initialize things so it runs before we actually process any audio. 
+Error:
+I'm getting the sample rate. 
+I know this very well here. 
+But you guys will use it i haven't used them in my example. 
+Error:
+I'm setting my volume boost to want begin with so no change. 
+Abcya i deal with my delay buffer so. 
+If you look at the cemetery you'll see that you have to do. 
+Create a digital delay. 
+And that means that you'll need to. 
+Reading some audio. 
+Do it somewhere so that you can put you back into the outpost later. 
+Right now iso. 
+Doing some other. 
+If you want to know. 
+Invocation of process blog. 
+So the labour is basically a big long. 
+Buffalo 40 samples that will store what's coming in so that whenever we need it. 
+Will it really back and put it back into the. 
+I saw this example kiara i'm setting the size of a 2-1 which is of course very small that's what you want sample that's not going to be enough. 
+Error:
+But i just decided to set things up. 
+Your job is to figure out what value you need to have here so that. 
+The labour fraternal cold enough. 
+What is data. 
+43 seconds of audio as required by the sm. 
+Assuming you said this variable correct length. 
+Error:
+Beacon set the size of your buffer this way you have two channels. 
+And i've. 
+Error:
+Thanks. 
+Error:
+You play with to make sure he has. 
+No random data ain't it maybe it will go back and start the proxy to your outfit. 
+Iso addendum process play you should have. 
+Error:
+About fur clear about for long enough to hold all day that you might need. 
+2. 
+Start. 
+Now you not process block with you of course. 
+Other job here. 
+They sound. 
+Go to the beginning. so you can you don't have to do anything about. 
+About if you can just leave it there. 
+Error:
+Mostly deals with if you have situations where. 
+You're plugging takes more than two inputs. 
+Produces more than 2 outputs. 
+Then you may have to deal with some of those situations. 
+You know case we'll we'll stick with stereo input and output so. 
+We don't really have to worry too much about that. 
+I apologize the code. 
+So which all the sudden. 
+What's happening down here. 
+And. 
+You notice that for now. 
+The code. 
+Error:
+Deals with. 
+It's channel all the time. 
+Nice way to fold up for china 02. 
+Telephone number of people channels. 
+Right so and says we have a. 
+Stephen puth. 
+It means we have a channel zero and son at 1. 
+Error:
+For left and right. 
+Speakers. 
+Okay. 
+So most of the assignment 2. 
+We work the same voice channel. 
+Right now will take. 
+Whatever is coming in this house. waiting the buffer. 
+Another video by khalid. 
+The last little bit about the ping-pong delay. 
+We'll have to settle make sure we put things in the right channel. 
+About time. 
+Most of the time we're just. 
+Dealing with one channel. 
+What's your data. 
+Out of time. 
+Isola's focussing on the first channel. 
+And see what it will happen. 
+So. 
+This is the way we get a right pointer. 
+Into the input buffer right so buffer is the input buffer to audioblocks so that that is a buffer of audio samples. 
+Bright dust. 
+But this is a series of real numbers. 
+Representing a rodeo. 
+If my baby wants to make you look at all the material for digitizing audio. 
+Error:
+You so that we'd. 
+Store the data. 
+Regency 16 beso 24-bit integers. 
+But. 
+Error:
+Any. 
+Jw digital audio workstation. 
+Error:
+Oou framework that juice will actually deal with these numbers real numbers from -1 to 1. 
+So and that's how just oceanworks rachel. 
+We'll see in a second when you print out some of those values that they're always between -1 and 1. 
+All right so this is a buffer we get a ride find it right turn before it right. 
+Set up a provisional with start a position zero in the buffer. 
+Error:
+If you later on me to write someone in the middle of some buffer you can. 
+Change the second part m to. 
+Do whatever you want. 
+I so we'll start easy for us to start reading and writing. 
+Paintoo. 
+Ar upper. 
+No. 
+Will send it before we getting the number of samples of officer this is basically. 
+The size of the buffer. 
+And that's because we need to mentally go through each sampling about 4 in the follow-up coming up. 
+Error:
+Iso. 
+Basically we do we go through the samples and decide what to do with him. 
+It is example of what i'm selling uae's basically multiplying it's sampled by some value. 
+To make the overdose sound louder or quieter. 
+So this goes here right i says sample. 
+Audio processing code delete for am is not really part of the delay. 
+You're not supposed to change the volume of things. 
+I just give you an example of how do you deal. 
+Paying for data. 
+Icreate out today. 
+Iso data. 
+Is a pointer. 
+Then we have to. 
+Lin's buffet which is also the apple golfer night this is what we deal with. 
+What is the input to the process bell gossip is the alpha twins process drug is finished. 
+And we can use basically point arrangement take remember for. 
+20:31. 
+This is a way we can actually access data later on in the buffer and we can go. 
+1 items about 4 at the time. 
+So they do vice versa vif element. 
+Error:
+Sowell. 
+That's what we do so here we read. 
+Ensemble. 
+I say we get the volume. 
+X the volume volume boost original h1 volume. 
+I then started again into the buffer in the same place. 
+I so we just changing. 
+That i can so far everything in the buffer. 
+And i said. 
+That's all this code does. 
+And what is a jumbo with no twins doing it delayed yet so. 
+I will demonstrate it. 
+Error:
+Just a boy. vista record. 
+Also provides. 
+Error:
+Elevator first article about the delay. 
+I'm saying all right we have this big delay buffalo we created for ourselves. 

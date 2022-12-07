@@ -1,0 +1,42 @@
+Which of these best captures Simon's conception of design from 'The Sciences of the Artificial'? Choose the best answer
+A) design is about making things to serve a useful goal and/or making tools
+B) design is about devising courses of action that are aimed at changing existing situations into preferred ones
+C) design is a paid professional practice
+D) design is a basic human activity
+ANSWER: B
+Which of these best captures Friedman and Stotlerman's conception of design from 'Design Thinking, Design Theory'? Choose the best answer
+A) design is about making things to serve a useful goal and/or making tools
+B) design is about devising courses of action that are aimed at changing existing situations into preferred ones
+C) design is a paid professional practice
+D) design is a basic human activity
+ANSWER: A
+Which of these best captures the conception of design in the resource pack? Choose the best answer
+A) design is about making things to serve a useful goal and/or making tools
+B) design is about devising courses of action that are aimed at changing existing situations into preferred ones
+C) design is a paid professional practice
+D) design is a basic human activity
+ANSWER: D
+Which of these best captures the idea of deficit-based thinking'?  Choose the best answer
+A) it looks at the world through the lens of wanting to find solutions to problems
+B) it looks at the world through the lens of wanting to create opportunities from what is already present
+C) it looks at the world through the lens of wanting to find solutions to problems that don't yet exist
+D) it looks at the world through the lens of wanting to create opportunities from current shortcomings
+ANSWER: A
+Which of these best captures the idea of asset-based thinking'?  Choose the best answer
+A) it looks at the world through the lens of wanting to find solutions to problems
+B) it looks at the world through the lens of wanting to create opportunities from what is already present
+C) it looks at the world through the lens of wanting to find solutions to problems that don't yet exist
+D) it looks at the world through the lens of wanting to create opportunities from current shortcomings
+ANSWER: B
+According to Robertson and Robertson (2013), what are 'un-dreamed-of" needs?  Choose the best answer
+A) Those needs that users have, but are unaware of
+B) Those needs that users have and are aware of, but they don't even dare to dream can be addressed
+C) Those needs that users don't yet have, but can be elicited through the task-artefact cycle
+D) Those needs that users don't yet have, but should have
+ANSWER: A
+What is UX design (in comparison to UI or IxD design)?  Choose the best answer
+A) Design practice that considers the user's entire experience, as opposed to only  interactive experience or the interface's look and function
+B) Design practice that considers the user's interactive experience
+C) Design practice that considers the user's experience with an interface's look and function
+D) Design practice that considers the content and architecture for a user's experience
+ANSWER: A

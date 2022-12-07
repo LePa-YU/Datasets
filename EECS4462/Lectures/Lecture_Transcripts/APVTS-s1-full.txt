@@ -1,0 +1,328 @@
+Error:
+So let's take a look around at the code. 
+Give us the functionality that was showing the previous video. 
+Before a surgery that's all codes to know don't have to get it to compile. 
+As before the best way is probably to start a new project a producer. 
+Alexa plug in. 
+You can give it. 
+Jane everyone like on omega-3. 
+Create a project. 
+Alright so put it. 
+I know you want. 
+Error:
+Settings. 
+I should be fine you can all give you the company name if you want. 
+But everything else. 
+I will be okay. 
+Error:
+That is one thing. 
+Two notes. 
+The dump. 
+Just as nobody fault includes the module that does all that dsp the digital signal processing we need. 
+So before you actually export to your id. 
+Go to modules. 
+Glass automobile. 
+Global juice motorsports. 
+Just the espy. 
+So now. 
+Your project will include as well. 
+Click through exports i guess you'll be able to. 
+Now replace the default code with the starter code before. 
+Error:
+Allegations already have it. 
+Error:
+Xcode. 
+Okay so. 
+This looks a little bit to look at the second one thing at a time. 
+One thing you notice first is that i'm using a different way to deal with the parameters of the plugin. 
+Error:
+So far. 
+What we date is. 
+We didn't really do much with the certain variables that were served between the editor. 
+Processor. 
+And that was it. 
+Error:
+That means that those were. 
+24-hour code no one else could know about these parameters. 
+Error:
+And that's in the more general case. 
+Open the. 
+Login host would like to know the value of different parameters in fact. 
+You might have noticed.. 
+On the audio blogging the houston the plugins with it so far. 
+If you paint a am and then. 
+Close. 
+It wasn't a big deal so far cuz you didn't have so many parameters. 
+But going forward. 
+Comedy. 
+More of a problem. 
+Search moana 2. 
+Allows us to know the value of different parameters we have a plugins. 
+The real world is actually very important. 
+If i fix you. 
+Put your plug-in in a real. 
+Dawnlod workstation like a platano pro tools. 
+Then those. 
+Does does they need to occupy motors. 
+Because they provide all kinds of services like automatically change. 
+The parameters for your plugin. 
+There's a process called automation that. 
+You can actually save you. 
+Hopsy. 
+Error:
+I filter. 
+To do. 
+For the whole song. 
+Then you can change their value so so sorry as the song goes along so. 
+Can i have different filtering for the verse versus the coral springs auto parts in someone. 
+So that means.. 
+Digital audio workstation will need to actually change the parameters of your plug-in so. 
+That won't be possible unless we use the mechanism that will show you here. 
+It's actually quite handy. 
+To do so. 
+Muscatine iowa to do so much more. 
+Error:
+Okay so let's talk about first so you'll notice that the first highlighted is this class called. 
+Audio processor value tri-state. 
+It's a. 
+Brother. 
+Cumbersome name. 
+But that is a. 
+Placer basically parameters. 
+For a plug-in. 
+You can look it up look at it. 
+Error:
+If you want has a whole bunch of things anything you can do. 
+Error:
+But morgan illegal because these things. 
+Called. 
+Sliders menu button attachment that will see in a second. 
+Layout. 
+Alright. 
+So. 
+Error:
+So let's take a look at it. 
+And. 
+I'm just a clearing as you can see and also preserve state. 
+Becoming a pvts for audio processor value tri-state. 
+And that's republic so basically all my classes. 
+All my files going out to sit. 
+And. 
+In terms of private server have. 
+Error:
+Apartment layout so the fania any class for a gopro silver valley tri-state. 
+And then have a methods here that would like to create a properly. 
+B o. 
+We'll see when we go to the sippy follow what that means. 
+Okay. 
+So. 
+Let's see when we go to a processor file. 
+The first thing to notice says.. 
+Intelligence analyst at the beginning whining in the constructor of a processor. 
+Wilson tennessee allies are. 
+Error:
+Valley tri-state. 
+Alberta parmiter's. 
+Error:
+What is the processor that this is the first so i care. 
+This class will be the procedure. 
+Error:
+What's golden undo manager. 
+So4. 
+Modbus plugins that youtube account of changes of am and maybe you didn't like him she going to go back to what you had before you were actually using the plugin for for music production. 
+It's important to have to redo operations. 
+You're not going to work with this so i have no pointer. 
+But just that provide kind of purpose. 
+There's a stinky. 
+Is the name for this volatile state. 
+What is km. 
+And there's the metal that will create actually the parameter layout to myself this is a matter of declared already in my toilets well. 
+I'm giving you here. 
+Panda. 
+We can go. 
+28. 
+Error:
+Directions to say what what he does. 
+I saw soon as my birth certificate gets constructed this metal run. 
+Error:
+What do you do. 
+Vigour. 
+Error:
+It'll create bicycle am. 
+And return the layout object. 
+Error:
+And how do we do this well basically we can all parameters to the layout and what will give it is actually a pointer to. 
+Audio parameters are there float or in. 
+And. 
+Individual cohere. 
+I'm actually making a eunuch pointer right this is a surplus plus way of creating a pointer. 
+Safeway. 
+I could use new but the more than way of doing it is to. 
+Do you guys make unique. 
+And. 
+I'm basically creating 6 pm that was also in the demo. 
+I told him i float switches are there the full sliders. 
+Provide. 
+Name the first paramedic here is how i would find the premier later in my code right. 
+Convention is to healthily capitals. 
+This is how the hostile refer to the speedometer right so if the hotness to. 
+Change it. 
+Error:
+Text i want to use. 
+And. 
+The rest is basically the reins. 
+From tiny to 20,000 for example his frequency slider. 
+Find the default army. 
+So. 
+Those four for the snider. 
+Error:
+Between the descale are for the combo boxes. 
+I'm saying this but it's 124 1224 my to come about this and this is that default selection. 
+So you can see it's a very nice way to have all the times you have in your plug-in in one. 
+Place all the rangers default values. 
+And. 
+Though so get creative and they're ready for you to do something. 
+Error:
+So. 
+Well. 
+How we going to. 
+Actually i use them. 
+Let's see. 
+Error:
+We have to sort of connect them. 
+Components right so. 
+The reason we going to our editor to see how to do that. 
+Hisun all processor has whole bunch of parameters ready. 
+But we having a tax company good company get. 
+Also we having. 
+Retrieve their value stew. 
+To get some yet. 
+So here to see that those days fall. 
+Declare. 
+All kinds of pointers. 
+Price is a eunuch binders to. 
+These types to slider attachments of combobox attachments that we saw. 
+Bapi. 
+I think this is the names for the responders. 
+Iso. 
+Basically what i'm saying is okay. 
+I want to have. 
+Error:
+An object affect slide with astronomical. 
+Error:
+I'll make sure that this is a test to. 
+The right slider and the right premiere. 
+Right so. 
+The slider attachment object is the one that will make a connection for us. 
+So boys are the parameters create the corresponding. 
+Attachment disorder button attachment if you have. 
+Get ugly. 
+Okay. 
+And then we get to our i do do cpr constructor care of editor. 
+What was at the size and. 
+What is the style for the sliders and the combo boxes what are the different options i can buy boxes. 
+So. 
+This is standard apa you noticed that are supposed to be forward or when we. 
+Initialize the sliders. 
+Wilson provided. 
+Arrange a default value we don't do that anymore here because that would be provided from the parameter itself. 
+I saw i'm just setting up a slider as to how it looks. 
+Nothing about the values of the moment. 
+Later on kira. 
+He's what actually make that connection. 
+Between our values. 
+The slightest right soap. 
+I declared it pointed to an attachment in my daughter's file. 
+Here's one where i'm creating this morning with making it. 
+I saw this is the type very long. 
+So i'm making this pointer. 
+Error:
+And. 
+Osaka allows me to say okay. 
+What is. 
+That. 
+Vale three states that closed all the parameters. 
+This is where. 
+You'll find it. 
+Which vitamins are from italy amount right so using. 
+Drinks to access different parameters so it's important. 
+Do use exactly the same. 
+Error:
+Set of characters right. 
+Capital murder in san juan. 
+So find spotify recalled cutoff. 
+And connected. 
+To the slider is the cutoff slider. 
+And that. 
+Mexican hampden and i do that $4 sliders i know the combo boxes. 
+Error:
+So. 
+What i've done so far. 
+Is. 
+Error:
+Created apartment layout for 6 p.m.. 
+Spirometers. 
+Created. 
+Of course whole bunch of components. 
+And then. 
+Craigslist. 
+Attachment objects. 
+The alarm to connect a quick morning to one of these parameters. 
+And this also. 
+We'll give the slider it's arranged and its default value. 
+Error:
+Alright. 
+John cena's left tens of this whole arrangement. 
+Used to see how would we actually use. 
+If i use a spirometer so now. 
+When i'm moving the slider then. 
+Lisa totman object mixers that make sure that. 
+The parameter. 
+Be my valentine's date. 
+Gets changed. 
+So what i need to do in my processing code is to grab the value of different parameters. 
+Music. 
+Error:
+So if i go. 
+Talk to my brother discovered. 
+Yeah i'll give an example. 
+Okay we do this and then we'll look at it again. 
+We look at this coat again when we get to the actual. 
+Processing. 
+Right so this is the part. 
+That. 
+I'm actually accessing the body of his brother so how this matter told update affects which i'll explain. 
+Maybe later. 
+But this is where i actually do. 
+Error:
+Say okay what does acquittal mean that the user wants those values. 
+And then. 
+Process the audio accordingly. 
+So notice. basically i'm using. 
+This matter gold gather up the volume. 
+For my value thursday. 
+And i give it again. 
+The unique strangler identifies a barometer. 
+And i give you a name. 
+Basically that the body that i want and i storage. 
+Aidonia float for the sliders or an infidel choices in the combo boxes. 
+And now in my processor cold i have the body of this for a ride to go. 
+So that's good. 
+Very nice. 
+And hyundai and. 
+The next video. 
+We'll all go and see how we have to use these parameters. 
+Too hot to process the audio. 
+Holistic scare. 
+A whole degree park. 
+Right you can look at the rest of the glee called he's just sitting out things nicely place them in different positions on someone. 
+You know a lot already. 
+Error:
+So. 
+The rest. 
+What remains now is to see how we use this parameters to. 
+Actually. 
+Error:
+Taints process.. 
+Error:
+Error:

@@ -1,0 +1,227 @@
+Error:
+Right now officially good morning to everybody so this is. 
+I work in session right tyga the way we're going to run the course as you probably have figured out by now. 
+You still be charged for you to work with your teammates and come up with questions asked me in your breaker drums about particular questions about your project. 
+But of course i will address questions from the whole class at the beginning and we'll take it from there so. 
+Feel free to post your questions in the chat already have a question to do to get started with regards to some of the material that you guys went to this week study material for this week so. 
+Go over that then i can take them all around. 
+Discreet questions if you want. 
+About that. 
+So. 
+Let me. 
+Set my screen here. 
+With a slides that describe how you should organize your branches and i think the costumes are around.. 
+Hi so i left this. 
+Error:
+I meant to make sure have the tattoo visible here. 
+Error:
+So let this slide up here 22 getting started. 
+Because i think you certify summarizes the idea and i'm happy to sort of. 
+Going to more details if you want about it. 
+Error:
+But. 
+The idea is that in a real system right i have definite more than one branch right there's always the master browns were at the end of the day that's where the system lives but. 
+Aaa most cases what you have there is really. 
+Stable releases for the system as you are working on things breaking things you don't want to have those things on the master branch right so the idea is then that we have only. 
+Releases of. 
+In every living any official way to get comfortable is table like i know everything is implemented but what is implemented. 
+Kind of watch. 
+So as you can see then the guy going to write that you have a strong version 11.1 on and so on. 
+And a lot of the work of getting to those releases happens on a separate bands called the galliprant right. 
+So you can see that developer oz. 
+Pause more. 
+Call macy in atlanta on the master bedside this jumble right and. 
+The idea is that different developers work on the wrong branches right then sinks into the development and then when you are in the developer and then from there you can sort of 30 is what we have here looks good enough for release let's just take it to the master bath if you want. 
+So and get flow you can say that. 
+And in the third committee that develop around here that say we decided that this looks good enough so now we brunch way into a release branch and. 
+I got something i give my do you know if you want. 
+You might find that in your case you get mom to go directly to the master and see if you don't if you prefer are the release browns recipe says okay we got everything out of the development so people that i develop different fishes can continue without but now the release branch is only getting ready for the release running even more intense testing of this possibly making some little changes. 
+Error:
+And that's why i said some of the goals for this week was to basically i'm now the way you should treat the master branch in your repository is it always has the latest working version of your system. 
+Sewing a sense you could be coding a whole bunch of other things and what you have in your own monster bars.com paula cuz you didn't you have problems but what's your new your masterbrands is always there so in a sense if your customer i want to see where you guys are at. 
+There's no excuse anymore that says yeah right now i will show you later because you can always. 
+Switch that must have been sent wrong so it must have been and always has something that can run and demolicious them. 
+The last thing that sort of work for the system so. 
+And there's other things such as. 
+Hotfix branches that don't apply to us too much because we don't really have released is that we'll go out to the user base and people will come in the back reports right. 
+But if this if this was a real system already put version 1.0 out there. 
+It could be about that comes out that's kind of the way for the next release. 
+To the prefix so you might but i'm take away from the most advanced fix it and merge quickly into the back into the master branch and as you can see this example of those changes of course into the developments.. 
+Originally you fix about the test to make sure we don't propagate it because the buggy toe is still in the development right so there's still if you were going to do this kind of things and maybe towards the end of the course if you realize which box will also do a little section where you get bug reports from other teams and someone. 
+Newcastle to fix them using this kind of approach if you want. 
+Error:
+Las vegas. 
+I sort of asked for everybody to have their own future branch if you want right so when you're working on what you supposed to do as an individual developer right as you can see at the bottom of this picture you branch away from the developments at some point so whatever then the whole team has together and you brought you some coding and then to like a couple commits by yourself right back into the development. 
+So you do go work for the week just before say that the lecture you something you want to merge back into the grounds and supposedly back into the most advanced. 
+B o. 
+The one thing that is a little different in our case than what might happen in reality is that those branches that. 
+You sort of work on. 
+Before you met back into the door lebron's are personal brand says you can keep them around in your own repository if you want but you don't usually put them so you'll get you up in our case we do that and that's for the purposes of seeing the individual contributions of everybody in the thing so what does this all mean for you. 
+Your. 
+What club should be a new feature. 
+Let me create a new feature branch or meds from the celebrants went back into my personal brands do cold medicines packing to the develop branch and. 
+Eventually or maybe the coordinator that you have will merge into the masterbrands so that it's ready for it for them going to tell the customer if you want. 
+Alright so that was kind of like an overview of of the idea of. 
+Huggies lewis structure. 
+Error:
+Error:
+I don't know how well that. there's the other question you had let me know if you got held over this more more detail that is likely to settle california. 
+Thank you for explanation i was actually wondering on the actual process of merging using eclipse. 
+Because we were practicing merchants in our last meeting. 
+And i know she is bad when i merge it doesn't automatically show on github so my teammate cannot. 
+God like when they pull they don't get the things i did. 
+But instead be like me to make sure that they get the changes we have to go and do a pull request on github south. 
+I was wondering if like is possible to do the merge right on a cliff and it just automatically shows on the black development branch. 
+Right so develop ranch and your personal brand should all be pushed to get him right so i think probably will answer your question innocence if all you have is the master branch and of course you're not going to say anything emerges you dated the developments on your local airport. 
+Right someone supposed to get up and then if you make changes to 28 english repository you supposed to get a well. 
+I see that it doesn't do guys. 
+That's right so. 
+Geeta by geeta concerned they're all branches that don't understand the significance of the galliprant for the matter it has branches so if you've decided not to push it and then i'm going to assume that you should push it into it without you telling them. 
+Push all these branches to to get up. 
+Okay great thank you. 
+This desoto conductor for flow right most of those forces should be done from the development. 
+Right cuz that's how the development is amanda 13 shares. 
+Right that's where you pull from to say what what the latest version that everybody's working on it in and that that's where you push your changes back right then masterbrands can stay until. 
+Maybe you're coordinated or as a teammate we decide to go this latest thing we have that development is good with just merging into the master brand and polish that change but that might happen only like once a week write a lot of the work the daily work on the thing will be under development. 
+And your own personal brands your teammates shouldn't need to receipt it says therefore for the extractor i get to it to take a look at about you can push it to get up at any time doesn't matter. 
+Error:
+Error:
+Error:
+Error:
+Let me take care of the question for my buick. 
+Error:
+Mostly use the merge feature with an eclipse but do you recommend that. 
+Beyond snow try using at the portal quest. 
+Because. 
+Distribution army in the bus. 
+Question. 
+It really comes down to how you organize your team right there's different models. 
+And i'm deciding no to getting to that in this course as to not complicate things 2 months but basically you can have. 
+The moto that i've described already where everybody in the team has access to the gorilla bronx and the monster browns so they can make changes right. 
+In that case that requires a bit more of communication between the team minor meetings to decide when to do this thing's officially merging into the master branch would be that only one person has access to a branch that say and if you want. 
+Close to be the developments if you want to actually put changes to those things then they have to show her prove it right so then you have to do it through a pull request mechanism. 
+Error:
+That sort of requires that. 
+Whoever's in charge of those. 
+Granted that do have a more important role in between and it's possible to organize your things like that so i would say that i mean you guys already had some discussion agreement right so hopefully you understand it'll be better how your team is structured so if that's the case i have no problem if you want to use that kind of mechanism. 
+A real development teams do use it right in the real world will have seen your developers that have. 
+Britax has two different branches and general developers that can only do pull requests right. 
+If you if you want to organize your team about way absolutely go for it but i guess. 
+I'm trying to avoid creating situation where someone has more power over other teammates by using the collaborative model 44 this crust is on the same page then that's fine. 
+Error:
+Thank you and quickly and as question that you mentioned that we could use right now we could use a member has their own branch. 
+Error:
+You think i'll be better if we switch to feature-based pouches baby it's about you. 
+Empty chairs in the bronx. 
+I don't recognize this goes. 
+The deployment of fafnir the person promises to make it obvious what you up to develop for the project innocence again if if your team is functioning very well it is not going to matter but. 
+Is it amazing has a source that says people think that the others are not pulling their weight then. 
+Documenting what you've done by having a personal grants is the way to do it right so that's why i'm asking to it to have a person brought inside of a future branch. 
+If you want to have multiple bandage for yourself for different pictures that's fine dust. 
+How's your name somewhere in there and then that also work. 
+Thank you. 
+Error:
+I have a question in the child. 
+About having separate branches for different things and they say the gooey versus the buck and have different branches. 
+That is definitely fine in separate feature branches right if i imagine one member of the team may be working on a groovy and other work another back and i so they can have different branches for these kinds of things but definitely there should be only one developments in oregon master france24 the whole thing right so you can have different parts. 
+By the only ones available cuz otherwise we'll have lots of trouble figuring out where is the right person write the development is for the team to integrate everybody's called right and it's sort of your nightly builds he want and the most advanced is your stable releases so those have to be there for sure and there's only one of them separating different parts of the system that's why you have the feature branches over the personal plantation. 
+Error:
+Error:
+Alright. 
+Before 2 since i don't have any questions just yet let me mention a couple things. 
+And then i will continue with my questions keep putting them in the chat. 
+So thankful for everybody. either team agreement says a thing most wanted to the heavens so if you haven't please do it very busy today. 
+Hopefully you found out the helpful in terms of organizing your team. 
+Also obviously a reminder for those haven't done it yet is that tonight we have a submission deadline right so he's just a meet the other day after your requirements document in a preschooler by midnight. 
+And i'm happy to take questions about that as well if you would like i know something's have already done it again. 
+Everybody every member of team master login to peerscholar and join their group. 
+Even if you know the person submitting. 
+Because this is the way to actually enter the depere assessment and receive requirements looking to provide that feedback on later on so i know most of you have done it but the definition of the happens. 
+Make sure to join the peerscholar. 
+Group. 
+Today before midnight otherwise you'll be excluded from this assessment. 
+Error:
+Am i raised your question regarding related to this. 
+Yes is about the team agreement so as long as one of our teammates submitted it should be fine right because one of my two missed it but the rest of us cannot see that submission. 
+Yeah only one person from the team needs to submit it. 
+Okay great thanks submitted on behalf of the whole team right. 
+Read the agreement agreed on it right now. i'll send it in for record-keeping really i'm not going to really. 
+Do anything with it unless problems can arise right. 
+So with regards to the preschooler since i mentioned it and i have a question is not there. 
+Error:
+Quickly maybe so you only class about. 
+Error:
+Please do a little demo so that time you can say it. 
+Error:
+Lancer my screen again. 
+Error:
+All right so only class. 
+Guy doesn't really say peerscholar but mrs. sussman tonight so that's the one you want if you click on it here it will take you to. 
+To the peerscholar page. 
+Your view would be living different than mine cuz i have the profession of you but. 
+There will be a. 
+I wait for you to join your group will ask is johnny bulbasaur doing the group for the same number as your group number. 
+And. 
+If you're not the one actually making this omission that's all you need to do for now. 
+Error:
+Error:
+One member of your team will actually have to use the interface a collar and submit the requirements document by tonight. 
+Okay another thing i wanted to mention. 
+Is. 
+Looking a bit further in the car's not tonight. 
+So one of the things that i did. 
+I guess yesterday was to actually post for the midterms emission was obviously a big part of the course is 30% of your mark so. 
+Yeah so brobee. 
+Found that while i was at 7 spring but let me do that again. 
+Error:
+Let me fix that quickly. 
+I told on a wiki page if you go to the evaluation table which usually go there but if you do you'll see that little change there's a trooper care for for the medusa mission so download it and so you'll see all the different components which it shouldn't be surprised that the requirements document and the thing that is related to the material for next week and there is a testing document. 
+Very quickly it's basically describing the testing that you'll do for the system to us right so i know that another courses you've already used the unit to do some sketches this is a real software system so we'll have to have this cases that later on when you'll be making changes or fixing bugs and savannah if you don't have to stay since you will be really in the dark as to okay did i fix a bad kitty. break everything right so it's important to as you are. 
+Committing code the system to actually have test cases for that coat right in the real world. 
+There's no way that requires that you make will be accepted a new application code if he doesn't have testicle to go with it right it was a good night friend so i'm not going to be as tricky understand that this is only one course of the whole job so but it is important to have test cases for a code and we'll expect to see that. 
+So the testing document basically describes the test cases that you have created to us as to what are you testing why do you think that's good testing and this like that. 
+In a sense we're not going to look at the code to see what you texted you have to shove it describe it to us right now. 
+And complete discussion of all the components of your midterms ambition of course in the next week or the week after i provided more details as to how to set me and things like that. 
+But hopefully we already gave you a pretty good idea for things you should be thinking of as to what you need to have ready for february 28th august. 
+Alright. 
+Let me see i don't see any more questions in the chat at the moment something else anybody would like to ask. 
+Error:
+Error:
+Yes go ahead. 
+Requirements that we have in our document cover for some of them correctly driving yes. 
+Innocence my level expectations for the meeting will be the examples i provided my test cases right. 
+Should probably pick up in a sentence for if you shooting for a class at the mid-term those at least should be working right and then we'll see that will be new requirements of things to fix for for the final submission. 
+But the level 22 m4a is that at least they jumbo separated i can see them on the screen now. 
+Maybe not every possible a requirement to get come up with would work especially if you have requirements that you thought of that cooling and the customers excited for the final submission for sure. 
+Bantams of at least having a visual view maybe it's not as customizable as it could be or things like that. the level that i'm expecting for them. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Alright so. 
+Adobe saying wicked goals is. 
+We should be on point where you should have something to demo the cure customer right like i supposed to be able to see and say well i like what you going to do that. 
+So hopefully what will happen as soon as i opened that. 
+Give me will call me and tell me something and ask for my feedback as the customer you should be at the point where something's out there. 
+You still feeling inner core celebrity tails that are equally happening with some out but hopefully i'll see some of that today definitely by next week everything should have something otherwise we probably are quite behind to to get everything for the midterm. 
+Questions. 
+Error:
+Error:
+Alright so no further questions in the rooms and has before you can use the app for help button. 
+And i'll get to your room as soon as i'm done if i may take a little bit. 
+A lot of things related show me things but i'll definitely make sure to come into every room that he's asking for me. 
+All right so i'm hoping these and i'll see you either. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Alright let me add stop the recording here. 

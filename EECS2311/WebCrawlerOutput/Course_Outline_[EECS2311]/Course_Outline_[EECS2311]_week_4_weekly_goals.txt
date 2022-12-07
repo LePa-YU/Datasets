@@ -1,0 +1,7 @@
+Week 4 (to be completed by Wednesday, February 9)
+Weekly goals
+Understand JUnit
+Start writing test code for all the application code in your project
+Start documenting the tests you are creating in a Testing Document (it will be part of the midterm and final submission)
+Provide feedback on the Requirements Documents you will be assigned
+Have a prototype of your system that runs end-to-end to demonstrate to your customer at the end of the week

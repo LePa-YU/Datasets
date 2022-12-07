@@ -1,0 +1,3 @@
+Week 5 (to be completed by Wednesday, February 16)
+Lab task
+For this week's lab task, you must complete set up of debugging with Gradle in Eclipse.

@@ -1,0 +1,379 @@
+Course: LE/EECS3461 A and B - User Interfaces (Fall 2021-2022)
+Skip to main content
+Side panel
+eClass
+English ‎(en)‎
+Deutsch ‎(de)‎
+English ‎(en)‎
+Español - Internacional ‎(es)‎
+Français (Canada) ‎(fr_ca)‎
+Français ‎(fr)‎
+Italiano ‎(it)‎
+Kiswahili ‎(sw)‎
+Latin ‎(la)‎
+Português - Portugal ‎(pt)‎
+Русский ‎(ru)‎
+עברית ‎(he)‎
+العربية ‎(ar)‎
+فارسی ‎(fa)‎
+한국어 ‎(ko)‎
+日本語 ‎(ja)‎
+正體中文 ‎(zh_tw)‎
+简体中文 ‎(zh_cn)‎
+0
+Notifications
+You have no notifications
+See all
+0
+Elias Bestard Lorigados
+Dashboard
+Profile
+Grades
+Messages
+Preferences
+Help Centre
+Log out
+Switch role to...
+LE/EECS3461 A and B - User Interfaces (Fall 2021-2022)
+Edit settings
+Course completion
+Filters
+Gradebook setup
+Outcomes
+Backup
+Restore
+Import
+Restore to default
+Reset
+Repositories
+More...
+Dashboard
+My courses
+LE/EECS3461 A and B - User Interfaces (Fall 2021-2022)
+Turn editing on
+Hide course
+Topic outline
+Module 00: Intro (half week)
+Intro for the courseModule00 | Class Meeting Dates: Wed Sep 08 or Fri Sep 10Non-flipped module
+Module 01: Basic Concepts & Dark Patterns
+.Module01 | Class Meeting Dates: Mon Sep 13; Wed Sep 15 or Fri Sep 17; Mon Sep 20Non-flipped module
+Module 02: Research I Module02 | Class Meeting Dates: Wed Sep 22 or Fri Sep 24; Mon Sep 27Flipped module
+Module 03: Ideation/Generating Alternatives I
+.Module03 | Class Meeting Dates: Wed Sep 29 or Fri Oct 01; Mon Oct 04Flipped module
+Module 04: Prototyping I
+.Module04 | Class Meeting Dates: Wed Oct 06 or Fri Oct 08; (reading week); Mon Oct 18Non-flipped module
+Module 05: Evaluating/Testing I
+.Module05 | Class Meeting Dates: Wed Oct 20 or Fri Oct 22; Mon Oct 25; Wed Oct 27 or Fri Oct 29; Mon Nov 01
+Module 06: Research II
+.Module06 | Class Meeting Dates: Wed Nov 03 or Fri Nov 05; Mon Nov 08; Wed Nov 10 or Fri Nov 12; Mon Nov 15
+Module 07: Ideation/Generating Alternatives II
+.Module07 | Class Meeting Dates: Wed Nov 17 or Fri Nov 19
+Module 08: Prototyping II
+.Module08 | Class Meeting Dates: Mon Nov 22
+Module 09: Evaluating/Testing II
+.Module09 | Class Meeting Dates: Wed Nov 24 or Fri Nov 26; Mon Nov 29
+Module 10: Third Paradigm HCI
+.Module10 | Class Meeting Dates: Wed Dec 01 or Fri Dec 03
+Module 11: Course Outro
+Course Outro; Wrap UpModule11 | Class Meeting Dates: Mon Dec 06
+3461f21 Content Bank
+Skip Administration
+Administration
+Course administrationEdit settings
+Course completion
+UsersEnrolled users
+Enrolment methodsCourse meta link (LE/EECS3461 A - User Interfaces (Fall 2021-2022))
+Course meta link (LE/EECS3461 B - User Interfaces (Fall 2021-2022))
+Groups
+PermissionsCheck permissions
+Other users
+Filters
+ReportsCompetency breakdown
+Dates
+Insights
+Logs
+Live logs
+Activity report
+Course participation
+Activity completion
+Statistics
+Gradebook setup
+Outcomes
+BadgesManage badges
+Add a new badge
+Backup
+Restore
+Import
+Restore to default
+Reset
+Question bankQuestions
+Categories
+Import
+Export
+Repositories
+Skip Activities
+Activities
+Assignments
+Chats
+Choices
+Databases
+External tools
+Feedback
+Forums
+Glossaries
+Group choices
+Journals
+Lessons
+Media collections
+Quizzes
+Resources
+Wikis
+Workshops
+Skip DemoStudent View
+DemoStudent View
+You are currently seeing the Instructor view.Create and enrol DemoStudent in this course.Create a DemoStudentCreating a DemoStudent account enrolls a user called DemoStudent
+into your course.
+You can then log in as your DemoStudent to test
+different student experiences in your course.
+Skip Latest announcements
+Latest announcements
+Add a new topic...
+1 Feb, 17:39Melanie A BaljkoResearch Opportunity for Students: AcTinSite Research Project
+14 Jan, 11:03Mana PoustizadehFinal Requests
+12 Jan, 07:50Mana PoustizadehMessages on the PVO
+10 Jan, 20:40Mana PoustizadehGrades Submitted
+7 Jan, 16:05Mana PoustizadehIssues with the Grade Book are Resolved
+Older topics ...
+Skip Calendar
+Calendar
+◀︎
+|
+August 2022
+|
+▶︎
+Monday
+Mon
+Tuesday
+Tue
+Wednesday
+Wed
+Thursday
+Thu
+Friday
+Fri
+Saturday
+Sat
+Sunday
+Sun
+No events, Monday, 1 August
+1
+No events, Tuesday, 2 August
+2
+No events, Wednesday, 3 August
+3
+No events, Thursday, 4 August
+4
+No events, Friday, 5 August
+5
+No events, Saturday, 6 August
+6
+No events, Sunday, 7 August
+7
+No events, Monday, 8 August
+8
+No events, Tuesday, 9 August
+9
+No events, Wednesday, 10 August
+10
+No events, Thursday, 11 August
+11
+No events, Friday, 12 August
+12
+No events, Saturday, 13 August
+13
+No events, Sunday, 14 August
+14
+No events, Monday, 15 August
+15
+No events, Tuesday, 16 August
+16
+No events, Wednesday, 17 August
+17
+No events, Thursday, 18 August
+18
+No events, Friday, 19 August
+19
+No events, Saturday, 20 August
+20
+No events, Sunday, 21 August
+21
+No events, Monday, 22 August
+22
+No events, Tuesday, 23 August
+23
+No events, Wednesday, 24 August
+24
+No events, Thursday, 25 August
+25
+No events, Friday, 26 August
+26
+No events, Saturday, 27 August
+27
+No events, Sunday, 28 August
+28
+No events, Monday, 29 August
+29
+No events, Tuesday, 30 August
+30
+No events, Wednesday, 31 August
+31
+Hide site events
+Hide category events
+Hide course events
+Hide group events
+Hide user events
+Hide other events
+Skip Course Progress (to date: Module00-Module01)
+Course Progress (to date: Module00-Module01)
+NOWProgress: 0%Mouse over or touch bar for info. Show all infoParticipate in Module00 Class Meeting CM01Not completed Expected: 10 September 2021Participate in Module01 Class Meeting CM02Not completed Expected: 13 September 2021Participate in Module02 Class Meeting CM05Not completed Expected: 13 September 2021Participate in Module02 Class Meeting CM06Not completed Expected: 13 September 2021Participate in Module01 Class Meeting CM03Not completed Expected: 17 September 2021Participate in Module01 Class Meeting CM04Not completed Expected: 20 September 2021R-Humans-INot completed Expected: 20 September 2021Engage with with Resource Pack: R-Design-INot completed Expected: 20 September 2021Engage with with Resource Pack: R-Design-IINot completed Expected: 20 September 2021Practice: How to send an eClass Group MessageNot completed Expected: 20 September 2021Engage with Resource Pack: R-Humans-Icheck this as...Not completed Expected: 21 September 2021Module 01 SharingNot completed Expected: 21 September 2021Engage with Resource Pack: R-Interaction-INot completed Expected: 22 September 2021Engage with Resource Pack: R-Knowledge-INot completed Expected: 22 September 2021Module01 Team Dynamic FollowupNot completed Expected: 22 September 2021Practice: Zoom Breakout RoomsNot completed Practice: Check out the Course Discord ServerNot completed Practice: Greet your Learning Pod Mates in DiscordNot completed Practice: Greet your Learning Pod Mates using Group MessageNot completed Practice: Understanding Unlaunched and Launched Graded ActivitiesNot completed Mod01: Dark Pattern Analysis ActivityNot completed Mod01: QuizNot completed Mod01: Reflection JournalNot completed PRACTICE, Mod02: Miro Practice, Two Truths and a LieNot completed PRACTICE, Visit your (slightly revised) Learning Pod for Module02Not completed Mod02: Systems in the Wild ActivityNot completed Mod02: Systems in the Wild Activity SpecificationNot completed
+Overview of students
+Skip Grades pending for:
+Grades pending for:
+Grades pending for:Mod05: Heuristic Evaluation Activity (7%)Mod09: Reflection (2%)Mod10: Reflection (1%)
+Skip Library Resources
+Library Resources
+Research help by chat
+Ask a Librarian
+Subject guides
+Computer Science
+Course reserves
+Course Reserves
+Search library catalogue
+Notepad
+Download
+Share
+Notes
+Glossary
+notes
+New Entry
+Contacts
+Messages selected:
+1
+×
+Contacts
+0
+Settings
+Contacts
+Requests
+0
+No contacts
+No contact requests
+Contact request sent
+Personal space
+Save draft messages, links, notes etc. to access later.
+Delete for me and for everyone else
+Block
+Unblock
+Remove
+Add
+Delete
+Delete
+Send contact request
+Accept and add to contacts
+Decline
+OK
+Cancel
+Starred
+()
+No starred conversations
+Group
+()
+No group conversations
+Private
+()
+No private conversations
+Contacts
+Non-contacts
+Load more
+Messages
+Load more
+No results
+Search people and messages
+Privacy
+You can restrict who can message you
+Accept messages from:
+My contacts only
+My contacts and anyone in my courses
+Notification preferences
+General
+Use enter to send
+Delete selected messages
+Send contact request
+You have blocked this user.
+Unblock user
+You are unable to message this user
+See all
+LE/EECS3461 A and B - User Interfaces (Fall 2021-2022)
+Participants
+Badges
+Competencies
+Grades
+Course Home Page elements
+Module 00: Intro (half week)
+Module 01: Basic Concepts & Dark Patterns
+Module 02: Research I
+Module 03: Ideation/Generating Alternatives I
+Module 04: Prototyping I
+Module 05: Evaluating/Testing I
+Module 06: Research II
+Module 07: Ideation/Generating Alternatives II
+Module 08: Prototyping II
+Module 09: Evaluating/Testing II
+Module 10: Third Paradigm HCI
+Module 11: Course Outro
+Sprint 01
+Sprint 03
+Evaluation and Grades-MB
+Sprint 02
+Sprint 04
+Sprint 00: Getting Started
+Sprint 05
+Sprint 06
+Sprint 07
+Sprint 08
+Sprint 09
+Sprint 10
+Sprint 11 (Outro Sprint)
+3461f21 Content Bank
+Reflection Activities and Resources
+Dashboard
+Calendar
+Private files
+Content bank
+My courses
+LE/EECS3461 A and B - User Interfaces (Fall 2021-2022)
+LE/EECS3461 A - User Interfaces (Summer 2021-2022)
+Notepad
+Help and documentation
+You are logged in as Elias Bestard Lorigados (Log out)
+Reset user tour on this page
+Home
+English ‎(en)‎
+Deutsch ‎(de)‎
+English ‎(en)‎
+Español - Internacional ‎(es)‎
+Français (Canada) ‎(fr_ca)‎
+Français ‎(fr)‎
+Italiano ‎(it)‎
+Kiswahili ‎(sw)‎
+Latin ‎(la)‎
+Português - Portugal ‎(pt)‎
+Русский ‎(ru)‎
+עברית ‎(he)‎
+العربية ‎(ar)‎
+فارسی ‎(fa)‎
+한국어 ‎(ko)‎
+日本語 ‎(ja)‎
+正體中文 ‎(zh_tw)‎
+简体中文 ‎(zh_cn)‎
+Get the mobile app

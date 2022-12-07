@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('Thats', 5), ('code', 5), ('course', 7), ('dont', 7), ('get', 9), ('ill', 4), ('know', 6), ('like', 5), ('may', 5), ('maybe', 5), ('meeting', 4), ('minutes', 5), ('need', 6), ('project', 5), ('questions', 5), ('repository', 5), ('right', 7), ('run', 6), ('see', 5), ('submission', 6), ('sure', 8), ('task', 5), ('things', 9), ('week', 5), ('well', 9)]
+tfidf: 
+['code', 'course', 'dont', 'ill', 'important', 'know', 'latest', 'like', 'maybe', 'meeting', 'minutes', 'need', 'open', 'project', 'questions', 'repository', 'right', 'run', 'submission', 'sure', 'task', 'thats', 'things', 'week', 'yes']
+Stemmed tfidf: 
+['chang', 'code', 'cours', 'document', 'dont', 'everybodi', 'ill', 'know', 'like', 'mayb', 'meet', 'minut', 'need', 'project', 'question', 'repositori', 'right', 'run', 'submiss', 'sure', 'task', 'thing', 'version', 'week', 'ye']
+Lemma tfidf: 
+['code', 'course', 'document', 'dont', 'ill', 'know', 'like', 'maybe', 'meeting', 'minute', 'need', 'open', 'project', 'question', 'repository', 'right', 'run', 'submission', 'sure', 'task', 'thats', 'thing', 'version', 'week', 'yes']
+Combination items: 
+[('Thats', 1), ('code', 3), ('course', 3), ('document', 1), ('dont', 3), ('get', 1), ('ill', 3), ('important', 1), ('know', 3), ('latest', 1), ('like', 3), ('may', 1), ('maybe', 3), ('meeting', 3), ('minute', 1), ('minutes', 2), ('need', 3), ('open', 2), ('project', 3), ('question', 1), ('questions', 2), ('repository', 3), ('right', 3), ('run', 3), ('see', 1), ('submission', 3), ('sure', 3), ('task', 3), ('thats', 2), ('thing', 1), ('things', 2), ('version', 1), ('week', 3), ('well', 1), ('yes', 2)]
+Combination most_common: 
+[('sure', 3), ('course', 3), ('right', 3), ('dont', 3), ('know', 3), ('submission', 3), ('need', 3), ('run', 3), ('maybe', 3), ('week', 3), ('repository', 3), ('project', 3), ('code', 3), ('like', 3), ('task', 3), ('meeting', 3), ('ill', 3), ('things', 2), ('questions', 2), ('minutes', 2), ('open', 2), ('yes', 2), ('thats', 2), ('well', 1), ('get', 1), ('may', 1), ('see', 1), ('Thats', 1), ('minute', 1), ('document', 1), ('version', 1), ('question', 1), ('thing', 1), ('latest', 1), ('important', 1)]

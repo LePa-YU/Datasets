@@ -1,0 +1,18 @@
+Assignment 9 - Graphs
+1. Create a line graph with the annual precipitation and annual temperature showcased in the seasonal_weather file.
+
+File: “seasonal_weather.csv” created in Assignment 8
+Have Temperature in red and precipitation in blue
+Add a title: “Temperature and Precipitation comparison chart”
+2. Create a scatter plot that showcases the temperature for each of the four seasons. 
+
+File: “Temperature-change-seasonal-en.csv”
+Use the pyplot scatter method
+Set the color of each season to be different
+Set the alpha to be different for each season (saturation of dots)
+Make the size of the dots reflect the temperature data
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle

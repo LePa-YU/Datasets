@@ -1,0 +1,3 @@
+Week 5 (to be completed by Wednesday, February 16)
+Due
+There is a simple lab task this week to allow teams to focus on their project code, because by Sunday, February 20, you must submit a prototype + User Manual of your system as a team. Make sure that your instructions are clear so that your peers can run your prototype successfully. Note that you are not being graded on the quality of your prototype at this point. This is for you to receive feedback on what you have done so far.

@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('change', 11), ('class', 30), ('classes', 10), ('code', 21), ('design', 19), ('different', 18), ('idea', 8), ('lot', 9), ('many', 9), ('methods', 14), ('might', 9), ('need', 16), ('one', 10), ('right', 10), ('situation', 17), ('something', 9), ('system', 10), ('thats', 10), ('theres', 8), ('thing', 10), ('things', 16), ('want', 22), ('way', 8), ('well', 8), ('youll', 8)]
+tfidf: 
+['change', 'class', 'classes', 'coat', 'code', 'create', 'design', 'different', 'good', 'idea', 'look', 'lot', 'make', 'maybe', 'message', 'methods', 'need', 'right', 'situation', 'smells', 'thats', 'theres', 'thing', 'things', 'want']
+Stemmed tfidf: 
+['anoth', 'chang', 'class', 'code', 'creat', 'design', 'differ', 'glass', 'look', 'lot', 'make', 'mani', 'mayb', 'mean', 'method', 'need', 'right', 'situat', 'smell', 'someth', 'thing', 'togeth', 'want', 'way', 'youll']
+Lemma tfidf: 
+['basically', 'change', 'class', 'coat', 'code', 'create', 'design', 'different', 'glass', 'good', 'idea', 'look', 'lot', 'make', 'maybe', 'message', 'method', 'need', 'right', 'situation', 'smell', 'thats', 'thing', 'want', 'way']
+Combination items: 
+[('basically', 1), ('change', 3), ('class', 3), ('classes', 2), ('coat', 2), ('code', 3), ('create', 2), ('design', 3), ('different', 3), ('glass', 1), ('good', 2), ('idea', 3), ('look', 2), ('lot', 3), ('make', 2), ('many', 1), ('maybe', 2), ('message', 2), ('method', 1), ('methods', 2), ('might', 1), ('need', 3), ('one', 1), ('right', 3), ('situation', 3), ('smell', 1), ('smells', 1), ('something', 1), ('system', 1), ('thats', 3), ('theres', 2), ('thing', 3), ('things', 2), ('want', 3), ('way', 2), ('well', 1), ('youll', 1)]
+Combination most_common: 
+[('class', 3), ('want', 3), ('code', 3), ('design', 3), ('different', 3), ('situation', 3), ('need', 3), ('change', 3), ('thats', 3), ('thing', 3), ('right', 3), ('lot', 3), ('idea', 3), ('things', 2), ('methods', 2), ('classes', 2), ('way', 2), ('theres', 2), ('good', 2), ('create', 2), ('message', 2), ('coat', 2), ('look', 2), ('make', 2), ('maybe', 2), ('one', 1), ('system', 1), ('something', 1), ('might', 1), ('many', 1), ('youll', 1), ('well', 1), ('basically', 1), ('glass', 1), ('smell', 1), ('method', 1), ('smells', 1)]

@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('basically', 3), ('could', 3), ('course', 4), ('document', 4), ('everybody', 3), ('final', 5), ('get', 3), ('going', 4), ('ill', 3), ('last', 6), ('make', 5), ('monday', 4), ('questions', 4), ('right', 5), ('see', 4), ('submission', 6), ('sure', 5), ('theres', 3), ('things', 3), ('think', 4), ('time', 5), ('wednesday', 4), ('week', 4), ('well', 5), ('youre', 3)]
+tfidf: 
+['basically', 'course', 'design', 'document', 'everybody', 'feedback', 'final', 'going', 'ill', 'make', 'monday', 'open', 'posted', 'questions', 'right', 'submission', 'sure', 'thats', 'theres', 'things', 'think', 'time', 'wednesday', 'week', 'youre']
+Stemmed tfidf: 
+['assess', 'basic', 'cours', 'design', 'document', 'everybodi', 'feedback', 'final', 'ill', 'left', 'make', 'monday', 'open', 'post', 'question', 'right', 'submiss', 'submit', 'sure', 'thing', 'think', 'time', 'want', 'wednesday', 'week']
+Lemma tfidf: 
+['assessment', 'basically', 'course', 'design', 'document', 'everybody', 'feedback', 'final', 'going', 'ill', 'make', 'monday', 'posted', 'question', 'right', 'submission', 'sure', 'thats', 'thing', 'think', 'time', 'wednesday', 'week', 'whats', 'youre']
+Combination items: 
+[('assessment', 1), ('basically', 3), ('could', 1), ('course', 3), ('design', 2), ('document', 3), ('everybody', 3), ('feedback', 2), ('final', 3), ('get', 1), ('going', 3), ('ill', 3), ('last', 1), ('make', 3), ('monday', 3), ('open', 1), ('posted', 2), ('question', 1), ('questions', 2), ('right', 3), ('see', 1), ('submission', 3), ('sure', 3), ('thats', 2), ('theres', 2), ('thing', 1), ('things', 2), ('think', 3), ('time', 3), ('wednesday', 3), ('week', 3), ('well', 1), ('whats', 1), ('youre', 3)]
+Combination most_common: 
+[('submission', 3), ('right', 3), ('make', 3), ('sure', 3), ('final', 3), ('time', 3), ('course', 3), ('week', 3), ('going', 3), ('monday', 3), ('wednesday', 3), ('think', 3), ('document', 3), ('ill', 3), ('basically', 3), ('youre', 3), ('everybody', 3), ('questions', 2), ('things', 2), ('theres', 2), ('posted', 2), ('design', 2), ('feedback', 2), ('thats', 2), ('last', 1), ('well', 1), ('see', 1), ('get', 1), ('could', 1), ('assessment', 1), ('whats', 1), ('thing', 1), ('question', 1), ('open', 1)]

@@ -1,0 +1,428 @@
+Error:
+Alright so. 
+Let's take a look now watch how the processing part of the starter code for a cemetery works. 
+Error:
+Nicole go there a little bit of interest on how to status kind of dsp processing. 
+So just provides a number of. 
+Processors that we can use directly. 
+And of course. 
+Error:
+Anyperk american implement their own processor. 
+We're going to be doing this in this costco's. 
+That mathematical background required is not part of the prerequisites for the course. 
+If you taking some signals and systems courses and so on. 
+You probably know that is quite. 
+Error:
+Complicated. 
+2. 
+To get right. 
+Error:
+An appointment. 
+When we get physically to frequency bass effects right. 
+So. 
+So far away. 
+We're about to do volume bass effects. only multiplying samples. 
+Buy some foxer what time base affected moving samples to the left or to the right. 
+Error:
+Mad when we get to frequency pacific's ball game. 
+Error:
+We need to take a whole bunch of samples in sequence. 
+And extract information from them. 
+It's much more complicated. 
+So. 
+What we'll do is we'll use some of that facilities that just provides. 
+To do some of that for us. 
+So. 
+Any processor that just provides or if you write universe or will have to. 
+Actually mad about the grinder face and that. 
+Error:
+It's called processor base into it's right so you can see. 
+Api for each year. 
+Basically. 
+The three methods repair process and reset any fact. 
+Error:
+Those do remind us a lot of four would be doing with a plugins. 
+It's prepared to play and process block right. 
+Error:
+And there are so diverse similar. 
+But the dsp. 
+Mojo love juice. 
+Cause i'm slightly differently. 
+But the idea is the same. 
+We start with the paper method. 
+Keep calling the process method. 
+With a bunch of samples. 
+One of the processor that implements. 
+Dippity filter. 
+Particular way to implement. 
+Error:
+Filters on said low pass or high pass filter and so on. 
+So complicated. 
+For you will tell us.. 
+Or. 
+The residents water filter. 
+Error:
+Is it bad to get how the filter. 
+Reacts close to the california weather actually amplifies sound like elephants eat so the final hello filters have this resonance so that's why we have it here as well. 
+Also there is a set type with ls set it to whether it's a hypothesis low pass away. 
+But. 
+For sure. 
+I will leave them at the fair reset. 
+And process. 
+Error:
+That means it is a processor we can use. 
+Either way that was enoch. 
+Show me the code then. 
+You'll say that. 
+My brother said that ate the clare. 
+Error:
+Available. 
+Office type. 
+Time. 
+That's what i needed to hear. 
+Error:
+For that part of the filter. 
+And that's it will stay in the cold. 
+The process take out how we actually use it. 
+Now. 
+Sometimes we want to. 
+Combined another processors right so as we saw in the demo of of the plugin. 
+That was a phaser. 
+Write a cool change. 
+But it was also a gain. 
+Affecting only the phaser. 
+It's all of a sudden. 
+Attached to. 
+At the end of the phaser. 
+So. 
+What we going to do. 
+Angels east actually creates pressure chain objects. 
+So. 
+This is a special class. 
+The best cplusplus terminology for this very etiquette class. 
+Which is a fancy way to say that. 
+You can. 
+Create. 
+Objective it provide as many other classes as generic argument. 
+You like. 
+So. 
+Cuz i'm blowing out cold air. 
+And then as a general. 
+I could have only one processor. 
+Orilissa processors. 
+Cefcu hours i want. 
+So here i'm saying i want to create the process of chain. 
+And the first processor interchangeable be a phaser. 
+As i would be a game processor. 
+And i call this affects jane. 
+Whatever here. 
+And in order to be able to access individual processors from the chain. 
+Salon. 
+The gladys animation character of. 
+Help me find the different this is in that chain. 
+So we'll see how that goes.. 
+Error:
+When we go to the cp4. 
+Error:
+So persistent then are also preserves themselves will process using the first thing university saying the second that someone writes so as you can see they also have. 
+Prepare reset the process methods. 
+And what day do we supposed to just north of the prepare resetting process methods of the individual processors. 
+Set reminder handy thing to have eternal love. 
+Combining different effects together in one chain on fixed. 
+The one thing about processor chains is that. 
+I'll compile time will fixing exactly what processors will be their undoing world order. 
+There's no way for us to. 
+2 chainz. 
+Error:
+But it also is quite fast as with that way. 
+Just asking provides a different class called audio processor graph. 
+That allows you to create different audio processors. 
+And dynamically has run time change the order for these processors and combine them in any way you want that someone. 
+So that's a lot more flexible. 
+If you need some like this then definitely. 
+You have to use another processor graphic need to rearrange the way the processes is happening. 
+Error:
+But. 
+At the same time is not as efficient as. 
+These pics are composite so there's a trade up there. 
+Between flexibility and efficiency. 
+It is a fairly complicated way of creating an audio processor graph and connect a different notice one so whenever i use it. 
+For the course. 
+But it's good to know it's there. 
+We'll just going to use the process of chain director. 
+Okay so so have my processes jane you're ready. 
+And my individual processor which is the filter. 
+Declarative so let's see how we can use them. 
+Call processing. 
+Know when we go to rcpp we still have to do the same medicine before basically prepare to play and process block they're still there. 
+Error:
+But now. 
+We're basically going to delegate. 
+All the processing to the process actually going to play. 
+With individual samples anymore like religion assignment 2. 
+Anguilla let the processors. 
+Error:
+Do the forest. 
+And of course we'll have to. 
+Error:
+Set them off to do it correctly. 
+Antoine bethea. 
+Error:
+Things are simple. 
+Manipulation is now. 
+Delegated to the breast. 
+So nice to be able to do that. 
+We need to actually give. 
+The brothers are all the information. 
+So. 
+There's a couple things to do in regards to play. 
+We are. 
+Create semi call the prospect another class in greece. 
+Error:
+Bsp module. 
+Error:
+As you can see. 
+He basically. 
+Contains the sample rate the block size of a number of tiles. 
+Enough. 
+That we going to use. 
+That the process of will need to know when elizabeth processing price of a grade that. 
+Prospect. 
+Hyundai. 
+Error:
+Later on. here we going to actually pass. 
+The sound. 
+Respect to. 
+R2. 
+Process rights within with filter. 
+What is that. 
+Combined if you want. 
+The composite processor. 
+Error:
+Am i going to get it now they just two different poses us that we going to use. 
+To to effect their audio. 
+Error:
+Error:
+So we give them. 
+Respect physically sampleraid number. 
+Refresh a big block. 
+I also we. 
+Call larry said method provide to. 
+Initialize. 
+If you want so. 
+Error:
+That's good any time. 
+View soto. 
+Found that you finished processing a clean slate to. 
+Alright so that's very simple setup here we just get ready. 
+And why do of course before i move on. 
+Grab any values from the gooey. 
+To make sure that they're all set up correctly. 
+So this update effects method. 
+Apartment values of the beginning. 
+The. 
+No will you respond to. 
+Customized our processors so they do that process that we want. 
+So. 
+For example if you remember that, bucks for the filter then based on the filter choice. 
+Which is. 
+One of the pioneers. 
+What selection is made in a combo box selection. 
+I'm amazed. 
+Error:
+I will use the set type method of my. 
+Filter. 
+Price of my processor this kind of processor provided set timer.. 
+And. 
+I'll set the type to this big long name. 
+Which makes it look worse.. 
+Simulator for bumpass high pass. 
+Antifa. 
+It's always is to have the filter off then i just. 
+Update my bypass. 
+Variable to be true. 
+And we'll see that that's the case then of saying no processing will take place. 
+Error:
+Also. 
+If the slider has moved. 
+Then. 
+Error:
+I got this. 
+Perimeter volume. 
+And i use the set cuddle frequency method of the processor. 
+To do that. 
+You get the idea. 
+Error:
+I drop am from the goalie. 
+I use the api of the processors that i'm using to set them up correctly. 
+So that when i go to rustic luck they will do the processing that i want. 
+For the phaser right i can turn it on and off. 
+It's a little bit different in terms of how do we access individual processor in the process or chain. 
+Those days. 
+Interesting. 
+A line of code here so i can suppressor. 
+Is the temperature. 
+Error:
+I suppose fast that says well from. 
+The generic for am. 
+I'll be hot in the duration of effects jane writes a book about 28. 
+This is the first barometer. 
+Error:
+Vase. 
+Give me the 18 position gain index. 
+This is why i'm hot. 
+And i'm here. 
+So i know that the gaming decks is the second one. 
+So just give me a second. 
+Processor. 
+Error:
+And then i'm going to shut off story than this. 
+Babel. 
+Almost don't care what time it is. 
+Hobbit. 
+Error:
+Use they said gambino. 
+Methadone. 
+To change the game. 
+Rancifer go to. 
+The game processor. 
+Maybe i'll go see that that this is america. 
+Mine of course. 
+We expect that this would be the right type if we mixed something up and this is not a game processor. 
+Then neither on timer. 
+Wrightsville. 
+Error:
+As many cases with audio processing. 
+We don't tick types. 
+We assume you'll be done correctly. 
+Because it's much faster. 
+Error:
+Error:
+Phazer kraze so we get. 
+The fazer index and get the fascia processor care and then. 
+If we look at the phaser api. 
+Right there is methods of separating the depth is alabama to helen ugly also so i can do that. 
+Here. 
+Is actually a lot more time is there. 
+What to use for the demo. 
+And that's it so this method basically grabs the promoters. 
+From the goalie updates. 
+The processor by using mattresses asset return. 
+So that when we tell them we cannot process that will do the processing that we want. 
+Listen to look at israeli process block. 
+Pretty small. 
+In fact. 
+Error:
+Stop hours does boilerplate code from juice that we always leave there in never touch. 
+So my code is 25 lines of code. 
+Right so. 
+Using process service. 
+Makes things a lot easier. 
+Innocence. 
+Hey so frightened of the ways of course every time process block is called. 
+I texted you that you survived moving around. 
+Sliders on sale on sawyer i always update. 
+Error:
+Myfex always get the parameter values. 
+Error:
+Call the right matheson processors to change the way they are processing that's why as your sewing the demo. 
+Acuvue have this song playing and i can be moving around it. 
+Configure cnn. 
+The sound transit real-time that's because every few milliseconds. 
+Is it called the process of updating grabbing the new prime devalue and i'm taking the processors. 
+I'm getting different effects. 
+Okay some of the processor. 
+And i wanted to say is okay to the processor. 
+So don't hear it. 
+Have my suppressors going to call the process method for each one of them write ups lee. 
+I call it. 
+Error:
+In this particular order. 
+Different. 
+Error:
+I have my book a message to say i think is off then don't make a call. 
+Write 7. 
+It was a rough then actually not even happen. 
+Which is fine. 
+Error:
+What do i give this processor and what they expect these actually. 
+Error:
+Process context. 
+And process context is basically. 
+Kind of like no your buffer. 
+Error:
+Juicing the dsp mojo uses a different. 
+Start recording audio blog and. 
+From what i read is basically.. 
+A lighter container for the samples. 
+It does not locate any memories of his references to the saint paul saints pass it around much easier and faster. 
+Error:
+But. 
+For all. 
+Error:
+We have to worry about his colour is basically all day. 
+And you can see that. 
+Yeah i'm declaring another clock. 
+Initializing it by giving you the audio buffer. 
+Price of oil. 
+This other block refers to the other boyfriend i just got. 
+Error:
+And then i create a process context. 
+Error:
+Initialize it without audio block. 
+That is. 
+The way i think of structured. 
+The wages expected. 
+I really all i'm saying is think about her. 
+Rub it in an envelope containing a converse and then give it to the processor. 
+And i'm processors will do the processing that way that would set them up. 
+Right celestica i guess process contacts replacing means that. 
+The way things will be set up. 
+Error:
+The input audio block will be also the output on your dog to the apple to replace the input. 
+You can also have separate ones with no replacing. 
+Bedtime. 
+What would happen i need it for for this assignment. 
+Okay. 
+And that's it. 
+Now. 
+All the processing gets delegated to the fosters. 
+And of course apostasy. 
+Gets changed my damn and then i use it. 
+This will affect. 
+The result that comes out of the process book. 
+Error:
+Okay that's basically it so your job. 
+From here. 
+Is a course to. 
+Use appositive in processors to do a cemetery. 
+Cephalic complicated setup. 
+You should be able to. 
+Error:
+Get started early space don't know this information care. 
+1 quake. 
+Notice that. 
+There's a reverb. 
+Presto dentist. 
+Alright so. 
+That's for spartacus. 
+Error:
+About time. 
+We get to some of that more advanced stuff. 
+Error:
+Next. 
+Okay. 
+That's it for now. 
+So that suit have a full explanation. 
+All-father starter code. 
+Error:
+473. 
+So. 
+Come back next week on the pods with your questions for us make sure you study. 
+Error:
+Will answer all those freshly questions. 
+And the next week we'll talk about. 
+Error:
+Bellator parts. 
+Error:
+Error:

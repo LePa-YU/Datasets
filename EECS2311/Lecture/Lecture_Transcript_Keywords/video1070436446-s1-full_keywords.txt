@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('Let', 5), ('Okay', 6), ('Right', 5), ('already', 5), ('could', 6), ('design', 6), ('dont', 11), ('give', 7), ('good', 6), ('know', 8), ('like', 7), ('look', 5), ('make', 7), ('need', 5), ('question', 6), ('questions', 9), ('right', 13), ('say', 6), ('sure', 11), ('thats', 7), ('thing', 6), ('tonight', 6), ('way', 5), ('week', 5), ('would', 7)]
+tfidf: 
+['basically', 'definitely', 'design', 'dont', 'going', 'good', 'ill', 'know', 'let', 'like', 'look', 'make', 'maybe', 'need', 'okay', 'question', 'questions', 'right', 'say', 'sure', 'thats', 'theres', 'thing', 'tonight', 'week']
+Stemmed tfidf: 
+['anoth', 'basic', 'design', 'document', 'dont', 'good', 'ill', 'know', 'let', 'like', 'look', 'make', 'mayb', 'okay', 'question', 'report', 'requir', 'right', 'say', 'stop', 'sure', 'thing', 'tonight', 'video', 'week']
+Lemma tfidf: 
+['basically', 'definitely', 'design', 'document', 'doesnt', 'dont', 'good', 'ill', 'know', 'let', 'like', 'look', 'make', 'maybe', 'okay', 'question', 'report', 'requirement', 'right', 'say', 'sure', 'thats', 'thing', 'tonight', 'week']
+Combination items: 
+[('Let', 1), ('Okay', 1), ('Right', 1), ('already', 1), ('basically', 2), ('could', 1), ('definitely', 2), ('design', 3), ('document', 1), ('doesnt', 1), ('dont', 3), ('give', 1), ('going', 1), ('good', 3), ('ill', 2), ('know', 3), ('let', 2), ('like', 3), ('look', 3), ('make', 3), ('maybe', 2), ('need', 2), ('okay', 2), ('question', 3), ('questions', 2), ('report', 1), ('requirement', 1), ('right', 3), ('say', 3), ('sure', 3), ('thats', 3), ('theres', 1), ('thing', 3), ('tonight', 3), ('way', 1), ('week', 3), ('would', 1)]
+Combination most_common: 
+[('right', 3), ('dont', 3), ('sure', 3), ('know', 3), ('make', 3), ('like', 3), ('thats', 3), ('tonight', 3), ('question', 3), ('say', 3), ('good', 3), ('design', 3), ('thing', 3), ('look', 3), ('week', 3), ('questions', 2), ('need', 2), ('definitely', 2), ('basically', 2), ('maybe', 2), ('ill', 2), ('okay', 2), ('let', 2), ('give', 1), ('would', 1), ('Okay', 1), ('could', 1), ('Let', 1), ('already', 1), ('way', 1), ('Right', 1), ('doesnt', 1), ('document', 1), ('report', 1), ('requirement', 1), ('going', 1), ('theres', 1)]

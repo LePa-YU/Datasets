@@ -1,0 +1,461 @@
+SPEAKER 0
+Okay, so welcome. We're going to talk about resource pack designed to and
+
+SPEAKER 1
+I'm going to go through this really fast and because I want to try and preserve as much time for the breakout rooms as possible. But I'm going to say that there's another recording of this from Wednesday, which is probably a little bit longer. So let's just go through this quickly and I invite
+
+SPEAKER 0
+you to go back and to look at the longer,
+
+SPEAKER 1
+potentially longer version afterwards. So uh let's get started here.
+
+SPEAKER 0
+So we've spent time on our Humans one because we
+
+SPEAKER 1
+had to establish cognitive heuristics meant like humans as rational actors versus not. So we're building on that. Now that is the wrong set of questions. So we're going to talk about what is the dark pattern. But first we're going to talk about non dark patterns
+
+SPEAKER 0
+and then we're going to talk about, I can't remember
+
+SPEAKER 1
+what the third thing is but we'll get to that. So we're going to talk about dark patterns. But before we can get there, I just want to talk about design patterns more generally.
+
+SPEAKER 0
+Has anyone actually heard of the term dark pattern?
+
+SPEAKER 1
+Yes. Good. Yes. No. In the last class on Wednesday, only one person had heard of it. So already where we Have two people in this course in this section. Okay, so by the end of this, you know what
+
+SPEAKER 0
+a dark pattern is. But before we talk about a dark pattern we can also say like what is a non dark pattern and non dark pattern is a totally invented word I made it up or phrase doesn't exist.
+
+SPEAKER 1
+But I mean if you're talking about the dark thing then what is what doesn't count.
+
+SPEAKER 0
+So design pattern is just basically a way of thinking
+
+SPEAKER 1
+about an approach to design situations, Common design situations, they're kind of like software design patterns like the observer pattern
+
+SPEAKER 0
+or the decorator pattern or these kinds of the delegate pattern. So but it's not in software this is at like the design and interaction level of things. So it's not a plug and play solution.
+
+SPEAKER 1
+It's not a recipe. It's just an approach that's general Izabal, its abstraction.
+
+SPEAKER 0
+So to substantiate it you have to adapt it to
+
+SPEAKER 1
+the particular context and each implementation thus will be a
+
+SPEAKER 0
+little bit different. So if you see the term design pattern in the interaction design space, usually it's assumed to be good.
+
+SPEAKER 1
+That's built right into the definition as Alan cooper says
+
+SPEAKER 0
+interaction design patterns are means of capturing good design solutions
+
+SPEAKER 1
+and generalizing them to address similar problems.
+
+SPEAKER 0
+So because the connotation of good is built into design pattern to distinguish the good solutions from what we're going to call not good solution, we add the modifier dark.
+
+SPEAKER 1
+So it's a dark pattern if it's not considered a good one.
+
+SPEAKER 0
+So and like I said non dark design pattern is
+
+SPEAKER 1
+just made up. I just created it to create contrast.
+
+SPEAKER 0
+But the distinction between dark pattern and non dark pattern really boils down to what what one considers good or
+
+SPEAKER 1
+not And that's actually like a thread we're going to
+
+SPEAKER 0
+pull on for the whole course. What is the subjective nature of what good is and how do we measure it?
+
+SPEAKER 1
+How do we evaluate it?
+
+SPEAKER 0
+So I'm going to give an example the drawer. So on mobile devices here's the design situation. I'm on a mobile device. I've got like a lot of stuff I need to show but I've got limited screen real estate. So how do I contend with the tension between small real estate and lots of content?
+
+SPEAKER 1
+So drawers are a solution to design pattern.
+
+SPEAKER 0
+There's single drawers, double drawers. In principle.
+
+SPEAKER 1
+I guess you could have like four drawers, eight drawers. Whatever the idea is that drawers get exposed and hidden
+
+SPEAKER 0
+by swiping gestures and it's considered a good design solution.
+
+SPEAKER 1
+So here's a drawer from the bottom, swipe from the
+
+SPEAKER 0
+bottom and then the child component appears. And here's from, I just did this late at night. Look at 12:38 AM. Here's my Gmail uh view on my phone and then
+
+SPEAKER 1
+I swipe to the white right?
+
+SPEAKER 0
+And then the drawer opens and it's dismissed. And apparently facebook has double drawer from both sides, you
+
+SPEAKER 1
+could have drawers like being think about it.
+
+SPEAKER 0
+What's the most ridiculous logical endpoint of this? You can have like a drawer from each of the sides. You could have drawers from the corner.
+
+SPEAKER 1
+I mean you could be ridiculous about it, you could have like a drawer if you swipe at the top versus the bottom, there is like, you know, and a
+
+SPEAKER 0
+limit to what is reasonable in terms of number of
+
+SPEAKER 1
+drawers. But the drawer is just the generalized design solution. Okay, so that's like what a design pattern is And that one is good. Uh drawers and drawers. Oh, I love it. James.
+
+SPEAKER 0
+James said you could have drawers and drawers and actually it's kind of intriguing, Jari is saying. So a design pattern is used in user interface to mean a particular design solution basically. Yes, I mean you have to say what you mean by solution because you can have like a big solution
+
+SPEAKER 1
+or like a particular solution, but it's it's an approach
+
+SPEAKER 0
+that you can see like look here, these are look
+
+SPEAKER 1
+totally different, but they're both drawers. So it's got this element of abstraction. Oh, what is the dark pattern now?
+
+SPEAKER 0
+So, a dark pattern is a design approach, just like,
+
+SPEAKER 1
+you know, the the other thing.
+
+SPEAKER 0
+Um but it's intended to influence user behavior in a
+
+SPEAKER 1
+certain way.
+
+SPEAKER 0
+And the way it is influencing users is coercion steering, guiding misleading deception. The purpose, the way we identify dark patterns is not by how they look, but the intent behind them and the intent is usually considered not good. So it's trying to get users to do something or to like make decisions, undertake actions that they wouldn't have done otherwise if you had given them all of the information or made all of the possible options available to
+
+SPEAKER 1
+them. It's a form of coercion.
+
+SPEAKER 0
+So steering and guiding users is sometimes important.
+
+SPEAKER 1
+You need to do it to help a user navigate
+
+SPEAKER 0
+through a complicated domain.
+
+SPEAKER 1
+But this steering and guiding is not seen as good or constructive.
+
+SPEAKER 0
+They're increasingly common. I'm going to fly right over this, believe me when I tell you there on websites, shopping, mobile apps, video games everywhere, um they're problematic and the point of the slightest to save their problematic in a range from like problematic in a slightly mild way to like a really
+
+SPEAKER 1
+serious way. So mild is like it's an annoyance. It's a frustration. Really serious is violations of privacy laws, giving up personal
+
+SPEAKER 0
+data. That's unexploited uh inducing compulsive and addictive behavior, uh causing people to lose lots of money, right, lose thousands of
+
+SPEAKER 1
+dollars through, not without intending to. So we can say they're mild to severe, but usually there's a problem. So, okay, the definition of dark pattern is that it's not a good design pattern, but let's just say, is it really like possible?
+
+SPEAKER 0
+Do design patterns represent good design solutions? And I say to this one could argue that dark
+
+SPEAKER 1
+design patterns are good for someone, it's just not the users.
+
+SPEAKER 0
+Yeah, okay, that's a good example James about the garbage
+
+SPEAKER 1
+toolbar, um there are beneficiaries, it's not like it's a
+
+SPEAKER 0
+net negative, it's not like it's a negative overall someone gains, so, you know, there's increased sales, there's increases of
+
+SPEAKER 1
+sybers, people can't unsubscribe.
+
+SPEAKER 0
+Uh you lots of private information gets generated for like
+
+SPEAKER 1
+an entity like a company.
+
+SPEAKER 0
+So label is something good or bad. Really depends on perspective.
+
+SPEAKER 1
+So I'm thinking it's better for us to use a more nuanced framework than just saying good or bad. Black and white.
+
+SPEAKER 0
+Good, bad.
+
+SPEAKER 1
+There's like a framework to analyze these things. Okay now, how many different dark patterns are there out there?
+
+SPEAKER 0
+There's many, many different lists and categorizations and you can
+
+SPEAKER 1
+find them all over.
+
+SPEAKER 0
+We're going to use the scheme from mature at all from 2019 that was published in chi which is the
+
+SPEAKER 1
+premier publication for human computer interaction.
+
+SPEAKER 0
+uh Macedo has a very good example about the confirmed button being one color and the cancel but being a
+
+SPEAKER 1
+different color. We're going to get to that. The scheme for mature has seven categories and I'm going to go through each of them really quickly sneaking is a dark pattern that attempts to hide uh that attempts to misrepresent these are action and hide or delay information. So the idea is that well everything was made plainly
+
+SPEAKER 0
+visible.
+
+SPEAKER 1
+They would likely choose something else.
+
+SPEAKER 0
+So sneaking purchases into shopping basket if you gave them the option to add it, they wouldn't do it. So you're counting on the fact that they don't notice
+
+SPEAKER 1
+it was put there to complete the purchase uh adding a hidden cost, adding a hidden subscription. So here this basket here, the greeting card got stuck in and here's, you know, a Karen handling that was
+
+SPEAKER 0
+hidden.
+
+SPEAKER 1
+Didn't get shown until the last step If you come
+
+SPEAKER 0
+on this site and they say by the way, if you order from us we're going to add a Karen handling charge of 299 people might say yeah thanks, no
+
+SPEAKER 1
+thanks, I'm not gonna shop here. Um here, hidden subscription.
+
+SPEAKER 0
+So when you click on this, when you say learn more, it adds on a subscription service. So this is like creepy and I actually, I pride myself on being super aware but I fell for it when I was buying a flight on travelocity Or flight hub and it's stuck in travel insurance and I was in a rush and I just clicked and I saw why am I paying like 89 dollars for some Bs
+
+SPEAKER 1
+thing? So luckily I was able to reverse it, but I
+
+SPEAKER 0
+had to actually pick up a phone and call a person and deal with it.
+
+SPEAKER 1
+So it's very, the sneaky is very prevalent, urgency, slightly
+
+SPEAKER 0
+different. So it's using this idea of a deadline to create
+
+SPEAKER 1
+a pressure situation and then that changes the way people
+
+SPEAKER 0
+decide. And often the way they purchase things.
+
+SPEAKER 1
+So examples include countdown timers or you know things, only one thing is left. So these timers usually are focused, there's no actual thing that happens when the time countdown timer gets to the end but it just creates a sense of urgency that drives behavior misdirection.
+
+SPEAKER 0
+So this is where you try to steer users away
+
+SPEAKER 1
+from making a choice and there's different means.
+
+SPEAKER 0
+So the visual interference has already come up in the
+
+SPEAKER 1
+chat. So confirm sharing is like here's the choice you want
+
+SPEAKER 0
+to say no but they attach some kind of like shaming statement like no thanks. I like the full price or no thanks. I'm an idiot and I don't want to do the other thing or no thanks. I don't like new ideas.
+
+SPEAKER 1
+So that's the confirmed sharing shaming. Here's the visual interference that I think. Who said it? Uh sorry I missed it. But someone actually raised this already in the chat.
+
+SPEAKER 0
+So this is great out to make it appear that
+
+SPEAKER 1
+it's not selectable. But really they just the designers chose gray. I know it James uh here's the trick question.
+
+SPEAKER 0
+Uh so this is like, you know, we'd love to do these things. But if you don't want to check the box so they flip out. You know the order in an un intuitive way. And the pressure selling is um the default that is
+
+SPEAKER 1
+selected is the most expensive option as opposed to not having a default selected.
+
+SPEAKER 0
+Social proof. Okay, blast resource pack was all about this. So it's usually a social proof and the cognitive bias of bandwagon effect to its advantage and studies show that
+
+SPEAKER 1
+this works. That's why the dark pattern is so prevalent. So here is activity notification. So 41 people have added this product to the bag in the last 72 hours. If you look at the source code for these sites, sometimes it's exposed that you can actually see the random number generator for this number here, activity notification.
+
+SPEAKER 0
+Uh, this one is how many people have added the product. This is how many results.
+
+SPEAKER 1
+Again, possibly totally bogus but it actually works because it shows the bandwagon effect.
+
+SPEAKER 0
+The idea is like, I don't know if I want to buy this thing or not, but a lot of other people did.
+
+SPEAKER 1
+So there must be some kind of wisdom in the choice. Uh hang on, I'm going to answer Matthews question in one second. Here's The activity notification.
+
+SPEAKER 0
+So 28 people have viewed it and here is another
+
+SPEAKER 1
+kind of social proof which is through customer testimonials.
+
+SPEAKER 0
+And the authors of the mature at all study found
+
+SPEAKER 1
+that these testimonials appeared in many other sites which strongly suggests that they were purchased and like anything in the world you can buy it, you can buy um, sets of testimonials and they can be tailored to your product. Okay. Matthew is saying an example of urgency is um limited
+
+SPEAKER 0
+time on a Gotcha game banner. Yes. Limited time. Any kind of time based thing is always the urgency
+
+SPEAKER 1
+one a time based or like inventory based like there's only, you know, a small number of the thing available.
+
+SPEAKER 0
+Uh, James is saying that they're not lying. Okay, that could be, I don't know.
+
+SPEAKER 1
+I don't know. Gotcha game banner. What that is. Uh huh uh huh. Okay, Adan has a good point in the charge scarcity.
+
+SPEAKER 0
+So uh, you could say that maybe this is like
+
+SPEAKER 1
+possibly computable with urgency for like uh, the inventory is about to run out. So there's that kind of thing. But there's just this general thing that, you know, there's
+
+SPEAKER 0
+very few of the thing you want creating the illusion
+
+SPEAKER 1
+that there's very few of the thing creating its perceived
+
+SPEAKER 0
+value and desirability.
+
+SPEAKER 1
+So this again is a cognitive bias. So low stock or the fact that it's out of stock uh, here hurry limited quantities left. So you know, there's scarcity and um, this thing that,
+
+SPEAKER 0
+you know, you get, the thing you've chosen is high in high demand.
+
+SPEAKER 1
+Now someone in the last section pointed out like the
+
+SPEAKER 0
+countdown timer, Is that always a dark pattern And I think no, because in some domains it's legitimate that you
+
+SPEAKER 1
+don't want to allow users to squat on options, you know, endlessly. So ticket sales, you're trying to reserve a campsite, these kinds of things. Gotcha arena. Okay, thank you. Massaro.
+
+SPEAKER 0
+Obstruction. Okay, I think we're getting to the end, we have, I think two more after this one and one more. So this is an approach where it makes a certain
+
+SPEAKER 1
+action harder than it should be. It dissuades users from taking the action just because it's a royal pain in the butt to do. So hard to cancel is the example the Exemplar this sometimes it's called Roach motel and other classification schemes.
+
+SPEAKER 0
+So it's the kind of thing where you get subscribed or signed up for something and it's just like really
+
+SPEAKER 1
+hard to get out of it once you're subscribed and it's done through a symmetry.
+
+SPEAKER 0
+It's really easy to get in. It's really hard to get out. So when you sign up here on sportsmen guide it's easy, it's one check box but to cancel you can't do it on the web interface, you have to call a human probably between business hours to actually get it
+
+SPEAKER 1
+done.
+
+SPEAKER 0
+Yeah, totally Andy saying gym memberships, it's classic. The dark pattern is not specific to digital experience.
+
+SPEAKER 1
+It's a more general design pattern here when you are
+
+SPEAKER 0
+on Savage X whatever that is. Uh you can sign up for recurring service very easily
+
+SPEAKER 1
+but to cancel you have to call this number At
+
+SPEAKER 0
+least they tell you it's open 24/7 and at least they tell you up front sometimes it's not even revealed how you cancel. So that's very familiar. We have all seen this and last is the forced
+
+SPEAKER 1
+action. So it refers to approaches that require users to take certain additional and tangential actions to complete their task.
+
+SPEAKER 0
+So that's just like you wanna like cease I want to see something like read it off and links to instagram. So I want to go check it out. But to see the thing on instagram, I have to like view it from an account. I just can't look at it. That's an example of forced action.
+
+SPEAKER 1
+So here, if you want to I agree to the terms of service, then you have to sign up to
+
+SPEAKER 0
+get the emails and promotion. So I can't just look without giving something here.
+
+SPEAKER 1
+Even just to browse this website, you have to create an account. So this is like mm frustrating.
+
+SPEAKER 0
+You're right about James the same that you want to cancel amazon prime because you're never going to find it on their UI So amazon for sure uses many dark
+
+SPEAKER 1
+patterns. That's just one of them. So in some a dark pattern is a deceptive approach to user experience design. They're seen as bad design solutions. But it's really from our perspective, it's bad from the student point of view, not the student the user point of view, but there are beneficiaries. It's just not the users and for users, dark patterns have a range of effects from like mild source of annoyance to like serious, serious.
+
+SPEAKER 0
+So we get to the end of that any questions or clarifications that can provide before we stop this recording. It's very lively in the chat, which doesn't get captured
+
+SPEAKER 1
+in the recording but it's clear that everyone has lots of experience and recognizes all of this.
+
+SPEAKER 0
+Um are disguised ads on Reddit considered as a dark
+
+SPEAKER 1
+pattern in the form of misdirection. Yes, for sure. The resource there is not your sign up your your
+
+SPEAKER 0
+your private information, your money, it's your eyes, your attention,
+
+SPEAKER 1
+which is a precious resource that all the social media platforms are trying to mine for their benefit. Uh Yeah. Yeah. So okay, I'm gonna stop now that wraps up our uh coverage of that.

@@ -1,0 +1,3 @@
+http://openbookproject.net/thinkcs/python/english3e/dictionaries.html
+https://www.w3schools.com/python/python_dictionaries.asp
+https://python.swaroopch.com/data_structures.html

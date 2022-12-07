@@ -1,0 +1,1456 @@
+Alright. 
+So i see that i guess today's weather. 
+You guys should the radiator style what's happening the code. 
+Error:
+I would not have expected if you do that would be really impressed quite complex. 
+Error:
+Classes right now. 
+Complex relationships between them so i don't necessarily expect you to. 
+Understand. 
+Lakota gave you in detail. 
+Error:
+It may be a good exercise for you to try to do that right called waiting is a very important skill any job you might want to an interesting i want to go for. 
+Call the waiter. 
+You're already way ahead than everybody else. 
+So. 
+The more you can pick up i guess from the the code that i provided. 
+Better but i don't expect you to understand it and maybe even by the end of the term right this is not literally. 
+The point of the course. 
+Although i just had skill and i will point i will be pointing out. 
+Some things may be interesting that called as we go along. 
+Error:
+Play as i mentioned last time the project is designed such that. 
+You could. 
+Hey siri. 
+Don't even look at the code i gave you just. 
+Error:
+Add more classes.. 
+That part that you need to do is argue that point of connection you can use last time i can do it again if you want. 
+And. 
+You can just add new code. 
+And. 
+Don't even have to look at what i did. 
+Error:
+On the other hand. 
+One of the things that i'd like to point out is that these projects is using xml right. 
+Going to get tamales in xml format. 
+So we might go. i'm using a library call jackson xml. 
+Talk to the create the xml. 
+So. 
+You could use the same classes to parse the xml ago.. 
+And. 
+We expect information from from. 
+Error:
+But you could trade your own. 
+Right so. 
+Error:
+It's basically a trade-off as to how much. 
+Do you want to get into understanding my code. 
+Error:
+Let's make give you some benefits. 
+Purses, consalo thing and we don't have to worry about understanding something else will get yours around library 22 reading the xml and parkside. 
+Right so you could use. 
+Duxbury images of different. 
+Jacksonville library 2. 
+2 parsecs motor wouldn't forget about. 
+Right so either of those things he's quite. 
+Possible. 
+Other way to. 
+To do the project. 
+Alright. 
+So that's hopefully that answer that question so feel free to keep posting questions in the chat i will be going through them and if we're honest questions and we'll do something else. 
+But the beginning. 
+The point of these is yes qna. 
+Answered all the questions you may have. 
+Hey if you don't have questions. 
+I will be opening the the breakout rooms. 
+Very soon so you can just going to work with your team if you prefer to do that. 
+So we'll see how it goes. 
+Error:
+The ponies too. 
+Be able to. 
+Make sure whether stood all the material that was posted for jumbo. 
+For this week. 
+Mcsally understand everything that died how did you study about get right. 
+And then we can get going with our project. 
+Error:
+So. 
+The question here is a point to go from the xml to sweet music or is it possible to go from tablature to see music. 
+Error:
+You will find that. 
+Basically going the music is really hard. 
+Right now i'm basically. 
+Error:
+What we did last year right and took us a whole term was too to build this project to go from the temperature to musicxml. 
+Which is a formal. 
+Format.. 
+It's much easier to go. 
+To seek music from. 
+If you go directly from the tablet or basically first of all of this man since you ignore everything that we did last year so he's doing everything from scratch. 
+Which setting is a much harder. 
+Kind of problem. 
+Error:
+Error:
+So basically that's that that's a problem you will be doing a lot more work. 
+If you went directly. 
+I know that the music xml. 
+For my may look a little bit scary right now cuz. 
+Play around with that is basically more or less the same songs over and over again after while. 
+Right at once you do the first. 
+Part of it then the rest is just repeating with different notes and different. but it's really not something. 
+My tardis. 
+So. 
+I will definitely recommend to. 
+To use that music tomorrow i'll put. 
+Or the mission before eve. 
+You won't understand my code you could actually extract. 
+Directly for my classes and my methods. 
+And do that instead. 
+You have this trait of right now. 
+Do you want to. 
+Spend time. 
+Versus doing it yourself right if you choose the first approach then i'll be very happy to help you alone understand. 
+Private server. 
+Help you she wants to tucson approach. 
+Error:
+Alright so. 
+Answer this question. 
+Let's see here. 
+Error:
+Yes so i was needed throughout the last week myself in the ta we cuz i do love you so get over and some arrows you maybe having someone. 
+With the starter code. 
+Error:
+If you're still having those. 
+Pensacola be very happy to help you get over that at the end of the lecture. 
+Error:
+If you're able to run the app. 
+Then. 
+You can probably do you know. 
+Start working on the project and someone without worrying too much if you see. 
+Arrows out there. 
+There was maybe related to the test so who knows why you have a rest while you're actually able to run the app. 
+So i would recommend that to get resolved those just in case they mean that it's something more serious than it looks. 
+But. 
+You know if you're available to circling then go for it and then we can resolve these these arrows. 
+Go long. 
+So i guess i'll before i'm very happy and forever electrolux through. 
+I might have to stay at the end to help anybody that has any medical issues that don't necessarily apply to the whole class so you know.. 
+You don't feel like asking each other questions during the lecture. 
+Error:
+Happy to do that. 
+Error:
+Okay so the next person i have here is about the requirements. 
+Yes i'm back in something i definitely wanted to talk about today. 
+So. 
+If you noticed i already posted the material for next week. 
+I did that yesterday and. 
+The first thing says about what to do this weekend is that there's only allowed to ask but awake after that the first draft of the requirements document. 
+Is the. 
+Error:
+Call peter sussman. 
+I so basically two weeks from now. 
+You'll have to have. 
+Requirements document to submit. 
+No the first thing i want to. 
+Get out of the way. 
+Is that this is a meeting for pearson so you will not be graded. 
+How good your requirements document is at that point. 
+But you will. 
+Error:
+Receive. 
+I requirements are coming from another team and as individual. 
+You will provide feedback on. 
+B o. 
+You'll be sort of like a bit of a $90 for the requirements. 
+And. 
+What year will be graded on for this first big assessment of the feedback you provide to someone else's record. 
+Error:
+But still. 
+Error:
+You are required to produce a requirements document for others to evaluate right you don't want to provide something else. 
+Leslie very bad cuz you don't you won't get any justin feedback point of this exercise is also to see how. 
+Some of your colleagues. 
+Samuel piercy thinking about requirements right and hopefully help you improve your own requirements document. 
+So you want to submit something that's pretty decent. 
+At least at this point. 
+So what's the thing you should start working on your requirements document. 
+You'll notice that. 
+The material i posted for next week right so it's already up there. 
+Includes. 
+Of course i'm requirements document and so on so we so give you a paper id house 2. 
+What to. 
+What you put. 
+Error:
+Either g.. 
+Error:
+The question i have here. 
+He's how detailed into the system occur most often. 
+And the answer was right. 
+Clearly that something that. 
+Well not be anything like the final version of the requirements document you will submit in april. 
+Because by then you will. 
+Understand the system has better you will have talked to your customary lot and figured out what their requirements are us now on. 
+Right so. 
+We're aiming so that the final version is very detailed. 
+For the virgin you'll still be 2 weeks from now. 
+Would like it to be as detailed as possible. 
+Had a good idea. 
+From talking to me if you want one in the next two weeks. 
+I said what should be another command what does the system. 
+Need to do for the. 
+Customer for the user. 
+As you see the material that i posted. 
+The. 
+Maybe the main takeaway you need to have from this course. 
+Requirements. 
+Is that. 
+Requirements talk exactly about what the system will do for the user what kind of use cases will you provide. 
+A sentence for my kind of do with this thing. 
+That's a level that we want to talk about. 
+Right so clearly will say some things. does you know it will display the music it will play the music and then forcing it to get into details as to what kind of. 
+Other things i can do right. 
+You don't change every note to be higher or lower right so once we talked about the project will have to include all these features. 
+But it will have to be. 
+Describe from the point of view of the user. 
+What can. 
+Error:
+Listen to. 
+For me maybe new jersey. 
+Error:
+So the thing that clearly should not be either, so command. 
+That's where a lot of people lose marks maybe do that. 
+Is anything about. 
+What classes are in the system right and what causes injury from each other i think like. 
+Right. 
+From. 
+I don't care about that right the only thing that i know is that there's going to be a way for me to actually do things with this system in fact. 
+Even details about the user interface. 
+Probably should not be in the requirements document. 
+That must be about something that has this icon or whatever cuz in science. 
+It doesn't necessarily have to be that and there could be other ways to achieve the same. 
+Goal from the user's front of you it's more like. 
+Describing an english what system can do for you. 
+So i'll be able to see the music ok google and. 
+Error:
+Weather. 
+You know. 
+Error:
+The phone is going to be held at times new roman may not be super important but. 
+The fact that i may be able to change the font that's important. 
+Right so that's the idea. 
+That's a level we want to see there and requirements. 
+So not only will talk about of course next week as well after you have had a chance to do to study the requirements on material that already posted. 
+I think hopefully i'll be able to answer. 
+Any of your questions about data points so you will have one more week to sort of produce that first version. 
+Error:
+Okay. 
+So hopefully i will answer the question i think that's why the questions about the requirements document. 
+Feel free to. 
+To put them in the. 
+Error:
+No. 
+Soundclick. 
+Error:
+Where is all the material. 
+Does the wiki page ryan as the answer is there. 
+Yes on the course outline you'll find. 
+All the sudden material at 4. 
+Last week and also next week's material is already paused. 
+Error:
+I did have a question he has to went to start. 
+Error:
+And the answer is. 
+Error:
+So this is also project it's a good-sized software project so i definitely do not recommend saying well we got. 
+Six weeks until the midterm submission will do everything in the last week. 
+It's going to be a disaster if you do that right. 
+In fact. 
+I will definitely. 
+Recommend. 
+Making sure that you spend. 
+These exit 10 hours on this course which means of course. 
+Cabarrus lecturer in starting material and then at least i guess 405. 
+Developing code for the project. 
+Immediately. 
+Right. 
+One of the things we'll do today at employees. 
+I'll put you together with your name so you can start planning on that little bit. 
+Because. 
+Innocence unless you start working on this right away it will be very hard to to get it done at the same time i know every professor tells you that start working on your simon right away right. 
+But there's an extra reason to do it here. 
+I hope it goes you need to be able to communicate with your customer as to what exactly to change your mind right what i would like to see. 
+Even starting today if something's are there but definitely by next week. 
+And i put as one of the goals they're in the montreal to to have the first running version next week i'd like to see basically. 
+What's you're ready have. 
+Supposably questions to me sat as we have so far. does that look right. 
+Is this what the customer wants. 
+Error:
+In any real software system. 
+Error:
+You going to have this. 
+Kinds of situations and if you heard about agile methodologies right at our development the idea is you produced version certificate somewhere like every wake get feedback from it and adjust accordingly and movement doesn't work. 
+It's never going to be what the customer wants.. 
+Set alarm. 
+That's why what i recommend for this. 
+Plus always is. 
+Show me something every week i'll give you some feedback and then. 
+Your end product will be. 
+Hello closer to what i need. 
+The end of the day what you want to develop is whether customer needs not what you think should be developed one of the. 
+Many people social engineering izad's many cases. 
+Developers end up developing what they think should be developed but that doesn't mean. 
+This is what the customer actually wanted. 
+So. 
+Error:
+I would recommend installing next week for sure i would have some time for for you to. 
+Error:
+Ask questions about what you have so far you'll be welcome to show your screen and save us if you want. 
+Anna and take it from there right now i think it's critical to. 
+To do that as often as possible. 
+Iso. 
+Error:
+Uses for saturated already last week okay if you didn't start today. 
+The code is there you can start coding. 
+Error:
+Change the the methodist argue last week where the rounds when i click the preview button. 
+Make it to put up a window that's like at least a beginning yes we do need a new window once minesweepers about themselves. 
+I definitely recommend that you start doing those things right away. 
+Right. 
+As soon as you do that you'll realize there's a few things when discuss okay what i was going to use double facts to do this. 
+Some other. 
+Way of doing it. 
+Definitely a possibility carries to use like a pdf library. 
+Error:
+But he's pdf endust visualizer pdf. 
+There. 
+That's different ways this could be women. 
+Right. 
+What time does scottsdale. 
+With me being the exact about opposed to the customer if you want somebody talked to do that. 
+Are these are all questions you need to answer. 
+Earlier than later. 
+That said there was a talk today because. 
+Immediately that will be thinks you want to talk to your doctor or your customer about it. 
+So. 
+Don't find that out in the last week. 
+When you're coming cuz. 
+You won't have time. 
+Alright. 
+Let me see what's an expression here. 
+So question i have is how much of this course is leader of programming. 
+How much is it. 
+Just learning. 
+And get. 
+Error:
+Question i mean it is a big part of the course because. 
+Error:
+That's what you used to do developing. 
+These days right. 
+Error:
+How much does a load of programming has to be developed for this project. 
+So. 
+What's the weather is that part and i will take time. 
+Error:
+Error:
+But. 
+All the communication between you and your team. 
+Will happen on get the person can talk with another ways through. 
+Error:
+But in terms of serving cold and certain changes to the co-op in northridge. 
+And and of course it is. 
+By far the standard. 
+Social development today. 
+I don't think you can get any job in something today if you don't know get. 
+Bright lights. 
+Three months. 
+Requirement. 
+So i don't know if this is your first exposure to get it may take a while to sort of wrap your head around it but i think it's a critical. 
+Skill that you need to have. 
+Right. 
+Error:
+With regards to what companies would like you definitely you should be. 
+Baby well-versed in gate on the command line and also through an id. 
+A discourse. 
+Does not have the unix course of the prerequisite used to which i thought was good but then why they changed it. 
+And so. 
+Automatically assume that you will have any experience with command line but which is why we're doing it through eclipse. 
+As you may have seen either material for next week i posted the video on how to do a load of the kid sings in eclipse. 
+Error:
+They're so. 
+Go ahead and look at that house if you have any questions about that i can show you today as well but the material that you that i posted the courses for get online. 
+And. 
+Doesn't really matter what we'll doing this course but i think it's critical. 
+2. 
+To know gate at this house in gate on the command line a little bit. 
+Any job you will find. 
+Are there if you don't any projects. 
+They will be using it. 
+Right. 
+So. 
+You need to be able to at least understand the basic concerts. 
+Forget. 
+How to get to it. 
+So. 
+It's a big big robot big part of the course because you'll be using it throughout. 
+Error:
+The first 3 weeks has material. 
+Blankets. 
+Thank you tub. 
+So. 
+We'll spend some time. 
+Thinking about beyonce's next week and then some apparel brand structure of the week after i told you you'll have material. 
+On it for about three weeks but after that basically you'll be using it for the fall term and. 
+So yeah. 
+The course in terms of material society will have kids material for the first 3 weeks but it's illegal to use throughout the end. 
+Atomic. 
+Because anything you get out of this course is that you would now understood gates. 
+Or at least. 
+Well cuz i'll have to say get is. 
+Awesome it's really good but it's also extremely complicated. 
+Right then i can explain 22 nuggets. 
+I noticed by any stretch it's it's really very complicated based about the. 
+Error:
+Understanding the basics about coming through stories and how to play around with them and someone it's it's very important. 
+Alright so what's your i know that. 
+Pizza or something i may be in for some of you so i'm very happy to answer questions or do quick demo scare if you want for you. 
+Error:
+Feel free to to do that alarm. 
+I said i posted i like a 25-minute video. 
+Of me some of the older get stuff in a calypso. 
+Take a look it up. 
+Alright that's russian what is expected for the visualization of the state music. 
+So is it supposed to be a window preview or something else like a pdf format. 
+Error:
+This is really what. 
+The idea of figuring out the requirements is. 
+So. 
+As a customer. 
+Innocence. 
+I come in and say you know i have these text stops and i want to be able to see that's it music that's really what i want. 
+Ask me the right questions to figure out how exactly you want to do it. 
+Now. 
+Course i've gave you some cool with that already.. 
+Into musicxml anything that's a big fart. 
+That's already sold for you they're not if you had to do that you'll be a whole other project. 
+Error:
+No visualizing it as i mentioned before there's a number of different ways. 
+How you could do that. 
+Error:
+But. 
+The requirements that start off. 
+I gave you guys a nice or grandma's is you have to be able to show it to me. 
+And also i should be able to print. 
+Right on and also played of course so other than that it's up to you to decide okay. 
+What library should we use for this clearly you're not going to do this from scratch right so. 
+When i use double facts. 
+Error:
+Can we put something up there and can we print it if we're going to use a pdf library. 
+Error:
+Can we do that and then. 
+Can we visualize it. 
+It's the questions that you and your team will have to discuss see what. 
+You're more comfortable with. 
+And. 
+And go from there. 
+Ideally what you want to do is answer the question as soon as possible you may even have a wake for you know. 
+Say two members of between two quick prototype pdf thing. 
+Error:
+If you could do that. 
+So that's part of your job as a software. 
+Developer a student to figure this out right now. 
+I don't have a specific requirement either as an instructor or a zila customer. 
+It's. 
+Powder. 
+Running a surprise you have to make those decisions. 
+I'm here customer service any questions. 
+So. 
+If you're not sure right let's say you have no idea what to do what do you do well. 
+Error:
+Alison last time. 
+The good thing about this project is that there are. 
+Tools already do the visualization park. 
+Butter external course to the opposite i gave you. 
+So you have to save the file and then open it up music or or you have to load it up into web. 
+Figure. 
+So you don't know what to start. 
+Error:
+This is what. 
+Randy. 
+Error:
+Purdue. 
+Add some of a sou last week. 
+All right go back to the video she want to see it. 
+I told you all of that stuff. 
+Error:
+Get the music into my logbook saving into a file. 
+Then. 
+Either install. 
+Musescore on your computer and open it locally. 
+Or upload it to the web for viewers that i already posted in the material for the project. 
+And look at what you get. 
+Right. 
+Any nonsense. 
+At least for that example. 
+That's what you should put on the screen. 
+Right so. 
+Even if he knows exactly sure what does that mean or whatever right one way to get start arrays can i make the first example look like that's right you still have to. 
+Create the sun graphics other until effexor in pdf but. 
+You have to pray lines for this and text or whatever. 
+Start working on this started doing one example one simple example. 
+Visualizer gave a lot of things will be hard-coded. 
+Thepoint. 
+But. 
+This is the way to get started do want to go gamble then you start saying okay well this is a slightly different so now i have to. 
+Make michael vick more flexible not hard code everything and so on but that's the way to get started. 
+Write signature. 
+Do that. 
+Error:
+Error:
+What's the difference between visualization imprinting requirements. 
+Nothing we should look like a painting it does. 
+Both should be positive. 
+Right. 
+So i don't see the painting as a major thing it should be fairly easy once you visualize. 
+Error:
+Part of what your customer wants right. 
+Here's another example with a customized i want you to the screen now so won't be able to paint it for them two different things. 
+Oh yeah maybe if something very similar because if you haven't spent your complaining also so. 
+The meaning of solomon.. 
+A lot of extra work to do for that part. 
+So. 
+Yes i will set up record rooms for the team's person definitely. 
+By 12:30 or so. 
+So you guys can talk to each other and come up watch me with questions. come back and we can discuss further questions right so. 
+Does addressing the chrysler the first set of questions. when they will go into the breakout rooms. 
+I know the one that seems to sort of have time together. 
+Doing the electric time of course you should be doing that outside the lecture time as well. 
+But. 
+Question about using genome a command line. 
+It's possible for sure if you know what you're doing you can do it. 
+Error:
+I find out if you're developing an eclipse. 
+It's easier to just use get from eclipse. 
+But. 
+If you really a command line file system conversion. 
+Nothing i stopped you from doing that. 
+So. 
+Yeah i want to hear yes. 
+Bcs 2031. 
+I know goes over unix. 
+But. 
+As many times as i also do getting liqueurs. 
+But. 
+Error:
+It's not a prerequisite. 
+For this course so i cannot assume that. 
+All of you have taken it. 
+I now know how to become online. 
+So that's why at least officially doing everything through eclipse. 
+But i do want to expose you to. 
+Doing it on the command line because. 
+Obviously if you go out there into some. 
+Company than lemon over using kids. 
+Using eclipse so. 
+But they will be using it for sure so you want to be familiar with how to do that on the command line. 
+Idly as much as possible i will definitely even recommend i know you guys don't have a lot of extra time but. 
+Perform some projects are doing for yourself just using either the command line. 
+Even if it's just local and not pushing it to repository. 
+It's a. 
+It's a. 
+Still at everybody would expect you to have. 
+When. 
+When you go out there. 
+Error:
+Alright. 
+So i don't see any more questions on the chat. 
+Is there a is there any questions you'd like to shut off. 
+Use your microphone to ask me or maybe. 
+Shaker screen. 
+Feel free to do that now otherwise we'll. 
+We have some might in time to. 
+And i'm sure you guys will have more questions after. 
+Alright i'll prepare the breaker on spotify someone raises and then we'll do the. 
+Error:
+Error:
+Alright so i didn't see. 
+Anyone know russian to ask a question. 
+So what we'll do then i will open to the breakout rooms for the teams. 
+2. 
+Error:
+Get together and talk. 
+There's a couple things i will recommend that you do in there i'll give you guys until. 
+12:30 maybe so about 20 minutes 25 minutes. 
+Duck was used to talk about the project and things like that come up with questions. 
+Definitely. 
+Talk about dividing tasks right. 
+For example there's a few things that i can think of. 
+Activision. 
+There is. 
+The bar that actually plays the notes right. 
+There is visualizing a music for guitars or drums right. 
+A stages of course i get to meeting the actual user interface. 
+So you could think of. 
+Having some oprah specializes in. 
+One of these parts for. 
+Error:
+So talk about food or what you'll have to be able to communicate anything radio code for. 
+The other thing i want you to to talk a little bit about 8. 
+Think like team dynamic. 
+I'll have more material that for next week. 
+But basically talked about things that says how is the team going to work together in a sentence are you a morning person or a mean person. 
+Are you someone who. 
+Does allegra-d work for its course everyday or you sort of do. 
+You will only do work on the score on this course on tuesdays and that's it right so. 
+Talk about things like this which i think will help your team. 
+Be a lot more functional if you're all on the same page about things like that. 
+So i would definitely. 
+Recognize start with that figure that out. 
+Fuel value no elevator how your team will function and then get into dividing tasks and. 
+Are coming up with questions when we come. 
+Error:
+Okay so. 
+All rooms sabrina robin. 
+Error:
+Feel free to use the ask for help button and i'll come into if you have any info you want to talk to me. 
+Till 12:30. 
+Tri western. 
+Alright as last week just join the room number that corresponds to your. 
+Error:
+I. 
+Error:
+Error:
+Error:
+Error:
+You guys will be in the rooms with your teams. 
+If anybody doesn't know how to. 
+Find the team let me know. 
+Error:
+Error:
+If you are watching this online then they won't be probably much happening for about 20 minutes. 
+But i'll keep this recording going. 
+Error:
+Error:
+David allen pictures. 
+Tell me about you should go to rome. 
+Seven i guess. 
+Forward to talk to your team. 
+Alright okay thank you. 
+Hi mohammed i wasn't able to kill you before but. 
+Error:
+Thank god you hear me. 
+Oh yeah and hear me. 
+Economica. 
+There's no one in my group i emailed you yesterday so. 
+There was one guy last meeting but i don't think he even showed up today. 
+So. 
+That group is looks quite problematic. 
+Some likely what i'll do is actually. 
+The dissolved that group and put you in a different group. 
+Okay. 
+Are you going to just do that now. 
+Yeah like. 
+Error:
+Do i have a custom which report are you just going to put me into a group. 
+You have a group that you prefer. 
+Yeah i wanted to be enough. 
+5 tickets. 
+I have another. 
+Cast m annoying.. 
+That's possible. 
+So sadly that's what has five people that then they will think it is 6 okay. 
+Sambuca has four. 
+Error:
+Are you can just text because i only know 1% in this class. 
+Okay. 
+Would make more sense than others. 
+Let's see who's there right now. 
+Everybody else has. 
+Really. 
+He's at random. 
+Selection. 
+Alright so does not. 
+Wm group fast 7. 
+Error:
+So should i just go join it. 
+So yeah i will change this on on a class later so i don't do it right now. 
+You're officially a. 
+Okay. 
+Thank you. 
+Let him know that i just made the change. 
+Soca. 
+Hollister. 
+Thank you for lesser. 
+Error:
+I guess professor i have a question about our requirement document i'm not quite understand we'll waste you ride for the requirement document. 
+Yeah i'm in this is. 
+We're just starting out about right so so i just posted for next week. 
+Of course they are for you as well will explain exactly what goes in the requirements document. 
+Videos lincoln videos also all writing a recording him up. 
+We will understand after we goes to roast away they alright. 
+Yes so i definitely look at that first and it will get us to the right like you use their stories or will they will explain a lot of those things. 
+And then next week i can answer more questions about it for sure. 
+Okay okay thank you. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+I told welcome back everybody has been looking me back. 
+Feel free to to post any questions on the tots. 
+Error:
+Error:
+I'll get ready to austin. 
+Using audio. 
+Looks like everybody's back. 
+Error:
+So. 
+I said before hopefully that was a chance for all of you to talk to your teammates and come up with some questions. 
+So. 
+Feel free to ask those questions are there raised your hand. 
+Error:
+I mean make sure to. 
+Get everybody cuz. 
+Sometimes coming out of the. 
+Record. 
+Without realizing it. 
+Error:
+Okay so. 
+Let's see if there's any any questions you guys i would like to ask. 
+Error:
+I can go ahead mateo. 
+Hiya can you give me. 
+Error:
+Should there be a bunch should it be pretty sheet music. 
+Movie casino. 
+The answer to that is the customer doesn't really know right one of the things you'll find is that. 
+Because music on react to something you sold them but more general questions such as these that might be pretty good at visualizing. 
+What the right answer. 
+So i would say that. 
+Do you. 
+For situations like this make the best gas. 
+Implemented and they will tell you again what i want despondent over there now that i can see it. 
+Right i mean i can also give you some answers as to how i imagined this to be but it doesn't mean it's the only way to do it right so but i imagine that going. 
+Along with something like you show me the music and then there's a button that says not play the music. 
+Make sense. 
+Error:
+Did i answer your question. 
+Yeah. 
+Creative freedom by feedback from the customer. 
+Error:
+The just do it and never show it to me cuz. 
+Then maybe when we mark it was a weather but i really wanted this and you were like. 
+So. 
+Yeah go for it but make sure you get feedback from the customer. 
+Thanks. 
+I thought about great love next. 
+Alright hi professor. 
+So my team just tried out important music xml file on music core and seeing the outfits and was wondering if you'd like to see something like this with the notes or if you're okay with seeing something with just the numbers. 
+Error:
+By default in english, you'll see what what you have on the screen right now. 
+One of the things that could be a future for your. 
+Error:
+For your limitation is. 
+22 have actually both of these things in parallel. 
+The notes and underneath separate stuff if you want with with the top so they could be possibly more advanced kind of feature right so i would. 
+Recommend starting with what you have on the school right now and i'll give you can. 
+Do that first let's definitely that first goal. 
+But keep in mind that maybe. 
+Your customers will say you know what that we nice if i could have both of them. 
+Error:
+Error:
+I think it also says thinking. 
+If we're going to be able to play the music. 
+Error:
+How is it to figure out where to get the sounds from. 
+Error:
+So there's lots of libraries reports that they are to do this kind of thing. 
+Right so you should look at the pedigree. 
+Audio library. 
+Error:
+They're not that very hard to find now what. 
+Pete's correspond to this is actually in the music some more. so as long as you have a library that you tell please play this note then it's fine it'll be almost direct. 
+Practice formation and give it to them and they will play for you. 
+Error:
+Okay thank you. 
+Error:
+Navigation to todd sees i was going to both visualize and play the music from the xml file. 
+Error:
+The answer is yes i'm not sure what you mean by that from the xml file xml file. 
+So and the requirement of the customer ask for at the beginning is yes i want to be able to see it but i want to be able to hear it right so. 
+Igneous car before what was out there there's a play button at the top layer right so you can press that then actually here it's only science. 
+Using musical you can. 
+Also hear what he supposed to be innocence test your code is it playing the same thing. 
+Error:
+Error:
+Alright. 
+Further questions here. 
+Error:
+I got daniel. 
+Yeah. 
+So when we get to music xml file. 
+Egregious use. 
+Music any. 
+Arthur that we find online early county library for reading xml files. 
+Error:
+Error:
+I just went to beginning and this project you can use whatever library you find online. 
+Is pittsburgh a right. 
+I'll tell you now that you won't find a library to do the project for you to depart 6 ml or elaborate to play sounds or library to visualize graphics for pdf whatever all of those are forgetting to build it from scratch cuz that's not real nobody.. 
+Error:
+Okay. 
+Thanks before i am using a library to to create the xml file you could use the same one but if you're comfortable with a different library covered. 
+Error:
+Error:
+Sounds good. 
+A question get b direct message. 
+Error:
+Question is are you going to implement the ability to play any music sheet. 
+Error:
+Well. 
+The answer is anything that the african create. 
+Right so musicxml he's a very. 
+Versatile four-month that can be used for any music you could imagine. 
+Right as i said last time could be filthy carcass us with you know 30 or 40 different instrument playing at the same time i'm not asking you to visualize that right because the apple is only for single instrument top-right guitar or drums or so that's the kind of thing. 
+Used to visualize ants. 
+Giving you a lot of examples of. 
+People tops that work with the app and produce out before you so at least until the midterm all you should talk jose is gay, visualize those things. 
+And then we can look into your producing. 
+Random import and seeing if there's anything else that. 
+Error:
+For now make sure you can visualize all the examples that i gave you. 
+Error:
+Error:
+Error:
+And yes. 
+Another question ledisi here. 
+Error:
+One of the requirements that the customer provider the beginning is that they want to be able to hear the music i want to play it right then music to melt. 
+Isn't it designed in a way to be plagued right sole formation is there. 
+How exactly do it as we discussed. 
+Innocence. 
+What goes in the requirements document. 
+The customer should be able to play. 
+Official musik. 
+Then maybe other requirements more detail that will come out later for example like i should be able to. 
+To go to the middle of music and play from there right that don't have to always play some beginning but that's. 
+More detail the comments about the playing. 
+How exactly you going to implement it right is it going to be about 10 to the left or to the right that's not really part of the requirements it's up to you to decide how you do this and as i mentioned before so it to your customer so. 
+If a customer doesn't like it so that's right. 
+I know. 
+That's so far you may have been using your courses that tell you exactly what instrument and then you implemented and you get your a plus that's not how the real world works project. 
+The real world is you have to communicate with the customer something gets feedback adjust iterate and things like that so. 
+I deliberately. 
+Tuesday's approach. 
+Rather than just tell you is exactly what i want.. 
+Error:
+Okay i have another question care. 
+Error:
+Hi professor i'm sorry if i missed the stop before but. 
+Can you tell us again like what. 
+Do you expect. 
+What we should do and i'll talk to you in tatian. 
+Okay we'll talk as we go along a course for now. 
+We'll start by looking to the requirements document as i described earlier. 
+In terms of documentation that you will need to to create for this project as well see. 
+Later on one ways. 
+Talk about testing in a couple weeks then you also have to create some documentation about your testing. 
+And. 
+They will have to be using manual for. 
+For the season. 
+Error:
+And then in the second part of the course we'll talk a little bit about the software design. 
+And that will be the condition about the design of your system. 
+For the final submission. 
+So. 
+These are the documents.. 
+Error:
+You'll need to create. 
+I'll make sure to provide information for each one of them ahead of time so you already you know it's a sort of start working on them. 
+For now i just said 2 weeks from now is the requirements document first draft. 
+So i would say focus on that for now. 
+So when are we don't have to. 
+We're too much about the documentation way. 
+Well in a sense that. 
+Error:
+You should become their requirements.. 
+Not because not worrying too much. 
+Error:
+Thank you professor. 
+Welcome. 
+Error:
+Already. 
+Any further questions. 
+Okay if there was in march when i do a couple things that i wanted to. 
+So you and ian. 
+Maybe what we'll do is for the last few minutes in. 
+Of course you guys can. 
+Error:
+Work olivia moore. 
+With your team saying there's applying for. 
+Error:
+So. 
+Let me see my screen here. 
+Okay so one of the things i wanted to show you quickly and relates to the things you looked at already in the course forget is about get ignore. 
+He also described in the video i posted yesterday so. 
+If you're wondering how to do everything and get him eclipse it's there but the 10-second always extra.. 
+So this has to do with the fact that in united project women have files that. 
+Are in the project directory but we don't really want to get to. 
+Traxxas. 
+It could be very large video files and we have so we don't want them to be uploaded and downloaded all the time either change. 
+It could be. 
+Logs that get created all the time and we could be basically class valves that can be recreated. 
+It's good to be able to to specify exactly what should be tracked and what shouldn't. 
+I told the way we do this as you saw probably in the car seats.. 
+Falco the.get ignore. 
+That you can have any good project directory and you already have one of those and looks like this. 
+Error:
+And. 
+In already. 
+Says that. 
+The cradle for example in the bill directory that caused all the classes should be ignored right signal be uploaded to github. 
+Error:
+And you'll probably have noticed. 
+Indeed those files are not being outlaw. 
+Now one of the things.. 
+Error:
+You are also don't want to do. 
+Scenic labs. 
+If you're using greater than. 
+Yoga. class b and you don't project really i'm not irrelevant and don't need to be scared. 
+Right solo. 
+What else do you recognize how to sort of okay then but we can take them out then just deleting from github. 
+We don't want to serve the men. 
+So. 
+The way i work under this is first of all. getting no power will need to say please don't share those anymore. 
+So. 
+Error:
+Little bit of cohere. 
+Got a van tomorrow 9 to talk to do this right so. 
+There is some comments you described her basically i'm saying is that project.. 
+Should not be shared. 
+Okay. 
+So i can save this right now get ignored. 
+Because in youversion is ready to be. 
+Uploaded the actual getting her phone. 
+But i have been serving classpath and project already. 
+So. 
+I need to tailgate. 
+Okay don't trust those things anymore. 
+Nights out. 
+I got right click. 
+As with most things have to go to team. 
+Error:
+I can say ignore. 
+Error:
+Similar for the project. 
+Error:
+Error:
+So. 
+I bet the team. 
+Advance. 
+Upstate ontrac. 
+Right so don't keep track of this anymore. 
+So i'm going to say. 
+Error:
+Are you noticed that little yellow cylinder. 
+Goes away here. 
+My sample project. 
+This decoration here tells me that is being tracked. 
+Now i go to team advance. 
+Ontrac. 
+That goes away. 
+So that means that i told you don't like this anymore and also put them in my kids ignore so they will be ignored. 
+Come forward so if we go at 2 to get sizing you that we discussed before. 
+Will see that. 
+Error:
+First of all i can.. 
+The getting out here. 
+So. 
+Be my next comet i want to add the new version of get ignore. 
+Night is not state. 
+And also. 
+It has so divided these two things here which is. 
+Telling those things out to be deleted. 
+Right because you said on track now the states to actually be deleted from our brother. 
+So. 
+Error:
+Again. 
+Error:
+Coming message right so ignoring the class math and art project. 
+Error:
+Spell correctly. 
+I can come in and push. 
+Supposed to. 
+So everything's okay and you'll notice here that. 
+Now there's no cylinder here. 
+Right on.. 
+The plasma table projects are grayed out a little bit to means they're not being practice a muscle builder actor before. 
+So from now on then i'm going to be there at all right in fact if i go to do my online repository here. 
+Error:
+Reload. 
+You'll see that they actually went away i don't know if he knows that the weather before. 
+Error:
+Oh yeah so now my class potter my project are not part of what i'm serving it is supposed to re-gift has basically completely forgotten about them. 
+Random. 
+I don't need them because i'm using greater so everything is good. 
+So that's us.. 
+Quick little thing. 
+You think love is soft. 
+For you and you need to realize every time whatever then. 
+You cannot them to your gig no file. 
+And also through eclipse on track them. 
+And when you commit. 
+Those changes and post also reported everything everything will go away. 
+Error:
+Salata a little extra to do the material posted for last week. 
+I will post it later. 
+Bishop sexier if you want to include in your project as well. 
+Error:
+I'll put it in my update for for the week. 
+Okay. 
+Error:
+So let me. 
+Error:
+Any questions. 
+But maybe this has brought to the forefront. 
+Error:
+Error:
+Error:
+Ask you guys a question does everybody know. 
+Where to go in the cold and. 
+Find. 
+The part that actually would run if i click on the preview button. 
+How many $4,000. 
+Error:
+Error:
+Temperature. 
+You know. 
+Give me a reaction. 
+Error:
+Error:
+You know i read x if you don't know this is like me to describe it. 
+Error:
+Error:
+Error:
+Error:
+I'm getting a few of the toddler. 
+Okay then. i'll do this again even though he's 18 last week's we do but i think it's in portland. 
+So let me do a quick video with them of that and then. 
+I'll let you guys keep working and come up with more questions. 
+Error:
+So. 
+Let me set my screen again. 
+Okay so. 
+Let me does around the app. 
+Access to remind everybody. 
+What is look like. 
+Hi so you can see the up here. 
+If i go to our project. 
+I can pick up an example. 
+Example. 
+All right so that's an example input that can use for my up. 
+And when i click the previews sheet music by then. 
+Error:
+Not much happens right it's your job to implement.. 
+Error:
+But if we go back to eclipse. 
+In the console you see that basically. 
+This is a piece of text that was printed when i click the preview.. 
+Error:
+So. 
+As a demonstrated last time. 
+My way to show to find at a stop to pick up its effects. 
+Search for it. 
+The code. 
+Error:
+It will take you directly to the system out in line. 
+That i can print it out. 
+Error:
+Eclipse does have very strong searching facility so i definitely recommend using them. 
+Error:
+Take me to that line of code. 
+So this is where. 
+This is the method that will run. 
+When i click this the baby bot. 
+So from here. 
+Yvonne. 
+Remove the system a plane line and. 
+Then create your own classes. 
+Error:
+Right. 
+Create windows do anything else you want. 
+Insensitive starting point. 
+And in theory. 
+You don't have to look at any of the other code if you don't want to. 
+Because. 
+The. 
+Call mykia tells you what how to get the music xml. 
+And start working. 
+B o. 
+If you're around this converted to get musicxml. 
+Then this will give you strength which is the whole musicxml house with so you can use that pasta to your classes and then you get to go you don't have to look at michaels at all this work with your. 
+Error:
+Alright. 
+I've basically it's just a quick reminder that to give him the app you can actually see the music summer.. 
+If you want. 
+Through the. 
+Error:
+Somebody else don't have to look at it but that's the only formation that you'll need to serve. 
+Put up on the screen is here. 
+Write all the notes in the picture is an. 
+The duration of it snowing so on you'll have to spend some time looking at that and looking at the music xml documentation. 
+Error:
+But i'm also very happy to answer questions directly about it. 
+Are the cairo on the discussion board. 
+Yes you'll have to figure out the format a little before. 
+Now the other thing you can do is you can actually. 
+Save that same file into your hard drive and then. 
+Opening up in your score like yours or your classmates to earlier. 
+Alright. 
+Fink. 
+That's all. 
+I got here so. 
+Cost of sharing. 
+So again that was a repeat from last week but i think it's important to. 
+But everybody is on the same page this is how we start and from there we can just create our own packages are all classes in their innocence innocence you creating your own library. 
+That visualizer naked music smell. 
+That the musical come out this app creates right so you can do it as a completely different thing. 
+You feel you could with alex has completely different project and so. 
+Rudy's library into my code. 
+If you want to do it actually by all means. 
+Error:
+And. 
+Error:
+Audubon uses working on your own code i definitely recommend creating a separate packets of course for you. 
+It will help things a lot more clear or clean your car. 
+Error:
+All right any questions with augusto this. 
+Yes go ahead. 
+Inscriptions if i don't like it.. 
+In my electronics book barn. 
+Error:
+So i let me try that again. 
+Okay so the reason you're not saying it's because of that filters right so basically because you said don't file hidden right. 
+Error:
+The way to show all the hidden files used to go up here to those three vertical dots. 
+I am not looking to get this manual. 
+And this is the filters. 
+Alright so now as you can see i have.. 
+Star resources here which is why i can see them said i want to see those things in your case you want to that here so why you should click on the filters. 
+Option. 
+And. 
+You probably will see that yours is checked which means hide it. 
+Right. 
+Untuckit. 
+So it's not getting. 
+Okay and then you should be able to see all the kid impala sway. 
+Error:
+Error:
+I see a thank you. 
+Error:
+Error:
+Error:
+Any other questions. 
+Error:
+Alright so we have about 20 more minutes so i think the best use of everybody's time will be to sort of drill bit more group work. 
+And hopefully plan out the rest of the week at least. 
+Until say your lover monday. 
+Error:
+Has recommended you do when i get started next week i want to see. 
+Everything hotlist when the preview bottom gets clicked some window goes up there even if it's an empty weather. 
+I want to see it up there. 
+So idly. 
+Seymour that would be good. 
+Okay so i'll let you know in your. 
+Blackhawks room division ask for help button so i'll be. 
+What's important so if you do have questions in the next 20 minutes. 
+Ask me to come in otherwise i'll be in the main room and you can come better to talk. 
+Again if you want. 
+Error:
+Do you guys want me to sort of keep the rooms open even past 120 thank you guys can stay there if you want. 
+Paris weather. 
+I'll be around 4. 
+For a while after that anyway. 
+Error:
+Going to speak for the class. 
+Error:
+Error:
+Error:
+Maybe keep it over 5 minutes after if there's not enough students in the closer. 
+Okay. 
+That's a good idea to the child ability to see if if it will have leftovers level closer. 
+Error:
+I'll keep the rooms open safe. 
+If you want them want to stay there and do good work go for it. 
+Otherwise i'll bring them if you have any. 
+As always i do send an update message after it's one of the lecturers so. 
+If someone asked me. 
+A question. 
+Well it don't have the whole class but i think it would be nice if everybody in the class smoothies and you my reply. 
+I will put that as part of my update so no need to worry about missing some information that i said while you were in the bracket room whatever so i keep notes of things that are sort of. 
+Said other things dr. jose customer and i'll let everybody know in my update. 
+Error:
+Alright so. 
+Let me open the the breckenridge again then and again if you use the ask for help button if you want. 
+Error:
+Otherwise. 
+I'll see you next time. 
+Yeah if you have questions you want to ask me now if you can stay in the mailroom. 
+Error:
+I had a question. 
+Are you just for me to the new group so i was. 
+Invited me to the new repository now was trying to put it into eclipse but it's giving me an error. 
+Someone is your help with that. 
+Okay. 
+Shopkin share my screen. 
+Error:
+Error:
+Can you sing. 
+Okay so this is the repository that have made. 
+Subtle. 
+I just stood file. 
+Import. 
+Jack's fruit market. 
+Try. 
+Error:
+So make sure you put the. 
+Only like four beds cps also copied from from your browser. 
+Just typing it just copied from your browser. 
+Error:
+Error:
+I got. 
+Error:
+Error:
+Spanish. 
+Oh yep this window just comes up. 
+You are close this window. 
+Oh. 
+I got to redo it. 
+Gift for older son got to delete it. 
+37. 
+Error:
+Error:
+Error:
+Error:
+Say. 
+Error:
+I can click next. 
+I guess i hear you saying board existing in facebook. 
+I see okay. 
+And then. 
+Next. 
+Think up next. 
+Error:
+Error:
+Okay. 
+No worries. 
+Error:
+Error:
+Make sure that. 
+Error:
+So should i just run it. 
+So you'll have to do it you from the greatest. 
+Yeah. 
+Error:
+Error:
+Error:
+Error:
+Okay alright thank you i'll go join the group now. 
+Error:
+Error:
+When asked a question. 
+Oh yeah the question. 
+So sprint sound kind of stupid but are we supposed to know how to do some of this stuff already or what. 
+Lake. 
+Error:
+Like opening a tab or window with eclipse or. 
+Importing the packages to use and stuff like that. 
+Well. 
+I mean. 
+An innocence that you guys have taken two courses implementing java right so. 
+You should know how to program basic things in java. 
+I just don't understand how or i can understand. 
+I guess i just like googling right and then i'll find out how to like use packages in like apis and stuff like that. 
+Error:
+Error:
+Programming these days involves a little googling for sure but is there something specific you seems like a really big project. 
+Compared to what i've done before. 
+It is but it's the whole tournament justice project right so. 
+Lines of code and that's it would be a little bit scary. 
+Error:
+Looking at my cold which is a lot of lines of code maybe scaring right. 
+The one thing is you don't have to understand my covid-19 but yes it may take a little bit for everybody to get started cuz it is a big thing but. 
+I just said take it one step at a time don't think about the whole thing from the beginning to say alright i'll do first is that. 
+When i click that pretty bad on a window comes up it's just an empty window. 
+Error:
+Can i put a line on the window okay well i have to get the right to implementing amazing music and it's playing it like. 
+That's like for 10 weeks down the road. 
+Error:
+Error:
+Anybody else want a question here. 
+Error:
+So yeah if you guys don't have a question you should join your teams to. 
+To plan the next week. 
+Hi professor. 
+Hello. 
+I'm so before that i asked you about the documentation and you said that. 
+We should start on the requirement gray so how exactly did we knows like what kind of requirements or whether we get a time info. 
+And chipotle. 
+Error:
+Yeah so. 
+In the material that i posted for for this upcoming week. 
+There is a course you guys are supposed to to look into on the requirements. 
+Error:
+So. 
+I was just out by listening to those videos of course making notes whatever so if you go through that you'll see basically what needs to go in the requirements document. 
+And then next week i'm happy to answer all the questions about the requirements and someone they can have after looking at that. 
+And we can discuss also. 
+In your specific case what kind of things could going. 
+Error:
+Buy best. 
+Error:
+Error:
+I'm in for the format of the documentation so is it going to be like laying english description in there right. 
+It's english requirements of english is not cold. 
+Okay alright. 
+Thank you professor. 
+Error:
+Error:
+Error:
+Hey brother i just had a quick question for the gorillas ask questions about the cartels. 
+What do you mean. 
+Play calico to set up like an equation for like that with the gooey setup. 
+Understand how the create button expensify like. 
+Location of bionatural like form. 
+Error:
+Error:
+Are you going to use double facts. 
+Error:
+Error:
+I hadn't are you talking about you're wanting is with your team decide. 
+Abdul-jabbar tracks. 
+In mind but you don't have to. 
+So depending on the family using it will be a slight i can tell you how it is until effects if that's what you're asking. 
+So. 
+How do you spell effects before. 
+Yep. 
+Political. 
+Basically the way that affects courses you specify and then i prefer width and height or location since i got. 
+Those layout managers. 
+Welcome sign. 
+But there is a piece of software that. 
+I used to do this quotes in builder have you used it before. 
+No maybe i can show you a little bit. 
+Error:
+Error:
+Red so. 
+Bring it up. 
+Error:
+Let me surmise. 
+Can you see my screen. 
+Error:
+So. 
+The name of this symbol. 
+Opportunity. 
+Error:
+But basically. 
+This is this is the main view that you see right. 
+Error:
+Error:
+Login to do it so i can have same thing about the top right when i selected. 
+Then over here i can see this. 
+Layout information and so on but. 
+Error:
+You don't move things around and. 
+That's why i said it to whatever i want. 
+So. 
+I would recommend doing the glee if you're the ugly guy definitely become familiar with simbuilder cuz. 
+Eagle make a job a lot easier. 
+Then. 
+Doing it directly in the cold. 
+Cuz you can do all these things in the cold by the air can be a bit of a pain to set it up. 
+Programmatically well. 
+He's a visual thing racer the movie things around and i'm basically changing anything here and then seeing how we will change immediately. 
+Is ready. 
+Error:
+So. 
+I would say those are very good. 
+Tutorials on steam builder on youtube and stuff so just. 
+If that's your thing going there and just learn about seeing builder and thank you from there. 
+What was the connection i got you connected simbuilder with. 
+Next project itself is there. 
+Error:
+So when you install sim builder. 
+Then. 
+Gwen. 
+You open an xml file. 
+Error:
+Delete fan. 
+Error:
+The those files would open. 
+Do the software and an eclipse in your body. 
+Error:
+If you have trouble with that. 
+Error:
+Okay perfect yeah cuz i was used to like the code burn like do the height and the location of everything i think this is better this way back. 
+Yeah for sure i mean it's okay if you doing small things right. 
+This is a. 
+Error:
+You want to make sure you set it up nicely. 
+Yeah i would definitely recommend seeing builder for the. 
+Things available for any platform. 
+Also had a second to shoot your money. 
+Gopher. 
+Injunction. 
+Parts of the small itself is it better to use the parts trenton like to break down that wall it's my file it's like the truck parts. 
+Aisle and then interpret on your own for that too. 
+Error:
+Yeah. 
+I think you want to park there tomorrow and that's extract. 
+At least. 
+Is not great for this kind of thing right if it's a person into objects and list you know how to go through everything right. 
+Error:
+Error:
+Error:
+We have two parts of the doctor official and the audiobook switch one will break it down so i can fit separate note to self. 
+Truman doctrine. 
+Yeah picture of the gods. 
+I just have to find publix. 
+Error:
+Once you do that it's actually that you'll see it becomes very easy. 
+Everything is there okay. 
+Then. 
+Tulsalibrary.org lazy 5 automatic. 
+Error:
+Definitely with many like it's dragging me down if you're familiar with it too but yeah if you give it to know and understand. 
+A perfect thank you so much. 
+Error:
+Kidding have a you have a question for me. 
+Error:
+Call almighty member left so i'm just here like working. 
+Are working at 9 in case i have any questions. 
+Error:
+Error:
+Accolade. 
+Suppose that recording from. 

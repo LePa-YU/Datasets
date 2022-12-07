@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('Alright', 6), ('basically', 5), ('customer', 4), ('discussion', 5), ('feel', 4), ('free', 4), ('going', 9), ('guys', 4), ('know', 5), ('like', 4), ('mean', 4), ('meetings', 4), ('minutes', 5), ('note', 4), ('put', 4), ('question', 9), ('questions', 7), ('right', 9), ('rooms', 4), ('see', 4), ('team', 6), ('theres', 4), ('time', 6), ('today', 9), ('wednesday', 5)]
+tfidf: 
+['alright', 'basically', 'customer', 'discussion', 'exactly', 'feel', 'free', 'going', 'guys', 'know', 'like', 'mean', 'meetings', 'minutes', 'note', 'question', 'questions', 'right', 'rooms', 'talk', 'team', 'theres', 'time', 'today', 'wednesday']
+Stemmed tfidf: 
+['alright', 'basic', 'custom', 'discuss', 'feel', 'guy', 'ill', 'join', 'know', 'line', 'make', 'mean', 'meet', 'minut', 'music', 'note', 'question', 'right', 'room', 'say', 'team', 'thing', 'time', 'today', 'wednesday']
+Lemma tfidf: 
+['alright', 'basically', 'customer', 'discussion', 'exactly', 'feel', 'going', 'ill', 'know', 'like', 'line', 'mean', 'meeting', 'minute', 'note', 'question', 'right', 'room', 'say', 'talk', 'team', 'thing', 'time', 'today', 'wednesday']
+Combination items: 
+[('Alright', 1), ('alright', 2), ('basically', 3), ('customer', 3), ('discussion', 3), ('exactly', 2), ('feel', 3), ('free', 2), ('going', 3), ('guys', 2), ('ill', 1), ('know', 3), ('like', 3), ('line', 1), ('mean', 3), ('meeting', 1), ('meetings', 2), ('minute', 1), ('minutes', 2), ('note', 3), ('put', 1), ('question', 3), ('questions', 2), ('right', 3), ('room', 1), ('rooms', 2), ('say', 1), ('see', 1), ('talk', 2), ('team', 3), ('theres', 2), ('thing', 1), ('time', 3), ('today', 3), ('wednesday', 3)]
+Combination most_common: 
+[('going', 3), ('today', 3), ('right', 3), ('question', 3), ('team', 3), ('time', 3), ('know', 3), ('discussion', 3), ('wednesday', 3), ('basically', 3), ('customer', 3), ('mean', 3), ('like', 3), ('note', 3), ('feel', 3), ('questions', 2), ('minutes', 2), ('meetings', 2), ('rooms', 2), ('theres', 2), ('free', 2), ('guys', 2), ('exactly', 2), ('talk', 2), ('alright', 2), ('Alright', 1), ('see', 1), ('put', 1), ('ill', 1), ('line', 1), ('say', 1), ('minute', 1), ('thing', 1), ('room', 1), ('meeting', 1)]

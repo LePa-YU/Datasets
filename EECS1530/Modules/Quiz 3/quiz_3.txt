@@ -1,0 +1,99 @@
+Files when saved, use RAM as storage space.
+Select one:
+True
+False
+
+A module is always part of the standard library.
+Select one:
+True
+False
+
+CSV files can have any character as its delimiter.
+Select one:
+True
+False
+
+It is possible to use open to view many different types of files, including .csv and .xml files.
+Select one:
+True
+False
+
+Files have multiple modes of execution. These modes are: 
+Select one:
+a. a,r,w
+b. a,b,r,x,w
+c. a,b,r,t,x,w,+
+d. a,b,r,x,w,+
+e. a,b,c,r,x,w,+
+
+The print statements in the following program
+from datetime import datetime
+now = datetime.now()
+day = ['mon','tue','wed','thu','fri','sat','sun']
+for i in range(len(day)):
+    if i % 2 == 0:
+        print(day[i])
+print(day[now.weekday()])
+results in output
+Select one:
+a. mon 
+wed 
+fri 
+sun 
+Wednesday
+b. 0 
+2 
+4 
+6
+c. mon 
+wed 
+fri 
+sun
+d. mon 
+wed 
+fri 
+sun 
+wed
+e. tue 
+thu 
+sat 
+wed
+
+You have a data frame called article. The statement article.head() produces
+Select one:
+a. The last five lines out of article
+b. The last line out of article
+c. The first five lines out of article
+d. The first ten lines out of article
+e. The first line out of article
+
+Write down the output produced by the print statement in the following program. Please shortly explain what the program is supposed to do.
+
+You run the following program twice. Write down the output produced by the following program. Please shortly explain what the program is supposed to do.
+
+Write down the output produced by the function in the following program. 
+
+In your own words explain what the following program does and give the result of the print statement.
+
+In your own words explain what the following program does and give the result of the print statement.
+
+1.a) Write a function that rolls a 20-sided die once. If the number is between 1-10 it should return false, if the number is between 11-20 it should return true.
+b) Assuming the function in a) is correct: create a program that will use this function twenty times and show how many true/false results there are in a dictionary.
+Example result:
+{'True': 7, 'False': 13}
+** All answers will be checked against plagiarism. Only submit your own work
+
+Write a function that removes all newline characters from file ‘test.txt’ and returns the result in a list.
+Sample input/output
+** All answers will be checked against plagiarism. Only submit your own work
+
+Write a function that takes in a dictionary and saves it into a file.
+a) File: "department_birthdays.csv". 
+b) Make sure the csv file has headers 'Name' and 'Birthday'
+c) Look at the sample input and output.
+** All answers will be checked against plagiarism. Only submit your own work
+
+
+
+
+

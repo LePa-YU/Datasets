@@ -1,0 +1,32 @@
+Assignment 3 - Control Flow (For/While)
+Assignment 3 - Control Flow (For/While)
+1. Write a python program that will print out if a number is even or odd. Use a loop to print out all the numbers from 1 to 17 stating if it is odd or even.
+
+Use a for() loop
+Example: 
+
+1 is odd
+
+2 is even
+
+2. Write a python program that will list the first five prime numbers. A prime number is a number that can only be divided by itself and 1.
+
+Use a while() loop
+Example:
+
+2
+
+3
+
+5
+
+7
+
+11
+
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle
+Note: please do NOT change file names

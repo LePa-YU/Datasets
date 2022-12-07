@@ -1,0 +1,63 @@
+What is a dark pattern?
+A) A design approach taken in an interactive system that is intended to influence user behaviour through deceptive or misleading means.
+B) A design feature of an interactive system that is not detectable by users (i.e., users are "left in the dark").
+C) A situation that arises when some design feature of an user interface interacts with some characteristics of certain users to produce a negative or dark experience.
+D) A situation in which a user takes advantage of a feature of an interactive system in order to create harmful behaviours.
+ANSWER: A
+What is a key difference between the 'Social Proof' dark pattern and the 'Scarcity' dark pattern?  (choose the best answer)
+A) one exploits the bandwagon effect, whereas the other exploits the scarcity bias
+B) one is the precursor to the other, because social desirability drives demand, which genuinely reduces availability
+C) one exploits the framing effect, whereas the other exploits the scarcity bias
+D) one is the consequence of the other, because genuine low availability creates social desirability due to the framing effect
+ANSWER: A
+Are all interaction design patterns considered to be 'good'? (choose the best answer)
+A) yes, the term 'interaction design patterns' tends to have a connotation of a 'good' design pattern
+B) yes, the concept of a design pattern is good by definition
+C) no, interaction design patterns are those approaches intended to influence user behaviour through deceptive or misleading means
+D) no, interaction design patterns are neither good nor bad, they are neutral to users and have no effect on them
+ANSWER: A
+What is an interaction design pattern? (choose the best answer)
+A) An abstracted design approach that has merit in a design situation that is common across interactive systems
+B) A recipe for solving a design dilemma.
+C) A plug-and-play solution that can be used across different platforms.
+D) A design approach taken in an interactive system that is particular to that specific context
+ANSWER: A
+The 'double drawer' is an example of...  (choose the best answer)
+A) An interaction design pattern
+B) A dark pattern
+C) An interaction type
+D) An interaction mode
+ANSWER: A
+Is a "4 drawer" design pattern technically feasible?
+A) yes
+B) no, this is technically impossible
+ANSWER: A
+Is an "8 drawer" design pattern technically feasible?
+A) yes, provided the user has a way to swipe in 8 different directions
+B) no, this is technically impossible
+ANSWER: A
+To what extent are dark patterns a problem?
+A) the extent varies, from mild to severe
+B) to a mild extent, a mild annoyance or frustration
+C) a severe extent, causing major financial loss and detrimental effects on mental well-being
+D) dark patters are neither a problem or a benefit; they are neutral and it is the users who are the problem
+ANSWER: A
+Are dark patterns uniformly detrimental?
+A) no, only to some stakeholders; other stakeholders actually benefit from dark patterns
+B) yes, dark patterns are detrimental to all stakeholders, irrespective of their type
+C) no, dark patterns are detrimental to the government, which are unable to enforce consumer standards
+D) yes, dark patterns are detrimental to all stakeholders by definition
+ANSWER: A
+Is the dark pattern categorization scheme proposed by Mathur et al (2019) the definitive scheme? (choose the best answer)
+A) no, it is not proven definitive, but among all of the various schemes, this one is a useful and effective
+B) no, it has been proven to be inadequate
+C) yes, it is the only categorization scheme that has been proposed
+D) yes, Mathur et al (2019) have patented the scheme and York University bought a license for the scheme
+ANSWER: A
+What is confirmshaming?
+A) confirmshaming is a dark pattern in which the user is presented with a choice, and the option that is dispreferred (by the website's proponents) is connected with stigmatizing language in order to deter its selection
+B) confirmshaming is a dark pattern in which the user is presented with a choice, and the option that is dispreferred is subject to visual interference
+C) confirmshaming is a dark pattern in which the user is presented with a choice, and the option that is dispreferred is shown with a countdown timer
+D) confirmshaming is a dark pattern in which the user is presented with a choice, and the option that is dispreferred is accompanied by a testimonial that emphasizes shameful behaviour
+ANSWER: A
+

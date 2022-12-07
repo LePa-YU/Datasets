@@ -1,0 +1,13 @@
+EECS1530 3.0 W18 - Computer Use: Programming
+Concepts of computer systems and technology - e.g. software engineering, algorithms, programming languages, theory of computation. Practical work focuses on problem solving using a high-level programming language. The course requires extensive laboratory work. This course is designed for students who are not Computer Science majors, but may be used as preparation by those who wish to major in Computer Science but lack programming background.
+
+Instructor: Anni Siren
+Email: asiren@eecs.yorku.ca
+Office:  LAS-2002A
+Office Hours: Tuesday 10-11 am; Wednesday 4-5 pm (Starting Jan 14)
+Course SyllabusFile
+Course AnnouncementsForum
+Simple Q&AForum
+When you have a question, one that you think other students may benefit from the answer, or which another student may be able to answer, please post it here. I will answer too as necessary.
+
+Echo360 Lecture Capture VideosExternal tool

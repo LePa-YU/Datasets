@@ -1,0 +1,6 @@
+Week 8 (to be completed by Wednesday, March 16)
+Lab task
+Each student must draw two diagrams describing an aspect of the system.
+The two diagrams cannot be of the same type. Choose two of the following types of diagrams: activity, class, sequence, and object.
+Groupmates can choose the same type of diagram but they must describe a different part of the system, e.g. one prepares a sequence diagram related to XML parsing, another prepares a sequence diagram related to the play functionality.
+The TAs in the lab session can provide feedback on how to improve your diagrams.

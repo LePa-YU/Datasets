@@ -1,0 +1,13 @@
+Topic 3: Functions
+Topic 3: Functions
+Lecture 4- Functions
+Class: February 3 & 5
+Lecture slides: (available Feb 3)
+Pre-class material: 
+Chapter 6: Functions (functions, unit testing)
+swaroopch.com  (functions, variables)
+geeksforgeeks.org (functions)
+w3schools.com (functions)
+guru99.com (main functions for python 3.0)
+Pre-class quiz due: Feb 3, 5pm
+Assignment 4 due: Feb 9

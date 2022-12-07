@@ -1,0 +1,301 @@
+Course Outline
+[EECS2311]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS2311
+Project
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Grades
+Contact
+Academic
+Honesty
+Course Outline
+You are here: EECS 2311 » Course Outline
+−Table of Contents
+Course Outline
+Week 11 (to be completed by Wednesday, April 6)
+Due
+Study material
+Lab task
+Weekly goals
+Week 10 (to be completed by Wednesday, March 30)
+Due
+Study material
+Lab task
+Weekly goals
+Week 9 (to be completed by Wednesday, March 23)
+Due
+Study material
+Lab task
+Weekly goals
+Week 8 (to be completed by Wednesday, March 16)
+Due
+Study material
+Lab task
+Weekly goals
+Week 7 (to be completed by Wednesday, March 9)
+Due
+Lab task
+Weekly goals
+Week 6 (to be completed by Wednesday, March 2)
+Due
+Lab task
+Weekly goals
+Week 5 (to be completed by Wednesday, February 16)
+Due
+Study material
+Lab task
+Weekly goals
+Week 4 (to be completed by Wednesday, February 9)
+Due
+Study material
+Lab task
+Weekly goals
+Week 3 (to be completed by Wednesday, February 2)
+Due
+Study material
+Lab task
+Weekly goals
+Week 2 (to be completed by Wednesday, January 26)
+Due
+Study material
+Lab task
+Weekly goals
+Week 1 (to be completed by Wednesday, January 19)
+Due
+Study material
+Lab task
+Weekly goals
+Course Outline
+Week 11 (to be completed by Wednesday, April 6)
+Due
+The only due item this week is your Peer Assessment 4 feedback on the design documents you have received, due on Wednesday, April 6.
+You should of course be working towards completing your project so you can present all its features at the progress report meeting that will take place this week, similar to what we did prior to the midterm submission. These meetings will take place on either Monday or Wednesday using the lecture Zoom link as follows:
+Monday, April 4
+11:30 - 11:40 Discussion with the whole class as usual
+11:40 - 12:00 Group 1
+12:00 - 12:20 Group 3
+12:20 - 12:40 Group 5
+12:40 - 13:00 Group 6
+13:00 - 13:20 Group 7
+Wednesday, April 6
+11:30 - 11:40 Discussion with the whole class as usual
+11:40 - 12:00 Group 8
+12:00 - 12:20 Group 9
+12:20 - 12:40 Group 11
+12:40 - 13:00 Group 12
+13:00 - 13:20 Group 13
+Study material
+Our topic this week is refactoring. As everybody is certainly busy, it is an optional topic.
+If you do not know how to rename variables in Eclipse using the refactoring facilities, I highly recommend watching the first part of this short video.
+For more on refactoring, you can watch this instructor video on it. Feel free to do this after the term is finished.
+Click here for the lecture video.
+Lab task
+There is no lab task, but a TA will be available in the lab on Monday for any questions you may have.
+Weekly goals
+Learn about refactoring
+Provide feedback on the design documents you received before the deadline
+Prepare for the progress report meeting with the customer
+All requirements must be implemented and tested
+Documents are being finalized
+Week 10 (to be completed by Wednesday, March 30)
+Due
+There are two things due this week:
+The lab task as described below.
+The draft of your design document. See the PeerScholar submission link for more details.
+Study material
+This week we take a look at testing again. These slides discuss the two topics we will focus on:
+Test coverage. Start by watching this instructor video on the topic. The code in the video is in the TestCoverage project in this github repository. The build.gradle file that came with the repository has all these features as well. Use JaCoCo and create test coverage reports. Work on improving the coverage of your test code.
+GUI testing. Start by watching this instructor video on the topic. The code in the video is in the JavaFXSample project in this github repository. Next, check out the TestFX github page for more information. Add appropriate GUI test cases to your system. GUI tests are not required for the final submission.
+Click here for the Week 10 lecture video.
+Lab task
+Compute the code coverage of your code and make plans on how to improve it.
+Weekly goals
+Learn about code coverage
+Learn about GUI testing
+Submit a draft of your design document for peer feedback.
+Week 9 (to be completed by Wednesday, March 23)
+Due
+For Peer assessment 3, you are required to submit 3 bug reports for each of the two projects you are evaluating. See the PeerScholar link for more details. Preparing these bug reports is also your lab task for the week (see below).
+Study material
+Our topic this week is bug reporting. Start by watching Section 4 (Bug Reporting) of this online course.
+For the bug reports that you will create this week, use the list of sections in this video. You should also add the input you tested with as an attachment, and list which MusicXML viewer(s) you tested with.
+If you'd like to learn more about bug reports, this is a great but longer online course. If you have time for only one video from it, watch this one.
+Lab task
+Create the 3 bug reports as indicated above.
+Weekly goals
+Learn about bug reporting
+Produce constructive bug reports for peer systems
+Fix problems identified in your midterm submission feedback
+Implementation on all new requirements must be underway
+Week 8 (to be completed by Wednesday, March 16)
+Due
+There are two things due this week:
+The lab task as described below.
+The current version of your system for Peer Assessment 3 - Issue Tracking. See the PeerScholar submission link for more details.
+Optional but recommended: On Peer Assessment 2, rate the feedback you received (as a team), and/or rate your group members on their contributions until the midterm submission.
+Study material
+The final submission will be similar to the midterm submission, except it will also contain a Design Document (worth 20% of the final submission). Our target this week is to start working on this document by creating diagrams describing the system you are developing.
+Start by watching this online course on UML and its diagrams. Focus on the following types of diagrams: activity, class, sequence, and object. Study other types of diagrams for your own interest.
+Select a tool that you will use for such kind of diagrams (as a software engineer you'll have to do these quite often). You can use any number of tools (see complete list below) including dedicated UML tools, such as PlantUML, or drawing tools with UML support such as diagrams.net.
+These slides present the purpose of the design document and emphasize some of the points made in the course as well.
+You may also find useful these tutorials on different kinds of UML diagrams, as well as this list of UML tools.
+Lab task
+Each student must draw two diagrams describing an aspect of the system.
+The two diagrams cannot be of the same type. Choose two of the following types of diagrams: activity, class, sequence, and object.
+Groupmates can choose the same type of diagram but they must describe a different part of the system, e.g. one prepares a sequence diagram related to XML parsing, another prepares a sequence diagram related to the play functionality.
+The TAs in the lab session can provide feedback on how to improve your diagrams.
+Weekly goals
+Learn about design documentation and the corresponding UML diagrams
+Create the first draft of the design document including the diagrams prepared for the lab task
+Study the additional requirements posted about the project and start implementing them
+Produce a version of the system that implements as many requirements as possible for submission on Wednesday, Mar 16.
+Week 7 (to be completed by Wednesday, March 9)
+Due
+The only due item this week is the midterm project submission for the project, which is due on Sunday, March 6 at 11:59pm. Submission instructions can be found in these slides.
+There is no new study material for this week.
+Your lab task on Monday will be to present your midterm submission to the TA that will mark it. This will take place online (using the lab link) with the usual set up of breakout rooms, and the following schedule:
+11:30 - 11:39 Group 1
+11:39 - 11:48 Group 2
+11:48 - 11:57 Group 3
+11:57 - 12:06 Group 4
+12:06 - 12:15 Group 5
+12:15 - 12:24 Group 6
+12:24 - 12:33 Group 7
+12:33 - 12:42 Group 8
+12:42 - 12:51 Group 9
+12:51 - 13:00 Group 11
+13:00 - 13:09 Group 12
+13:09 - 13:18 Group 13
+While no formal presentation is required, it is recommended that you practice your presentation before the meeting so you can highlight all the cool features of your app, while showing all important use cases.
+Click here for the Week 7 lecture video from Monday, and here for the one from Wednesday.
+Lab task
+No lab task this week other than the presentation to the TA. A TA will be available at the usual time during Monday's lab for any in-person questions you may have.
+Weekly goals
+Study the peer feedback you received for your app
+Finalize the code of your midterm submission as in the above instructions
+Finalize all three documents
+Submit midterm submission by Sun Mar 6
+Prepare a nice demo for your app for the lab on Monday
+Week 6 (to be completed by Wednesday, March 2)
+Due
+This week lasts for two weeks due to Reading Week.
+By Sunday, February 20, each team must submit their prototype for Peer Assessment 2 (see link on eClass page).
+By Sunday, February 27, each student has to submit feedback on the prototypes and User Manuals that are assigned to them in PeerScholar. A rubric for how your feedback will be graded has been added to the Assess Phase description.
+There is no study material or lab task due this week. Instead, each team will have a progress report meeting with their customer/manager/instructor and, perhaps more importantly, the TA that will mark the midterm submission. These meetings will take place on either Monday or Wednesday using the lecture Zoom link as follows:
+Monday, February 28
+11:30 - 11:50 Discussion with the whole class as usual
+11:50 - 12:05 Group 1
+12:05 - 12:20 Group 2
+12:20 - 12:35 Group 3
+12:35 - 12:50 Group 4
+12:50 - 13:05 Group 5
+13:05 - 13:20 Group 6
+Wednesday, March 2
+11:30 - 11:50 Discussion with the whole class as usual
+11:50 - 12:05 Group 7
+12:05 - 12:20 Group 8
+12:20 - 12:35 Group 9
+12:35 - 12:50 Group 11
+12:50 - 13:05 Group 12
+13:05 - 13:20 Group 13
+Click here for the Week 6 lecture video.
+Lab task
+No lab task this week. A TA will be available at the usual time during Monday's lab for any in-person questions you may have.
+Weekly goals
+Submit your app for peer feedback
+Study the peer feedback you will receive for your app
+Prepare for the meetings after Reading Week by completing as much functionality on your app as possible
+Week 5 (to be completed by Wednesday, February 16)
+Due
+There is a simple lab task this week to allow teams to focus on their project code, because by Sunday, February 20, you must submit a prototype + User Manual of your system as a team. Make sure that your instructions are clear so that your peers can run your prototype successfully. Note that you are not being graded on the quality of your prototype at this point. This is for you to receive feedback on what you have done so far.
+Study material
+Our topic this week is debugging. Start by watching these two videos on debugging in Eclipse: 1. Breakpoints 2. Debugging
+When using Gradle, the process is a bit more involved, so next watch this instructor video on how to set up Gradle for debugging.
+Click here for the Week 5 lecture video.
+Lab task
+For this week's lab task, you must complete set up of debugging with Gradle in Eclipse.
+Weekly goals
+Set up and use debugging with Gradle
+Submit the prototype and user manual of your system by Wed Feb 16
+Continue developing your application and test code and the documentation (Requirements, Testing, User Manual) of your system.
+Week 4 (to be completed by Wednesday, February 9)
+Due
+Apart from the usual lab task, this week each student has to submit feedback on the Requirements Documents that are assigned to them in PeerScholar. A rubric for how your feedback will be graded has been added to the Assess Phase description.
+Study material
+Our target this week is to start on our system's testing. The system you are developing in this course must be fully tested. We will use the JUnit framework to do this.
+Start by going through this online course. Focus on these videos: 1-5, 7-12, 14-17. You can ignore videos 6 and 13 on Maven. Maven and Gradle projects have the same folder structure, so the rest of the course applies to our course. Videos 18 and after are more advanced features of JUnit that are good to know but not necessary for this course.
+These slides present the main points about JUnit as well. To get the Counter example, check out the EECS 2311 project from https://github.com/biltzerpos/TeachingCode
+You can find detailed information about JUnit 5 in its official documentation (use only as reference).
+Click here for the Week 4 lecture video.
+Lab task
+For this week's lab task, write 3 separate JUnit test cases for some of the code you have developed so far for the project. All tests written by your team must run when you build your app (task “build” in the Gradle task group “build”).
+If your code is not easy to test (e.g. you have been working on the GUI), you can develop test cases for a part of the system written by one of your teammates.
+Weekly goals
+Understand JUnit
+Start writing test code for all the application code in your project
+Start documenting the tests you are creating in a Testing Document (it will be part of the midterm and final submission)
+Provide feedback on the Requirements Documents you will be assigned
+Have a prototype of your system that runs end-to-end to demonstrate to your customer at the end of the week
+Week 3 (to be completed by Wednesday, February 2)
+Due
+Apart from the usual lab task, this week your team has to submit:
+A first draft of the Requirements Document. See the Peer Assessment link in eClass for more details.
+The completed Team Agreement. Download the template, complete it as indicated, and submit on eClass (only one member should make the submission on behalf of the team). It is not for marks, but all teams must do this.
+Study material
+Our target this week is to finish the material on git by learning about git workflows.
+First off, for those of you still unsure about merges, when do they fail, what is a fast-forward merge etc, you might find this explanation helpful.
+Next, we will learn about a method to organize the branches in our repository called Gitflow. Read the original description, as well as this explanation.
+These slides present the main points from the above links, and describe how branches must be organized in EECS 2311.
+Finally, this is not required studying, but this is a handy page that lists everything you might need to remember about command-line git. It includes instructions on how to make your README file on github look nice.
+Click here for the Week 3 lecture video.
+Lab task
+Prior to the lab on Monday, your team must organize the branches in your repository as outlined in the slides above.
+For the lab task, demonstrate committing to your personal branch, then merging the changes to the develop branch, and finally pushing both the develop branch and your personal branch to github. To avoid conflicts, remember to pull the develop branch just before starting your demonstration.
+Weekly goals
+Understand gitflow
+Organize your team repository according to gitflow
+Complete and submit the Team Agreement
+Finalize and submit the first draft of the system's Requirements document
+Your master branch now has the latest stable version of your system. You can always switch to it and demo to your customer.
+Week 2 (to be completed by Wednesday, January 26)
+Due
+Only the lab task is due this week. The week after you will be submitting a first draft of the Requirements Document for the system, so you should get started on it.
+Study material
+Our target this week is to learn how to work with branches in git, including resolving conflicts when they arise, as well as to learn what goes in a requirements document, including use cases and user stories.
+Start by completing this course (login with Passport York credentials). It is a very nice, detailed introduction to local and remote branches, including resolving conflicts. Even though this course is using git in the command-line fashion, it is important to understand it thoroughly. A lot of the command-line terminology shows up in Eclipse. If you are pressed for time, you can skip Section 5 on stashing changes, although it is a powerful tool you should learn how to use at some point.
+Once you have completed the course above, watch this instructor video on how to do some of the command-line operations in Eclipse, using Egit. You can find the Egit documentation through Eclipse (Help → Help Contents). This tutorial is also quite helpful (you might want to become familiar with the way Egit decorates icons - scroll towards the end of the tutorial).
+Finally, complete Sections 2 and 3 of this course (login with Passport York credentials). It is a very nice introduction to requirements and use cases. I particularly like the fact that clarity is emphasized over formality. For your Requirements document, also focus on a clear set of requirements and use cases without worrying about including all possible sections or following a particular format.
+Click here for the Week 2 lecture video.
+Lab task
+For this lab task, you will work in groups of 2 or 3. Create a conflict by editing the same file at the same time. After one student pushes the update to the team repository, another must pull and resolve the conflict in any way they see fit. Every student must be able to demonstrate the process of resolving the conflict.
+Weekly goals
+Understand local and remote branches
+Learn what causes conflicts and how to resolve them
+Create a first runnable version of your system to demo to your customer
+Learn about requirements, use cases and user stories
+Continue with your draft of the system's requirements (what does the system do for the user)
+Week 1 (to be completed by Wednesday, January 19)
+Due
+Nothing due this week. Make sure to complete the lab task, and start working on the project so you can come to the next lecture with questions!
+Study material
+Our target this week is to learn the basics of git and github.
+Start by making sure that all team members have completed the setup demonstrated in lecture.
+The lecture slides list all the steps for that setup.
+A video of the first lecture is also available.
+Next, read the first three chapters of the Pro Git Book. Focus on the concepts of version control, not the command-line syntax, as we will use git through Eclipse. This set of slides describes the important concepts from these chapters as well.
+For those of you that prefer videos to reading, this course is a great introduction to git (login with Passport York credentials). It also focuses on the command-line syntax of git which will not be a focus in this course, so focus more on the version control concepts.
+Lab task
+Ask a teammate to push a change to your team's github repository (could be as simple as adding a comment to the code).
+Demonstrate pulling the change, making a new change, and pushing it to the online repository.
+Weekly goals
+Understand the basics of git
+Set up group repository, all members are able to push/pull
+Start coding
+Start on a draft of the system's requirements (what does the system do for the user)
+Prepare your questions for the next lecture
+Last modified: 2022/03/30 14:25

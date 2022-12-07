@@ -1,0 +1,6 @@
+Week 9 (to be completed by Thursday, November 12)Study material
+Our focus this week is on finishing Assignment 3, as well as learning about audio file formats.
+Start by watching this video on the most common types of audio formats.
+Next, study the slides on audio file formats, and complete the eClass quiz on it.
+Finish with this video on what is lost when compressing audio. Video has several loud parts, so watch at low volume to begin with.
+Finally, continue with our Weekly Unity Background: Complete Section 8. Collisions.

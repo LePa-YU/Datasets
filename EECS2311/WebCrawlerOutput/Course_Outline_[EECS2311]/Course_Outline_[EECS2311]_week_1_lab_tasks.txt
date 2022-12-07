@@ -1,0 +1,4 @@
+Week 1 (to be completed by Wednesday, January 19)
+Lab task
+Ask a teammate to push a change to your team's github repository (could be as simple as adding a comment to the code).
+Demonstrate pulling the change, making a new change, and pushing it to the online repository.

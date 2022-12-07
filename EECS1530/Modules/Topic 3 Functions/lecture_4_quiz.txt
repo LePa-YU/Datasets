@@ -1,0 +1,37 @@
+A files are saved into RAM.
+
+Select one:
+True
+False
+
+There are many modules in the standard library.
+
+Select one:
+True
+False
+
+Functions
+
+Select one:
+a.
+can use a return statement.
+b.
+can only have one parameter.
+c. cannot have any other functions inside.
+d. use the keyword define.
+
+A unit test is
+
+Select one:
+a. a piece of code inserted into a function.
+b. used primarily to manually test your code.
+c. a function that is inserted into code.
+d. used to verify the correctness of pieces of code, most commonly functions.
+
+Which of the following is true:
+
+Select one:
+a. a local variable is defined within a function.
+b. a local variable can be used in any functions after it's been defined.
+c. a global variable can be used as a local variable.
+d. a global variable can only be used inside a function.

@@ -1,0 +1,7 @@
+New requirements added on March 7!
+The system must allow the user to customize the visual output to improve it aesthetically and functionally. This definitely includes adjusting the spacing between notes in order to have both the left and right ends of the output align (similar to text justification in a word processor). It can also include customizing fonts, the spacing between the lines of the staff, the size of the notes etc.
+Repeats must be supported as well. Try this example input on MuseScore to see the expected output.
+The previewer should allow the user to see what measure number they are looking at, as well as support a Go To Measure function as in the text input.
+The play function must allow the user to change the tempo of the music, i.e. how fast or slow it is played back. This must be expressed in beats per minute (bpm). 60 bpm means that there are 60 quarter notes in a minute, i.e. each quarter note lasts one second.
+There must be a connection between the play function and the visual output as follows: The user must be able to select a measure (or a note) and start playback from that point. Also, when the music is playing, the visual output must highlight the note that is currently being played (similar to MuseScore).
+

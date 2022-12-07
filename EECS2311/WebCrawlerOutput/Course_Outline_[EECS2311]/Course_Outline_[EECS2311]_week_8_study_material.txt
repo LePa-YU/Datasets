@@ -1,0 +1,7 @@
+Week 8 (to be completed by Wednesday, March 16)
+Study material
+The final submission will be similar to the midterm submission, except it will also contain a Design Document (worth 20% of the final submission). Our target this week is to start working on this document by creating diagrams describing the system you are developing.
+Start by watching this online course on UML and its diagrams. Focus on the following types of diagrams: activity, class, sequence, and object. Study other types of diagrams for your own interest.
+Select a tool that you will use for such kind of diagrams (as a software engineer you'll have to do these quite often). You can use any number of tools (see complete list below) including dedicated UML tools, such as PlantUML, or drawing tools with UML support such as diagrams.net.
+These slides present the purpose of the design document and emphasize some of the points made in the course as well.
+You may also find useful these tutorials on different kinds of UML diagrams, as well as this list of UML tools.

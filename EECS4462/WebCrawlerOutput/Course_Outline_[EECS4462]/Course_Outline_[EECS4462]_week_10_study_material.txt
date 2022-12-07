@@ -1,0 +1,10 @@
+Week 10 (to be completed by Thursday, November 19)Study material
+Our next target is to learn about audio in video games.
+Start by studying the slides on Game Audio. They describe the process for audio in large video games, so they won't necessarily apply to Assignment 4.
+Continue with our Weekly Unity Background: Complete Section 9. Adding Audio.
+Finally, study Assignment 4 (click on the Sidebar to find it) and choose a game to work with. Look for sound files that you will use for A4 online. Places to look into:
+freesound.org Creative Commons Licensed sounds
+Sound effects Creative Commons Licensed sounds
+Production Crate (paid but has free trial)
+Epidemic Sound (paid but has free trial)
+bensound.com Royalty-free music

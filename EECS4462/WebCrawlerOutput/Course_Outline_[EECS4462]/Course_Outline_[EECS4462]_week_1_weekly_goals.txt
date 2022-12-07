@@ -1,0 +1,4 @@
+Week 1 (to be completed by Thursday, September 10)Weekly goals
+Install all necessary software
+Understand what MIDI is at a high level
+Read and understand Assignment 1

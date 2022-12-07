@@ -1,0 +1,3 @@
+Week 4 (to be completed by Thursday, October 1)Weekly goals
+This week's pod meetings are only a day or two away from the A1 deadline, so you should have completed the functionality part of the assignment by then, while the look and feel of your GUI should be getting there.
+Continue with Unity

@@ -1,0 +1,312 @@
+Okay so. 
+Let's save file. 
+Any further questions i saw the recording a little bit late limitless wake up a couple of things that came out. 
+And i'll count you actually in. 
+In light of the requirements that we have. 
+My son. 
+There were some questions as to for example. 
+Weather playing music. 
+Soda. 
+Only be from the beginning or move ahead for buying some amount of time of things like. 
+And of course the answer from the counselors who is that. 
+You would like to start a summary the middle if it's a long piece of music. 
+Then. 
+You don't want to start from the beginning always to get to hear it. 
+So loud. 
+Well this. 
+Sounds good to us as programmers. 
+Let me ask you a question after this discussion with your customer. 
+What do you think would you write in your requirements document. 
+With regards to this. 
+Error:
+Ideas. 
+How about something like. 
+The system must. 
+Like. 
+Must be able to allow the user. 
+To play. 
+A piece of code like a piece of music sheet. 
+I like when they still like that. 
+I bet english is probably not very organized but something like that. 
+Yeah absolutely that's what i was hoping you would go for right the idea being the point i'm trying to make is that in the requirements document we. 
+Dona salary for 2. 
+Very specific things in the user interface when going to say things like. 
+I want to use it clicks there then the season will do that in the music click somewhere else right we stay at. 
+What can the user do this with this regardless of what the user interface, right so. 
+I guess one way to phrase the requirements with regards to this featuring. 
+Because i should be able to start. 
+Play bach music. 
+On any point. 
+Error:
+And whether that is. 
+Buy music leaving and say go to measure 35 and play or they scroll and click and play that's almost incrementation detailer this morning. 
+The requirement is that. 
+I need this picture which is i can study the meatloaf if i liked. 
+Error:
+I guess 10 example of how you say think about the requirements document so i don't focus. 
+Bodegas enterprise definitely focus on that cold but think about what is the what does the user wants to be able to do. 
+Error:
+Error:
+Yeah. 
+I need similar that was a question also about. 
+Then the go to measure about tonight whether either abused should be updated like in a sentence. 
+If there's a change enabled should they aqua beautiful collectible ramada claims. 
+Again. 
+Don't talk to him because documents about the different windows or whatever just mentioned.. 
+Changes. 
+In the tablet. 
+Reflected to the preview. 
+Vice versa. 
+Error:
+Alright let me go to to great low for the next question. 
+Hi professor. 
+So from what you just said. 
+Our requirements didn't beat application should do this but it's rather be user should be able to change from yesterday so the actor should be the user and not the application. 
+Exactly and that's. 
+Error:
+Very important it's about. 
+The user interacting with the system. 
+Not. 
+How the system works internally orange. 
+Error:
+Innocence the main takeaway doing this exercise and. 
+What we. 
+I guess won't you guys take away at this point. 
+Eagle korea is exactly. i mean as you know. 
+You probably know that those are requirements courses in the fourth year. 
+What you'll get into that lot more in detail right but what i want you to get here is that you know. 
+Think about the user interaction with assistant what does the music get out of the system what can i do with it. 
+And and write that down in a totally free from kind of way that's all we need to do here if you want. 
+Okay and also are there any other users besides the present is going to save stuff and persuasive. 
+Printouts the music xml sheets is there like an observer. 
+Ortho appointment change the system. 
+Good question i haven't thought of that as being the case here. 
+Right. 
+It is a desktop upright so. 
+Incense. 
+This really does usually want to get there. 
+They could be. 
+You could imagine. 
+I'm i'm sure are you you saw some examples in the car so whatever that there could be other actors right. 
+Maxwell complex systems. 
+But here i think. 
+It's just me and my my music. 
+Okay babe thank you so much. 
+Welcome. 
+Okay. 
+Any. 
+Further questions. 
+Any team would like to so something they have done already. 
+Error:
+Okay go ahead run. 
+Yes i just had a question that would be said to begin the measure. 
+And then it would start playing from there. 
+So if we go to split measure and then expected like press play and it plays from there right. 
+Should there be like. 
+Like two brothers laugh. 
+Like winter to where it's like playing. 
+Play this measure right now since i laid it in the garage or something. 
+Uni mean. 
+Error:
+So you talking about i just learned directional weather user. 
+Highlights of measure and says play from here. 
+Yeah and when it's playing this like highlighted. 
+Explain that you can see what measure is playing. 
+Not needed. 
+Okay so i'll. 
+Text before what do you think. 
+Error:
+Error:
+If you put yourself in the shoes of the user. 
+Error:
+Would you like to see that. 
+Is the pic of the same time i'm trying like. 
+Is the second most redundancy have play from back. 
+Specific measure tris's like licking. 
+Error:
+Preference for the meeting. 
+Yeah so you make an igloo towing. 
+Many of the questions view. 
+Guys are coming up with these about should we have this picture or not right and it's obviously a lot. 
+And sometimes you have a customer you can ask them if i can tell you what they want. 
+But sometimes you develop things for user base that's out there and you want to be able to you can ask all of them what they want. 
+Error:
+So amanda cases. 
+They're legitimately more than ways to do something. 
+Error:
+So. 
+We answer there. 
+Assuming that there is. 
+Reason to believe that there is. 
+Scenic. 
+Either way to it to be through yesterday's to have basically some sort of preference in your system to say and be able to change the behavior. 
+Error:
+Sometimes i wanted to happen this way something to open i wanted to hop in different ways. 
+Error:
+And that's legit both of them i can have a default way by then i can give my user a way to change it. 
+In preferences right. 
+Right now of course. 
+If you do this a lot then this causes a lot of work so as a team you should decide how far to we go with something like that. 
+For the things that you can ask your customer. 
+To see what's more important. 
+When i go with the idea premises but. 
+But something else has a while this is how we do it you know it's kind of story we don't have time to do. 
+Everything in the most flexible possible way and that's. 
+The reality in pretty much any softer. 
+You won't have time to. 
+To do everything that you can think of doing. 
+Non-trivial. 
+So i. 
+It's a decision process and the planning a good thing to decide how far you want to go with. 
+Cancel this features in like more than one way to do something. 
+Is there supposed to be on instructions for the user and how to use the system. 
+Absolutely one of the things you will be submitting for your m amazed user manual. 
+And we can always include of course. 
+They helping you and go out to desoto bring up or cancel. 
+Things you can write all those things. 
+You guys have used lots of software right. 
+You know what uses. 
+Right. 
+You know that. 
+Error:
+Whatever's on the screen is not clear. 
+There has to be a way for them to figure it out. 
+So help them as much as you can. 
+Error:
+Error:
+Yeah you'll see that once we start talking about all these things at different options and different ways to help the user. 
+Suddenly a tesla look like. 
+Becomes a lot more elaborate right and. 
+Real stories like this. 
+It's not about. 
+Can the thing that sofa.. 
+Be done it's yeti can be done but doing it in a way that is as flexible as possible. 
+He don't accommodate as many users as possible is as user-friendly as possible soundly.. 
+I love my workout before. 
+Error:
+So. 
+Error:
+Is all things would have to be. 
+Remind for this girl. 
+Error:
+Let me look at some questions in the tot. 
+Error:
+Percival yes if you want to show me something in your breakfasts room later you can always. 
+Call me you know that there is an ask for help button right. 
+While you're in the back of the room so you can call me. 
+I'll be available to go around or sleep. 
+Multiple teams want me then you might take awhile for me to get there but. 
+I will get there i won't forget. 
+When do that as well. 
+No with regards to decoding and brownies. 
+Question camera. 
+You'll see that the material for week three that i posted yesterday is basically all about how do we organize our branches. 
+Neither sister. 
+I guess a yo-yo will have to have. 
+Multiple bounces in each member will have their own brands and they'll have to merge things so. 
+Look at the weather for next week to see you again. 
+How to organize the brownies for your for your car. 
+Alright. 
+I think i covered. 
+Error:
+Questions out of here. 
+Okay and things are there this morning. 
+Error:
+Rides while you guys thinking about it before we go into the. 
+Macaroons. 
+Just want to tell you what. 
+Couple things. 
+So. 
+This is our a glass page right so you notice that. 
+Depere sussman. 
+For the requirements document here. 
+So. 
+If you click on it. 
+This will take you to a scholar with. 
+You'll know you'll have to certify. 
+Going and creates. 
+Yogi will be slightly different because of course. 
+Error:
+But that's the way to find it. 
+And. 
+What i want to say is everybody should join in even though you will be submitting. 
+As a team. 
+It's only one person needs to go and make the submission you should all join the groups because that's the way to actually receive. 
+I receive something so you can provide feedback. 
+So i'll make sure also by next week that the everybody get seen but that's the quick note says to make it easier for everybody if you going there and joining the group that has the right number. 
+Error:
+Remember for the chorus. 
+Then we'll always be set. 
+The other thing to do know today is that his team agreement submission that i have here and that's hard to do. 
+With touch some of the material i posted for next week. 
+So. 
+If i. 
+We could go back there. 
+I so this is my dear for next weekend. 
+You'll see that i have a team agreement here. 
+Eventually a text template it's very simple thing. 
+That's right through it and they're there are some spaces there for you to destroy the feeling. 
+Like a coronavirus. 
+Error:
+This is basically in agreement that for the 14th to go through the side or something so as to how the team would work. 
+How do i resolve conflict i think like this. 
+And. 
+Once you you suck. 
+Decided with your team on how to do this. 
+Then. 
+And fielding this. 
+Text. 
+Template then you can talk here and submit it. 
+So the idea is i deserve like a contract will make just to t-mobile work. 
+I'm trying this for the first time that's too. 
+Make sure that everybody in the teams are on the same page i still call the 10 would work sometimes i'll conflicts that i say are motivated because of any. 
+See what this is.. 
+Misunderstanding sword. 
+Lack of communications right. 
+Hopefully this can help. 
+It's not for grades. 
+But you definitely should do it to you. 
+And submitted at some point to to make sure that time. 
+Everybody's on the same page. 
+So it's something you could even do today when you go to your breakfasts room or the way that some other time. 
+Antilla. 
+Error:
+You might find it. 
+All right so that's so far for me i don't see any other questions. 
+So what i'll do then he's open to breakfast rooms for now. 
+And. 
+The way we're going to go do it going forward is more and more you'll have a chance to work with your teammates. 
+Doing this sessions. 
+Error:
+I will be available for you to call me and show me things ask questions. 
+Error:
+In your room. 
+If something comes up that someone asked a question that i realized you know the whole class should hear this i might. 
+I'll call you old back to the main station by closing the rooms and discuss days or if it's not so important i will send it out as part of my weekly update as an out right hopefully you guys already receiving it. 
+Right. 
+Those messages are basically anything i sort of here doing the lecturer talking to people after the lecture whatever that i think the whole class should hear about the project either from the instructors one of your the customer's phone of you. 
+Error:
+It's i was sending as part of my update to to make sure that everybody is. 
+Alright any. 
+Quick questions about things before you while i open up the rooms. 
+Error:
+Alright say none. 
+So i just said. 
+You can use your ask for help button to call me in the room or the available. 
+I'll see you guys in there. 
+Error:
+Error:
+Error:
+So i have a question about the music xml parser. 
+Answer. 
+Dammit late so i'll answer it in the chest. 
+Error:
+You can use any library you want. 
+What is project. 
+Error:
+Error:
+Error:
+Error:
+I'll also opposed the recording at this point. 
+Is another. 
+Second what i'm still. 

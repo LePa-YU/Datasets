@@ -1,0 +1,37 @@
+A files are saved into RAM.
+
+Select one:
+True
+False
+
+There are many modules in the standard library.
+
+Select one:
+True
+False
+
+Lists (or arrays) are
+
+Select one:
+a. unordered and unindexed
+b. ordered and unchangeable
+c.
+ordered and changeable
+d.
+unordered, changeable and indexed
+
+The syntax for a tuple is
+
+Select one:
+a. thistuple = {"apple", "banana", "cherry"}
+b. thistuple = ("apple")
+c. thistuple = ["apple", "banana", "cherry"]
+d. thistuple = ("apple", "banana", "cherry")
+
+Sets
+
+Select one:
+a. have indexed items.
+b. have the keyword del which will delete the set completely.
+c. can be used just like lists.
+d. can be modified using an index.

@@ -1,0 +1,36 @@
+Assignment 3
+[EECS4462]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS4462
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Assignments
+Assignment 1
+Assignment 2
+Assignment 3
+Assignment 4
+Grades
+Contact
+Academic Dishonesty
+Assignment 3
+You are here: EECS 4462 - Digital Audio » Assignments » Assignment 3
+−Table of Contents
+Assignment 3
+Providing audio input to your plugin
+Debugging your plugin
+Assignment 3
+Assignment 3 Description
+Assignment 3 Starter Code
+JUCE API
+Delay Processor - Unzip and include DSPDelayLineTutorial_02.h in your project.
+footsteps.wav - Audio file for testing your plugin
+Copyright-free music
+Providing audio input to your plugin
+You can use the Audio Plugin Host to create MIDI events that are turned into audio by the Sine Wave Synth plugin as before, or use the VSTAudioPlayer plugin (see Week 7 material). The footsteps.wav file linked above may come in handy.
+Debugging your plugin
+Debugging an audio plugin works in the same way as for a MIDI plugin, so refer to Assignment 1 for debugging help.
+Last modified: 2020/10/25 21:11

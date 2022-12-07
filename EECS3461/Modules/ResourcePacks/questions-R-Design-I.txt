@@ -1,0 +1,49 @@
+To what extent is interdisciplinary teamwork important? Choose the best answer
+A) It is becoming more important, as industry moves towards Agile approaches.
+B) It is becoming less important, as industry moves away from Agile approaches.
+C) It is important, but not as important as disciplinary teamwork.
+D) It is less important than individual skill.
+ANSWER: A
+To employ project management practices in your own project work, you must... Choose the best answer
+A) start to build knowledge and skills through learning and experience
+B) become a professional practitioner, with an internationally recognized professional designation such as PMP or PRINCE2
+C) hire a professional to work with you
+D) wing it, after all, how hard can it be?
+ANSWER: A
+One of the best practices in project management is to ensure that team members have an agreed-upon set of quality standards.  Why is this important?  Choose the best answer
+A) because even well-meaning team members can have different ideas about what counts as 'done'
+B) because it is a way for the team to build rapport and connection
+C) because it is a way for the team to practice communication
+D) because all team members will intrinsically have the same quality standards, so making this clear will make the team members feel good about themselves
+ANSWER: A
+One of the best practices in project management is to ensure that the work to be done is clearly established and stable. Why is this important?  Choose the best answer
+A) because this practice is one way to protect against scope creep
+B) because this practice is one way to protect against schedule slippage
+C) because this practice is one way to protect against frequent defects
+D) because this practice is one way to protect against unrealistic planning
+ANSWER: A
+How should you, as a team member, make use of the 15-minute rule?
+A) When you run into an obstacle while doing a task and can't solve it within 15 minutes of your best effort, ask a teammate for help.
+B) Work on a task in parallel with several other tasks and, after 15 minutes, ask your team members for help.
+C) When you run into an obstacle while doing a task and can't solve it within 15 minutes of your best effort, keep working on it until you solve the problem so your teammates don't think you are a slacker.
+D) When you are working on a task, make sure you take a break every 15 minutes.
+ANSWER: A
+When it comes to the competence of "capability", which of these is most important when being a good team member?
+A) That you are a willing learner, so that you can gain the knowledge, skills, and abilities needed by the team
+B) That you are supremely capable and already know how to do everything
+C) That you keep your head down and mind your own business; it is not your business to learn about your teammates' tasks and roles
+D) That you be ready with good jokes; humour is more important than capability 
+ANSWER: A
+When it comes to the competence of "communication", which of these is most important when being a good team member?
+A) That you are willing to be open and your communication is effective
+B) That you don't bother your teammates with consultation; you act decisively and don't ever want or need input
+C) That you exchange information when you can, and better late than never!
+D) That you are willing to receive feedback, but it less important to actually incorporate the feedback into your work
+ANSWER: A
+When it comes to team dynamics, which of these are the 4 key areas?
+A) Communication, Adaptability, Relationships, and Education
+B) Capability, Answerability, Relationships, and Education
+C) Communication, Adaptability, Relevance of Capabilities, and Effectiveness
+D) Communication, Agility, Reliability, and Education
+ANSWER: A
+

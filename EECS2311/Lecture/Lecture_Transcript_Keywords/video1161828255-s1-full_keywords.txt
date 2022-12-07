@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('Okay', 7), ('ask', 7), ('get', 8), ('know', 10), ('like', 24), ('make', 8), ('measure', 8), ('music', 10), ('question', 7), ('questions', 8), ('requirements', 8), ('right', 18), ('say', 7), ('see', 9), ('something', 14), ('system', 7), ('team', 7), ('thats', 13), ('things', 15), ('think', 9), ('time', 7), ('user', 16), ('want', 14), ('way', 14), ('would', 9)]
+tfidf: 
+['ask', 'going', 'guys', 'ill', 'know', 'like', 'make', 'measure', 'music', 'okay', 'play', 'question', 'questions', 'requirements', 'right', 'say', 'team', 'thats', 'things', 'think', 'time', 'user', 'want', 'way', 'youll']
+Stemmed tfidf: 
+['ask', 'chang', 'ill', 'know', 'like', 'make', 'measur', 'music', 'okay', 'play', 'question', 'requir', 'right', 'room', 'say', 'someth', 'team', 'thing', 'think', 'time', 'use', 'user', 'want', 'way', 'youll']
+Lemma tfidf: 
+['ask', 'going', 'ill', 'know', 'like', 'lot', 'make', 'measure', 'music', 'okay', 'play', 'question', 'requirement', 'right', 'room', 'say', 'team', 'thats', 'thing', 'think', 'time', 'user', 'want', 'way', 'youll']
+Combination items: 
+[('Okay', 1), ('ask', 3), ('get', 1), ('going', 2), ('guys', 1), ('ill', 2), ('know', 3), ('like', 3), ('lot', 1), ('make', 3), ('measure', 3), ('music', 3), ('okay', 2), ('play', 2), ('question', 3), ('questions', 2), ('requirement', 1), ('requirements', 2), ('right', 3), ('room', 1), ('say', 3), ('see', 1), ('something', 1), ('system', 1), ('team', 3), ('thats', 3), ('thing', 1), ('things', 2), ('think', 3), ('time', 3), ('user', 3), ('want', 3), ('way', 3), ('would', 1), ('youll', 2)]
+Combination most_common: 
+[('like', 3), ('right', 3), ('user', 3), ('want', 3), ('way', 3), ('thats', 3), ('music', 3), ('know', 3), ('think', 3), ('make', 3), ('measure', 3), ('time', 3), ('ask', 3), ('question', 3), ('say', 3), ('team', 3), ('things', 2), ('questions', 2), ('requirements', 2), ('going', 2), ('youll', 2), ('okay', 2), ('play', 2), ('ill', 2), ('something', 1), ('would', 1), ('see', 1), ('get', 1), ('Okay', 1), ('system', 1), ('lot', 1), ('room', 1), ('requirement', 1), ('thing', 1), ('guys', 1)]

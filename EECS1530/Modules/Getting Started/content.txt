@@ -1,0 +1,11 @@
+Getting Started
+Getting Started
+Installing Python and an IDE; link to textbook
+
+Programming Language/Environment
+We'll use the Python programming language (python.org)
+
+We are using google colab for this course. It is a part of the google suite and freely accessible for anyone with a google account.
+
+Textbook
+We won't have a textbook for this course, however there will be many online resources.

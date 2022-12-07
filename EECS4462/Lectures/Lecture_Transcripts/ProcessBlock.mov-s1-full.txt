@@ -1,0 +1,474 @@
+Okay so. 
+In his video i'm going to explain what is going on. 
+Ginecologo cesar far either in the tutorial with a media volume and also talked about their refrigerator tutorial as well. 
+So let's get started with the volume example that we already last week. 
+Alright so that my methods were. 
+All the process is called process block. 
+Right. 
+Sopras block. 
+Is a method that runs. 
+Many times as every few milliseconds it gets executed. 
+Is receives an input buffer. 
+Any produces an output. 
+Buffer very quickly. 
+So that happens. 
+Hello. that's how you you go home you process the inputs. 
+Your brother's outfits. 
+Error:
+That possibly sounds different than the input. 
+No. 
+The method x2 barbers in pokemon is in the audio buffer. 
+And the other one is a media buffer. 
+Will using audible for later when we deal with actual audio. 
+Now we have this meat events or will. 
+Focussed mostly on the medieval fair. 
+Error:
+Messages. 
+So the main thing that you want to do in process book. 
+Basically. 
+Error:
+Look at all the influences you have. 
+And then. 
+Produce. 
+Error:
+Shepherd. 
+Set of awkward event. 
+So it isn't here in fact what's the code as. 
+Is you notice. we actually. 
+Declare around medieval figure called processed meat. 
+And. 
+Are the last line down here. 
+We actually swapping. 
+New messages are in port with process may be so in a sentence with throwing out all the info events. 
+Anna saying okay replaced him with the ones we just created. 
+Error:
+Error:
+So. 
+Other than that the president carries this phone up right so this follow president says let's go through this. 
+Collection rides a buffer it's a bunch of events. 
+I ain't so. 
+Detroit threads it's time we have. 
+1. 
+Meeting message metadata object look at. 
+And we first we thought i was meditating. 
+I took a bunch of meditate i would go one-by-one to see what's in the input buffer. 
+And. 
+You'll see that vegetable seneca get the message what kind of media messages. 
+I also get the sample position. 
+What is really at the time the time stamp for that event right so whenever the buffer basically has. 
+A number of time periods. 
+So you been to hopping. 
+Earlier. 
+Later on he might have more events and so on. 
+So. 
+Summerville just seems a bit of a strange name because. 
+It comes from the audio world but a bicycle says okay where are we in the buffer and. 
+Okay will say this in an integer variable time. 
+Error:
+I also what is the message of lucy's with service in m. 
+Look at the time as you see what don't do much here with it just the way we produce events. 
+Error:
+Guido's. 
+Put time between so basically events in this case exactly at the same time as before remember this is the example that just. 
+Changes the volume of the input events so the timing is still the same so we just put it back. 
+Being bestowed with produce. 
+All right so far it's a preventable account create. 
+Error:
+Another event which would put it in this process midi. 
+Error:
+Okay so the only thing really we need to do is to change the volume. 
+Open youtube and right and the fact that you might remember in amity. 
+Error:
+When we have a note event we have actually note on event. 
+And that's what comes with a velocity that is how loud is that not going to be played. 
+And later on when i get a note off event and that's how we know that this note is finished sounding. 
+Right. 
+Set alarm. 
+Are you can see the code here will be much ignore any midi. 
+Mary vincent alphatype know-it-all for after thatcher pitch wheel or females anything else right this is us. 
+We left a little tear we don't necessarily need a lie all these empty brackets. 
+Error:
+When we get a note on event. 
+Then we'll do this two lines of code. 
+Iso this for lining. 
+Here look at these nuts on valve. 
+Variable which is aquafina. 
+Velocity from the slider. 
+Isotex that value i am basically disgusted into this. 
+Eternal just type which is basically an 8-bit. 
+Integer. 
+Error:
+Error:
+Because when will create a meeting message. 
+Event message. 
+That we need to use this particular fight what we do is. 
+Will use this static method write a message in g+. 
+This is basically creating a note on event. 
+Error:
+I didn't see we use the same channel. 
+And the same nook number azar input event. 
+We just change the velocity to the new value that we get from the slider. 
+Error:
+So. 
+Error:
+And i will just replace it with water slide slider turtles. 
+So. 
+This waiting numi tea. 
+Event. 
+And i know don't care we add it to our processed meat offer. 
+-12 voice input event who create a slightly different media and reporting process midi buffer. 
+And then in the end we threw out all day events and replace him with his slightly modified after events. 
+Error:
+And that's basically it. 
+It's always a very simple example. 
+Bottom. 
+I think hopefully illustrates what's going on here. 
+Error:
+Reading prevents and we produce advance. 
+Migos woa we. 
+The ottomans have to do something with the implements between theory. 
+Please ignore random events metal shelf. 
+Play final witness ali a useful. 
+Okay. 
+So that's what's happening this example which is this. 
+Error:
+Michigan defenders before continuing with this video cuz i'm going to talk about the refrigerator example next. 
+Okay so. 
+As you make up saying i'm actually taking the code from the lpga tour tutorial. 
+Modified a little bit to hopefully make it. 
+Vdj2 understand. 
+I would understand about the process block method if i cannot change anything there. 
+So the tutorial online. 
+Facilities be a good research internship understanding what process block is doing. 
+Error:
+But i think their whole setup around the process dog. 
+So he should be similar to the first media volume example. 
+No before discussing the codes let's take a look at it. 
+Ojeda's right there that is the same the connections. 
+Are the same. 
+End up liking horse example. 
+Error:
+And if i ran out. 
+It still sounds like before. 
+Except if i actually end up pregnant at the same time as you can see having their notes sound altogether we. 
+So that he and another live video that i made. 
+Another right so. 
+In fact i have only two notes are they more they will go through old for nose. 
+Pretty nice. 
+Alright son and that's the benefit of having a pga tour. 
+Error:
+The game is. 
+Fill the space with a lot of notes that you don't actually have to play. 
+It's a good created for you from the plugin. 
+Alright so. 
+Let's take a look at how this may be done in cold. 
+So if you download my code you'll see that i called you on starter. 
+Probably that a just way. 
+For you two together to work cuz i know someone you had problems with. 
+Results of the i-17 and so on in the example. 
+Just start create an empty. 
+Error:
+Think i'm going to give you into. 
+The code haley work fine. 
+So let's the processor heather file right ahead of ali's where we. 
+Declare of variables in all the functions. 
+Alright so you'll see that. 
+Compared to the default. 
+Call david isabel. 
+I discussed as in a bit. 
+Closest shortest set of integers called nodes. 
+Remind because. 
+Error:
+We'll have to keep track. 
+05 which notes are currently being pressed. 
+Pregnant remember when i did the demos.. 
+Don't musical. 
+If i was pressing down on five keys at the same time. 
+The meat events i was listening to or alternating. 
+Hope i all of these five notes. 
+So. 
+That means that we have to keep track of whether user has press. 
+But given taco for the note on events that we have seen right. 
+Error:
+Sms to keep something press there's no not off event. 
+Opening for it. 
+So i want presto 512 the same time so why different times every starting. 
+A knot in my processing. 
+What are the notes are accounted being pressed by the user. 
+So that i can actually get home. 
+Iterate over all of them. 
+Error:
+Error:
+Little set colour notes right so so. 
+What can i use it for that purpose. 
+Idaho go to process block i'm so you've seen it already. 
+Play my slides. 
+Design initializer method you can use to solve settings out before you do any of the processing. 
+I just go prepare to play. 
+As you can see here and this is jambalaya. 
+Clearing basically initializing to an empty side of nose. 
+Explain later. 
+Error:
+And also. 
+I am. 
+Getting this which is the sample rate. 
+And installing it in a separate volume. 
+Error:
+So that is something that again comes from the old world. 
+But basically tells us. 
+What is. 
+The length of its time figured in the buffer subway receive right. 
+So the rate tells us. 
+How many. 
+Error:
+Time to use per second. 
+Do we have. 
+Ida. 
+This will allow us to subdue some timing. 
+Calculations to see when do we need to create. 
+Meet events. 
+Error:
+Error:
+You know that there's going to be. 
+Error:
+44000 time periods per second resolution we have or could be something a lot less. 
+Error:
+Itennis case. 
+Sepulveda saint but that tells us right to the house to give his information and we started. 
+Okay with that static cast of loud but magically started into the right vertebral level, using a code in a second. 
+All right so then again all the processing takes place in process block. 
+I told this look at the code. 
+Detail. 
+Error:
+The first line care is just annotation that there's no. 
+Channel audio channels of input. 
+It's something that they hiding example you can ignore it if you want. 
+Ready for the advancement of this would be any audio. 
+Kyle's coming in a from the bathroom. 
+So that's the old-time information. 
+Upset already comes from the old your buffer that dust how juice is set up. 
+Basically says how many time peter's do we have rights or the number of samples. 
+Christmas is a time videos that that is belphegor sponsor so maybe is buffer has. 
+128 time periods in each one of them and meet event may happen or may not happen. 
+Error:
+So that's otherwise so let's see we have how many times the number of samples we have. 
+Error:
+The next nigeria is interesting because that's what we actually get to use. 
+Error:
+Value of appreciation.. 
+The time we get from their picture. 
+Soundcloud. 
+Error:
+Tv example so let's go back to it. 
+Double-click. 
+On. 
+Jesus. 
+Right so and now getting here doesn't look great we're going to look at making it look to be better next week. 
+But. 
+Got a setup to 0.5 speed. 
+Alright so if i do this then their possession sounds like. 
+But i if i change the speed. 
+Pakistan so you can hear this a lot. 
+Slower if i make the other faster than its leg. 
+So. 
+This lighter then it's important we. 
+Wanted to effects of what's happening so amazing. she'll be creating minivans faster or slower. 
+Write any fact. 
+Passiflora means. 
+Every few samples and few time periods over every. 
+I love more than beard. 
+Error:
+This formula here. 
+I've definitely a lot of magic numbers. 
+But that's what he does he takes the volume from the slider. 
+Figures out at formula. 
+That will translate. 
+Based on this sample rate rising base of knowing how many time periods per second eagle translate to italian. 
+Videos that we're going to use to say every so many creating. 
+New minivans. 
+With an x note that the user is pressing currently. 
+Alright. 
+Every so many. 
+Time. we should be creating. 
+Immediadent. 
+Okay maybe he's armada buffer right up here. 
+So. 
+We're using the same. 
+Ideas on the biggest example. 
+Caribou call. 
+Hates event metadata no desirable using carrier discovery that uses the auto keyboard of supply stores. 
+Weights. 
+Business as well based on the. 
+Return type of this method figure out where the type is because. 
+Do you know what the other than type of this message. 
+So in super smash you offering these days. 
+The claritin cesaro because the computer graphic about what the tide must be. 
+So it's sick of anything so you don't have to remember exactly what the time is. 
+Daiquiri places in elmwood being exactly the same. 
+Okay. 
+Error:
+So we basically getting into these msg variable. 
+You can see that. 
+Intensive all the input events. 
+Are we looking at is. 
+Okay if we get a note on event. 
+Then. 
+Let's add. 
+I don't know number into. 
+Lisaraye. 
+Wait looks at what stores how many notes is the user currently pricing. 
+Right so event means. 
+President thinks i'm giving the appreciation then i decided to press one more.. 
+At the same time so awkward 423 notes opponent. 
+So i'll. 
+Okay so let me this case adding into something to lisa raye. 
+And conversely if i list of lift up on my fingers. 
+Then i'm removing.. 
+Notes from premier re-election so. 
+What we do here is. 
+Basically updating to know which notes are currently being pressed by the user. 
+Error:
+Completely clear. 
+Pimple poppers. 
+Make a buffer. 
+Error:
+We don't really care about the timing of these events or anything else all we care is that. 
+Aquino witch. 
+No. currently being pressed. 
+We'll just keep creating events to iterate through these notes. 
+Error:
+So. 
+We kept track of what are the other notes happy prestwood goat. 
+Error:
+So. 
+In this last part. 
+Basically his way up to creating. 
+Error:
+Events. 
+Error:
+Error:
+Error:
+Error:
+Are you going to hear what i looking at. 
+The time which is a variable that we could talk of winning solitaire 0 and. 
+Every time i was at work. 
+Adding up to it i was going to be here. 
+And this is the number to a foot buffer. 
+And is it the duration of the note. 
+I got original based on that slider value. 
+So what is your statement says basically well if it's lighter. 
+How does application very slow then maybe in this particular before they won't be any more militants so if that's the case. 
+We don't need to do anything that's every time and empty buffer right. 
+But if the notification is very small so we creating events every few time.. 
+Then we need to. 
+Create a number. 
+Error:
+Set alarm. 
+What's up. 
+This laconiko then. it's exactly.. 
+And i'll let you figure out exactly. 
+Eyeworks by basically creating a calculation offset of the note and the size of the buffer instrument. 
+Error:
+And then. 
+East. 
+We actually have notes. 
+Danny creator. 
+Error:
+First i did not offer went to finish the previous remember that. 
+When we appreciating. 
+And i know it stops and another girl starts right so. 
+Every time. 
+We need to stop the previous note. 
+Uninstall another note. 
+Error:
+So this is basically tells us they're actually not maybe the prostitute. 
+Sowell. 
+It goes in an old happening which is larger than 0 meaning that wasn't an actual notice and it straightened out of ent. 
+Error:
+What are the current options. 
+Lancets. 
+Is last nobody to minors from saying maybe we'll don't have any more notes. 
+By the way after notes that we keep track of is it sizes. 
+That means.. 
+Error:
+There are more notes to appreciate so. 
+Okay we'll figure out what is the current notes will go to the next alabama v-ray current notes tells us which element of the area what kind are you looking at. 
+Then. 
+But think about the note volume from. 
+I got a re you store the actual number for that way. 
+And then. 
+Okay to note on event and say yeah let's have. 
+Event risk mitigation channel on a particular note and then. 
+About offset. 
+I saw that's the time. 
+Forum. 
+For that event. 
+Error:
+So. 
+That's basically what is happening we. 
+Look at the improv events. 
+Only nintendo knowing how. 
+How many notes are currently being processed. 
+Eliza. 
+Tyrone outfit events. 
+That. 
+Panthers goal. 
+Iterate through the array of notice currently playing. 
+Trading events every so often to do their possession. 
+Error:
+I will finish that depends on the slider that we have. 
+You know example. 
+And. 
+Who do some calculations to figure out. 
+How many type of yours does this correspond. 
+So what is the offset in the buffer. 
+That's what showed up with that event.. 
+Error:
+And that's it. 
+We just have to keep track. 
+Open ever thinks that sanitizers. 
+What is the cardinals being played what was the last note what is the current now with right where are we in this situation through the array. 
+What's happening timewise right. 
+Naughty side. 
+Based on the value. 
+Old farm. 
+Put the slider. 
+The. 
+The location in the buffer. 
+That we need to create event.. 
+Well. 
+Those antibiotics. 
+I never going between two different notes. 
+We may have some time videos. 
+Of the space between two notes in one buffer and then we have to start it over. 
+Wait for santa fe wasn't amphitheatre event tonight so we have to keep track. 
+How far. 
+What's going on. 
+Timewise. 
+Error:
+So that's sad. 
+What we're doing here. 
+Error:
+Alright so yeah that's it to make sure you understand is when you're killed their appreciation. 
+Error:
+Is it auto buffers that are i mean they're right the barbers the coarsegold at all. 
+To actually vincent dimensional over to the beginning of the baffling fact most likely do not. 
+So it's up to us as the. 
+Program arrow said plug into guitar chords. 
+What has happened to previous brothers. 
+Right on that's why we have these assorted set of notes. 
+And we have the time for that boat to know what we are so far and so on. 
+So that we know what to do with a current.. 
+Error:
+So hopefully that helped a little bit. 
+Is definitely. 
+Quite a bit to taking you to. 
+Play around with the codes even. 
+Modify it and see what happens just try to understand. 
+Exactly what's going on here. 
+Okay so. 
+I'll see you guys next time. 
+You know where to find me if you have questions. 
+Good luck with your wicked calling. 
+Error:
+Error:

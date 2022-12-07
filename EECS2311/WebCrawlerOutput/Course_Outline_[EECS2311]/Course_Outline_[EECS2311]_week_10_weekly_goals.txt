@@ -1,0 +1,5 @@
+Week 10 (to be completed by Wednesday, March 30)
+Weekly goals
+Learn about code coverage
+Learn about GUI testing
+Submit a draft of your design document for peer feedback.

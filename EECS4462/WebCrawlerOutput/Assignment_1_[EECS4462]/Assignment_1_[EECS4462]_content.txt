@@ -1,0 +1,46 @@
+Assignment 1
+[EECS4462]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS4462
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Assignments
+Assignment 1
+Assignment 2
+Assignment 3
+Assignment 4
+Grades
+Contact
+Academic Dishonesty
+Assignment 1
+You are here: EECS 4462 - Digital Audio » Assignments » Assignment 1
+−Table of Contents
+Assignment 1
+Providing MIDI input to your plugin
+Debugging your plugin
+Assignment 1
+Assignment 1 Description
+The links you will need to complete Assignment 1 are below:
+Download JUCE
+JUCE Tutorials
+Getting started with the Projucer
+Create a basic Audio/MIDI plugin, Part 1: Setting up
+The Arpeggiator Plugin
+JUCE API
+Starter Code
+Providing MIDI input to your plugin
+You should use the Audio Plugin Host to test your MIDI plugin while developing your assignment solution. See instructions in Part 1 of the tutorial plugin on how to build the Audio Plugin Host.
+For your convenience, you can download an executable of the Audio Plugin Host for Mac or PC.
+The Audio Plugin Host comes with a keyboard that can be used to provide input events (your computer keyboard can be used to provide simultaneous events for arpeggiation).
+Debugging your plugin
+Configure your debugger to run the Audio Plugin Host:
+In XCode, go to Product > Scheme > Edit Scheme. Point “Executable” to the Audio Plugin Host. Make sure Debug Executable is checked.
+In Visual Studio, go to Project Properties > Debugging > Command, and browse to the Audio Plugin Host executable. Make sure Attach is set to “No”.
+When you start debugging, an instance of the plugin host will appear. Use it to load your plugin. Now debugging works for your plugin just as it does normally, i.e. you can set breakpoints etc.
+You can use the JUCE DBG macro to output variable values to the debug console of your IDE. See more info here, but the simple way to output the value of variable time is to give:
+DBG(time);
+Last modified: 2020/09/21 14:59

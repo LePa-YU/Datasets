@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('Okay', 29), ('Right', 29), ('course', 30), ('dont', 49), ('get', 51), ('going', 28), ('ill', 23), ('know', 41), ('like', 62), ('music', 35), ('next', 23), ('project', 34), ('question', 23), ('questions', 41), ('requirements', 32), ('right', 83), ('see', 47), ('thats', 31), ('thing', 24), ('things', 41), ('think', 23), ('time', 27), ('use', 25), ('want', 60), ('week', 31)]
+tfidf: 
+['course', 'dont', 'going', 'ill', 'know', 'like', 'music', 'okay', 'project', 'question', 'questions', 'requirements', 'right', 'talk', 'thats', 'thing', 'things', 'think', 'time', 'use', 'want', 'week', 'yeah', 'youll', 'youre']
+Stemmed tfidf: 
+['cours', 'custom', 'document', 'dont', 'ill', 'know', 'like', 'look', 'music', 'okay', 'project', 'question', 'requir', 'right', 'say', 'start', 'talk', 'thing', 'think', 'time', 'use', 'want', 'week', 'work', 'youll']
+Lemma tfidf: 
+['alright', 'course', 'customer', 'dont', 'going', 'ill', 'know', 'like', 'music', 'okay', 'project', 'question', 'requirement', 'right', 'talk', 'thats', 'thing', 'think', 'time', 'use', 'want', 'week', 'yeah', 'youll', 'youre']
+Combination items: 
+[('Okay', 1), ('Right', 1), ('alright', 1), ('course', 3), ('customer', 1), ('dont', 3), ('get', 1), ('going', 3), ('ill', 3), ('know', 3), ('like', 3), ('music', 3), ('next', 1), ('okay', 2), ('project', 3), ('question', 3), ('questions', 2), ('requirement', 1), ('requirements', 2), ('right', 3), ('see', 1), ('talk', 2), ('thats', 3), ('thing', 3), ('things', 2), ('think', 3), ('time', 3), ('use', 3), ('want', 3), ('week', 3), ('yeah', 2), ('youll', 2), ('youre', 2)]
+Combination most_common: 
+[('right', 3), ('like', 3), ('want', 3), ('dont', 3), ('know', 3), ('music', 3), ('project', 3), ('thats', 3), ('week', 3), ('course', 3), ('going', 3), ('time', 3), ('use', 3), ('thing', 3), ('question', 3), ('ill', 3), ('think', 3), ('things', 2), ('questions', 2), ('requirements', 2), ('yeah', 2), ('youre', 2), ('youll', 2), ('talk', 2), ('okay', 2), ('get', 1), ('see', 1), ('Right', 1), ('Okay', 1), ('next', 1), ('customer', 1), ('alright', 1), ('requirement', 1)]

@@ -1,0 +1,9 @@
+Week 5 (to be completed by Thursday, October 8)Study material
+Our next target is to develop plugins that receive audio as input, and produce modified audio as output.
+Start by studying the slides on Digitizing Sound.
+Next, watch this video on Digital Audio. The second part of this video is on Digital Video, so it is not relevant to our course, so watch that part only for your own interest.
+Follow up with another video on digital reconstruction. The section on dithering can be skipped if you are pressed for time.
+Now you are ready to look at some code. Study the starter code for Assignment 2 and make sure you understand it. To help you out, there is also:
+A set of slides
+An instructor video on it
+Finally, continue with our Weekly Unity Background: Complete Section 4. Applying materials. This section is all about changing the look of different materials in your scenes, so it does not apply to our course directly. As a result, this week's Unity section is mostly for your own interest.

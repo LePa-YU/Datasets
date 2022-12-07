@@ -1,0 +1,824 @@
+SPEAKER 1
+Hello. Welcome to Resource Pack.
+
+SPEAKER 0
+Design three. And in this resource pack I'm going to talk about
+
+SPEAKER 1
+user experience, design and user experience. Mm intellectual property notice.
+
+SPEAKER 0
+So in this resource pack, the primary source of background
+
+SPEAKER 1
+information will be drawing on is actually the four core activities in um the knowledge Resource pack.
+
+SPEAKER 0
+So the material in this resource pack is structured around
+
+SPEAKER 1
+three questions of inquiry number one, what is designed writ
+
+SPEAKER 0
+large number two, what is ux design and number three,
+
+SPEAKER 1
+What is user experience? So the first question, What is design? Such a small question. Huh?
+
+SPEAKER 0
+So the thing to remember about the term design is
+
+SPEAKER 1
+that it refers both to artifacts and processes. So you can use the term design to refer to the way something is made so that it works in a certain way or it has a certain appearance and design in this way is accountable. Now. Like here is the new design, we're going to deploy
+
+SPEAKER 0
+it. How many designs do you have?
+
+SPEAKER 1
+How many designs got produced etcetera. There's another sense of the word design which is a a process. So the process of deciding how something will be made
+
+SPEAKER 0
+including however work and what it will look like. So it's an uncountable known so design can be difficult to do. Teaching design is always a challenge etcetera. So this dual senses of design causes a lot of
+
+SPEAKER 1
+confusion and also there's a sense of design that refers
+
+SPEAKER 0
+to just a very basic human activity. So I really enjoyed the series for forward by Friedman
+
+SPEAKER 1
+and still Turman from to solve those book adversarial design.
+
+SPEAKER 0
+and in that forward, they argue basically design activity is
+
+SPEAKER 1
+traceable back to the earliest humans who manufactured the first
+
+SPEAKER 0
+tools, tools are the product of the design process. And they hold that the practice of design is simply
+
+SPEAKER 1
+making things to serve a useful goal, making tools and
+
+SPEAKER 0
+you'll recognize the similarity between this characterization of design and
+
+SPEAKER 1
+the characterization of technology as any assemblage towards a purpose.
+
+SPEAKER 0
+So in this view, like you don't become a designer by professional accreditation, you are a designer just by virtue
+
+SPEAKER 1
+of what you do. The designer is as a designer does the forest version of things.
+
+SPEAKER 0
+So if you've made a tool, if you've done something to serve a useful goal that like makes you having
+
+SPEAKER 1
+undertaken design and therefore you're a designer. So that's a very broad umbrella term.
+
+SPEAKER 0
+Uh Herbert Simon wrote, writes in the sciences of the
+
+SPEAKER 1
+artificial from 1996. That to design is to devise courses of action aimed
+
+SPEAKER 0
+at changing existing situations into preferred ones.
+
+SPEAKER 1
+So there's this idea of a preferred, better version of
+
+SPEAKER 0
+the future Stoltmann Friedman and stole german say, at a highly abstract level, Herbert Simon's definition covers nearly all imaginable
+
+SPEAKER 1
+imaginable instances of design designed to finding this way is
+
+SPEAKER 0
+the entire process across the full range of domains required
+
+SPEAKER 1
+for any given outcome.
+
+SPEAKER 0
+Yeah. And the thing I like to point out at this point is that this version of design doesn't hold that
+
+SPEAKER 1
+designing is always creating a solution to a problem. It's just a much more abstract kind of process.
+
+SPEAKER 0
+We're trying to create something that can intervene in the existing status quo to turn the status quo into some
+
+SPEAKER 1
+future version that is somehow better preferred, more positive, more constructive. However you want to characterize it. And this idea of thinking about design as producing interventions as opposed to solutions. It's just more general and I think it's important because
+
+SPEAKER 0
+it ties with my next point about deficit and asset thinking. So you may have heard about deficit thinking and asset
+
+SPEAKER 1
+thinking from educational design or I don't know, community based organizing, but it also is relevant for design.
+
+SPEAKER 0
+So deficit thinking and this is just a very general
+
+SPEAKER 1
+kind of material about human ways of perceiving things.
+
+SPEAKER 0
+Deficit thinking is a way of thinking order organized our own deficits. So it's driven by need and it's focusing on problems.
+
+SPEAKER 1
+Deficit thinking starts with the question what is missing and
+
+SPEAKER 0
+that we're going to address it. And in this kind of framework, deficit thinking leads to
+
+SPEAKER 1
+us thinking as design as designing to find solutions or we designed solutions. So, an example to illustrate this is my fitness pal. So that's an app, you may be familiar with it that basically identifies that people want to lose weight, they
+
+SPEAKER 0
+want to be healthy and they find it difficult to
+
+SPEAKER 1
+do so. So how can we solve the problems that they encounter?
+
+SPEAKER 0
+And my fitness pal is the brainchild of a tech innovator who created a startup and then eventually sold it
+
+SPEAKER 1
+under armour for crippled some money.
+
+SPEAKER 0
+So the tech innovation space is full of this deficit
+
+SPEAKER 1
+thinking like what's the niche in the market?
+
+SPEAKER 0
+What's the problem that people want solved? And let me address it? The thing that contrasts with the deficit thinking is asset
+
+SPEAKER 1
+thinking. So this is a way of thinking, organized on assets.
+
+SPEAKER 0
+It's driven by strengths and it focuses on opportunities. It asked the question, what is present in the here and now that we can build upon? And the whole approach with asset thinking is that it can lead to new, unexpected responses.
+
+SPEAKER 1
+So designers seem not as finding solutions to problems but as creating opportunities, creating, creating new situations, creating newness innovating.
+
+SPEAKER 0
+So an example I like to use for asset thinking as Natalie German juncos livewire installation from 1995 which is basically asking the question how can we make visible, what
+
+SPEAKER 1
+is invisible? And I'll just spend a few slides talking about Natalie German jenko now leave German Jenkins a really interesting figure. Natalie German jenko is an artist and engineer. Her background includes biochemistry, physics, neuroscience and precision engineering and she works in a field of experimental design and she's coined the term finger to call what she does. So it's a combination of thing maker and thinker, she
+
+SPEAKER 0
+works, I'd say a foot in academia and a foot
+
+SPEAKER 1
+in the art installation world. Her work primarily explores the interface between society and the environment and technology. Natalie german general was an artist in residence at Xerox parc, which was the site of so many important digital interactive system uh Innovation uh in the, in the 90s,
+
+SPEAKER 0
+let's say.
+
+SPEAKER 1
+And she worked with Mark Wiser and Mark Weiser is largely considered to be the father of ubiquitous computing. In fact, the whole term ubiquitous computing was coined by Mark Wiser in 1988.
+
+SPEAKER 0
+And Natalie German, Henkel is currently an associate professor at
+
+SPEAKER 1
+new york University and she holds joint appointments in visual Arts and computer science.
+
+SPEAKER 0
+And the piece she created dangling wire looks like this. Unfortunately, there's no video that at least I have been
+
+SPEAKER 1
+able to find. So here is the piece at rest. This is a long plastic strand and here it is
+
+SPEAKER 0
+in dynamic action and it's hard to see, but it's
+
+SPEAKER 1
+it's in movement and here's a sign that says caution Livewire. It's really grainy bad photographs. So here's the description of the installation. So it was created by an angry german general while she was artist engineer while she was an artist in residence at Xerox parc.
+
+SPEAKER 0
+Uh there's no video available like I said, But what we have is an eight ft long piece of plastic spaghetti string that was hung from a little electric motor
+
+SPEAKER 1
+that was mounted in the ceiling and the electric motor was connected to the internet cable via power supply.
+
+SPEAKER 0
+So that means each bit of information that went by the internet cable caused the motor to be activated for a short time. So it's binary on off, on off every time there's
+
+SPEAKER 1
+a bit the motor turns on and just for that
+
+SPEAKER 0
+brief moment and every time the step motor turned on there would be a tiny twitch in the string. So when the net network traffic was very busy, the string would be mildly whirling around and it made some
+
+SPEAKER 1
+special noises. Then the people around the installation described these noises as being very particular.
+
+SPEAKER 0
+And when the network traffic was quiet there would be
+
+SPEAKER 1
+like a few touches every few seconds.
+
+SPEAKER 0
+And this whole thing was placed in an unused corner
+
+SPEAKER 1
+of the hallway of an office space and it was visible and audible for many offices but it wasn't being obtrusive. And this was an interface in a very broad sense of the word that was very not demanding of attention. So you might recognize and connect this with the material we had about postures.
+
+SPEAKER 0
+Uh, and this interactive system was a piece of what
+
+SPEAKER 1
+at the time was called experimental design. But now in retrospect it's recognized as one of the first pieces of calm technology. So that's a deficit.
+
+SPEAKER 0
+Livewire is asset. And then I'd just like to point out how interesting it can be when you see acid and deficit combined
+
+SPEAKER 1
+together. So recaptures are an example of that. So I'm talking about the version of capture that was bought by Google and think in 2009 which was taking
+
+SPEAKER 0
+both an asset and a deficit framework at the same
+
+SPEAKER 1
+time.
+
+SPEAKER 0
+So the asset based is like we have human capacity that's already deployed. There is like a culture of capture task that's the
+
+SPEAKER 1
+asset.
+
+SPEAKER 0
+And the problem to be solved is we have a desire To digitize the archives of the New York Times
+
+SPEAKER 1
+and all the books from Google Books and this was around 2001.
+
+SPEAKER 0
+Mhm. But this material is to eligible. It can't be scanned easily and we need a human in the loop.
+
+SPEAKER 1
+So how can we get this done?
+
+SPEAKER 0
+And the cleverness was to put the deficit and the asset together into a productive solution that helped with like a human in the loop verification stuff for the book
+
+SPEAKER 1
+digitization process.
+
+SPEAKER 0
+There's a thing called undreamed of needs. So it points to the picture that while people may have a certain circumstance in their life and they might not even call it a problem or situation people aren't able to articulate what they want or what they need simply because they don't know what's possible. So you can't just go up to people and say what do you need and have them tell you because they can't tell you because they don't know what's what's out there that's part of the nature of innovation and Suzanne and James Robertson From 2013 in their requirements analysis work, refer to this as undreamed of needs. So these are the things that users are unaware of that they might have. But when we talked about the task, art fit artifacts
+
+SPEAKER 1
+cycle the fact you create an opportunity to create something that responds to an undreamed of need causes the need to rise to the surface, it surfaces it so that it can be articulated.
+
+SPEAKER 0
+Okay, so that's just a little a little bit about the design space and just thinking about this basic human activity of intervening in like the here and now and
+
+SPEAKER 1
+doing it from the point of view of like a deficit versus an asset framework and the idea of design being more than just responding to need.
+
+SPEAKER 0
+So it's not responding to me. Number one people can't say what they need. And number two, if you're always thinking about design is
+
+SPEAKER 1
+solving problems are responding to needs your unfortunately adopting a
+
+SPEAKER 0
+deficit framework and you don't need to there's lots of
+
+SPEAKER 1
+room for coolness in the acid based way of thinking
+
+SPEAKER 0
+now talking about UX design, what is it?
+
+SPEAKER 1
+So there's a lot of terms that get used.
+
+SPEAKER 0
+So we've got UI Design. UX design interaction design And if you try to ask the question what truly is the difference between all of these things. You'll find that there's a huge amount of great literature
+
+SPEAKER 1
+out there by great literature.
+
+SPEAKER 0
+I mean different kinds of blogs and design publications where people adopt a stance. You my design is this UX design, is this the
+
+SPEAKER 1
+point I want to make here is that like it's
+
+SPEAKER 0
+kind of subject to a lot of shiftiness and a
+
+SPEAKER 1
+lot of changes and there's no real like definitive way
+
+SPEAKER 0
+to answer this question. I suppose you could think of a methodology like going and scraping all the job postings and the job requirements of each and then you know, doing some kind of
+
+SPEAKER 1
+clustering analysis.
+
+SPEAKER 0
+But what I described now is kind of like a
+
+SPEAKER 1
+rough uh way of characterizing these things.
+
+SPEAKER 0
+So UX designer gets called a lot of different things also gets called. An interaction designer sometimes gets called the UI UX designer
+
+SPEAKER 1
+sometimes just experienced designer.
+
+SPEAKER 0
+And the UX designer stands in contrast to just knew
+
+SPEAKER 1
+I designer.
+
+SPEAKER 0
+So UX designers conduct user research so we'll talk about
+
+SPEAKER 1
+what that means. We're um you just finished the first round of research in the last module.
+
+SPEAKER 0
+UX designers analyzed experience from the users perspective.
+
+SPEAKER 1
+They have a number of mythological approaches and toolboxes for doing that.
+
+SPEAKER 0
+UX designers generate ideas through ideation techniques and refine the ideas through criteria.
+
+SPEAKER 1
+So it's a specific kind of creative activity.
+
+SPEAKER 0
+UX designers prototype designs and the prototypes can range from low to high fidelity um and then they can reflect
+
+SPEAKER 1
+on and critique the design prototypes and UX designers conduct evaluation and that can mean different things. It can be usability testing and it can be other types of evaluation.
+
+SPEAKER 0
+This diagram is fight dance, safer to try to relate the different areas. So in this image we have user experience.
+
+SPEAKER 1
+Design is the big encompassing grouping and then connected with
+
+SPEAKER 0
+that we have a lot of other design highlight fields, interaction design is embedded. Human factors tends to be engineering based From, let's say
+
+SPEAKER 1
+the 1980s industrial design has its own tradition.
+
+SPEAKER 0
+Human computer interaction tends to be associated with academic disciplines,
+
+SPEAKER 1
+Visual design, information architecture, content, production and so on and so forth.
+
+SPEAKER 0
+This diagram is reasonable, but it doesn't have a design in it, which is the whole point of this section. Um what does it mean to be a UX design practitioner, which would be a professional.
+
+SPEAKER 1
+This is getting into political territory.
+
+SPEAKER 0
+My position is that it came in different things. So there's a lot of people who work as paid predict practitioners. So they're like officially UX designers because they have that
+
+SPEAKER 1
+as their job title.
+
+SPEAKER 0
+But there's a lot of people who do UX design and they're doing it in unpaid capacity, but it's still
+
+SPEAKER 1
+legitimate.
+
+SPEAKER 0
+There's people who do UX design in different jobs and the title may have that term UX in it or not.
+
+SPEAKER 1
+You can work within or outside and organizational context. So some people work as UX designers freelance, right? Even for themselves or for friends or community groups. People who work in organizational context, they can do in all kinds of sectors. So the public sector, like the government, the government hires a lot of UX designers private sector. So all the for profit companies and what I'll call the third sector. So the volunteer sector, the community based organizations, um the not for profits, the common space, peer production. So all the people who spend a lot of time on open source software and um common space projects like Wikipedia, Wikipedia etcetera.
+
+SPEAKER 0
+So there's UX design across all of those sectors, the three main sectors, and then we have people who work in organizations can do so in different ways and some of these organizations are actually focused on design as a
+
+SPEAKER 1
+service. They provide it as service to clients and these get
+
+SPEAKER 0
+called different things to UX design consultancy fees.
+
+SPEAKER 1
+UX design agencies, sometimes design studios. So there's this kind of multidimensional space in which folks can practice as UX design. I should make a slide about this. But uX designer is not a professionalized term like Doctor
+
+SPEAKER 0
+Engineer in the sense that there is no official like college of UX designers who decide what the curriculum should be and how you get formally accredited.
+
+SPEAKER 1
+There's no formal accreditation. So that creates an interesting dynamic, like being a doctor,
+
+SPEAKER 0
+an engineer has a formal accreditation, Not just anyone can
+
+SPEAKER 1
+call themselves a doctor an engineer. You have to show that you have met the criteria set by the standards of practice.
+
+SPEAKER 0
+So it's a kind of gatekeeping and it, you know, has some good function but it also has some function
+
+SPEAKER 1
+to keep people out.
+
+SPEAKER 0
+UX design is open. So anyone who wants to say I'm a UX designer, I mean you can say it whether anyone will hire you, whether your projects produce any good outcomes, that's a
+
+SPEAKER 1
+different story, but it's not professionalized in the sense that you're not allowed to call yourself a UX designer unless you have passed certainly official requirements, I wouldn't say after
+
+SPEAKER 0
+taking one course like this one that you should call
+
+SPEAKER 1
+yourself a UX designer because it's not a very humble
+
+SPEAKER 0
+thing to do. But I think that with a couple of courses and a lot of dedicated self study, there's many people who have launched themselves into UX design careers that way. UX designer is often held. In contrast with UI designer, UI designer for like a decade was like the premier title but slowly it fell out of fashion.
+
+SPEAKER 1
+You are designers still exists as a professional role, but it's a more narrowly construed set of professional capacities.
+
+SPEAKER 0
+So you I designers are concerned with how product is laid out How the product flows from one step to
+
+SPEAKER 1
+the next, given a certain path or like schematic that
+
+SPEAKER 0
+has been laid out by a UX designer, the designer
+
+SPEAKER 1
+will make sure that the path is laid out properly, that it is effective in terms of visual communication, that the design language is consistent.
+
+SPEAKER 0
+New I designer will work to develop preliminary designs, wire frames, flows mock ups.
+
+SPEAKER 1
+So prototypes, designers use tools like sketch illustrator envision etcetera.
+
+SPEAKER 0
+UX designers due to, I didn't mean this to be
+
+SPEAKER 1
+exclusive.
+
+SPEAKER 0
+And then also we have something called UI developer or like a front end developer or Deb.
+
+SPEAKER 1
+It's often used to contrast with designers and dogs and
+
+SPEAKER 0
+the front end developer is like given a specification in the form of a prototype usually consisting of wire frames or flows or some other functional thing with dynamic behavior created in a prototyping tool like Fichman make this happen in code so create a functional implementation of the products interface given like this functional prototype of what it should look like and front end developers use all kinds of
+
+SPEAKER 1
+tools. It's always changing and evolving depending on the flavor. De jure also depends On your platform but react angular
+
+SPEAKER 0
+Jabba affects a shallow five ruby and whales etcetera.
+
+SPEAKER 1
+There's lots of tools that people use.
+
+SPEAKER 0
+So that's the kind of, you know, necessary counterpoint to
+
+SPEAKER 1
+the design team because designers are good at designing developers are good at developing and it's important that each knows
+
+SPEAKER 0
+something about the other. But it's I think a real challenge to be simultaneously
+
+SPEAKER 1
+skilled and knowledgeable and experienced in both realms.
+
+SPEAKER 0
+Okay, consultancy is agency studios, there's like crap ton of them out there ranging from like little small one person shops, two person shops, mid sized Firms that have like
+
+SPEAKER 1
+10 15 2050 people.
+
+SPEAKER 0
+Um and then these big established companies that have multiple
+
+SPEAKER 1
+offices across different countries like international presence.
+
+SPEAKER 0
+So here's a small sample Allen Cooper who is regarded
+
+SPEAKER 1
+as one of the forefathers of user experience design created
+
+SPEAKER 0
+a company called Cooper and now it's been sold and rebranded as design it.
+
+SPEAKER 1
+That's a premier user experience design company. Then we have the Nielsen norman group. So Ted Nielsen Donald norman created other founding figures and UX Design Research created a consulting group.
+
+SPEAKER 0
+The link is there, they have very good educational materials.
+
+SPEAKER 1
+They're almost like not for profit in the sense of providing a lot of materials for the community to learn. They're really interested in increasing literacy around user experience design
+
+SPEAKER 0
+I D. E. O.
+
+SPEAKER 1
+Which is infamous slash famous for being the proponents of
+
+SPEAKER 0
+design thinking and I'll talk about that more later design thinking has become a kind of hackneyed cure all to like design.
+
+SPEAKER 1
+I'm skeptical. I don't swallow it whole, I think design thinking is somewhat problematic. Um there's other ways of thinking about intervening positively in the world other than design thinking. And another one is UX studio. So I pick four, there's like 50 of them and
+
+SPEAKER 0
+yeah, okay, so we've talked about what is design, what is UX design And I've used UI design and UI front end development as foils to explain what UX design is but notice I kind of did hand wavy around what user experiences. So I just want to spend. Thank 5 6 slides talking about what is user experience. So we can talk about user experience if we don't
+
+SPEAKER 1
+talk about sense making.
+
+SPEAKER 0
+So that's that's where the name of the game is. Humans are creatures that are all about making sense of our experiences were having experiences and that's what we're wired to do. We're wired to be social and we're wired to make
+
+SPEAKER 1
+sense of things.
+
+SPEAKER 0
+We're wired to make meaning. And this me making this sense making is all about not just rational thought or cognition, even if you want to be heuristic about it, but sensation, emotion, meaning but meaning not in like rational fact finding way, but like personal relevance of things. It's all part of that sense making is only present.
+
+SPEAKER 1
+It's always on right.
+
+SPEAKER 0
+You can't not be engage in since making. I think even if you're in your most drug altered state short of being anethe a stylized like you're going
+
+SPEAKER 1
+to be engaged in some kind of sense making.
+
+SPEAKER 0
+Since making can be nebulous. It's hard to put your finger on it. You know, it's happening, you can feel it but it can be difficult to quantify.
+
+SPEAKER 1
+It can be difficult to articulate carefully.
+
+SPEAKER 0
+It's difficult to capture and why it's interior, right?
+
+SPEAKER 1
+It's it's my own interior process for me, my sense
+
+SPEAKER 0
+making is unique to me. It's it's a function of my embodiment, my situation in the world, my lifetime experiences. The things that I'm seeing what I'm interested in my
+
+SPEAKER 1
+goals, my aspirations. So all of these things are like so individualistic.
+
+SPEAKER 0
+It's located in the body and the mind of the
+
+SPEAKER 1
+sets maker.
+
+SPEAKER 0
+And since making because its interior cannot be directly observable. There's no like instrument to like provide a window into my sense making process. I can describe it, I can react in response to it. So these are indirectly observable things. These are directly observable things that are indirect. Can um, indicators. But you can't like measure since making directly, like you can measure like the level of hemoglobin in the blood or iron or you know, the amount of electrical activity in the brain. It's not that kind of directly observable thing. Too bad because you know, we care about sense making. We want to use this as the basis for the design interventions, but we don't have a direct way to know what is happening in the minds. Individuals. We have to come up with techniques to try and get at that to the extent that people know sometimes why a person reacts or thinks the way they do.
+
+SPEAKER 1
+It's not even available to their own introspection.
+
+SPEAKER 0
+We do know that emotion is central to this emotion
+
+SPEAKER 1
+is the moving and cementing force. It selects what is congress and dies what is selected
+
+SPEAKER 0
+with its color, thereby giving qualitative unity to materials, extremely
+
+SPEAKER 1
+disparate and dissimilar.
+
+SPEAKER 0
+It thus provides unity in and through the very parts
+
+SPEAKER 1
+of experience. It's like profound and beautiful and messy, right?
+
+SPEAKER 0
+It's just it is what it is, user experience is the sense making part of, of how we're in the world. So uh drawing from the textbook, here's a selection of
+
+SPEAKER 1
+quotes that paints a picture of what user experiences. First user experience is not specific to digital interactive systems.
+
+SPEAKER 0
+Every product that is used by someone has user experience,
+
+SPEAKER 1
+newspapers, ketchup bottles, reclining chairs, cardigan sweaters, this pen versus
+
+SPEAKER 0
+this pen. So some, when I'm writing on newsprint, I want this pen. It's .7 mm. It's got like a juicy feel. I enjoyed the experience of it. There's something about it, the way it moves This one is Skinny 0.3 sharp pointy. I don't know pushes in the paper in a certain way. So I have like, you know, user experiences for each of these two pens and it's it's really relevant to me in the sense that I will take time and energy to go find this pen. If this one is sitting right in front of me, depending on my meat user experience is about how people feel, is about how people feel about a product and their pleasure and satisfaction when using at it, looking at it holding it opening and closing it. It includes the overall impression of how good it is to use right down to the central effect, small details have on them, such as how smoothly a switch rotates or the sound of a click the touch of a button when pressing it. So, I mean a very beautiful example of this is the ipod case air pod case. You know, it's got that little magnetic thing as the lid gets closer. It's just like pulls it shot. It's just very satisfying.
+
+SPEAKER 1
+And I don't know. I need to find some examples around here.
+
+SPEAKER 0
+No, I have two lipsticks. This lid, you know, clinics differently than this lid. So there's something, you know different about these. So the user experiences are different. They're both lipsticks but the way they work, like the materiality here, it's smooth, it's metal, it's plastic.
+
+SPEAKER 1
+This one feels cooler. This one is you know, so they mean different things.
+
+SPEAKER 0
+Right? All of these details. Sorry that I don't have a better computer science example
+
+SPEAKER 1
+other than lipsticks. I have this only. So okay, anyway, my point is general about user experience. It's not specific to digital interaction.
+
+SPEAKER 0
+Uh an important aspect of user experience is the quality
+
+SPEAKER 1
+of the experience have someone has. So this quote talks about temporal aspects like it can be a quick experience such as taking a photo, a
+
+SPEAKER 0
+leisurely one, such as playing With an interactive toy, an integrated one. So you visit a museum and your digital experiences interwoven with like the non digital aspects. Uh last Jack carroll stresses, other wide reaching aspects including fun, health, social capital, referring to the social resources that
+
+SPEAKER 1
+develop and are maintained through social networks, shared values, goals and norms and cultural identity such as age, ethnicity, race, disability, family status, occupation, and education.
+
+SPEAKER 0
+So that's like important and meaningful. Uh so for example, like if you're talking about reference manager bibliography management, if you're doing like a project you
+
+SPEAKER 1
+can use like Zapatero or End note.
+
+SPEAKER 0
+But I will always use Otero in my lab because
+
+SPEAKER 1
+the terrorist open source and using that product supports the open source community.
+
+SPEAKER 0
+Whereas Endnotes is a for profit product produced by one
+
+SPEAKER 1
+of the big academic publishers.
+
+SPEAKER 0
+So I don't want to promote it's use, I don't agree with the idea of making money off of you
+
+SPEAKER 1
+know, socially funded research efforts.
+
+SPEAKER 0
+So that connects to the aspect of social capital. My feeling of using Zapatero makes me feel like not virtuous but like contented. Like I am doing something consistent with my values and if I have to use any note or if someone
+
+SPEAKER 1
+is using it and I have to experience it. Part of my experience is like, like my revulsion. I don't, I don't want to use the product.
+
+SPEAKER 0
+So the values of like why you're doing the things you do and what things are important to you are
+
+SPEAKER 1
+also connected to your experience.
+
+SPEAKER 0
+So then this inevitably leads to the point where people
+
+SPEAKER 1
+say, okay, I'm going to design this user experience, but you can't design it. You cannot design a user experience. You can only design for an experience.
+
+SPEAKER 0
+You can create the conditions and hope that that experience is elicited. But the designer really has no direct control or autonomy
+
+SPEAKER 1
+over what experiences other people have. So sharp points us out in the textbook in particular,
+
+SPEAKER 0
+one cannot design essential experience.
+
+SPEAKER 1
+You can only create the design features that can evoke it. For example, the outside case of a smartphone can be
+
+SPEAKER 0
+designed to be smooth, silk can't fit in the palm of the hand when held, touch, looked at and attracted with.
+
+SPEAKER 1
+That can provoke essential and satisfying user experience. Conversely, if it's designed to be heavy and awkward to hold is much like more likely to end up providing a poor user experience. That one is uncomfortable and unpleasant.
+
+SPEAKER 0
+So I'll just point out that even in this example there's already perception of the imagined future user and what that person looks like. And we have all of our cognitive biases coming to bear.
+
+SPEAKER 1
+So, you know, if you do this thought exercise anything,
+
+SPEAKER 0
+okay, that future user, What's the gender of that user?
+
+SPEAKER 1
+Right. Do you think in terms of gender ring, do you
+
+SPEAKER 0
+think that person has a disability often in our design? Thinking the imagined future user is someone like you, right?
+
+SPEAKER 1
+And if someone not like you, then it kind of stretches your initial assumptions. That's why a crap ton of design is not accessible at all. Because the people who are doing the design don't consider
+
+SPEAKER 0
+it's not in the realm of possibility that a user
+
+SPEAKER 1
+is going to be someone, for instance, who has motor impairment and doesn't hold things in the way that you
+
+SPEAKER 0
+expect. In fact, the heavy um awkward thing might actually be better for them because it's more amenable to a wheelchair amount, for instance. So it can be gripped, you know, this small thing, it's too small. So it it's fine if you're making certain assumptions about who's holding it, but if those assumptions are violated, then
+
+SPEAKER 1
+this kind of imagined experience that you're designing for can't happen because your assumptions about the end user are wrong.
+
+SPEAKER 0
+So part of this connects with our imaginary reserve what the realm of potential users are and what kind of diversity we imagine that they're going to have. And I'm talking about diversity and all the dimensions, socioeconomic diversity, racialized dimensions, uh, gender, sexuality, uh embodiment disability, all of those things. Okay, user experience is definitely not the same thing as
+
+SPEAKER 1
+usability. 100%.
+
+SPEAKER 0
+It can be a bit tricky because I've Described in a kind of Broadway from an airplane 10 1000 ft
+
+SPEAKER 1
+level idea of what user experiences, but it's really not
+
+SPEAKER 0
+particularly detailed and for that we need a particular framework. So there's uh technology experience framework proposed by McCarthy and
+
+SPEAKER 1
+right, There is a hazard hole has a framework for his experience. You know, you need a way to drill down and like, you know, describe a little bit more articulate a
+
+SPEAKER 0
+bit more closely what's meant by user experience.
+
+SPEAKER 1
+So the McCarthy and right framework proposed that there's four strands to experience socio temporal strand. There's a sensual strand. There is a narrative strand. Like um so that's like a way of characterizing human experience.
+
+SPEAKER 0
+Usability has a different tact. The user experience is all about interior experience sense, making you know, it's not directly observable usability. Are things connected to what was important in the earlier
+
+SPEAKER 1
+use of computers which were tasked based, workplace based functional,
+
+SPEAKER 0
+you know, effectiveness was important efficiency. You don't want to make a lot of errors.
+
+SPEAKER 1
+You didn't want to take a lot of time. You didn't want to have wasteful input actions, safety, utility,
+
+SPEAKER 0
+learn ability, memorability. These were important aspects for the context in which computing
+
+SPEAKER 1
+was first. You know, the first interfaces were being designed. These things are all like observable external things. So that's a different, that's a different way of looking at things that user experience. We're going to return to user experience. We're going to talk more about usability. But at this point I just want you to put those two things out there and connect user experience with the profession of design and I guess my overall messages like design doesn't have to be precious. You don't have to be like officially a designer design is as design does if you're gonna take into account
+
+SPEAKER 0
+user experience and successfully deploy all the models, the techniques and the tools then that makes you UX design practitioner. So in some design is a basic human activity. UX design is an umbrella term for design practices that
+
+SPEAKER 1
+seek to intervene and user experience usually positively, design thinking
+
+SPEAKER 0
+is like a branded kind of approach that is often connected with UX design.
+
+SPEAKER 1
+I'm resisting it for the moment, for reasons that I'll explain.
+
+SPEAKER 0
+Uh and user experience captures sense making, it's about the
+
+SPEAKER 1
+inner experience. And with that, I'm going to wrap up this presentation, see you next time.

@@ -1,0 +1,5 @@
+Week 11 (to be completed by Thursday, November 26)Weekly goals
+Submit detailed feedback on the A3 peer submissions you received
+Export the initial version of your game to the web, and save the link
+Study the material on scripting with Unity
+Continue working on Assignment 4. After studying the material above, you have all the information you need to complete it

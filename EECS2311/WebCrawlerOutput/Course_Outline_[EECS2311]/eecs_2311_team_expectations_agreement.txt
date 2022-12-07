@@ -1,0 +1,89 @@
+EECS 2311 Group Agreement Template 
+(thanks to Prof. Baljko for providing the template)
+
+Group Expectations Agreement
+
+All sections of the format "==\<list here\>==" must be completed 
+
+Group Composition
+
+Group Number: ==\<list it here\>==
+
+Group Members: 
+
+==\<list them here one per line\>==
+
+Group Expectations
+
+The members of the group listed above hereby agree to the following expectations.
+
+1. Roles
+
+The following roles will apply to all group members:
+
+Programmer: All members of the group must contribute to the code base at roughly equal amounts.
+
+Tester: All members of the group must write test cases for the code that they contribute.
+
+The following roles may apply to all group members or they may be divided among different group members:
+
+UI designer: ==\<list the group member(s)\>==
+
+Software designer: ==\<list the group member(s)\>==
+
+Documenter: ==\<list the group member(s)\>==
+
+It is the group's collective responsibility to ensure that each group member understands their role(s). 
+
+One member of the team must be designated as the coordinator that ensures the team functions well. 
+
+ Coordinator: ==\<list the group member\>==
+
+2. Clarity about Communications
+
+The group agrees to use the following platform(s) to communicate: ==\<list here\>==
+
+The group members agree to respond within the following time window: ==\<list here\>==
+
+3. Clarity about Responsibilities
+
+A group member, upon agreeing to undertake a segment of work, agrees to be responsible for the completion of the work segment.
+
+If there is a lack of clarity about the responsibility of a particular work segment, it is the responsibility of the coordinator to flag this lack of clarity. It is the responsibility of the group as a whole to rectify the lack of clarity.
+
+4. Decision Making
+
+In the case that a contentious decision must be made, the group agrees to employ the following method: 
+
+==\<use sentences to describe approach, possibilities include: by majority vote, by decision made by a particular role, discussion until convergence is reached\>==  
+
+The group agrees to abide by this decision making approach.
+
+5. Division of Work and Goal Setting
+
+For any particular phase or deliverable of the course project, the group agrees to collectively discuss and determine the shared goal in terms of aspects such as desired grade outcome, allocation of group member time (when and how much)
+
+The division of work will be accomplished by consensus and with clarity among all group members. 
+
+The work will be divided using the following approach(es): 
+==\<use sentences to describe approach, possibilities include: by volunteer basis, by consensus, by the coordinator, etc \>== 
+
+6. Conflict Resolution
+
+Despite the team members' best efforts, conflicts may yet arise. It is human nature.  
+
+In cases of a disagreement or conflict, the process our group will employ to resolve the conflict will be: 
+
+==\<use sentences to describe approach, possibilities include:  to use a mediator to bring the two parties together to talk it through (if so, then who would be the mediator?), to have a good-faith commitment to come to a resolution; to hold a group meeting to discuss the problem and to resolve by majority vote; to use a particular framework (e.g., several are published on-line and can be found via a search for "approaches to conflict resolution on teams")==
+
+7. Team-Based Handling of Groupwork Issues
+
+If a problem arises, then the group should make a good-faith effort to resolve the problem. Consult with the course instructor for feedback and guidance if group work issues cannot be resolved despite best efforts.
+
+8. Other Clauses (optional)
+
+==\<add any other clauses here (e.g., expectation about attending meetings, not being late, how the group will communicate, how responsive group members should be to one another, etc)\>==
+
+Signed and dated by:
+
+This document will be deemed signed and dated by virtue of a team member submitting on eClass.

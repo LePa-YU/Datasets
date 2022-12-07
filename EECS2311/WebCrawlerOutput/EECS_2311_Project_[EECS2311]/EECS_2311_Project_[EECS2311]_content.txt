@@ -1,0 +1,49 @@
+EECS 2311 Project
+[EECS2311]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS2311
+Project
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Grades
+Contact
+Academic
+Honesty
+EECS 2311 Project
+You are here: EECS 2311 » EECS 2311 Project
+−Table of Contents
+EECS 2311 Project
+EECS 2311 Project
+New requirements added on March 7!
+Original project description
+Useful Resources
+EECS 2311 Project
+EECS 2311 Project
+New requirements added on March 7!
+The system must allow the user to customize the visual output to improve it aesthetically and functionally. This definitely includes adjusting the spacing between notes in order to have both the left and right ends of the output align (similar to text justification in a word processor). It can also include customizing fonts, the spacing between the lines of the staff, the size of the notes etc.
+Repeats must be supported as well. Try this example input on MuseScore to see the expected output.
+The previewer should allow the user to see what measure number they are looking at, as well as support a Go To Measure function as in the text input.
+The play function must allow the user to change the tempo of the music, i.e. how fast or slow it is played back. This must be expressed in beats per minute (bpm). 60 bpm means that there are 60 quarter notes in a minute, i.e. each quarter note lasts one second.
+There must be a connection between the play function and the visual output as follows: The user must be able to select a measure (or a note) and start playback from that point. Also, when the music is playing, the visual output must highlight the note that is currently being played (similar to MuseScore).
+Original project description
+Anyone interested in learning how to play a particular piece of music can usually find help on doing that on the internet in a variety forms, such as videos or tutorials. A common way to convey the way to play a given song for instruments such guitar, bass, or drums is through the use of tablature or tab. These are often created in text as it is the easiest format to do that in.
+The starter code that you were provided with is a system that accepts text-based tablature and converts it to a format called MusicXML. MusicXML can be visualized or printed as sheet music, or played by a virtual instrument. Our project this term will be to add this visualization / printing / playing functionality to the system you were provided.
+If you cannot read music, do not worry. There are existing programs/websites that implement this functionality, so you will know what the expected output is (see the Useful Resources below). However, no Java library exists for this purpose, hence our project.
+Look up some of the tabs for your favourite songs to get a feel for what these look like. Run the system with the starter examples provided below to see what the output looks like. You can find more examples under /src/test/resources/system in the code. capricho.txt and parabola.txt are large examples that you should aim to be able to visualize by the midterm submission.
+Study the MusicXML documentation, so you can start understanding the format.
+Detailed requirements for our project will be developed during the term.
+Useful Resources
+Guitar tablature explanation
+Drum tablature explanation
+MusicXML Documentation. Click on Tutorial for an introduction. When looking for information on a particular MusicXML element, it's usually best to google “musicxml element-name”.
+A starter example of a guitar text tab.
+A starter example of a drum text tab.
+Existing MusicXML previewers:
+Desktop app: MuseScore
+You can preview any MusicXML file by dragging and dropping it onto this page.
+An online previewer with playing functionality
+Last modified: 2022/03/07 17:19

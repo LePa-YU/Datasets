@@ -1,0 +1,193 @@
+Error:
+Okay so this is a budget oriole for the tools that were using ecs 4462. 
+This is the windows version if using amok there's a different video for that. 
+So i don't actually have a windows machine so i'm doing this under the table so i apologize for that you must quality if it doesn't turn out too great. 
+Alright so. 
+To get things started when heater on. 
+The producer of zeus. 
+B o in the lab is actually. 
+Under shortcuts. 
+But you'll find it that i would ever get download it is. 
+So 471 will be using doing a plug-in i need a plug-in so. 
+Is the kind of fun. 
+Application with you should select here. 
+And the options here are mostly okay. 
+I don't think there's a visual studio 2019 in the love so i'm going to. 
+Choose 2017 cardi b. 
+Used to be able to use 2019 at home. 
+And i will click create project. 
+Wakanda. 
+Before i do that i should. 
+Provided if i name my new project. 
+So let's call it my midi plugin. 
+Okay the project. 
+I'm a put it in on the documentary are you going to start like to put whatever you like. 
+And this winter comes up and sees all the files that were created for us. 
+There's a whole bunch more mothers hear that. 
+Error:
+Just provides so we don't need to worry about it they're already there. 
+And. 
+Eric's porter. 
+It's going to be visual studio 2017. 
+We should get the sightings before we get started couple things we need to do here. 
+Contains a company name. 
+Sometimes he's helped us find our play game of have too many plugins that will be the case here but. 
+So that's something optional if you don't do that then. 
+They will be on their somebody calls your company with. 
+I also walked i guess. 
+And it comes with plug-in formats a user apply only to max so. 
+What i say vst3 ciara. 
+Anderson tire. 
+Plug in for the first time in his immediate plug-in we should select. 
+42 have. 
+We didn't put them out.. 
+All right so have you done. 
+That we ready to basically loans video studio and juice will provide. 
+Whole bunch of things. 
+Camila sodi. 
+So this is the volunteer next to. 
+They score their will. 
+Ashley laurence. 
+Velocity. 
+Okay so now we can see. 
+The code will be over here. 
+Underserved code. 
+Hey. my mini plug in. 
+Service. 
+This is all the code that will be changing once we get to the calling part. 
+Welfarm. 
+The assignment. 
+But otherwise everything else is ready to go. 
+Defalco. just provides actually. 
+Does component work except it doesn't do anything it just copies. 
+The input to the output. 
+But for the demo. 
+That works. 
+Alright so. 
+Once we have that then what we can do is basically build. 
+Error:
+Right. 
+So that's will be successfully. 
+It was to take a couple minutes to do so. 
+So we'll give it time. 
+Madout2 compiler. 
+But once it does days then. 
+The game is actually already. 
+Successful. 
+Nightcore this is a plug-in so we cannot run it if you try to run i will tell you this is not really. 
+Nepali application. 
+Which is why we have the ideal black in horse. 
+2. 
+To help us. 
+Testing a plug-in. 
+So i provided an executable in case you want to use that you can create your own. 
+Tutorial. 
+Solar windows. 
+Other americans aren't marked we will have to find that vst3 file. 
+Do i get into sedalia blackenhurst. 
+Error:
+1. 
+Way to do it is to basically. 
+Go to the folder where allosaurus happens to be. 
+And. 
+Have to follow. 
+Form i-864 to divide. 
+253. 
+And i will find my meeting liking the vsts. 
+Set alarm. 
+We can. 
+Error:
+Take a note.. 
+Does bs23 file and ragged. 
+To the audio plugin. 
+Error:
+Alright so that's your plug-in and now we can use the other plug-in cost to test things out. 
+Solo. 
+What you see here is that way.. 
+As media imports. 
+Audio output. 
+There's also audio imports don't have any. 
+Microphone input so there's no delay but really that's okay we don't need that we're going to be doing any recording this course anyway. 
+So we wouldn't either make the right connections and we should be able to take care of the results. 
+Now again as it said maybe is not sound. 
+At some point we need something that will take them events and produce sound for. 
+Error:
+Michael ealy audio packing house that provide. 
+Synthesizer. 
+It's a symbol of sideways synthesizer. 
+That we can exclude here. 
+And as you can see that something that actually takes me to input. 
+And provides audio. 
+B always late. 
+Red is midi. 
+Greenies audio and audio usually comes in paris for a stereo hospital. 
+So. 
+Knowing the plugin for a moment we can always say use the blocking host to. 
+Make connections. 
+Connect meeting for twist in this case is going to be the keyboard here. 
+Error:
+And then take the output of a synthesizer that connected to the automotive machine. 
+Error:
+So we should be able. 
+Talk to you here. 
+Error:
+Error:
+Error:
+Sound. 
+When we click. 
+Error:
+Keyboard. 
+Error:
+We're going to have to leave. 
+Click multiple items at the same time. 
+But it is possible to do. 
+And it's actually very handy for the assignment since when you do. 
+I provide a courtesan put. 
+Like multiple notes are the same time and then. 
+Are plugins will actually appreciate. 
+All right so the only thing is left here is to. 
+Actually. 
+Include a plug-in in the whole routing. 
+Error:
+So instead of. 
+Having the media events going into the synthesizer first. 
+Importer of a airplane game. 
+Hospital for plugin. 
+Possibly modified main events will come out those will go into the synthesizer. 
+And then. 
+This will connect to the audio output. 
+So. 
+Error:
+Error:
+Now we fight. 
+Error:
+I still get sounds. 
+Error:
+Error:
+It sounds exactly like before because our blocking doesn't do anything at the moment only, zanesville to the output. 
+But all that's left now is to code up. 
+Alright. 
+Plug-in to activate modify the incoming mail events and produce even more. 
+Error:
+In order for us to do. 
+To have the result that we hoping for. 
+Okay. 
+And that's about it. 
+Error:
+If we. 
+Tesla bugging you need to do some more changes. 
+We can kill. 
+Error:
+Audio blogging host go back to visual studio and look at our code. 
+Hey.. 
+Open up. 
+Error:
+You got that is that process of that that maybe we should focus on. 
+Types different code compile. 
+Baby the same process to be able to test. 
+Okay so that's that's it for the demo. 
+Mom. 
+Good luck with getting out to work. 
+If not so you know where to find me. 
+So i'll see you guys soon. 
+Error:

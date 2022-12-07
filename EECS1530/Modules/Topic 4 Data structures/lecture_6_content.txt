@@ -1,0 +1,9 @@
+Lecture 6 - Data structures (dictionaries)
+Class: February 24 & 26
+Lecture slides: (available Feb 24)
+Pre-class material: 
+Chapter 11: Dictionaries
+w3schools.com (dictionaries)
+swaroopch.com (dictionary)
+Pre-class quiz due: Feb 24, 5pm
+Assignment 5 due: Mar 01

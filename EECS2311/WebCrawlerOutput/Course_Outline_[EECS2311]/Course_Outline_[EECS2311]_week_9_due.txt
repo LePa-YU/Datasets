@@ -1,0 +1,3 @@
+Week 9 (to be completed by Wednesday, March 23)
+Due
+For Peer assessment 3, you are required to submit 3 bug reports for each of the two projects you are evaluating. See the PeerScholar link for more details. Preparing these bug reports is also your lab task for the week (see below).

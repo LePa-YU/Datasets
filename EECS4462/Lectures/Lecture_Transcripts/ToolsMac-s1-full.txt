@@ -1,0 +1,197 @@
+So this is a video tutorial for the tools to use for acs 4462. 
+This is a mac version if you're using windows that is a different video for that. 
+Now what am i. 
+What can i use. 
+The producer what is the app that you download it when you spell choose. 
+Also xcode. 
+Turns out.. 
+Cinemark. 
+That produces does not expect a full visual studio so we'll have to use xcode. 
+Error:
+So to get started. 
+Play korn. 
+Run the producer up. 
+And i would go see. 
+Is an options. 
+At the beginning we going to be development plugins. 
+So go for a basic. 
+Login. 
+And. 
+On this side you can select a name for your. 
+Plug-in projects college. 
+My midi. 
+Login. 
+Error:
+Error:
+Liza. 
+A number of other options are okay here is fine. 
+So. 
+What kind of test go ahead. 
+She thought create project. 
+I wouldn't select a place to put it. 
+Error:
+Yeah buddy whatever you like on your hard disk. 
+And then you get to the screen so. 
+You pretty much ready to go to a school now so if i click on this button here. 
+Delete buds. 
+I will look at a couple things here right so it shows us all the files that will be created. 
+Error:
+All the modules are included i can with juice. 
+Is all the wastex part. 
+The only thing that is. 
+Just click on the settings button. 
+If you select. 
+Company name. 
+That you like so. 
+I ugly my company.. 
+Whatever you want. 
+The reason i'm doing this is because it's easier to find your plug in a little bit later if you have a company name otherwise. 
+Thankful name is your company which also works. 
+Random. 
+There is another option to hear plug-in territory since the first login we're doing is animated login nolan audio plugin. 
+Then. 
+Alexia to have meeting with an outfit. 
+As well. 
+Error:
+If you don't do that then you'll be creating all your liking what you want to work for assignment man will do the first time into. 
+Okay. 
+So having done this. 
+Then that's all. 
+Then i can click on this button here. 
+2. 
+Error:
+Launch xcode and then this will actually set up all the dependents i'm going to need for my plug-in as you can see. 
+Interstellar harry houdini clothing in my project. 
+I can't disclose because i don't really want to look at it. 
+And my source code the one that will actually. 
+Nothing for assignment. 
+One is here so there is this for different files. 
+Error:
+Once you get to the coding your plug-in tutorial you'll see how to modify some of them to have your plug into. 
+Whatever you wanted to do. 
+The default code. 
+Works it doesn't do anything and just texting port composite to the output. 
+Error:
+Which is something we can use for this demo. 
+Alright so i shouldn't you have programmed your behaviour as you want. 
+K'nex codes give gun. 
+Click on this volunteer to build. 
+So the default code soon. 
+Build successfully. 
+So it takes a little bit for that too. 
+To compile the first time. 
+Bedtime. 
+It's not. 
+Not a big deal. 
+So. 
+We'll give it a few minutes. 
+To do that. 
+Annabelle cossacks. 
+No. 
+Exeggutor plugging directly. 
+I need some sort of horse application thankfully we have. 
+The audio plugin horse that comes with juice. 
+That we're going to use to actually test or plugin. 
+So you can run those separately if you want but mexico do you can actually connect the output of your combination to an application so it will do that. 
+Sanda products. 
+And then asking. 
+Pirates game what kind edit. 
+Alrighty bud configuration. 
+And we can say. 
+Select an executable. 
+2. 
+Ron osuna's compilation is penis so. 
+Navigate here to my audio.. 
+Antojitos. 
+So now when i. 
+Build again. 
+Build succeeds and the audio plugin. browns director. 
+No. 
+This may look a bit different for you i have too many inputs and outputs in my system. 
+They but you don't have to worry about because we're not going to be recording anything in this course. 
+Error:
+The first dog what year is this terry auto that is probably what you have as well. 
+Noel. 
+Find a plug in the first thing we'll do is we'll have to turn off. 
+Look for it. 
+So i got options yeah we can edit the list of available plugins. 
+You see that my mary plug-in is not here at the moment. 
+But thank you enough soon she will say scan for new or updated. 
+Vst3 plugins. 
+Kangaskhan. 
+And now you find some remind me to play. 
+So from now on you will be. 
+Inevitable this of plugins so we don't have to. 
+Worry about this anymore unless we created different projects. 
+It's a game called something different. 
+So. 
+This way if i right click on first. 
+Under my company remember this way so it's easier to find that's my plug in and it's into the system. 
+Error:
+Now the way we created this by default because it's both another liking animated login. 
+Error:
+When i'm going to use the audio plugin for the first assignment. 
+But. 
+It's there. 
+So that way you use the audio plugin cost as he does have to make some connections. 
+Error:
+You know you could be able to. 
+Use of leggings and also. 
+Hear the outfit if you want. 
+Iso. 
+Again as i said already meet events. 
+Are not sound. 
+So we'll need something sticking me dependant produce sound thankfully the other buggy horse has a number of. 
+Synthesizes for us. 
+How to say simple don't hear a sound wave safe. 
+I can notice that this is something that is imported midi. 
+My purchases. 
+Maybe i'll survive about elsa audio. 
+Radius. 
+Maybe. 
+Greenies audio. 
+Set alarm. 
+I can use this. 
+In the following way i can test that doesn't work by connecting them i'm eating food should be the keyboard on here. 
+And then. 
+Connecting diablo 2. 
+Yeah but so if i do this. 
+That any media vendor produced on here. 
+We'll go through the synthesizer and audio come out and go to my speaker. 
+Error:
+If i do this. 
+Error:
+How to get sound. 
+I did not going to ruin my plug-in once i have a plug-in admitted login. 
+As well. 
+I have to worry about things a little bit so. 
+Remind me to input. 
+Go to the input on my plug-in realtor again what could be modified minivans. 
+Go to the synthesizer. 
+And i go to the. 
+Error:
+I get the same thing of course my plug-in doesn't do anything so i still get the same out with but once we start. 
+Changing events coming out of her plug-in wheel. 
+Would hear different things. 
+I just wanting you can actually use the keyboard of your computer to also do it right on taking with her mouse all right so i'm pressing the ft and so on. 
+He praised notes. 
+And that's actually important for the assignment cuz that's the only way to provide say three different events at the same time. 
+Three notes of the same time. 
+Which is. 
+The assignment will be to play this note has an arpeggio. 
+Separately weather not together at the same time. 
+Okay and that's it. 
+Your brother doesn't work as you hope they would then. 
+He's us. 
+Kill. 
+Zelda legend house and go back to your code. 
+2. 
+Start notifying. 
+Right and that's what it was. 
+Take a look at. 
+Once we get to the calling part. 
+Okay so hopefully this was helpful to get you started. 
+Error:
+You know where to find me too if you have any questions. 
+Error:
+Error:

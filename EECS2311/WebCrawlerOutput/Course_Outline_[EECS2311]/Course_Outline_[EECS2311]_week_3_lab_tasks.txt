@@ -1,0 +1,4 @@
+Week 3 (to be completed by Wednesday, February 2)
+Lab task
+Prior to the lab on Monday, your team must organize the branches in your repository as outlined in the slides above.
+For the lab task, demonstrate committing to your personal branch, then merging the changes to the develop branch, and finally pushing both the develop branch and your personal branch to github. To avoid conflicts, remember to pull the develop branch just before starting your demonstration.

@@ -1,0 +1,3 @@
+http://openbookproject.net/thinkcs/python/english3e/conditionals.html
+https://python.swaroopch.com/control_flow.html
+https://www.geeksforgeeks.org/python-if-else/

@@ -1,0 +1,4 @@
+Week 2 (to be completed by Thursday, September 17)Study material
+The Physics of Sound
+Slides
+Weekly Unity Background: Complete the Introduction and Section 1. Setting Up the Unity Project. Login with your Passport York account (the email should be ppy@yorku.ca, not ppy@my.yorku.ca). The Measured Materials package mentioned is no longer in the Asset Store, so you can ignore that part for now. We will import such materials when needed later.

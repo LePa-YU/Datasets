@@ -1,0 +1,20 @@
+Assignment 4b
+Assignment 4 - Functions
+1. Using the math library, create a Python program to calculate the side of a right triangle. Write three (3) functions: 1. SOH, 2. CAH. 3. TOA. 
+
+Create a main() -function
+Create 3 functions for calculations
+Use user input to specify which side you’re calculating
+Ask the user for input angle and side for the calculation
+Make continuous until use of “Exit” or “0” when asking for the calculated side
+How to calculate: link 
+2. Use the given unit tests to test out the solution of the functions created in problem (1). Add two (2) new unit tests to test out the main() function and two (2) new unit tests to test out any of the other functions.
+
+The purpose is to come up with tests that will see if the system will fail. 
+If it fails, the program should be modified to make sure passes all tests.
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle
+Note: please do NOT change file names

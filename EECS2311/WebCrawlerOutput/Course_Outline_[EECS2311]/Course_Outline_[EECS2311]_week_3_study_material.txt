@@ -1,0 +1,8 @@
+Week 3 (to be completed by Wednesday, February 2)
+Study material
+Our target this week is to finish the material on git by learning about git workflows.
+First off, for those of you still unsure about merges, when do they fail, what is a fast-forward merge etc, you might find this explanation helpful.
+Next, we will learn about a method to organize the branches in our repository called Gitflow. Read the original description, as well as this explanation.
+These slides present the main points from the above links, and describe how branches must be organized in EECS 2311.
+Finally, this is not required studying, but this is a handy page that lists everything you might need to remember about command-line git. It includes instructions on how to make your README file on github look nice.
+Click here for the Week 3 lecture video.

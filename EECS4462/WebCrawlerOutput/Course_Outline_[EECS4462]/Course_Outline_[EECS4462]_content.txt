@@ -1,0 +1,242 @@
+Course Outline
+[EECS4462]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS4462
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Assignments
+Grades
+Contact
+Academic Dishonesty
+Course Outline
+You are here: EECS 4462 - Digital Audio » Course Outline
+−Table of Contents
+Course Outline
+Week 12 (to be completed by Thursday, December 3)
+Study material
+Weekly goals
+Week 11 (to be completed by Thursday, November 26)
+Study material
+Weekly goals
+Week 10 (to be completed by Thursday, November 19)
+Study material
+Weekly goals
+Week 9 (to be completed by Thursday, November 12)
+Study material
+Weekly goals
+Week 8 (to be completed by Thursday, November 5)
+Study material
+Weekly goals
+Week 7 (to be completed by Thursday, October 29)
+Study material
+Weekly goals
+Week 6 (to be completed by Thursday, October 22)
+Study material
+Weekly goals
+Reading Week
+Week 5 (to be completed by Thursday, October 8)
+Study material
+Weekly goals
+Week 4 (to be completed by Thursday, October 1)
+Study material
+Weekly goals
+Week 3 (to be completed by Thursday, September 24)
+Study material
+Weekly goals
+Week 2 (to be completed by Thursday, September 17)
+Study material
+Weekly goals
+Week 1 (to be completed by Thursday, September 10)
+Study material
+Weekly goals
+Course Outline
+The topics and activities for each week will be listed here.
+Week 12 (to be completed by Thursday, December 3)
+Start by watching the instructor video for this week. Do not forget to submit the rating for the peer feedback you received for Assignment 3 before the deadline.
+Study material
+Our focus for this last week is on finishing Assignment 4, so the following is just hints and tips for it.
+First off, remember to export the game in its original state in its native format (Windows or Mac).
+Next, you will need to remove existing audio from it. Most games will have a separate folder for Audio under Assets in the Project window. You can right-click on each AudioClip and select “Find References in Scene”. This will show you all GameObjects that are using this audio clip.
+Finally, two useful links:
+Unity User Manual
+Unity C# Survival Guide
+Weekly goals
+Complete the Reflect Phase of Assignment 3
+Complete Assignment 4
+Week 11 (to be completed by Thursday, November 26)
+Start by watching the instructor video for this week. Do not forget to submit the peer feedback for Assignment 3 before the deadline.
+Study material
+Our target this week is to learn about scripting with Unity. This will allow us to complete all requirements for A4. We'll also learn about reverb zones and ducking.
+First, complete section 15. Introduction to Scripting of the Unity course. Then, read the Unity manual on scripting, in particular the first three sections: Setting Up Your Scripting Environment, Scripting concepts , and Important Classes.
+Then, watch this video on how to export your game to the web. For A4, you should export your game for Windows or Mac instead. Export your game as downloaded now, and save it. When submitting A4, you will have to submit this .exe or .app file also to show that you have changed the audio in the game.
+The game you are working with may already have a GameObject to manage all the audio (typically called AudioManager). You can reuse that if you want, but if you don't want to do that (or your game does not have any audio to begin with), I recommend creating your own AudioManager, following the example in this video (you can ignore the last part of this video that deals with multiple scenes unless you have lots of time on your hands).
+To add appropriate reverb to your sounds, you can add reverb to the appropriate Audio Group in the Audio Mixer, or use reverb zones. Start by watching tis video on reverb zones. If you want to trigger reverb (or any SFX) using a collider, see this video. Finally, you can check out the Unity manual for Reverb Zones and Colliders.
+To achieve ducking, e.g. automatically lowering music when narration is happening, see this video.
+Implementing a fade in/out is a bit harder than you might think because these gradual changes in volume have to happen across multiple frames. Thankfully, C# has a feature that is really well suited for this, coroutines. Read the Unity Manual on coroutines that contains a visual fade in/out example that you can adjust for audio.
+Finally, you can use any plugins you develop with JUCE in Unity! This is not a requirement for A4, but if you'd like to do that, follow these instructions.
+Weekly goals
+Submit detailed feedback on the A3 peer submissions you received
+Export the initial version of your game to the web, and save the link
+Study the material on scripting with Unity
+Continue working on Assignment 4. After studying the material above, you have all the information you need to complete it
+Week 10 (to be completed by Thursday, November 19)
+Start by watching the instructor video for this week. Do not forget to submit
+Assignment 3 before the deadline.
+Study material
+Our next target is to learn about audio in video games.
+Start by studying the slides on Game Audio. They describe the process for audio in large video games, so they won't necessarily apply to Assignment 4.
+Continue with our Weekly Unity Background: Complete Section 9. Adding Audio.
+Finally, study Assignment 4 (click on the Sidebar to find it) and choose a game to work with. Look for sound files that you will use for A4 online. Places to look into:
+freesound.org Creative Commons Licensed sounds
+Sound effects Creative Commons Licensed sounds
+Production Crate (paid but has free trial)
+Epidemic Sound (paid but has free trial)
+bensound.com Royalty-free music
+Weekly goals
+Complete and submit Assignment 3
+Study the A3 peer submissions you will receive and provide detailed feedback
+Study the Game Audio slides
+Learn about audio in Unity
+Read and understand Assignment 4
+Choose an existing Unity game that you will work with for Assignment 4 and find sounds for it
+Week 9 (to be completed by Thursday, November 12)
+Start by watching the instructor video for this week. Do not forget to submit the rating for the peer feedback you received for Assignment 2 before the deadline.
+Study material
+Our focus this week is on finishing Assignment 3, as well as learning about audio file formats.
+Start by watching this video on the most common types of audio formats.
+Next, study the slides on audio file formats, and complete the eClass quiz on it.
+Finish with this video on what is lost when compressing audio. Video has several loud parts, so watch at low volume to begin with.
+Finally, continue with our Weekly Unity Background: Complete Section 8. Collisions.
+Weekly goals
+Complete the Reflect Phase of Assignment 2
+Complete Assignment 3
+Understand audio file formats and complete the eClass quiz on it
+Continue with Unity
+Week 8 (to be completed by Thursday, November 5)
+Start by watching the instructor video for this week. Do not forget to submit the peer feedback for Assignment 2 before the deadline.
+Study material
+Our next target is to learn about impulse responses and convolution, concepts that will be needed for the second and third reverb in Assignment 3.
+Start by watching a video on what reverb is, and a video on how to create reverb with delays and convolution. These are both from LinkedIn Learning, so you'll need to login with Passport York.
+Continue by watching this video on the theory behind impulse responses and convolution. The input function in our case is the incoming audio signal, and the linear system is the plugin you are developing. The video describes impulse responses in a continuous fashion, but if you imagine each input pulse as a sample everything else still works.
+Next, study the slides on convolution and impulse responses. They contain useful hints with regard to implementing Assignment 3.
+Finally, continue with our Weekly Unity Background: Complete Section 7. Creating and Implementing Animation.
+Weekly goals
+Submit detailed feedback on the A2 peer submissions you received
+Study the material on impulse responses and convolution
+Continue working on Assignment 3. After studying the material above, you have all the information you need to complete it.
+Continue with Unity
+Week 7 (to be completed by Thursday, October 29)
+Start by watching the instructor video for this week. Do not forget to submit
+Assignment 2 before the deadline.
+Study material
+Our next target is to learn how to use the digital signal processing (DSP) module in JUCE to build plugins that implement and combine various audio effects.
+Start by studying the slides on Audio Effects. There is an eClass quiz related to these slides.
+For a different look at these effects (and more) check out this playlist (ignore the first video on Console Signal Flow). This video on compression is also worth checking out. If you have not heard a wahwah effect, check this out.
+Before we look at the starter code for Assignment 3, take a look at this video on including a plugin to play an audio file in the Audio Plugin Host. You can find the code on github.
+Next, it's time to look at the starter code. There's 3 videos on it:
+A demo of the plugin functionality
+A description of the new way to handle parameters
+A description of the processing part
+Finally, continue with our Weekly Unity Background: Complete Section 6. Level Building.
+Weekly goals
+Complete and submit Assignment 2
+Study the A2 peer submissions you will receive and provide detailed feedback
+Study audio effects and complete the eClass quiz on it
+Read and understand Assignment 3
+Compile and understand the starter code for Assignment 3
+Continue with Unity
+Week 6 (to be completed by Thursday, October 22)
+Start by watching the instructor video for this week. Do not forget to submit the rating for the peer feedback you received for Assignment 1 before the deadline.
+Study material
+Our focus this week is on finishing Assignment 2, as well as learning about the human sound perception.
+Start by watching this video on the Human Sound Perception System.
+Next, study the slides on Sound Perception, finishing with a fun video on Auditory Illusions.
+Finally, continue with our Weekly Unity Background: Complete Section 5. Prefabs.
+Weekly goals
+Complete the Reflect Phase of Assignment 1
+Complete Assignment 2
+Understand human sound perception and complete the eClass quiz on it
+Continue with Unity
+Reading Week
+Next week is Reading Week, so there is no new material to study, just an
+instructor video. Do not forget to submit the peer feedback for Assignment 1 before the deadline.
+If you are catching up on Unity during Reading Week, you can download the Measured Materials library mentioned in the course here. Note that this is a large file (approx. 1.5GB).
+Week 5 (to be completed by Thursday, October 8)
+Start by watching the instructor video for this week. Do not forget to submit Assignment 1 before the deadline.
+Study material
+Our next target is to develop plugins that receive audio as input, and produce modified audio as output.
+Start by studying the slides on Digitizing Sound.
+Next, watch this video on Digital Audio. The second part of this video is on Digital Video, so it is not relevant to our course, so watch that part only for your own interest.
+Follow up with another video on digital reconstruction. The section on dithering can be skipped if you are pressed for time.
+Now you are ready to look at some code. Study the starter code for Assignment 2 and make sure you understand it. To help you out, there is also:
+A set of slides
+An instructor video on it
+Finally, continue with our Weekly Unity Background: Complete Section 4. Applying materials. This section is all about changing the look of different materials in your scenes, so it does not apply to our course directly. As a result, this week's Unity section is mostly for your own interest.
+Weekly goals
+Submit Assignment 1 before the deadline
+Study the A1 peer submissions you will receive and provide detailed feedback
+Understand how digital audio conversion works
+Read and understand Assignment 2
+Compile and understand the starter code for Assignment 2
+Continue with Unity
+Week 4 (to be completed by Thursday, October 1)
+Start by watching the instructor video for this week.
+Continue with a video on debugging.
+Study material
+This week we will focus on making the GUI of our plugin look nice. Study the following JUCE tutorials (no need to open them as separate projects, just cut and paste from the tutorial to your code as necessary):
+The Slider class: This tutorial will show you how to customize a Slider. Notice the section titled “Responding to slider changes” for an example of how to tell which slider has been changed.
+Depending on the design of your plugin, you will need some other types of GUI components. See the tutorials for labels, combo boxes, and radio buttons and checkboxes.
+To improve the look of your plugin even further, you can look into the following tutorials as well:
+The Graphics class: To draw simple lines and shaped on your GUI.
+Customize the look and feel: To change the looks of default components.
+Weekly Unity Background: Complete Section 3. Working with Assets.
+Weekly goals
+This week's pod meetings are only a day or two away from the A1 deadline, so you should have completed the functionality part of the assignment by then, while the look and feel of your GUI should be getting there.
+Continue with Unity
+Week 3 (to be completed by Thursday, September 24)
+Start by watching the instructor video for this week.
+Next, a video tutorial on processBlock.
+The Arpeggiator Plugin: This tutorial explains the code of a simple Arpeggiator plugin. You will make a more elaborate one for Assignment 1. I have modified the code a bit and posted it as Starter Code in the Assignment 1 page. Focus on the explanation for prepareToPlay and processBlock in the tutorial. Do NOT enable the “MIDI Effect Plugin” option in the “Plugin Characteristics” field of the project settings in the Projucer, only the “Plugin MIDI Input” and “Plugin MIDI Output” ones.
+Study material
+Slides on coding with JUCE. Includes information on C++ concepts you should know to understand the code.
+Weekly Unity Background: Complete Section 2. Understanding the Unity interface
+Weekly goals
+Compile and test the JUCE Arpeggiator plugin
+Understand the code for the JUCE Arpeggiator plugin
+Start on coding Assignment 1. You now know everything you need to add all the functionality required by the assignment. We'll make the GUI better next week.
+Continue with Unity
+Week 2 (to be completed by Thursday, September 17)
+Start by watching the instructor video for this week.
+Next, a video tutorial on using the tools for the course. Click on the OS you are using: Windows or MacOS.
+Next, go through the following tutorials for JUCE:
+Getting started with the Projucer: This tutorial will help you install JUCE if you haven't already, and will guide through creating a JUCE project and bringing it up in Visual Studio.
+Create a basic plugin, Part 1: This tutorial will help you set up an empty MIDI plugin, and create the Audio Plugin Host. The tutorial says that this step is optional, but you should definitely do it, otherwise you will not be able to test your plugin.
+Coding your plugin: This tutorial will help you create a MIDI plugin that affects the volume of incoming MIDI events. If you get an error because uint8 is an unrecognized type, change it to juce::uint8. See an eClass announcement for more details.
+Study material
+The Physics of Sound
+Slides
+Weekly Unity Background: Complete the Introduction and Section 1. Setting Up the Unity Project. Login with your Passport York account (the email should be ppy@yorku.ca, not ppy@my.yorku.ca). The Measured Materials package mentioned is no longer in the Asset Store, so you can ignore that part for now. We will import such materials when needed later.
+Weekly goals
+Compile and test the volume MIDI plugin
+Understand the code for the volume MIDI plugin
+Read and understand Assignment 1 (repeated goal from last week)
+Understand the physics of sound and complete the eClass quiz on it
+Get started with Unity
+Week 1 (to be completed by Thursday, September 10)
+Start by watching the instructor video for this week.
+If you are using your own computer for the programming assignments, install JUCE, Visual Studio (Community), and
+Unity Hub.
+If you will be using the EECS Virtual Lab, become familiar with it here. For EECS 4462, use any of the GSP hosts. Make sure to locate the Projucer app (click on Shortcuts), the Visual Studio app, and the Unity app (use the Search function).
+Study material
+What is MIDI?
+Slides (for reference only)
+Wikipedia page on MIDI (for reference only)
+Weekly goals
+Install all necessary software
+Understand what MIDI is at a high level
+Read and understand Assignment 1
+Last modified: 2020/12/02 13:21

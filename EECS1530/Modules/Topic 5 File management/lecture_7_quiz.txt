@@ -1,0 +1,37 @@
+A files are saved into RAM.
+
+Select one:
+True
+False
+
+There are many modules in the standard library.
+
+Select one:
+True
+False
+
+Which of the following will allow you to write into a file:
+
+Select one or more:
+a. open(file, "w")
+b.
+open(file, "wt")
+c.
+open(file,"r")
+d. open(file, "a+")
+
+Files:
+
+Select one:
+a. can only be read line by line.
+b. cannot be saved using python.
+c. are always text files ending in .txt.
+d. can be created using the argument 'x'.
+
+Modules:
+
+Select one:
+a. is a specific python file.
+b. can be accessed using open(file, 'r').
+c. can be files with predetermined functions or variables.
+d. are always a preexisting library within python.

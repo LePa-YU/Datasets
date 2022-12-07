@@ -1,0 +1,13 @@
+Lecture 3- Control Flow (For/While)
+Class: January 20 & 22
+Lecture slides: (available Jan 20)
+Pre-class material: 
+Chapter 7: Iteration (7.3-7.4)
+swaroopch.com (for/while statements)
+geeksforgeeks.org (for)
+geeksforgeeks.org (while)
+w3schools.com (array)
+dotnetperls.com (not)
+programiz.com (operators)
+Pre-class quiz due: Jan 20, 5pm
+Assignment 3 due: Jan 26

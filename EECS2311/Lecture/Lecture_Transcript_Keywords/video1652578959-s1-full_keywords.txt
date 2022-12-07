@@ -1,0 +1,12 @@
+Frequency distinct: 
+[('branch', 16), ('branches', 13), ('course', 9), ('development', 11), ('different', 13), ('dont', 13), ('get', 17), ('going', 11), ('like', 15), ('master', 12), ('one', 13), ('questions', 10), ('right', 45), ('say', 11), ('see', 19), ('system', 10), ('take', 9), ('team', 16), ('thats', 15), ('things', 21), ('want', 18), ('way', 9), ('week', 9), ('well', 11), ('work', 12)]
+tfidf: 
+['branch', 'branches', 'course', 'development', 'different', 'dont', 'going', 'know', 'let', 'like', 'make', 'master', 'question', 'questions', 'right', 'say', 'team', 'thats', 'theres', 'thing', 'things', 'want', 'way', 'week', 'work']
+Stemmed tfidf: 
+['branch', 'case', 'chang', 'cours', 'develop', 'differ', 'dont', 'let', 'like', 'make', 'master', 'person', 'question', 'releas', 'requir', 'right', 'say', 'someth', 'team', 'test', 'thing', 'use', 'want', 'way', 'work']
+Lemma tfidf: 
+['branch', 'case', 'change', 'course', 'development', 'different', 'dont', 'going', 'know', 'let', 'like', 'make', 'master', 'question', 'release', 'right', 'say', 'sure', 'team', 'thats', 'thing', 'want', 'way', 'week', 'work']
+Combination items: 
+[('branch', 3), ('branches', 2), ('case', 1), ('change', 1), ('course', 3), ('development', 3), ('different', 3), ('dont', 3), ('get', 1), ('going', 3), ('know', 2), ('let', 2), ('like', 3), ('make', 2), ('master', 3), ('one', 1), ('question', 2), ('questions', 2), ('release', 1), ('right', 3), ('say', 3), ('see', 1), ('sure', 1), ('system', 1), ('take', 1), ('team', 3), ('thats', 3), ('theres', 1), ('thing', 2), ('things', 2), ('want', 3), ('way', 3), ('week', 3), ('well', 1), ('work', 3)]
+Combination most_common: 
+[('right', 3), ('want', 3), ('branch', 3), ('team', 3), ('thats', 3), ('like', 3), ('dont', 3), ('different', 3), ('work', 3), ('master', 3), ('going', 3), ('development', 3), ('say', 3), ('way', 3), ('course', 3), ('week', 3), ('things', 2), ('branches', 2), ('questions', 2), ('make', 2), ('know', 2), ('let', 2), ('question', 2), ('thing', 2), ('see', 1), ('get', 1), ('one', 1), ('well', 1), ('system', 1), ('take', 1), ('sure', 1), ('release', 1), ('change', 1), ('case', 1), ('theres', 1)]

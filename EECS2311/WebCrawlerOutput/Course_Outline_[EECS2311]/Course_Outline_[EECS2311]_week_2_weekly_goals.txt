@@ -1,0 +1,7 @@
+Week 2 (to be completed by Wednesday, January 26)
+Weekly goals
+Understand local and remote branches
+Learn what causes conflicts and how to resolve them
+Create a first runnable version of your system to demo to your customer
+Learn about requirements, use cases and user stories
+Continue with your draft of the system's requirements (what does the system do for the user)

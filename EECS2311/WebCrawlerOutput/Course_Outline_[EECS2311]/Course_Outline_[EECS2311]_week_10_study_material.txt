@@ -1,0 +1,6 @@
+Week 10 (to be completed by Wednesday, March 30)
+Study material
+This week we take a look at testing again. These slides discuss the two topics we will focus on:
+Test coverage. Start by watching this instructor video on the topic. The code in the video is in the TestCoverage project in this github repository. The build.gradle file that came with the repository has all these features as well. Use JaCoCo and create test coverage reports. Work on improving the coverage of your test code.
+GUI testing. Start by watching this instructor video on the topic. The code in the video is in the JavaFXSample project in this github repository. Next, check out the TestFX github page for more information. Add appropriate GUI test cases to your system. GUI tests are not required for the final submission.
+Click here for the Week 10 lecture video.

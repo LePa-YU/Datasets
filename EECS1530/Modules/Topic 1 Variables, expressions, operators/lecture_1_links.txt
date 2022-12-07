@@ -1,0 +1,4 @@
+https://moodle.yorku.ca/moodle/course/view.php?id=164397&section=3
+http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html
+https://python.swaroopch.com/op_exp.html
+https://www.geeksforgeeks.org/python-set-2-variables-expressions-conditions-and-functions/

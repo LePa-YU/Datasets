@@ -1,0 +1,7 @@
+Week 11 (to be completed by Wednesday, April 6)
+Weekly goals
+Learn about refactoring
+Provide feedback on the design documents you received before the deadline
+Prepare for the progress report meeting with the customer
+All requirements must be implemented and tested
+Documents are being finalized

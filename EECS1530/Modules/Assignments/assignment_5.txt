@@ -1,0 +1,16 @@
+Assignment 5 - Data Structures (String/Array)
+1. Create a python program that takes an input string from a user. Analyze this string and separate all single letter words into one array, numbers into another array and all longer words into a third array. 
+Use functions
+The program should continue until the user types in “Exit” or “0” (zero)
+Type “Print” to print out the results for the previous input string
+Use the given unit tests to check your work
+Hint: Use can use tuples to group your answers
+Extra practice: Delete all punctuation
+2. Create two new unit tests to verify edge cases for your code
+
+
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle

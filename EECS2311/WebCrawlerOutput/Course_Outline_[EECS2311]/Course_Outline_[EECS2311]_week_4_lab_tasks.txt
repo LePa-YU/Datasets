@@ -1,0 +1,4 @@
+Week 4 (to be completed by Wednesday, February 9)
+Lab task
+For this week's lab task, write 3 separate JUnit test cases for some of the code you have developed so far for the project. All tests written by your team must run when you build your app (task “build” in the Gradle task group “build”).
+If your code is not easy to test (e.g. you have been working on the GUI), you can develop test cases for a part of the system written by one of your teammates.

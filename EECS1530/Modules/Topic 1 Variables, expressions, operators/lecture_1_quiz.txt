@@ -1,0 +1,39 @@
+A variables is:
+
+Select one:
+a. a name that refers to a value.
+b. instructions that the Python interpreter an execute.
+c. a combination of values, operators, and calls to functions.
+d. None of the above
+
+An expression is:
+
+Select one:
+a. a name that refers to a value.
+b. instructions that the Python interpreter an execute.
+c. a combination of values, operators, and calls to functions.
+d. None of the above
+
+A statement is:
+
+Select one:
+a. a name that refers to a value.
+b. instructions that the Python interpreter an execute.
+c. a combination of values, operators, and calls to functions.
+d. None of the above
+
+Which of the following are different data types?
+
+Select one or more:
+a. integer
+b. float
+c. string
+d. boolean
+e. all of the above
+
+The only reason for choosing a descriptive name for a variable is so that a person reading the program can more easily understand it.
+
+
+Select one:
+True
+False

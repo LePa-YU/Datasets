@@ -1,0 +1,1259 @@
+SPEAKER 1
+Hello. Welcome.
+
+SPEAKER 0
+We are going to Go through Resource Pack Knowledge one
+
+SPEAKER 1
+which is part of the strand about knowledge and knowledge practices. And in this resource pack we're going to talk about things such as activities. Methodologies and methods. So we have about 40 odd slides to go through. So let's begin we start with the intellectual property notice and I want to note that this resource pack doesn't assume that you're familiar with anything prior to this.
+
+SPEAKER 0
+And this resource Pack is structured around three questions.
+
+SPEAKER 2
+The inquiry is number one what is a methodology versus a method? Number two What are the for core activities And the
+
+SPEAKER 0
+four core activities in most design methodologies?
+
+SPEAKER 2
+And number three connected to the question of what is
+
+SPEAKER 1
+designed. Let's first tackle the question what is research?
+
+SPEAKER 2
+And I decided to try something new which is just
+
+SPEAKER 1
+to put the punch line up front and provide you
+
+SPEAKER 2
+the summary. And then we'll go through with go through the pieces
+
+SPEAKER 1
+that let us arrive at the summary.
+
+SPEAKER 2
+So number one a research methodologies differed from a design
+
+SPEAKER 0
+methodology.
+
+SPEAKER 2
+Number two. The four core activities that are relevant to design methodologies
+
+SPEAKER 1
+at least Most of them are research ideation, prototyping and
+
+SPEAKER 2
+evaluating. So research is embedded in the design process.
+
+SPEAKER 1
+Research which is concerned with generating knowledge Can depend on
+
+SPEAKER 2
+one or more of unstructured qualitative data, structured qualitative data
+
+SPEAKER 1
+and or quantitative data data can be linked to knowledge
+
+SPEAKER 2
+through the speculative model called D. I. K. W.
+
+SPEAKER 0
+Data information knowledge wisdom model but it is a speculative model. A methodology refers to a system of methods used in particular activity and the methods refer to particular procedures and
+
+SPEAKER 2
+last part of being a critical learner is being attuned to the rationales and the epistemology is that underline the
+
+SPEAKER 1
+various methodologies. So that's the big picture. Now, let's dive in to each of the individual questions. Number one, what is the methodology versus a method?
+
+SPEAKER 0
+So you will see in a lot of everyday kind
+
+SPEAKER 2
+of uh writings that even in research writings that the
+
+SPEAKER 0
+term method of methodologies get used interchangeably, but they are
+
+SPEAKER 2
+indeed different. So a method is a particular procedure for accomplishing or approaching something like a tool and a methodology is a system of methods used in a particular activity. The methodology has an underlying rationale and it implements a
+
+SPEAKER 0
+particular strategy and if you want to jump ahead, there's a reasonable discussion in this Brookshire paper which is in
+
+SPEAKER 1
+UX design great literature and it's it's pretty reasonable.
+
+SPEAKER 2
+So methodology is a general approach.
+
+SPEAKER 0
+It's a general strategy for an activity and notice, I'm not saying what kind of activity, whether it's research, design,
+
+SPEAKER 2
+prototyping, evaluation, whatever it consists of a set of methods.
+
+SPEAKER 0
+Rules postulates like a collection of things that are used together in concert in a coherent coordinated way and the
+
+SPEAKER 2
+methodology is really providing the rationale for why the methods are being chosen and being used. Of course there's different activities. So we have different methodologies.
+
+SPEAKER 1
+So research methodology is a system of methods for accomplishing
+
+SPEAKER 2
+research.
+
+SPEAKER 0
+And basically this is a method for generating knowledge outputs
+
+SPEAKER 2
+or for knowledge production however you want to call it.
+
+SPEAKER 1
+Design methodology is a is a system of methods for design activities. So we're trying to generate design outputs evaluation.
+
+SPEAKER 0
+Similarly we're trying to generate evaluation outcomes and prototype methodology is a system of methods for prototyping.
+
+SPEAKER 2
+So what I want to do up front is put
+
+SPEAKER 0
+on your map that we have these different kinds of
+
+SPEAKER 1
+activities. They're different and what makes them different is they have
+
+SPEAKER 0
+underlying sets of systems and different methodologies, different rationales, different ways of framing, knowing different ways of like different stances.
+
+SPEAKER 2
+So let's go through a couple of concrete examples. So for under research methodologies you have like ethnography which
+
+SPEAKER 1
+is often used in anthropology. You have the scientific method which is used in the natural sciences.
+
+SPEAKER 2
+Scientific method is a misnomer. Even though it has the word method in it.
+
+SPEAKER 0
+It's actually a methodology. What we refer to as the scientific method is a
+
+SPEAKER 1
+collection of approaches, a collection of tools. It's not a single tool. So it's it's a misnomer and it creates a lot
+
+SPEAKER 2
+of confusion. But let me be the one to help you see
+
+SPEAKER 1
+that they're actually different things.
+
+SPEAKER 0
+So it should be more correctly called the scientific methodology.
+
+SPEAKER 2
+But anyway we call it the scientific method but it's
+
+SPEAKER 1
+not a method. We have design methodologies. So we have the double diamond design methodology which will use in this course there's a wallet, waterfall methodology.
+
+SPEAKER 0
+Um This is for design, software designed specifically for software
+
+SPEAKER 1
+design. There's like whole other methodologies.
+
+SPEAKER 2
+We have different evaluation methodologies, there's outcome based methodology evaluations,
+
+SPEAKER 1
+there's process based evaluations, many different kinds.
+
+SPEAKER 0
+We have many different kinds of prototyping methodologies.
+
+SPEAKER 1
+So we have uh electronics prototyping which is a set of methods for looking at theoretical like electronics designed to see if they actually run. And those collection of methods include actual bread boarding or possibly computer simulation. We have all kinds of rapid prototyping methodology. So collection of techniques for for instance three d. Printing, milling, you know working with materials and measurement and
+
+SPEAKER 2
+iterating. Like there's a whole set of methods just around rapid
+
+SPEAKER 1
+prototyping. We have functional prototyping which is uh an umbrella term. And we're going to use this in the course. So functional uh prototyping is um is a group of
+
+SPEAKER 0
+techniques that captures both function and appearance of the intended design but not necessarily using exactly the same like techniques
+
+SPEAKER 2
+or material but it's functional and it can be used in um testing procedures.
+
+SPEAKER 1
+So it's like a functional equivalent. The prototype is the functional equivalent that can be used in place of the actual instance created design.
+
+SPEAKER 0
+So I hope that convinces you that for each of
+
+SPEAKER 1
+design research evaluation prototyping, there's whole different sets of methods. And then within the methodologies for each of these. We have specific approaches specific tools. So for research methods you might be gathering data from interviews or from doing behavioral observation like counting the number
+
+SPEAKER 0
+of times a monkey peals of banana.
+
+SPEAKER 2
+So that kind of behavioral observation or the number of errors a user makes when interacting with a particular interface
+
+SPEAKER 1
+design.
+
+SPEAKER 0
+So those are particular research methods. Then we have designed methods. So journey mapping is a particular method that's used in
+
+SPEAKER 1
+the design process.
+
+SPEAKER 0
+We have evaluation methods. So you can use metrics, you can use case sampling,
+
+SPEAKER 1
+case studies, you can use sampling that's just like three
+
+SPEAKER 2
+of like literally hundreds of different evaluation methods. Um In terms of prototyping there's pen and paper sketching, you can do carbon modeling, you can do wire framing, you can do three D. Modeling, you can do print three D printing. You can do I don't know by.
+
+SPEAKER 1
+Also would create like there's any way of doing any
+
+SPEAKER 0
+of these methods methodologies mentioned above.
+
+SPEAKER 1
+Those are all all of them have various methods within
+
+SPEAKER 0
+them. Okay so hopefully if I've done my job well you
+
+SPEAKER 1
+understand this methodologies and then under the methodologies there's all these different methods and they connect together.
+
+SPEAKER 2
+So as we have already established a methodology, provides a rationale behind of all the methods out there. Which methods are you going to use?
+
+SPEAKER 1
+Which methods do you think are valid? Which methods do you think are legitimate?
+
+SPEAKER 2
+And this is connected to rationale so often this is
+
+SPEAKER 0
+called like the underlying epistemology of the methodology. So I'm just gonna not to like bring in a lot of philosophy here, but it's just a core concept
+
+SPEAKER 1
+that we're going to touch on here.
+
+SPEAKER 2
+So Sandra harding writes that an epistemology is a theory of knowledge. It answers questions about who can be a no er what tests that beliefs must pass in order to be
+
+SPEAKER 0
+legitimated as knowledge. So let me repeat that again, if you have beliefs,
+
+SPEAKER 2
+what tests do you have to apply to your belief in order for that belief to be legitimated as knowledge and what kinds of things can be known, like can
+
+SPEAKER 0
+subjective truth, countess knowledge and so on.
+
+SPEAKER 2
+So it really has to do with your like philosophy, your stance about knowledge writ large. And what I find compelling about this quote is this idea that beliefs are a starting point. All of us have beliefs about various things now.
+
+SPEAKER 1
+What's the status of these beliefs? Does it count as knowledge? Is that your personal subjective belief?
+
+SPEAKER 0
+There's like an interesting kind of tension between belief and knowledge and what I find compelling about this is that
+
+SPEAKER 2
+we have these tests to legitimate beliefs as knowledge like
+
+SPEAKER 1
+to prove their correct or not.
+
+SPEAKER 0
+So that's what I wanted to get that in this
+
+SPEAKER 1
+resource module.
+
+SPEAKER 2
+Okay, so just talking about knowledge a little bit more
+
+SPEAKER 0
+and we have to do this otherwise it gets too woolly down the road.
+
+SPEAKER 2
+But let me just read you the short excerpt from
+
+SPEAKER 0
+the stanford encyclopedia of philosophy, It is common in epistemology
+
+SPEAKER 2
+to distinguish among three kinds of knowledge, there's the kind of knowledge you have when it is truly set of you that you know how to do something, say ride a bicycle. There's the kind of knowledge you have when it is truly set of you that you know a person for
+
+SPEAKER 0
+example, I know my best friend and there's the kind
+
+SPEAKER 2
+of knowledge you have when it is truly set of you that you know that some fact is true. Say that the red sox won The 2004 Words World
+
+SPEAKER 1
+Series here in this particular, entering the in the encyclopedia
+
+SPEAKER 0
+here, we will be concerned with the first and last kinds of this knowledge. The first kind of knowledge is called knowledge how and
+
+SPEAKER 2
+the last is called knowledge that or sometimes called proposition
+
+SPEAKER 1
+of knowledge. So we have three kinds of knowledge, knowledge how?
+
+SPEAKER 2
+Like knowledge of people like I know my mother, I know my friend, I know you students and then the
+
+SPEAKER 0
+third kind which is knowledge that or proposition all knowledge. So now I want to just briefly bring to the
+
+SPEAKER 2
+surface positivism, which I'm sure all of you will recognize
+
+SPEAKER 0
+when I say it.
+
+SPEAKER 2
+But in the degree programs at york university at least
+
+SPEAKER 0
+the students and those programs who take this course don't
+
+SPEAKER 1
+tend to talk about uh epistemological stance overtly.
+
+SPEAKER 2
+So I'm going to do it now.
+
+SPEAKER 0
+So positivism refers to a philosophical position, it's what we
+
+SPEAKER 2
+call an epistemological stance and a positive, positive isT holds that the world consists of regularities and that these regularities are out there in their detectable. So society, the world, everything operates according to general laws, natural laws and that's a researcher can invert knowledge what is true about the world by observing it? And the researchers should be concerned with general rules, like should be concerned with the generality and explaining generality and
+
+SPEAKER 0
+having like power, explanatory power rather than explaining one particular
+
+SPEAKER 2
+thing that's not general Izabal, you know, two other instances
+
+SPEAKER 1
+of that and positive is hold that the only true
+
+SPEAKER 2
+or genuine knowledge proposition all knowledge is that which can be verified by sense experience. So the facts are out there in the world objectively there just waiting there and all you need to do is have like the acumen, the brains, the wherewithal to
+
+SPEAKER 0
+go out and notice those natural facts that are out
+
+SPEAKER 2
+there. So, you know, like a physicist just needs to have the right instrument to study the particles that are just
+
+SPEAKER 0
+out there.
+
+SPEAKER 2
+So that seems pretty uh like noncontroversial for students who
+
+SPEAKER 0
+are in computer science because much of what we do
+
+SPEAKER 1
+is like steeped in positivism.
+
+SPEAKER 0
+Digital media students will have a slightly different relationship with the positive mystic stance.
+
+SPEAKER 2
+So I'm not going to say, it's good.
+
+SPEAKER 0
+It's bad, It is what it is, what I want
+
+SPEAKER 2
+to do is just identify for you that of all
+
+SPEAKER 0
+the knowledge that pertains to the design of interactive systems. Only some of it is positive fistick and other parts
+
+SPEAKER 2
+of it are very much not based in a positive
+
+SPEAKER 1
+this positive mystic stance.
+
+SPEAKER 2
+And I will be like I say, doing my job if I can surface that other part for you and build a way for you to connect into that into
+
+SPEAKER 1
+those kinds of knowledge as opposed to just dismissing it.
+
+SPEAKER 2
+So what about these other epistemological stances? What if you do not believe that the social realm can be studied solely using a scientific approach?
+
+SPEAKER 0
+So there are, for instance, in sociology, the whole campus
+
+SPEAKER 1
+sociologists that think science is the way like the social world can be studied using an objective framework, objective fact.
+
+SPEAKER 0
+And there's another hole camp of sociologists who say no,
+
+SPEAKER 2
+like the social realm cannot be studied solely using scientific
+
+SPEAKER 1
+approach. We need a different stance for that.
+
+SPEAKER 2
+And there's like a war within sociology, it's been raging
+
+SPEAKER 1
+for, I don't know how long, more than a decade,
+
+SPEAKER 0
+but it's one of these like disciplinary discourses that's very present there. We don't see it so much in computer science, The
+
+SPEAKER 1
+only sub area in computer science where we see this is basically in human computer interaction and maybe in professional practice as well.
+
+SPEAKER 0
+So why wouldn't you think that the social realm can
+
+SPEAKER 1
+be studied using solely a scientific approach.
+
+SPEAKER 2
+Well, you might feel that not all facts are out there in an objective world and instead you might think the thing that we consider to be fact is actually socially constructed. So for instance an example of this is for a long time, like in the 1800s in particular. And even up until contemporary times, people think of race as like a natural kind like it is there it's objective that can be measured when many critical race theorists have very correctly pointed out that our understanding our concept of race is socially constructed.
+
+SPEAKER 0
+It's not, there is an objective fact and feminists, you
+
+SPEAKER 2
+know very prominently pointed out that our concept of like woman is not a natural kind, but like femaleness is constructed socially, like Simone de Beauvoir did this uh importantly,
+
+SPEAKER 0
+so there's things that at one time were regarded as
+
+SPEAKER 1
+like objective and now we see maybe they're not objective, maybe it's like socially constructed or there's layers of social
+
+SPEAKER 2
+construction embedded in that.
+
+SPEAKER 0
+So again, let's not be polemical and say it's an
+
+SPEAKER 2
+either or this is about nuancing and saying the thing that we thought was like a fact maybe is actually
+
+SPEAKER 1
+contingent upon some social like process.
+
+SPEAKER 0
+Uh you also might feel that some types of knowledge
+
+SPEAKER 2
+are subjective, you can't verify knowledge, but this is still true and genuine knowledge. So my experience, like growing up, those are my experiences, their true and genuine, like in a way that can't be verified, but it still counts, right? Like why does the knowledge have to be like out there and like proven for it to be meaningful.
+
+SPEAKER 0
+So that in a very rough way is kind of
+
+SPEAKER 1
+addressing this idea of situated knowledge that will come back to, so there's lots of like maybe objections or maybe
+
+SPEAKER 0
+counterpoints or like points of discussion around positivism and I'm
+
+SPEAKER 1
+just touching on them here.
+
+SPEAKER 2
+So a lot of what we're going to talk about
+
+SPEAKER 0
+is positive fistic, it's scientifically proven.
+
+SPEAKER 1
+We're going to use the scientific method so on and
+
+SPEAKER 0
+so forth.
+
+SPEAKER 2
+But we're going to in this course need to consider
+
+SPEAKER 1
+other epistemological stances and I'm going to just use this
+
+SPEAKER 0
+opportunity to point ahead all the way to the last module when we talk about third paradigm hc I where
+
+SPEAKER 1
+a lot of this is gonna come in really strongly
+
+SPEAKER 0
+so why are we talking about this?
+
+SPEAKER 1
+Why am I using the time?
+
+SPEAKER 2
+Well, like I've been saying interactive system design makes use
+
+SPEAKER 1
+of all these different kinds of knowledge, Only, some of
+
+SPEAKER 2
+it is scientific knowledge and in general, like you and your degree programs, most of you wearing your third uh
+
+SPEAKER 1
+level of study, you're you're likely to have developed a stance about what counts as knowledge for you and it
+
+SPEAKER 0
+depends on, you know, what courses you've taken and what
+
+SPEAKER 1
+you've been exposed to.
+
+SPEAKER 0
+Um but I just want to point out that this stance is likely based on assumptions that you may not have identified or even questioned.
+
+SPEAKER 2
+You may not have questioned, You might not have even identified it, it might not be apparent to you. And sometimes there's a default assumption that the only knowledge is like scientific knowledge. And if you believe that then you're gonna have a
+
+SPEAKER 1
+problem with this course because very little well, I shouldn't try to quantify it. A significant subset of important knowledge in this field is
+
+SPEAKER 0
+not scientific, which is not derogatory.
+
+SPEAKER 1
+It's totally legitimate.
+
+SPEAKER 0
+Like the whole field of like, would you say the whole field of philosophy doesn't count, That's not scientific.
+
+SPEAKER 1
+It's a different system of knowledge creation.
+
+SPEAKER 0
+So be a critical learner.
+
+SPEAKER 2
+A component of being a critical learner is asking questions
+
+SPEAKER 0
+about what is being taught and what assumptions are being
+
+SPEAKER 1
+made.
+
+SPEAKER 0
+Like why are you teaching me this? What's the basis for this knowledge?
+
+SPEAKER 1
+Like is this just what you believe personally or you know, what system uh did this belief passed through to
+
+SPEAKER 0
+be legitimated as knowledge?
+
+SPEAKER 1
+You can ask that question of all the course is you're taking Yeah.
+
+SPEAKER 2
+Medical school, it's important to do this because there's a
+
+SPEAKER 1
+lot of practices in medicine that are not based on like empirical scientific knowledge is just people do it for whatever reason and these things are being unearthed.
+
+SPEAKER 2
+So it's good to be critical and it's good to engage with the kinds of knowledge that you're learning.
+
+SPEAKER 0
+Okay, so in some methodology refers to a system of
+
+SPEAKER 1
+methods used in a particular activity. The methods are particular procedures within the methodology.
+
+SPEAKER 0
+Research methodology is different from a design methodology. Methodologies all have underlying epistemology is which have rationales and
+
+SPEAKER 2
+part of being a critical learner is being attuned to
+
+SPEAKER 1
+these underlying rationales. And the particular thing I'm highlighting now is this idea of natural facts out their objective knowledge. Um like scientific procedure is the way to legitimate beliefs into knowledge, that kind of thing.
+
+SPEAKER 2
+Okay, shifting gears a Little Bit.
+
+SPEAKER 0
+What are the four activities?
+
+SPEAKER 2
+The four core activities? So in most design methodologies and there's a hot out
+
+SPEAKER 1
+there all different kinds.
+
+SPEAKER 2
+A lot of it is written up in the great
+
+SPEAKER 0
+literature, so that means it's not pure reviewed, it's not scholarly in the same way that other things are. Um so a lot of writing about design methodologies, they use a lot of different terminology, a lot of different
+
+SPEAKER 1
+approaches.
+
+SPEAKER 2
+But what I have found comment to all of them, is there some arrangement of these four core activities and these activities might be called slightly different things, but they just aligned with like a basic methodology. So for instance, in the course textbook Sharp at all,
+
+SPEAKER 0
+call it, discover requirements number two designing alternative.
+
+SPEAKER 2
+Excuse me designing alternatives. three prototyping for evaluating norman. Donald, norman and the design of everyday things calls this, observing generating ideas, prototyping, testing. So you can just hold these side by side and see there the same same kind of thing. They're just being called different things. So research ideation generating ideas, designing alternatives, whatever you want to call it. Prototyping, evaluation and testing for key activities for core activities for methodologies are being brought in here. Okay. And the other thing is that the activities, the output of one activity generally feeds into the next.
+
+SPEAKER 0
+And so we get iteration and when you iterate repeatedly, there's a conjecture, there's a belief that you converge to a better outcome by iterating and improving on successive iterations.
+
+SPEAKER 2
+Now, just because you're iterating doesn't mean you always like
+
+SPEAKER 0
+uh iterate towards a better outcome.
+
+SPEAKER 1
+You can like start to reiterate that way and you
+
+SPEAKER 2
+can let go towards a worse solution and you can
+
+SPEAKER 0
+go to like a local locally optimal solution, not a
+
+SPEAKER 1
+globally optimal one. So just because you're iterating doesn't necessarily mean it's like
+
+SPEAKER 0
+good but that's the theory incremental improvement.
+
+SPEAKER 2
+So in some before core activities, our research generating ideas,
+
+SPEAKER 0
+radiation prototyping and something we're going to call evaluation. Now let's get to research.
+
+SPEAKER 2
+So we're on this first one here, I want to
+
+SPEAKER 0
+get to the point where we're asking and answering the
+
+SPEAKER 2
+question what is designed and there's a whole piece about
+
+SPEAKER 0
+professional design.
+
+SPEAKER 2
+Nonprofessional design. Are you a designer and my designer who gets to
+
+SPEAKER 0
+be a designer, what counts as design, There's a whole
+
+SPEAKER 2
+piece there, but I don't want to tackle that piece yet. The piece I want to tackle is what is research. It's a smaller piece and it's part of design. So again, how do we know what the correct definition
+
+SPEAKER 0
+of researches? We can take a sampling approach.
+
+SPEAKER 2
+The Oxford english dictionary says research is the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions. Researchers creative and systematic work undertaken to increase the stock of knowledge.
+
+SPEAKER 0
+And then here's Scott McKenzie, a colleague of mine in
+
+SPEAKER 2
+the department who sometimes teaches this course in his book,
+
+SPEAKER 1
+writes scientific research. So not research in general, scientific research is investigation or
+
+SPEAKER 2
+experimentation aimed at the discovery and interpretation of facts and revision of accepted theories or laws in light of new
+
+SPEAKER 1
+facts.
+
+SPEAKER 2
+So they're not exactly the same. But they're all pointing towards research as generating new knowledge. And Sandra Harding again says a methodology is a theory and analysis of how research does proceed or how research
+
+SPEAKER 0
+should proceed.
+
+SPEAKER 2
+And she didn't write a research methodology is a theory,
+
+SPEAKER 1
+analysis, but it's implied by the context. She's not talking about methodologies in general, just a research
+
+SPEAKER 0
+methodology is a theory and analysis of how research does
+
+SPEAKER 1
+proceed or how research should proceed.
+
+SPEAKER 2
+Just acknowledging that there's digital media students in this class, there's a thing called research creation which is notably defined by Sherk, the social sciences and Humanities Research council and Research creation is a kind of research, right?
+
+SPEAKER 1
+It's usually stands in contrast with so called scientific research.
+
+SPEAKER 2
+So it's an approach to research that combines creative and academic research practices, supports the development of knowledge and innovation
+
+SPEAKER 0
+through artistic expression, scholarly investigation and experimentation. So it's hybrid. Right? These things together.
+
+SPEAKER 2
+The creation process is situated within the research activity and produced critically informed work in a variety of media art
+
+SPEAKER 0
+forms.
+
+SPEAKER 1
+So there's all kinds like literary pieces, poetry, performance, uh
+
+SPEAKER 2
+interactive, our digital art, all of these things. Research creation cannot be limited, should not be limited to the interpretation or analysis of a particular creators work conventional
+
+SPEAKER 1
+works of technological development or work that focuses on the creation of curricula. That's not what research creations about and fields that man
+
+SPEAKER 2
+bulb research creation may include but are not limited to architecture design. Ding Ding Ding, Creative writing, visual arts, performing arts, film, video, performance arts, performance arts, interdisciplinary arts media and electronic arts and new artistic practices.
+
+SPEAKER 0
+So the digital media students are located in the media
+
+SPEAKER 1
+and electronic arts to a large extent. And this course is at the intersection because of the design component.
+
+SPEAKER 0
+So, if you undertake research activity, what's the outcome?
+
+SPEAKER 2
+There's different ways to characterize this and a common way of talking about it.
+
+SPEAKER 0
+Is your increasing knowledge or you're generating knowledge outputs, generating
+
+SPEAKER 2
+knowledge outputs Is the language of the knowledge mobilization practices.
+
+SPEAKER 1
+Um And the knowledge outputs we're talking about are the knowledge that the proposition knowledge proposition all knowledge and knowledge, how not the knowledge that you know someone like I know a person.
+
+SPEAKER 0
+So now let's talk about empirical things empirical knowledge, empirical
+
+SPEAKER 1
+research. So knowledge or research that's empirical is that which occurs by means of the senses, particularly observation and experimentation.
+
+SPEAKER 2
+So many research methodologies are empirical like scientific methodology.
+
+SPEAKER 1
+The so called scientific method is 100% empirical, as are
+
+SPEAKER 0
+many other methodologies, but many are not.
+
+SPEAKER 1
+And I'm just going to acknowledge them because they're equally valid. So philosophy, literary criticism, cultural studies feels like this chunks of sociology chunks of anthropology. These are not empirical. So they're critical. They're based on analysis.
+
+SPEAKER 0
+They have their own methodologies that are legitimate. But if you are talking about empirical then we need to talk about data.
+
+SPEAKER 1
+So let's talk about data and let's talk about phenomena.
+
+SPEAKER 0
+So data refers to observation or facts that capture something
+
+SPEAKER 1
+about phenomena and or the state of the world and
+
+SPEAKER 0
+phenomena here does not mean like oh something spectacular.
+
+SPEAKER 1
+It's just a situation that is observed to exist or
+
+SPEAKER 0
+that is observed to happen.
+
+SPEAKER 1
+Especially you know, situations who has caused an explanation is in question. So like a volcanic eruption is a phenomena and the
+
+SPEAKER 0
+fact that my face is turning red right now is
+
+SPEAKER 2
+also a phenomenon like you know get a frog in my throat that's like a happening. It's a situation.
+
+SPEAKER 0
+So anything that can be like observed is basically a
+
+SPEAKER 1
+phenomena in the non spectacular language of like research methods.
+
+SPEAKER 0
+So you have these observations, you capture these facts.
+
+SPEAKER 2
+They have no inherent meaning without context and interpretation.
+
+SPEAKER 1
+That's a key takeaway here.
+
+SPEAKER 0
+And before we continue, let's just hit this on the
+
+SPEAKER 2
+head. Do you say data in the singular or plural? So in the field of medicine you often hear like these data demonstrate that longevity is not correlated to blah blah blah. Like data is plural these data and it always hits my ear strangely because I didn't come up through that academic tradition at all. I came up in computer science, my undergrad is in
+
+SPEAKER 0
+computer science, my ph D. S in computer science and in this discipline, data is
+
+SPEAKER 1
+used to describe a massive information to be accessed.
+
+SPEAKER 0
+Order process.
+
+SPEAKER 2
+So it's singular. This data was collected to demonstrate that star trek next generation was the best show ever for instance.
+
+SPEAKER 0
+Okay, I made that example of um so it's singular.
+
+SPEAKER 2
+Anyway, the usage has evolved in latin, the plural, the singular is datum and the pluralist data, but the singular
+
+SPEAKER 0
+version gets used.
+
+SPEAKER 1
+So there's plenty of debate over this. I just use data in the singular form but just setting this out because I don't want some literally person to come and say actually data is plural.
+
+SPEAKER 2
+So yes, it is in some fields. Okay, so now we have observation facts.
+
+SPEAKER 0
+Let's talk about these three different things.
+
+SPEAKER 1
+And I'm just trying to add some clarity to the whole qualitative quantitative divide and there's a lot of confusion
+
+SPEAKER 2
+out there. And I think the sources don't do justice to this.
+
+SPEAKER 1
+So the framework that I found to be consistent is as follows. We have unstructured and structured approaches of the unstructured approaches. This is used in qualitative research. So we're going to call this unstructured qualitative data.
+
+SPEAKER 2
+Now if you have structured data, it can be either qualitative or quantitative. If it's structured and qualitative we call this structured but not numerical.
+
+SPEAKER 1
+So it's not in America, it's qualitative. So this is structured qualitative data.
+
+SPEAKER 0
+Then we have structured a numerical approaches which is just
+
+SPEAKER 1
+plain old quantitative data.
+
+SPEAKER 0
+So let's go through each of these.
+
+SPEAKER 1
+So you have some illustration.
+
+SPEAKER 0
+So unstructured qualitative data.
+
+SPEAKER 2
+So these are observation or facts that compare capture something
+
+SPEAKER 1
+about phenomena using unstructured approaches. So you might go and observe people in a workplace or out in the public and you take notes of things. So that's on structured data as your field notes. Or you might take recordings and you know, you might record people talking with the permission or maybe you know Sarah typically service certificates sleeve that's too late to be pronouncing that word.
+
+SPEAKER 2
+Uh you might have a conversation and interviews or group
+
+SPEAKER 1
+of focus groups. And so you have all these transcripts of people saying things. You can look at the content of Reddit posts or other contributions on social media and different kinds of posts. You can look at Tiktok videos. So this is all in structured.
+
+SPEAKER 0
+It's all like messy.
+
+SPEAKER 2
+People are saying all different things that you can't impose
+
+SPEAKER 1
+a template on it. You know, it's it's not numerical certainly.
+
+SPEAKER 0
+And you know it's still data. It's still capturing something but it's what we call qualitative.
+
+SPEAKER 2
+So you can analyze this data.
+
+SPEAKER 0
+In fact we just did in our assignment, we took
+
+SPEAKER 1
+a big data set of Reddit posts and each one we just categorized it used in a coding scheme.
+
+SPEAKER 2
+That's the most basic kind of qualitative data analysis. Um you can also take transcripts and code certain segments, phrases, key words.
+
+SPEAKER 1
+And then out of all of the coded section segments
+
+SPEAKER 0
+you can do a thematic analysis.
+
+SPEAKER 1
+You can identify themes of loneliness, themes of fear, themes of conspiracy, themes of whatever. Like the themes emerge out of the data. We're going to talk about this later in the course.
+
+SPEAKER 2
+Then we have structured qualitative data. So this is not a numerical but it's still qualitative.
+
+SPEAKER 0
+So I can ask you a series of questions that
+
+SPEAKER 1
+you can answer true and false to or agree or disagree. These are binary values. They're not a miracle their qualitative but they're structured their
+
+SPEAKER 0
+structure because there's a finite set of discrete options.
+
+SPEAKER 2
+You can ask questions that ask for a rating on a scale of one to 5 to what extent do
+
+SPEAKER 0
+you agree with the statement one is, I don't agree
+
+SPEAKER 2
+at all. And five as I agree very much.
+
+SPEAKER 1
+This is called the liquor scale.
+
+SPEAKER 2
+You can ask questions about qualities, characteristics, preferences. So all this data can be represented using variables and the variables have a scale.
+
+SPEAKER 0
+So the variable for true or false will be a binary variable.
+
+SPEAKER 1
+It either has to one of two possible values and the structure happens by virtue of the measurement scale.
+
+SPEAKER 0
+So if you have a binary scale you have two possible values that provides the context for a particular value.
+
+SPEAKER 2
+If I asked I color you know there is yes I could be qualitative and structured.
+
+SPEAKER 0
+I could just leave people to create whatever words they want to describe their eye color. Or I can offer a set Of three choices or
+
+SPEAKER 1
+seven choices depends how finely grained I want to be.
+
+SPEAKER 0
+So the scale of measurement, the set of possible choices provides the context for the answers that people are giving
+
+SPEAKER 2
+you. So it's qualitative but yet it's structured and you can
+
+SPEAKER 1
+analyze this data and you can even perform mathematical operations on it. Not a lot of mathematical operations but there are some. So for instance you can calculate the mode like what's the most frequent item. You can develop hissed a grams over the possible values so on and so forth. And once you can do mathematical operations you can do statistical tests of significance.
+
+SPEAKER 0
+So you can compare Like the difference in the most
+
+SPEAKER 1
+frequently chosen option between two populations and you can determine
+
+SPEAKER 0
+whether the difference is significant statistically speaking or not last
+
+SPEAKER 1
+but not least we have quantitative data or structured quantitative data but it's really redundant. You don't need the structured word.
+
+SPEAKER 0
+So we're capturing something about the world and we're using
+
+SPEAKER 1
+structured americal values.
+
+SPEAKER 0
+And examples include I'm going to count the number of
+
+SPEAKER 1
+input errors. I'm going to measure typing speed, characters per minute.
+
+SPEAKER 2
+I'm going to measure the proportion of the goonies menu
+
+SPEAKER 1
+hierarchy that gets traversed by user. So it's a ratio. I'm going to um solicit our users ranks preference for interface option.
+
+SPEAKER 0
+You have five options.
+
+SPEAKER 2
+Rank them in your order of preference.
+
+SPEAKER 0
+Um I can measure the force exerted on an input device in order to activate it input action.
+
+SPEAKER 1
+So that's like a force measurement.
+
+SPEAKER 0
+So all of these things like the phenomenon, you're trying
+
+SPEAKER 2
+to measure counting speed, force ratio.
+
+SPEAKER 0
+These all have measurement skills associated with them. And that provides the structuring for the data, the context
+
+SPEAKER 1
+for it. And once you have like numerical measurement scales you have a whole whack of mathematical operations. You can perform. You can not just compute the mode which is like the most frequently occurring value. But you can compute the media and you can uh
+
+SPEAKER 0
+compute the coalition of variants.
+
+SPEAKER 2
+You can evaluate, you can measure Curtis issue can measure all kinds of things.
+
+SPEAKER 0
+You can start to really do some hardcore statistical analysis.
+
+SPEAKER 1
+Once you have measurement scales that afford that kind of
+
+SPEAKER 0
+measurement. Okay so just we have unstructured qualitative data structure, qualitative
+
+SPEAKER 2
+data and quantitative data. And often you see out there some sources will say
+
+SPEAKER 1
+uh the difference between quantitative and qualitative data is that you can perform mathematical operations on quantitative data and you
+
+SPEAKER 0
+can't perform mathematical operations on qualitative data.
+
+SPEAKER 1
+And I've just shown you it's not so simple. There's a nuancing there. You can perform a small number of mathematical operations on structured qualitative data. So there is like a little, you know gray zone there.
+
+SPEAKER 2
+So the ability to perform mathematical operations on data is
+
+SPEAKER 0
+not the sole determining characteristic of that data being quantitative
+
+SPEAKER 1
+or not. So I just wanted to point out that little confusion that's out there.
+
+SPEAKER 2
+Okay so in some data refers to observation or facts
+
+SPEAKER 1
+that capture something about phenomena or the state of the world.
+
+SPEAKER 0
+These observations have no inherent meaning without context and interpretation.
+
+SPEAKER 2
+The scale of measurement that's employed to represent and structure. The data provides some of the context but data nonetheless
+
+SPEAKER 1
+still needs to be analyzed and interpreted.
+
+SPEAKER 2
+Which is what brings us to this. So what I have here, it's a speculative model in
+
+SPEAKER 0
+the sense that it hasn't been who then hasn't been legitimated to show like this for sure explains everything.
+
+SPEAKER 1
+There's plenty of debate and some issues that people raise
+
+SPEAKER 0
+about the inadequacy of this pyramid but it's basically like
+
+SPEAKER 2
+pretty good for getting across some points. So the D. I. K.
+
+SPEAKER 0
+W. Pyramid, it's a speculative model about the relationship between data information, Knowledge and wisdom.
+
+SPEAKER 2
+So information is based on data and knowledge is based
+
+SPEAKER 0
+on information.
+
+SPEAKER 1
+Wisdom is based on knowledge and so on and so forth.
+
+SPEAKER 2
+This is referred to a lot of lot. You hear it a lot. And the only scholarly source I found to connect with the D. I. K. W. Pyramid is this jennifer Rowley um publication in the Journal
+
+SPEAKER 1
+of Information and Communication Science.
+
+SPEAKER 2
+Okay so data merely raw facts or observation that are products of a collection procedure I.
+
+SPEAKER 0
+E. Methods that are of no use until they are processed into a usable form.
+
+SPEAKER 2
+Information gets inferred from or defined in terms of data
+
+SPEAKER 1
+provides answers to questions.
+
+SPEAKER 2
+So if I measure the height of every person in the class uh the average or the mean height is
+
+SPEAKER 0
+a piece of information because I had to um in
+
+SPEAKER 1
+for and develop that answer by analyzing the data.
+
+SPEAKER 2
+Knowledge is no how being able to do or accomplish something through the information.
+
+SPEAKER 0
+The use of information.
+
+SPEAKER 1
+And I suppose no that is also counts in this.
+
+SPEAKER 2
+And according to this pyramid, wisdom is increasing effectiveness through judgement and knowledge. So you can know a lot.
+
+SPEAKER 0
+But you can still not be wise, you see that
+
+SPEAKER 1
+right? There is people who are school smart but like life
+
+SPEAKER 2
+stupid. You see that all the time. And I think the D. I. K. Way pyramid captures that to some extent.
+
+SPEAKER 1
+So you know and I like the distinction because there's a lot of people in academia that have phds that
+
+SPEAKER 2
+are like book smart but you know don't know how to behave well in a meeting or don't know how to be like a kind human being.
+
+SPEAKER 1
+So I think there's a separation between knowledge and wisdom and I don't know about you but I see it a lot in life.
+
+SPEAKER 2
+So in some answering the question what is research helps
+
+SPEAKER 1
+us towards answering the question? What is designed? We will get to that.
+
+SPEAKER 2
+Research is concerned with generating knowledge. Knowledge generation often depends on data.
+
+SPEAKER 1
+Not necessarily.
+
+SPEAKER 0
+And that includes structured qualitative, structured qualitative and quantitative data. And data has a way to be linked to knowledge
+
+SPEAKER 1
+through this speculative D. I. K. By model.
+
+SPEAKER 0
+So that brings us to the summary of the whole
+
+SPEAKER 2
+research resource pack.
+
+SPEAKER 1
+Which is also what I said at the beginning research
+
+SPEAKER 0
+methodology different from a design methodology.
+
+SPEAKER 2
+So research design each of methodologies. They're not the same when we're talking about design methodologies.
+
+SPEAKER 1
+There's for core activities research ideation, prototyping, evaluating.
+
+SPEAKER 0
+So the research is part of the design research which
+
+SPEAKER 2
+is concerned with generating knowledge can depend on these three
+
+SPEAKER 1
+kinds of data types that I just mentioned and then
+
+SPEAKER 0
+data gets linked to knowledge to this Dick boy. D. I.
+
+SPEAKER 1
+K. W. Model method is a system and methods methodology is a system of methods and methods are particular procedures and last,
+
+SPEAKER 2
+and most importantly, being part of be part of being a critical learner is being attuned to rationales and underlying
+
+SPEAKER 1
+epistemological stances and critiquing them and being aware of them.
+
+SPEAKER 0
+So with that, I'm going to wrap up this resource
+
+SPEAKER 1
+pack, see you next time.

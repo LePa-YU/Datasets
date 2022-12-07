@@ -1,0 +1,7 @@
+Week 12 (to be completed by Thursday, December 3)Study material
+Our focus for this last week is on finishing Assignment 4, so the following is just hints and tips for it.
+First off, remember to export the game in its original state in its native format (Windows or Mac).
+Next, you will need to remove existing audio from it. Most games will have a separate folder for Audio under Assets in the Project window. You can right-click on each AudioClip and select “Find References in Scene”. This will show you all GameObjects that are using this audio clip.
+Finally, two useful links:
+Unity User Manual
+Unity C# Survival Guide

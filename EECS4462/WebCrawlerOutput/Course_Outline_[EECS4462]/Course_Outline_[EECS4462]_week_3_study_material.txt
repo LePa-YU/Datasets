@@ -1,0 +1,3 @@
+Week 3 (to be completed by Thursday, September 24)Study material
+Slides on coding with JUCE. Includes information on C++ concepts you should know to understand the code.
+Weekly Unity Background: Complete Section 2. Understanding the Unity interface

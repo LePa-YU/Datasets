@@ -1,0 +1,95 @@
+Error:
+Okay. 
+So this is a video about. 
+Beastie audio player. 
+The time i'm going to get it to also demonstrate the code for 73. 
+Error:
+So one of the things we. 
+Didn't do 470 ways to actually have. 
+Error:
+Apologia files playing to test. 
+A code. 
+Using the medium plaits. 
+Most efficient 472. 
+People may need. 
+Ellie better imports so. 
+Just unfortunate does not provide an audio file player but you find mine on guitar that seems to work fairly well. 
+So i'm just going to tell you how to use it as well. 
+Okay so we need to get it from from github i've already posted to the giver l. 
+It's so i'll get it directly here and you'll see that one side. 
+Logging there there is a producer file that i can use. 
+To the compound so i double click it or unlock the stay open. 
+And bring up the producer. 
+There's a couple things to do before we bring it up in xcode first under settings. 
+It's not something that you have to do but i like to actually do this so i can find my plug in adobe cs 4462. 
+But more importantly the plug-in formats and you'll see that. 
+Stand-alone is checked here and i don't want that. 
+So. 
+Basalt lopez actually has a bug so we want to avoid. so just make sure that only vista to hear he's checked. 
+Identify the corner you'll see that you get videostudio exploder by the falls b when work so. 
+Just. 
+Go here and alex codes and effect. 
+Delete the results to order. 
+And i will tell you to go windows you don't have to do this last step. 
+All right so as soon as i explained everything to xcode. 
+I can compile. 
+And the good thing is that this flagging compiles right off the box. 
+As opposed to some other plugins just black as you can find a gas up. 
+But don't work until 6. 
+So. 
+Will see that. 
+It will come by okay. 
+I take little bits but. 
+Bb. 
+Problem. 
+Talk to see like we might get some. 
+Deprecated warnings. 
+But. 
+That's not a problem we. 
+Don't have to. 
+Worried about those. 
+Okay so. 
+If i can meet him at sakura weight kampala vst3. 
+Alright. 
+So no wonder the audio blogging host. 
+I just got when we have it and you plug in. 
+We superhero and scan for newark de plugins. 
+I know he shows up. 
+So i can actually bring it up here on the acs. 
+4462. 
+Play psychedelic wicked will see the glory for it. 
+Error:
+And. 
+Celibate. 
+Finicky i would say but they're the best way i found two to sort of yesterday's says.. 
+Atway file. 
+Enter the glade and a legitimately so i got a song from bensound.com. 
+What is a great side for copyright free music. 
+Target in. 
+And of course i have to connect. 
+Error:
+This to my audio output. 
+And if i click. 
+Homebase. 
+Error:
+Wait for my way we'll start playing i went to that yet because. 
+The one thing about it is that there's no way. 
+But if i sold parameters here i'll get this little window that gives me a bypass for the plug-in that i can use to start and stop. 
+It's a great believe that we should be better buddy he doesn't jump for us so. 
+Error:
+We go with it so. 
+Isaiah preciado. 
+I saw the audio place and of course later on we're going to route that to our assignments will come put some affectionate in someone. 
+And i can't use the bypass button to turn it on and off as i'd like to. 
+Error:
+Adam doing testing with my with my code. 
+Error:
+And that's why the gate so now you have. 
+Notify laneway file that you can play. 
+And i can start and stop with using this little creek. 
+And then you can ride out with you. 
+2. 
+The usmnt coach. 
+Error:
+See you in the next video. 
+But. 

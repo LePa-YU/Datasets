@@ -1,0 +1,14 @@
+Lecture 8 - Data Manipulation
+Class: March 16 & 18
+Lecture slides: (available Mar 16)
+Pre-class material: 
+Python docs: CSV files
+geeksforgeeks.org (CSV)
+realpython.com (CSV)
+programiz.com (CSV)
+Pandas docs
+Basics of pandas
+Pandas and CSV
+
+Pre-class quiz due: Mar 16, 5pm
+Assignment 5 due: Mar 22

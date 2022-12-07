@@ -1,0 +1,785 @@
+<!--
+
+html {
+	height: 100%;
+	min-height: 100%;
+	}
+
+body {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	background-color: #FFFFFF;
+	}
+
+#main_content {
+	float: left;
+	margin: 0;
+	border: 0;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	background: #FFFFFF url(https://www.eecs.yorku.ca/yorkstd/images/bg_access.gif) repeat-y top left;
+	}
+
+#pagetitle, #sectiontitle {
+	float: right;
+	margin-left: 170px;
+	margin: 0px;
+	width: 770px;
+	border-top: 0px;
+	border-left: 7px solid #FF0000;
+	border-right: 0px;
+	border-bottom: 1px solid #FF0000;
+	padding-top: 10px;
+	padding-left: 13px;
+	padding-right: 0px;
+	padding-bottom: 6px;
+	background: #EEEEEE;
+	color: #000;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	}
+
+#graphicalheader {
+	float: right;
+	width: 790px;
+	padding: 0px;
+	margin-left: 170px;
+	background-color: #FFFFFF;
+	margin: 0px;
+	border: 0px;
+	}
+
+#content {
+	float: right;
+	width: 782px;
+	padding-top: 10px;
+	margin-left: 170px;
+	background-color: #FFFFFF;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	margin: 0px;
+	border: 0px;
+        font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;
+	}
+
+#nav_area {
+	float: left;
+	width: 170px;
+	margin: 0px;
+	padding: 0px;
+	background: #EEEEEE url(https://www.eecs.yorku.ca/yorkstd/images/bg_access.gif) repeat-y top left;
+	margin-bottom: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	}
+
+#footer {
+	clear: both;
+	float: left;
+	width: 960px;
+	border: 0px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+	background: #FFFFFF url(https://www.eecs.yorku.ca/yorkstd/images/bg_access.gif) repeat-y top left; 
+	}
+
+#footerwide {
+	padding: 0px;
+	margin-left: 170px;
+	background-color:#ffffff;
+	margin-top: 90px;
+	border-top: 1px solid #FF0000;
+	padding-top: 10px;
+        margin-right: 0px;
+	text-align: right;
+	font-size: 8.5pt;
+	text-align: right;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+
+#ylogo2 {
+	float: left;
+	margin: 0;
+	margin-right: 0px;
+	padding: 0px;
+	width: 170px;
+	padding-bottom: 10px;
+	background: #EEEEEE;
+	font-size: 8.5pt;
+	text-align: center;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+
+.hide {
+	display: none;
+	}
+
+#globalnavigation {
+	margin: 0;
+	border: 0;
+	border-bottom: 1px solid #f00;
+	padding: 0;
+	width: 790px;
+	height: 67px;
+	background: #FFF url(https://www.eecs.yorku.ca/yorkstd/images/tagline2.gif) no-repeat top left;
+	}
+
+#yorklogo {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 170px;
+	height: 67px;
+	}
+#yorklogo img {
+	border: 0px none;
+	}
+
+#futurestudents {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 121px;
+	height: 22px;
+	top: 45px;
+	left: 180px;
+	}
+#futurestudents img {
+	border: 0px none;
+	}
+
+#currentstudents {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 99px;
+	height: 22px;
+	top: 45px;
+	left: 301px;
+	}
+#currentstudents img {
+	border: 0px none;
+	}
+
+#facultyandstaff {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 86px;
+	height: 22px;
+	top: 45px;
+	left: 400px;
+	}
+#facultyandstaff img {
+	border: 0px none;
+	}
+	
+#alumni {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 49px;
+	height: 22px;
+	top: 45px;
+	left: 486px;
+	}
+#alumni img {
+	border: 0px none;
+	}
+
+#visitors {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 49px;
+	height: 22px;
+	top: 45px;
+	left: 535px;
+	}
+#visitors img {
+	border: 0px none;
+	}
+
+#crest {
+	position: absolute;
+	margin: 0;
+	border: 0px none;
+	padding: 0;
+	width: 31px;
+	height: 22px;
+	top: 45px;
+	left: 584px;
+	}
+#crest img {
+	border: 0px none;
+	}
+
+#navlist {
+	position: relative;
+	z-order: 5;
+	top: 0;
+	left: 0px;
+	width: 170px;
+	height: auto;
+	min-height: auto;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	background-color: #EEEEEE;
+	}
+	
+#navlist h2 {
+	margin-top: 15px;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 30px;
+	border: 0;
+	padding-top: 0;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 0;
+	font-size: 13pt;
+	font-weight: bold;
+	line-height: 125%;
+	color: #333333;
+	}
+	
+#navlist ul {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	list-style-type: none;
+	background-color: #EEEEEE;
+	}
+
+#navlist a {
+	display: block;
+	margin: 0;
+	border: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: 11pt;
+	color: #333333;
+	text-decoration: none;
+	}
+	
+#navlist a:link, #navlist a:visited, #navlist a:hover {
+	display: block;
+	margin: 0;
+	border: 0;
+	background-color: #EEEEEE;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: 11pt;
+	color: #333333;
+	text-decoration: none;
+	}
+
+#button {
+	margin: 0;
+	border: 0;
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 45px;
+	width: 170px;
+	background-color: #EEEEEE;
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 9pt;
+	color: #333333;
+	}
+
+#button ul {
+	margin: 0;
+	border: 0;
+	padding-top: 0px;
+	padding-left: 15px;
+	padding-right: 5px;
+	list-style-type: none;
+	}
+
+#button li {
+	margin: 0;
+	border: 0;
+	padding-top: 5px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	}
+
+#button li ul {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	list-style-type: none;
+	color: #333333;
+	}
+
+#button li ul li {
+	border: 0;
+	padding-top: 5px;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+	font-size: 9pt;
+	color: #333333; 
+	}
+	
+#button li a {
+	display: block;
+	width: 100%;
+	padding: 0;
+	line-height: 10pt;
+	text-decoration: none;
+	}
+
+html>body #button li a {
+	width: auto;
+	}
+
+#content p {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content .bodytext {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content .smallbodytext {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000;}
+#content b {font-family: Arial, Helvetica, sans-serif; font-weight: bold;}
+
+/* link tags */
+#content a,
+#content a:link, 
+#content a:active,
+#content a:visited,
+#content a:hover {font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #CC0000;}
+
+#content .smallbodytext a{font-size: 11px;}
+
+/* heading tags */
+#content h1 {font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #000000;}
+#content h2 {font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #000000;}
+#content h3 {font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #000000;}
+#content h4 {font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #000000;}
+#content .heading {font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #000000;}
+#content .subheading {font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #000000;}
+#graphicalheader .subheading {font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #000000;}
+
+#content .heading a{font-size: 16px;}
+#content .subheading a{font-size: 14px;}
+
+/* list tags */
+#content li {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content ol {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content ul {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content ol ol {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content ul ul {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content ol ul {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content ul ol {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+
+/* table tags */
+#content table {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content tr {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+#content td {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+
+/* miscellaneous tags */
+#content .teletype {font-family: Courier, monospace; font-size: 12px; color: #000000;}
+
+#content td.textboxheadera {
+font-family: Arial, Helvetica, sans-serif; 
+font-weight: bold; 
+color: #FFFFFF;
+background-color: #CC0000;
+text-align: center;
+font-size: 12px;
+}
+
+#content td.textboxheaderb {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: #FFFFFF;
+background-color: #CC0000;
+text-align: center;
+font-size: 11px;
+}
+
+#content .whitetitletext {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px; font-weight: bold;
+color: #FFFFFF;}
+
+#content .whitetableheading {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px; font-weight: bold;
+color: #FFFFFF;}
+
+#graphicalheader .whitetitletext {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px; font-weight: bold;
+color: #FFFFFF;}
+
+/* following styles are for the new internal banner */
+
+a#yibhome:link, a#yibcs:link, a#yibfs:link, a#yibresearch:link, a#yibnint:link {
+color: #cc0000; 
+background-color: none;
+text-decoration: none;
+border: 1px solid #ffffff; 
+padding: 3px;
+margin: 0;
+}
+
+a#yibhome:visited, a#yibcs:visited, a#yibfs:visited, a#yibresearch:visited, a#yibnint:visited { 
+color: #cc0000; 
+background-color: none;
+text-decoration: none;
+border: 1px solid #ffffff; 
+padding: 3px;
+margin: 0;
+}
+a#yibhome:hover, a#yibcs:hover, a#yibfs:hover, a#yibresearch:hover, a#yibnint:hover {
+color: #cc0000; 
+background-color: none;
+text-decoration: none;
+border: 1px solid #cc0000; 
+padding: 3px;
+margin: 0;
+} 
+
+#yibrow1 {
+width: 785px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+background: url(https://www.eecs.yorku.ca/yorkstd/images/curve.gif) no-repeat right top;
+text-align: left;
+}
+
+.yibaudlinks {padding-top: 70px; display: block;}
+
+#yibrow2 {
+width: 952px;
+background: #555555;
+clear: left;
+padding-bottom: 4px;
+padding-top: 4px;
+padding-left: 8px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #ffffff;
+border-bottom: 1px solid #000000;
+text-align: left;
+}
+
+.yibsearch {float: right; padding-right: 8px;}
+
+#yibcorner {
+position: absolute;
+top: 0;
+left: 785px;
+width: 175px;
+height: 91px;
+background: #CC0000 url(https://www.eecs.yorku.ca/yorkstd/images/bg.jpg);
+}
+
+#yibcorner img {
+margin-left: 13px;
+margin-top: 38px;
+}
+
+#yibrow2 a:link, #yibrow2 a:visited { 
+color: #ffffff; 
+background-color: none;
+text-decoration: none;
+border: 1px solid #555555; 
+margin: 0;
+padding: 2px;
+}
+
+#yibrow2 a:hover {
+color: #000000; 
+background-color: #ffffff;
+text-decoration: none;
+border: 1px solid #ffffff; 
+margin: 0;
+padding: 2px;
+} 
+
+
+
+#footerwide a, #footerwide a:link, #footerwide a:active, #footerwide a:hover, #footerwide a:visited {
+color: #CC0000;
+}
+
+#sectiontitle2 {
+	float: right;
+	margin-left: 170px;
+	margin: 0px;
+	width: 770px;
+	border-top: 0px;
+	border-left: 7px solid #FF0000;
+	border-right: 0px;
+	border-bottom: 1px solid #FF0000;
+	padding-top: 10px;
+	padding-left: 13px;
+	padding-right: 0px;
+	padding-bottom: 6px;
+	background: #EEEEEE;
+	color: #000;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8.5pt;
+	}
+	
+#sectiontitle2 a, #sectiontitle a:link, #sectiontitle a:active, #sectiontitle a:hover, #sectiontitle a:visited {
+color: #CC0000;
+}
+
+
+#skipdiv {
+position: absolute;
+left: 0;
+top: 0;
+}
+
+#footer a {color: #CC0000; font-size: 11px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*The following styles are for flyout menus*/
+
+#navlist.flyout #button li {padding: 0;}
+#navlist.flyout #button li a {padding-left: 15px; padding-right: 20px; padding-top: 3px; padding-bottom: 3px;}
+#navlist.flyout #button ul {padding-left: 0px; padding-right: 0px; }
+
+#navlist.flyout ul {
+list-style: none;
+}
+
+
+#navlist.flyout a {
+display: block;
+color: #000;
+text-decoration: none;
+}
+
+/*sets all links inside hovered lis to be darker*/
+#navlist.flyout ul li:hover a{
+background: #CCCCCC;
+}
+ 
+/*sets style of links where the li has class of folder at the first level - this happens to turn arrow on for ALL subsequent links - will need to supress later*/
+#navlist.flyout ul li.folder a{
+background-image: url(http://www.yorku.ca/yorkweb/standards/images/arrow.gif);
+background-position: right; 
+background-repeat: no-repeat;
+}
+
+#navlist.flyout ul li.folder a:hover {
+background-color: #CCCCCC}
+
+/*not sure about this*/
+#navlist.flyout ul li.folder:hover a{
+background-image: url(http://www.yorku.ca/yorkweb/standards/images/arrow.gif);
+background-position: right; 
+background-repeat: no-repeat;
+}
+
+/*turns off arrows for next level upon hover of the first level li and changes all to lighter */
+#navlist.flyout ul li.folder:hover ul li a{
+background: #eeeeee;
+background-image: none;}
+
+/*turns on the rollover color upon rollover for the second level*/
+#navlist.flyout ul li.folder:hover ul li  a:hover {
+background: #CCCCCC;}
+
+
+/*sets all links inside hovered lis to be darker for second level*/
+#navlist.flyout ul li:hover ul li:hover a{
+background: #CCCCCC;
+}
+
+/*sets style of links where the li has class of folder at the second level - this happens to turn arrow on for ALL subsequent links - will need to supress later*/
+#navlist.flyout ul li.folder ul li.folder a{
+background-image: url(http://www.yorku.ca/yorkweb/standards/images/arrow.gif);
+background-position: right; 
+background-repeat: no-repeat;
+}
+
+#navlist.flyout ul li.folder ul li.folder a:hover {
+background-color: #CCCCCC}
+
+/*not sure about this*/
+#navlist.flyout ul li.folder ul li.folder:hover a{
+background-image: url(http://www.yorku.ca/yorkweb/standards/images/arrow.gif);
+background-position: right; 
+background-repeat: no-repeat;
+}
+
+/*turns off arrows for third level upon hover of the second level li and changes all to lighter */
+#navlist.flyout ul li.folder ul li.folder:hover ul li a{
+background: #eeeeee;
+background-image: none;}
+
+/*turns on the rollover color upon rollover for the third level*/
+#navlist.flyout ul li.folder ul li.folder:hover ul li  a:hover {
+background: #CCCCCC;}
+
+
+#navlist.flyout li {position: relative;}
+
+#navlist.flyout ul ul {
+position: absolute;
+top: 0;
+left: 100%;
+width: 100%;
+display:  block;
+z-index: 1200;
+}
+
+#navlist.flyout ul ul, #navlist.flyout ul ul ul 
+{border-top: 1px solid #CCCCCC;
+border-left: 1px solid #CCCCCC;
+border-right: 1px solid #666666;
+border-bottom: 1px solid #666666;}
+
+div#navlist.flyout ul ul,
+div#navlist.flyout ul li:hover ul ul
+{display: none;}
+
+div#navlist.flyout ul li:hover ul,
+div#navlist.flyout ul ul li:hover ul
+{display: block;}
+
+/* Google Search Results styles */
+
+.l {
+color: #CC0000;
+}
+
+div#clustering {
+	font-size: 84%; 
+	line-height: 140%; 
+	float: none; 
+	width: 15em; 
+	margin: 0;
+	margin-top: 70px;
+	padding-left: 1em; 
+	border-left: 1px solid #cccccc;
+
+	position: absolute;
+	margin-left: 780px; /* 620 */ /* 790px */
+}
+
+#yibrow2g {
+	width: 960px;
+	background: #555555;
+	clear: left;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	padding-right: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	border-bottom: 1px solid #000000;
+	text-align: left;
+	}
+	
+#yibrow2g a:link, #yibrow2g a:visited { 
+color: #ffffff; 
+background-color: none;
+text-decoration: none;
+border: 1px solid #555555; 
+margin: 0;
+padding: 2px;
+}
+
+#yibrow2g a:hover {
+color: #000000; 
+background-color: #ffffff;
+text-decoration: none;
+border: 1px solid #ffffff; 
+margin: 0;
+padding: 2px;
+} 
+
+
+.yibrow2g {
+	padding-left: 8px;
+	}
+
+#sectiontitleg {
+	float: right;
+	margin-left: 170px;
+	margin: 0px;
+	width: 790px;
+	border-top: 0px;
+	border-right: 0px;
+	border-bottom: 1px solid #FF0000;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 6px;
+	background: #EEEEEE url(http://www.yorku.ca/yorkweb/reference/yorksearch/sectiontitlegbg.gif) repeat-y left;
+	color: #000;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	}
+
+.sectiontitleg {
+	padding-left: 20px;
+	}
+	
+#contentg {
+	float: right;
+	width: 940px; /* 782 */ /* 952 */
+	padding-top: 10px;
+/*	margin-left: 170px; */
+/*	background-color: #FFFF00; */
+	margin-bottom: 8px;
+	margin-top: 8px;
+	border: 0px;
+	font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;
+	
+	margin-right: 5px;
+	}
+	
+#main_contentg {
+	float: left;
+	margin: 0;
+	border: 0;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+/*	background: #33FF33; */
+	}
+
+#contentg a,
+#contentg a:link, 
+#contentg a:active,
+#contentg a:visited,
+#contentg a:hover {font-size: 12px; font-family: Arial, Helvetica, sans-serif; color: #CC0000;}
+-->

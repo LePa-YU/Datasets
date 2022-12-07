@@ -1,0 +1,6 @@
+Week 9 (to be completed by Wednesday, March 23)
+Weekly goals
+Learn about bug reporting
+Produce constructive bug reports for peer systems
+Fix problems identified in your midterm submission feedback
+Implementation on all new requirements must be underway

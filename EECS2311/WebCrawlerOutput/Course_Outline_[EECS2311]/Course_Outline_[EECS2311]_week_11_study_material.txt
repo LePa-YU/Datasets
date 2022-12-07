@@ -1,0 +1,6 @@
+Week 11 (to be completed by Wednesday, April 6)
+Study material
+Our topic this week is refactoring. As everybody is certainly busy, it is an optional topic.
+If you do not know how to rename variables in Eclipse using the refactoring facilities, I highly recommend watching the first part of this short video.
+For more on refactoring, you can watch this instructor video on it. Feel free to do this after the term is finished.
+Click here for the lecture video.

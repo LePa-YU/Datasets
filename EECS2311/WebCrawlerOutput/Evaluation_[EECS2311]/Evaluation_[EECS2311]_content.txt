@@ -1,0 +1,28 @@
+Evaluation
+[EECS2311]
+HOME | Current Students | Faculty & Staff | Research | International
+Search »Faculties • Libraries • Campus Maps • York U Organization • Directory • Site Index
+Department of Electrical Engineering & Computer Science
+EECS2311
+Project
+Course Outline
+eClass Page
+Important Dates
+Evaluation
+Grades
+Contact
+Academic
+Honesty
+Evaluation
+You are here: EECS 2311 » Evaluation
+Evaluation
+Grade component
+Weight
+Peer assessments
+20%
+Midterm submission - See the rubric
+30%
+Final submission - See the rubric
+50%
+All group members must contribute to the code base. It is expected that each member will contribute to each group deliverable in a substantial manner. Your github activity will be used to assess the level of your participation.
+Last modified: 2022/03/29 13:07

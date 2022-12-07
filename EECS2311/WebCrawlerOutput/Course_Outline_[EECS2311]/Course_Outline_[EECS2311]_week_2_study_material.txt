@@ -1,0 +1,7 @@
+Week 2 (to be completed by Wednesday, January 26)
+Study material
+Our target this week is to learn how to work with branches in git, including resolving conflicts when they arise, as well as to learn what goes in a requirements document, including use cases and user stories.
+Start by completing this course (login with Passport York credentials). It is a very nice, detailed introduction to local and remote branches, including resolving conflicts. Even though this course is using git in the command-line fashion, it is important to understand it thoroughly. A lot of the command-line terminology shows up in Eclipse. If you are pressed for time, you can skip Section 5 on stashing changes, although it is a powerful tool you should learn how to use at some point.
+Once you have completed the course above, watch this instructor video on how to do some of the command-line operations in Eclipse, using Egit. You can find the Egit documentation through Eclipse (Help → Help Contents). This tutorial is also quite helpful (you might want to become familiar with the way Egit decorates icons - scroll towards the end of the tutorial).
+Finally, complete Sections 2 and 3 of this course (login with Passport York credentials). It is a very nice introduction to requirements and use cases. I particularly like the fact that clarity is emphasized over formality. For your Requirements document, also focus on a clear set of requirements and use cases without worrying about including all possible sections or following a particular format.
+Click here for the Week 2 lecture video.

@@ -1,0 +1,671 @@
+SPEAKER 1
+Oh welcome.
+
+SPEAKER 0
+I'm going to talk through resource pack interaction one.
+
+SPEAKER 1
+And in this resource pack I'm going to address the
+
+SPEAKER 0
+question. What are the kinds of interactive systems? Which is a really big question, but I'm going to
+
+SPEAKER 1
+provide first stab at the answer.
+
+SPEAKER 0
+Yeah. So intellectual property. Notice and this resource pack assumes that you're already familiar with no dependencies. Although I suppose we could start to draw upon resource pack humans one which is talking about cognitive heuristics.
+
+SPEAKER 1
+So basically I want to break down the question, what
+
+SPEAKER 0
+kinds of what are the kinds of interactive system into a few smaller pieces? So first I want to start tackling the question, what is meant by using your face? What is a digital technology artifact? What are the types of digital platforms used in interactive systems?
+
+SPEAKER 1
+And what is meant by a digital artifact posture?
+
+SPEAKER 0
+So first question, what is meant by user interface?
+
+SPEAKER 1
+So such a seemingly simple question proves to be very complicated to answer, at least in my view. So we can start with the definition of internet face from the computing domain, which basically sets out that interface
+
+SPEAKER 0
+is a shared boundary Across which two or more separate components exchange information.
+
+SPEAKER 1
+So this is an okay starting place. Um I would argue that interaction is more than merely exchanging information.
+
+SPEAKER 0
+And I also note that um this is really predicated
+
+SPEAKER 1
+on a view of human functioning where, you know, it's
+
+SPEAKER 0
+very individualistic, but let's just use it as a starting place. So we can imagine if this is the definition of
+
+SPEAKER 1
+a user interface, then a user interface must invoke some kind of users. So we've got a boundary now between Uh two components,
+
+SPEAKER 0
+one of which is let's say human, one or more
+
+SPEAKER 1
+humans. And we're gonna unpack that later. And on the other side, like the thing with which the human is interacting with.
+
+SPEAKER 0
+So this is what I will call the digital technology artifacts, which is, let's say a piece of digital technology
+
+SPEAKER 1
+and it can't just be any old piece of technology.
+
+SPEAKER 0
+It has to be a piece of technology that can afford interaction. And I will talk about the theoretical definition of afford inside as a relational term later.
+
+SPEAKER 1
+But let's just say it has to be able to
+
+SPEAKER 0
+sense and articulate.
+
+SPEAKER 1
+And without these two pieces, the thing, the object cannot
+
+SPEAKER 0
+like interact with the human. So we have to unpack like I said, what do I mean by digital technology artifact sensing, articulating and the one or more part of humans. So we're going to talk about digital technology artifact now
+
+SPEAKER 1
+and we're going to leave the sensing articulating and one or more part of, you know, human the human side for a later resource pack. So let's get into what is the digital technology artifacts.
+
+SPEAKER 0
+So really we start to get into what do we mean by digital technology.
+
+SPEAKER 1
+And often when we heard this term digital technology, we're thinking of like an object or a product or some other tangible item.
+
+SPEAKER 0
+Like here's my handheld device. So that's very common. But there's another view in fact a pretty prevalent view that technology is not a thing but actually a process. So that's what I want to talk about a little bit. So some components of this technology is processed you basically, if I want to do like a full very detailed
+
+SPEAKER 1
+nuanced treatment, we need to do like a whole course
+
+SPEAKER 0
+in science and technology studies.
+
+SPEAKER 1
+And in fact I encourage you to take a course
+
+SPEAKER 0
+in science and technology studies or sts particularly technological failure are their courses like that. So I'm going to just do like a very quick overview of this. So there's a couple of pieces that can draw on number one, the task artifacts cycle Number two media theory
+
+SPEAKER 1
+and number three, a thing called inscription. So I'll talk about each of these in turn.
+
+SPEAKER 0
+So the task artifacts cycle is capturing the co evolution
+
+SPEAKER 1
+between tasks and artifacts.
+
+SPEAKER 0
+So john carroll in his um chapter in the interaction design Encyclopedia says that human activities implicitly articulate needs preferences and design visions, artifacts are designed in response but inevitably
+
+SPEAKER 1
+do more than merely respond through the course of their adoption and appropriation. New designs provide new possibilities for action and interaction. Ultimately this activity articulates further human needs preferences and design
+
+SPEAKER 0
+visions. So the scope of what you imagine you need is
+
+SPEAKER 1
+kind of in turn like provided to you by the
+
+SPEAKER 0
+realm of what's possible and what's in front of you
+
+SPEAKER 1
+and when you start to use these things, you encounter new things and then that creates new needs. So these things like drive together so the artifacts you
+
+SPEAKER 0
+know get adopted and appropriated and used and through human
+
+SPEAKER 1
+activity, new kind of opportunities and problems arrived which in
+
+SPEAKER 0
+turn drives the artifact design process. So this cycle is like a process, it's a process through which new technologies get developed. So that's the task artifacts cycle.
+
+SPEAKER 1
+This same idea is expressed by media theorist. Most famously Marshall McLuhan. We become what we behold, we shape our tools and
+
+SPEAKER 0
+then our tools shape us. So this is often attributed to Marshall McLuhan particularly his work from 1964 understanding media the extensions of man That's 1960s language for us.
+
+SPEAKER 1
+But actually if we're going to be really anal about it, culkin said this not McLaren but it doesn't matter.
+
+SPEAKER 0
+This is the idea of the co evolution. The third piece all drawn is a thing called inscription.
+
+SPEAKER 1
+So dominant interests get reflected in the form and functioning of the technology a process referred to as inscription.
+
+SPEAKER 0
+This is brutal, mature. So we're again deep into science and technology theory and
+
+SPEAKER 1
+Madeline Anchorage. Wrote designers defined thus defined actors with specific taste competences,
+
+SPEAKER 0
+motives, aspirations, political prejudices and the rest.
+
+SPEAKER 1
+And they assume that morality technology, science and economy will
+
+SPEAKER 0
+evolve in particular ways. A large part of the work of innovators is that
+
+SPEAKER 1
+of inscribing this vision of or prediction about the world in the technical content of the new object. So this is speaking to the power that designers have
+
+SPEAKER 0
+to inscribe and to embed into technological objects, certain kinds of aspirations, motives, things like this. And so for instance, an example of this is uh I don't use facebook, I stay away from it, but
+
+SPEAKER 1
+I understand that there's only a limited repertoire of things
+
+SPEAKER 0
+that you can respond with a set of six things. So by devising that set of six like thumbs up, thumbs down, I don't actually know what they are, but there's a set of these things. The designer of that pallet starts to inscribe through those
+
+SPEAKER 1
+limited set of options, kind of the set of things that can be articulated. So that feeds into the behaviors of the humans and then the behaviors of the human then feed into the design appetite. So this co evolution cycle is really a really dominant theme. And it's for this reason that technology is seen of
+
+SPEAKER 0
+not as an object but an actual process.
+
+SPEAKER 1
+So Madeline accurate is talking about objects as having technical content as if they have content other than technical content.
+
+SPEAKER 0
+So you mean, be that as it may and whether
+
+SPEAKER 1
+I've yet convinced you of the sociological content of objects
+
+SPEAKER 0
+as opposed just the technical content.
+
+SPEAKER 1
+We can leave that for now. But certainly you'll agree with me that often when you hear the term digital technology, it's often you think of
+
+SPEAKER 0
+like a particular object.
+
+SPEAKER 1
+So that's why I'm using the term technology artifact because
+
+SPEAKER 0
+I wanna, when I want to refer to technology is the object and that technology is the process. That's just a way to tease apart the two things.
+
+SPEAKER 1
+I don't want to confuse them and I don't want to reproduce the simplified understanding through my use of language
+
+SPEAKER 0
+that technology is an object because I actually do believe that technology is a process.
+
+SPEAKER 1
+So there's another to complicate things a little bit more. There's another view that technology is assembly.
+
+SPEAKER 0
+So this is like an abstraction.
+
+SPEAKER 1
+It's just a thing. It's an assembly that orchestrates phenomena to some purpose. So this is like another way of looking at what is technology. So it's just something that's been orchestrated like and I guess it doesn't even necessarily imply that a human orchestrated it like mother nature can orchestrate phenomena towards some purpose.
+
+SPEAKER 0
+So in this framework, the frame of that drawn is talking about technologies can be hard, soft or a combination of the both.
+
+SPEAKER 1
+So I'm going to mentioned both of them to round
+
+SPEAKER 0
+out the picture of what is a technological artifacts.
+
+SPEAKER 1
+So hard technologies are technologies that are physical.
+
+SPEAKER 0
+So these are the tangible things that you can hold and touch. So this includes tools and yeah, so hard technologies are physical technologies. So these refer to things that you can touch tools
+
+SPEAKER 1
+and tangible components such as the pen and other things that you know, can be used to do things or that do things directly. So this includes a whole range of things.
+
+SPEAKER 0
+Digital desktop computers, mobile handsets, recipe, apply single board computers, all the digital um platform things, analog computers like mimics
+
+SPEAKER 1
+which is actually an imaginary kind of thought experiment, the jacquard loom the abacus, all of these things that do
+
+SPEAKER 0
+computing but not to digital or electronic means.
+
+SPEAKER 1
+And then we have non electronic artifacts like hammer which is a tool hairpin, it's a tool, note pads, it's a tool like all of these things get used for
+
+SPEAKER 0
+a certain purpose. We also have soft technologies which are assemblies that are
+
+SPEAKER 1
+conceptual in nature and these include human mediated processes. So the humans because they're the intermediaries are the interfaces
+
+SPEAKER 0
+themselves and this is very conceptual. So uh these assemblies operate among humans and the humans
+
+SPEAKER 1
+are the mediators.
+
+SPEAKER 0
+So for example like the dewey decimal system is a soft technology.
+
+SPEAKER 1
+It's a categorization scheme that's used by humans. Social media. Like the concept of tagging is a soft technology. The fact that gets in stan she hated with particular like interface elements. That's a hard technology but the concept of a tag
+
+SPEAKER 0
+is a soft technology um even systems for making decisions
+
+SPEAKER 1
+like if I tabulate pros and cons and weigh them. That's the kind of technology or if I perform linear
+
+SPEAKER 0
+optimization through a system of equations to find like you
+
+SPEAKER 1
+know the optimal value for a particular thing That's also a soft technology, we have systems for measuring performance like
+
+SPEAKER 0
+rubrics, job performance evaluations, of course evaluations will do in this course. These are soft technologies we have, let's say the idea of a bibliography. So like a system for listing sources. This is a soft technology and in fact it's something
+
+SPEAKER 1
+that is an interface between like readers and like this
+
+SPEAKER 0
+vast body of literature out there. So it is an assembly.
+
+SPEAKER 1
+It like the slide says it's an assembly that orchestrates
+
+SPEAKER 0
+phenomena to some purpose but it's not accomplished through like a tangible thing. So let's get to the definition of a digital technology artifact. So it's an artifact that makes use of a digital platform. Digital technology artifact tends to be configured around a certain posture and the artifacts tend to be organized around certain types of interaction. So we're going to talk about platform and posture and X. And we're going to leave the interaction the types of interaction for a subsequent resource pack. Okay, so what types of digital platforms are used in interactive systems, basically a wide gamut?
+
+SPEAKER 1
+Any digital platform that basically provides some capability of detecting
+
+SPEAKER 0
+put actions from the user and being able to articulate
+
+SPEAKER 1
+output actions that can then in turn be perceived by
+
+SPEAKER 0
+the user. So there's a wide array of these platforms. I'll talk about them in two seconds.
+
+SPEAKER 1
+But just in advance I'll point out that they really
+
+SPEAKER 0
+differ from one another in terms of features such as physical form, the kind of display they have and by
+
+SPEAKER 1
+display, I mean anything that like conveys information so it can be a visual display but there's also audio display,
+
+SPEAKER 0
+tactile displays, all kinds of displays. Vibrio tactile. There is a different features in terms of how users can provide input methods for the platform to produce outputs,
+
+SPEAKER 1
+network connectivity, operating system, database capabilities, computational power, so on
+
+SPEAKER 0
+and so forth, cost availability and so on. So it's a big space of possibilities. So I think I have three screens of digital platforms. So the first screen is mobile devices, the things that are so familiar. Mobile devices, cameras, tablets, so on desktop computers which necessarily
+
+SPEAKER 1
+include peripherals such as a screen and a pointing input device and the keyboard.
+
+SPEAKER 0
+I also left here often these are gooey based but not necessarily. Some people might still be using their desktop computers in a command line interface mode.
+
+SPEAKER 1
+I e if you're running Lennox solely Lennox command line, Lennox consoles. So this includes gaming consoles, tv set, top boxes, entertainment system components, Vieira consoles, Xbox with connect, which is a kind of gaming console. So that realm of things.
+
+SPEAKER 0
+We have computer terminals which are now pretty well obsolete technologies. So these are clients of some kind of server and
+
+SPEAKER 1
+they can be thin or fat depending on the amount
+
+SPEAKER 0
+of processing that they are capable of locally.
+
+SPEAKER 1
+Many computer terminals are text based with some of them
+
+SPEAKER 0
+are graphical, it's possible that you've never seen a computer terminal in your lives and that's fine.
+
+SPEAKER 1
+But that is a kind of platform, then we have the whole realm of home automation appliances like Alexa and things like that nest is another example. We have home appliances, washing machines, refrigerators, they're all digital
+
+SPEAKER 0
+platforms. Now there are handheld handheld purpose built devices such as pen based devices that you can, for instance, a slide
+
+SPEAKER 1
+over a line of text and it might automatically translate it for you these kinds of things. There's a whole realm of wearables.
+
+SPEAKER 0
+So all the smart clothing, smart jewelry, all the heads
+
+SPEAKER 1
+up displays, the way our heads up displays, these types
+
+SPEAKER 0
+of things.
+
+SPEAKER 1
+There's all the tangible handheld devices, these interactive educational toys,
+
+SPEAKER 0
+I'm drawing a blank it, but what they are, but there's, you know, they snap together and they do things,
+
+SPEAKER 1
+there's chaos like you might see in the mall or
+
+SPEAKER 0
+it like when you go to renew your driver's license. So it's a standalone functional computing platform, but it doesn't allow just anyone to access all the system functions. It's kind of got this mode of operation vehicles are now digital platforms because pretty well any recently created car
+
+SPEAKER 1
+or automobile vehicle has some kind of digital console, There's
+
+SPEAKER 0
+a whole realm of specialist devices, medical and scientific devices, insulin pumps pacemakers, weather stations, electronic training medications for health
+
+SPEAKER 1
+care if you're learning to, um, if you're learning to do Cpr brain computer interfaces. So that whole realm of things, there's a whole realm
+
+SPEAKER 0
+of robots and drones.
+
+SPEAKER 1
+And I'm not talking about necessarily like industrial robotics for assembly lines, but things like electronic companions delivery drones, drones that are there to help with anti poaching. Then we have room based installation. So like surgical operating theaters that have gestural interfaces for
+
+SPEAKER 0
+the surgeons to take notes.
+
+SPEAKER 1
+For for instance, my dentist has like a room based
+
+SPEAKER 0
+system for reporting the health Of the Gums 1, 1 tooth by one tooth. So that's a voice operated interface.
+
+SPEAKER 1
+So it's like, you know, embedded in the room, there's
+
+SPEAKER 0
+also shareable interfaces through the smart meeting rooms and classrooms. So big displays that multiple people can interact with so
+
+SPEAKER 1
+on and so forth. Then we have what I would call largish physical installations,
+
+SPEAKER 0
+so maybe not like whole room size but definitely occupied in a room.
+
+SPEAKER 1
+So tangible interactive installations in museums like the Science center or the Rome. There is also a tangible interactive learning platforms such as like sand based interfaces for looking at topological topographical manipulations
+
+SPEAKER 0
+and things like that.
+
+SPEAKER 1
+So, I mean, this is not meant to be exhaustive.
+
+SPEAKER 0
+There's other platforms that are likely admitting.
+
+SPEAKER 1
+But the point of this is just to show the wide, extremely wide breath of platforms that support interaction. So now let's get to the last piece, which is what is meant by a digital artifact posture. So I'm drawing heavily On Cooper's Chapter nine on this.
+
+SPEAKER 0
+So, and just to be clear, Cooper doesn't use the
+
+SPEAKER 1
+term digital artifact.
+
+SPEAKER 0
+Cooper is actually using the term interactive product, but I
+
+SPEAKER 1
+really don't want to imply that everything we design is
+
+SPEAKER 0
+for the consumer market. So that's why I prefer the more general term.
+
+SPEAKER 1
+So it can be any kind of interactive product, interactive system. It's just an interactive thing. And so posture refers to the predominant manner in which the artifact presents itself to the user. That doesn't say that this solely determines it's used because
+
+SPEAKER 0
+after all, users can be unruly and subversive and they can use the thing in any old way they want
+
+SPEAKER 1
+to. But in general, this is kind of the way it's
+
+SPEAKER 0
+been designed to present itself.
+
+SPEAKER 1
+And it's a way of talking about things like how much attention the the interactive system asks of the user,
+
+SPEAKER 0
+how much the user devotes to interacting with it, how
+
+SPEAKER 1
+the user, how the artifact behaves in respond to the user. So this kind of like how it stands in relation to the user. And I have a couple of concrete examples.
+
+SPEAKER 0
+So for the desktop there tend to be three postures,
+
+SPEAKER 1
+Sovereign transient and demonic, which is an awesome name for a posture. So the sovereign posture is like if you're using, I
+
+SPEAKER 0
+don't know, escape or I don't know, acrobat.
+
+SPEAKER 1
+So it's like an app that uses like the full screen, it's monopolizing your attention for a long period of time. So you're involved in a big intensive task, so and
+
+SPEAKER 0
+it tends to occupy the full screen.
+
+SPEAKER 1
+Then we have the transient posture. So this is like a thing that you just invoked when you need it and you know, it appears it performs this job and then it quickly leaves or gets
+
+SPEAKER 0
+dismissed. So, I mean, for example, that might be the preference
+
+SPEAKER 1
+panel for Mac os 10 or the equivalent thing in windows. So you know, you just need it, but then you do your thing and you dismiss it. And then the demonic posture which is named after demon and multithreaded computing. Uh So this is the kind of thing where it just runs in the background really, the contraction is minimal.
+
+SPEAKER 0
+So your printer driver, network connectivity, these things that are
+
+SPEAKER 1
+kind of monitoring and like needing to run so that you can do use your platform, but occasionally they pop up and either they have to be monitored or adjusted or you know, it comes, it has it is the case from time to time that they need some kind
+
+SPEAKER 0
+of interaction. So that's the third posture. Then when we're talking about websites, there's analogous lee kind of three postures and I know website was not listed as one of the platforms per se because you can look at a website on your handheld device or on a desktop or in many places like you've been smart appliances now function as uh browser clients.
+
+SPEAKER 1
+But anyway, the three postures are informational, transactional and application. So an informational Posture is what we might think of
+
+SPEAKER 0
+as Web one Point.
+
+SPEAKER 1
+Oh, so the websites of the 1990s. So it's just a way to make content viewable to a user and a user might use the browser to
+
+SPEAKER 0
+search and to navigate.
+
+SPEAKER 1
+But there's not content creation going along and I use Wikipedia but Wikipedia in the non editor mode. I know there's also a view of the Wikipedia where you're editing the entries and you're part of that community with discussion and resolving issues.
+
+SPEAKER 0
+I'm talking about just like the user that goes to Wikipedia and consults and looks up something.
+
+SPEAKER 1
+Then we have the transactional posture which is the site is providing users of the way to accomplish something beyond
+
+SPEAKER 0
+just viewing content.
+
+SPEAKER 1
+So there's functional elements but it tends to be through this server query response model.
+
+SPEAKER 0
+So this is what we might call Web 2.0, so
+
+SPEAKER 1
+the user can do something so Pinterest Reddit amazon these
+
+SPEAKER 0
+kinds of services. They're not fully fully functional apps per se, but they're
+
+SPEAKER 1
+interactive in a way that like a basic website isn't.
+
+SPEAKER 0
+So for instance, e class or model is transactional, then
+
+SPEAKER 1
+we have application posture. So it's an application like experience delivered to the browser. There's more complex behavior is very similar to a network.
+
+SPEAKER 0
+Networked desktop application. So more sophisticated input widgets controls.
+
+SPEAKER 1
+So that kind of thing.
+
+SPEAKER 0
+So for instance, google docs is an application posture. Mobile device postures. So there's the satellite posture and the standalone posture.
+
+SPEAKER 1
+The satellite posture is just a way for users to
+
+SPEAKER 0
+retrieve or view content.
+
+SPEAKER 1
+Um and it provides only lightweight input and editing futures. So Kindle pod being audible, I mean you can tag things, you might be able to save, you can make a playlist or highlight. So there's some basic functionality but it's not like fully complex heavyweight editing. And the standalone posture is application like experience delivered through a mobile device. That is complex behavior is similar to a network network
+
+SPEAKER 0
+device, desktop application. So for instance, all the office suite clients like word Excel power point which is available on your mobile device. This is like way more sophisticated. Um and complicated behaviors than just the lightweight editing and input from the satellite posture. The kiosk posture is pretty similar to the desktop sovereign posture, except for there are a few important differences on the desktop. Attention is much more focused, whereas in the kiosk it's much more transient.
+
+SPEAKER 1
+Also people are moving toward and away from a kiosk. Um so you know, the attention is a function of
+
+SPEAKER 0
+whether there next to the kiosk or not. Um the functionality tends to be simpler on a kiosk
+
+SPEAKER 1
+then in a sovereign desktop posture. The input device on a chaos tends to either be the touch screen or bezel buttons next to the touch screen. Whereas in the desktop sovereign posture you have richer input devices. You might even have like and or a trackpad or
+
+SPEAKER 0
+mice or whatever.
+
+SPEAKER 1
+Like you have like any range of things you can connect to your desktop. Uh And then the body position is also important.
+
+SPEAKER 0
+Usually when you use a desktop you're sitting like I
+
+SPEAKER 1
+am now but when you're using a kiosk you're in motion coming towards it and away from it. So either you're walking or you're a person who is
+
+SPEAKER 0
+using a mobility aid such as a wheelchair. So you might be standing, you might be seated, you
+
+SPEAKER 1
+might be half seated depending on how you're getting around in the world but basically you're in motion as opposed
+
+SPEAKER 0
+to stationary.
+
+SPEAKER 1
+So those are a few important differences that distinguish the
+
+SPEAKER 0
+desktop Sovereign posture from the kiosk posture, then we have
+
+SPEAKER 1
+let's say the gaming console posture or the T. V. Set box posture. So this is like gaming consoles, Apple tv. These kinds of things. So cooper calls these the 10 ft interface posture meaning you're standing 10 ft away. And it's really quite similar to the mobile device, satellite
+
+SPEAKER 0
+posture. But there's an important difference when you're using a mobile
+
+SPEAKER 1
+device you have the touch screen and all of those
+
+SPEAKER 0
+gestures available to you. But when you're in the console posture you're usually using a controller or remote controller which is usually a set
+
+SPEAKER 1
+of buttons. Plus some pads maybe most often a D pad, a
+
+SPEAKER 0
+directional pad which is a flat four way directional controller,
+
+SPEAKER 1
+one button for each point and it's usually thumb operated. So those are game controllers but many remote controls also
+
+SPEAKER 0
+have some version of this directional pad.
+
+SPEAKER 1
+Yeah automotive posture similar to the chaos posture. But again importantly the attention is a bit different in a kiosk uh posture usually entails the users complete attention
+
+SPEAKER 0
+whereas in an automobile the driver has divided attention. So also unlike a kiosk, the user is seated for the automotive posture as opposed to you know, motion and
+
+SPEAKER 1
+like standing or using a wheelchair coming up to the kiosk and the automotive posture has what's called the passenger problem. So the system can't tell who's operating the interface is
+
+SPEAKER 0
+that the driver of the passenger. So it tends to err on the side of caution and lock out functionality while the car is in motion
+
+SPEAKER 1
+which means the passenger can't even interact with the platform
+
+SPEAKER 0
+as well.
+
+SPEAKER 1
+And I think last we have the smart appliance posture which interestingly is similar to the desktop transient posture because it's typically used to accomplish something very specific like select
+
+SPEAKER 0
+a particular cycle for my washing machine or I don't know what the fridge is used to set temperature, things
+
+SPEAKER 1
+like that. However there might be status information and that may be
+
+SPEAKER 0
+presented through via the demonic posture. So very quickly I've walked through all of these different postures and again it's not meant to be a completely exhaustive complete list, but it is meant to start identifying some of these differences that are relevant when thinking about designing the interactive system. So in some characterizing user interface boils down to characterizing interaction and characterizing technology, both of which are complicated.
+
+SPEAKER 1
+And I only talked about technology. I didn't talk about affording interactivity yet, but we will
+
+SPEAKER 0
+get to that. Um Technology is nuanced to characterize because it refers both to artifacts like physical, tangible objects. And it also refers to a process.
+
+SPEAKER 1
+And when you start talking about digital artifacts, interactive things, there's a large variety of platforms and a large variety of postures. So it's a really big space of possibility.
+
+SPEAKER 0
+And with that I'm going to conclude this presentation.

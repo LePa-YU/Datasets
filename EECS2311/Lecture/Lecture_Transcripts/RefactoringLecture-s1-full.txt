@@ -1,0 +1,437 @@
+Got so welcome to the second last lecture for easiest 2311 eastern. 
+Kobe today will be a big cock to me something i must know before. 
+But that we're going to look at it in more detail today. 
+So if i didn't have to do with software design. 
+And just a reminder. 
+Basically the idea sort of design is. 
+Well we want to arrange our classes and our methods. 
+In a way that allows us to build software systems that are. 
+A flexible maintainable understandable. 
+So that's something takes a lot of experience of course you'll discuss. 
+What about 18 other courses such as easy as 3311. 
+Will you talk more about this importance as well. 
+Which are. 
+Well-established solutions to common design problems. 
+So there's no time for this course to talk about chocolate design in. 
+Detail. 
+But the one thing we want to avoid in a project is at least not to have bad design. 
+Iso. 
+That's a topic for. 
+What is lecture. 
+And i was going to focus on something that english literature for software engineering is called coat smells. 
+What is basically characteristics of bad design that we want to avoid. 
+So. 
+I would ask the class you know what are. 
+I'm coach meals you can think of. 
+What are some things you can do in your code in the way your organizing your classes. 
+Methods. 
+That is a bad idea. 
+Right so you know nothing about it cause a video and. 
+Error:
+Think of some ways that the. 
+Your codes could be smelly if you want. 
+Not so. 
+One of the. 
+Most common things that. 
+I'm so you came up with what i'm thinking about this question. 
+Is business hopping duplicated code. 
+Or. 
+Also refer to the code cloning. 
+Message if you have the same piece of cover the same say 10 lines of code. 
+Cutting places. 
+Many different places in your system. 
+That is a coachman. 
+That is not. 
+A good thing. 
+Error:
+I'm sure you can think of some reasons for this. 
+Santa's if it turns out that those 10 lines of code need to be updated. 
+Maybe there's a bugging them or more likely. 
+Error:
+11 oz of cod because i'm in changes unit 2. 
+I've been extra lining in every coffee. 
+It's very hard to make sure your phone all the copies and. 
+Error:
+You know if you forget one or two. 
+Then that's basically social bags so it's. 
+Always a good idea to avoid duplicating code if possible. 
+Iso. 
+Isaiah says. 
+He on the slide you may have the same expression in two methods of the same class. 
+Error:
+It was case maybe you want to. 
+Start a message from it. 
+Right so if you are doing the same thing in two different. 
+Methods design create a private helper method. 
+Calling from the same. 
+Play scala from these two places and then if you have to update it there's only one place you go to to make the change. 
+I can apply also to things such as you have the same code into sibling classes that both inherit from. 
+Superclass well maybe. 
+Then. 
+Luckily belongs in a superstar. 
+Extracting as a method. 
+And pull it up. 
+Superclass. 
+Error:
+You might want to create a template message which is designed parking to go see 3311. 
+Error:
+I'll let you. 
+Look it up if you're interested. 
+Error:
+Basically the same idea. 
+Dust. 
+Error:
+Slightly different when the code that is that you want to certify. 
+Take care of. 
+He's not exactly the same but different. 
+Finally you complicated coding classes. 
+You might want to create a new class. 
+To illuminate. 
+Error:
+Another. 
+Coat smell. 
+He's having. 
+Long methods. 
+I'm sure. 
+Samantha giancola right now that are very long. 
+I'm possibly. 
+Quite hard to understand. 
+4. 
+Anybody other than. 
+And i can be a real issue and i will start the system this. 
+Museum i was coming in all the time. 
+Oswego mini to understand the code. 
+Yourselves. 
+A year from now many turi understand the code. 
+So elementary. 
+Also have a common source of box. 
+So. 
+What do we. 
+Why do what the guideline is. 
+Be aggressive about decomposing methods. 
+That means. 
+Find the. 
+Various tasks that along method does an alumni field will do. 
+Always many things. 
+And. 
+Isolates 8015 lines. 
+Make it two separate method extract the method from the eighties. 
+Lions. 
+And just call dad method. 
+Gives good names for that method. 
+And then you'll find out your original message that was very long sundays. 
+Mas charter fitness. 
+Springfield because. 
+It's now a bunch of clothes to other helping methods. 
+As opposed to. 
+Available piece of code. 
+Angle finder is also a lot more understandable cuz you can. 
+Basically if you chose good names. 
+Polo toddler methods you can see. 
+Steps at these metal takes. 
+Sometimes it's a good idea to look for comments. 
+In the cold explaining the next 10 lines. 
+If that's the case maybe you when i expect a message. 
+Augustine lights. 
+Similarly if you have a very large class. 
+For example. 
+Having too many attributes. 
+F*** you too many methods. 
+It's also. 
+A breeding ground for duplicated code. 
+So. 
+It's unlikely that you need. 
+That dress will be this large. 
+Broly. 
+There are some. 
+Subsets of the other views that are really go together. 
+I don't necessarily relate to everything else in the class. 
+Error:
+You want your classes to be. 
+Error:
+Focused on doing one thing and doing that one thing very well not doing 10 different things. 
+Error:
+Cuz then that's when you start having suggestions for bugs. 
+I do you have such a glass. 
+Brother you need to extract. 
+Either several glasses if somehow you've makes two different sections together. 
+Open what you need is any inheritance hurricane you need. 
+Some of these attributes to going to subclasses. 
+Because the only max and see that contacts. 
+Or maybe i can expect i need to face so some of the other bizarre actually so below me in the face in your class implemented in the face. 
+Possibly know your glass gets played into another classes at implement the same interface and so on. 
+So. 
+I think you need to start thinking about is. 
+How to. 
+Deal with semi-gloss glass. 
+Same way we do with a large mess with before. 
+In order to. 
+Make a call to more manageable more understandable and you'll find that you'll be a lot more maintainable as well if your interviews hurricane where you had known before. 
+Now we have a new stop type. 
+Then i'll get the doors in the face and you're done. 
+Before you have to go into the huge class and. 
+Make sure you fix the right parts of a class otherwise. 
+And. 
+The last. 
+Coach mauser do with very big things very long thing since a long parameter list. 
+Open you'll find that. 
+You need to pass alarm for reminders to some methods there's a lot of information that needs to be passed between different methods of classes. 
+And that is also i called tamela. 
+It means i just robbed a better way to organize things. 
+It's hard to understand. 
+You may need to change that a lot if it's a lump on the list maybe that list. 
+You are things are you motivated quite often. 
+In the system. 
+Error:
+You don't need that to do that. 
+Most of the time. 
+What you need to do is. 
+Create. 
+And your class. 
+But encapsulate. 
+All those parameters. 
+Adventist. 
+Pass an object. 
+Different ways to do it you'll see that i have three things list of their sodas to replace tramadol with methadone. 
+Physical object interview parameter object. 
+How old is our slight variations on the same thing. 
+And. 
+They correspond to. 
+Refactoring as we call them and those come from. 
+Textbook i will talk to you in a few slides. 
+Assertive justice roll idea. 
+More than 20 years ago.. 
+Alright some other coat smells. 
+All of them from the same textbook. 
+Is uncle divergent change. 
+And that's a situation where you have a class that. 
+Has to be changed in many different ways for many different reasons. 
+Right. 
+There's an example there says i will have to change these three methods every time i get in your database. 
+Exotic for my thoughts every time i get a new financial instruments. 
+Different reasons you change different parts of the class. 
+Again that means that you have a situation where the class is not a very good option. 
+You need. 
+To extract. 
+The class out. 
+Such as the four methods that go with an annual financial instrument. 
+Making you plus photos. 
+Error:
+You notice holiday toscana problem. 
+Another example alphacoat smells choking surgery. 
+I saw this a funny names. 
+Error:
+But it is basically that sometimes. 
+You have to make a change. 
+And i particular kind of change. 
+And. 
+This results in you making a whole bunch of little changes in many different classes. 
+Right. 
+That means i probably. 
+You might need to reduce bags if you forget. 
+One of those changes then. 
+You have a bug in your code. 
+You basically want to create a situation where particular maintenance scenarios like the ones i've asked you to do when your design document. 
+That have. 
+Ways that can be implemented that are let's go to this class find this. 
+Methods and do it. 
+You don't want a situation where you have to. 
+Go to whole bunch of different classes. 
+I'm fine. 
+Completely different things to change. 
+If that's a situation that sociable loading your system then you're probably going to move around some methods of field. 
+Attributes. 
+Two together. 
+In the same place. 
+Trouble this kind of situation. 
+You might even want to enlighten the class meaning. 
+Sometimes you have a class there annually there's no need for it. 
+To put it together. 
+With an existing glass. 
+Chillicothe class sometimes. 
+Either those could be a good solution depending on the situation you have. 
+Another coat smell is feature envy. 
+And that refers to a situation where. 
+Msi. 
+In a particular class. 
+Is not really interested in the attributes. 
+Of the same plus broadmoor. 
+Not to be smaller classes so it involves a lot of gas methods. 
+But my other glasses. 
+Doesn't. 
+Talk to you sunday. all. 
+That's a situation were probably means automatic belongs in that other class, class. 
+There are some situations where you might want to organize glasses in that way you'll see the strategy invisible design patterns. 
+Later on. 
+Another courses and those are specifically designed. 
+Anyway.. 
+Create a situation. 
+Others reasons for having them for example. 
+Those two barns. 
+A fight a different smell. 
+Voice already divergent change. 
+Opening sofa design does trailers. 
+Inviting coat smells. 
+You tell your fix one you might introduce a different one really comes down to deciding what's important for your system. 
+And applying the right solution to it. 
+Refrigerant being something. 
+Dot-com. 
+Open recognizing your code. 
+And help you fix your design i will see that the example will look at to perdition. 
+Camo coat smells. 
+Derek lam. 
+The first two branches of data.. 
+Honduran together. 
+Error:
+Well the probably should be in their own class. 
+Right sort of goes together with this idea that often you have. 
+Collections of data that you move. 
+Together right away so that we saw. 
+Adeline parameter list as well we should always be on the lookout for. 
+Pictures of data belong together and make sure we put them together in the wrong class. 
+Error:
+Other than. 
+Except particular. 
+Switch statements are actually an important quote tomorrow to look for. 
+Varicose vein useful in many cases. 
+Error:
+If you are receiving. 
+Input from user and you want to start off. 
+Go through all the different possibilities than the switch statement is perfectly fine there's no way you can predict what the user will import so. 
+You have to deal with it this way. 
+But often they're called smell because. 
+They're all think it duplicated around the system. 
+And. 
+Water supposed to deal with a situation which a well. 
+If you're the type of thing i have is aiden. 
+Dilaudid is tybee do something else is type-c to something else. 
+And often that is. 
+A replacement for polymorphism. 
+System. 
+We can implement this kind of conditioners with polymorphism as opposed to with his twisted. 
+That is definitely the right way to do it. 
+So whenever you have a switch statement think. 
+Is it possible that. 
+I should replace these with a bunch of sunglasses and then. 
+Create the right of. 
+The right kind of object at one time. 
+U-pull-it memphis multicare. 
+Implementing the right behavior. 
+So if you are switching i'm type of code as we say. 
+Then. 
+You might want to exact message move these methods around and if you place your type code with subclasses. 
+I replace the whole conditioner with the polymorphism. 
+So. 
+Something to look for and. 
+Symbicort smells to go through. 
+Part of the current syracuse in something that comes up. 
+In large systems. 
+Where the other situation were. 
+You haven't heard in cherokee and then. 
+Captivate. 
+Mirroring the same. 
+Set up situations. 
+And that means that they should have to make us a place in mind you have to go make yourself another. 
+I see you have a duplication like smg4. 
+But now it's supposed to code itself. 
+Plexiglass is also a situation. 
+The lookout for a class is not enough to justify maintaining it. 
+Ventus remove it. 
+Idq. 
+Never. 
+Use it then you might want to collapse hurricane join me with a supercharger supplies. 
+Owen lynott. 
+Just put the code. 
+Glass into another class. 
+Specter generalities the situation.. 
+Comes up in real systems in the sense that you. 
+Single bit too much about the design of your system. 
+Creating situations where. 
+You put all kinds of things in your design. 
+Anticipating that something's will happen in the future. 
+Complicated design. 
+So that's something to do to look out for. 
+Probably doesn't apply. 
+Hello dino case of course. 
+But it's a family-owned avoid.. 
+Error:
+Design your system. 
+For something to happen next year. 
+Design for the needs of the office today. 
+You might have things such as temporary fields. 
+Is a filled donut user used on ebay particular situations. 
+And if you cannot. 
+Error:
+Determining if they're useful or not. 
+Then maybe you want to start the class put them separately and then decide later if you want to. 
+Actually use those. 
+Is a situation where it leads to another of different coat smells. 
+With since i'm already refused requests. 
+Is another one. 
+And that's basically if you have a situation where it's a plus. 
+Doesn't really want to have. 
+A method or not to be that it seems everything for which upper class. 
+It's just looks awkward. 
+That's probably situation what you need to change the design of your system. 
+Maybe doug message. 
+Error:
+Velux summer further down or further up their intelligence hierarchy. 
+Mega bloks only to a sibling of the class that's why the class doesn't want it. 
+Honda. 
+Maybe this is not the right solution. 
+Maybe you should know you kevin from this class. 
+Maybe just got a super-class use. 
+Glass. 
+Or many other ways to. 
+Error:
+Update the design of your system but that's a common thing to look for. 
+If surplus. 
+Doesn't really need or want the attributes of the message from subclass you have to change it. 
+Error:
+Finally comments is of course. 
+Not necessarily about smell men cases. 
+It's a good thing to have. 
+We always tell students, your code right. 
+Why does it says here. 
+Miss another use. 
+As a deodorant meaning. 
+Don't complicate your code create. 
+By design and just explain it with comments. 
+Indiscretion you should just be factorial design. 
+Error:
+Remove the comment. 
+Sometimes when you apply. 
+Some of the things you've seen already. 
+Listen here as well. 
+Then. 
+The common becomes. 
+Not really necessary anymore. 
+So in those cases it's important to. 
+Applied is this idea. 
+I just remove the comment. 
+Because you'll be explained by the code. 
+Finally there's a lot more coat smells like. 
+Some of them are listed here there's not really a lot of point in discussing this in detail. 
+Error:
+I would definitely recommend looking up some of those things if you're interested in some of the design will help a lot and praying you for courses like 3211. 
+And would best be building better software. 
+So this is the textbook we talking about. 
+It's called refactoring. 
+Emergent father. 
+Is definitely one of the most important textbooks instructor engineering. 
+It describes. 
+All the different we talk to me by wearing the slides does bold letters. 
+In situations that they have to be light. 
+Error:
+Hot. 
+So. 
+Recommended. 
+If you want to. 
+Learn more about it. 
+One of the things he'd also includes is very detailed steps on how to apply some of this your factories in order not to do them anyway.. 
+That is not as important as days because most of the. 
+Ids will use these days implement. 
+These things anyway that will allow us to do them without introducing hours. 
+And we'll see how to do that with eclipse version. 
+B o r this moment. 
+In the class i would. 

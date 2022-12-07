@@ -1,0 +1,7 @@
+Week 2 (to be completed by Thursday, September 17)Week 2 (to be completed by Thursday, September 17)
+Start by watching the instructor video for this week.
+Next, a video tutorial on using the tools for the course. Click on the OS you are using: Windows or MacOS.
+Next, go through the following tutorials for JUCE:
+Getting started with the Projucer: This tutorial will help you install JUCE if you haven't already, and will guide through creating a JUCE project and bringing it up in Visual Studio.
+Create a basic plugin, Part 1: This tutorial will help you set up an empty MIDI plugin, and create the Audio Plugin Host. The tutorial says that this step is optional, but you should definitely do it, otherwise you will not be able to test your plugin.
+Coding your plugin: This tutorial will help you create a MIDI plugin that affects the volume of incoming MIDI events. If you get an error because uint8 is an unrecognized type, change it to juce::uint8. See an eClass announcement for more details.

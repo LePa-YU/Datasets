@@ -1,0 +1,8 @@
+Week 4 (to be completed by Thursday, October 1)Study material
+This week we will focus on making the GUI of our plugin look nice. Study the following JUCE tutorials (no need to open them as separate projects, just cut and paste from the tutorial to your code as necessary):
+The Slider class: This tutorial will show you how to customize a Slider. Notice the section titled “Responding to slider changes” for an example of how to tell which slider has been changed.
+Depending on the design of your plugin, you will need some other types of GUI components. See the tutorials for labels, combo boxes, and radio buttons and checkboxes.
+To improve the look of your plugin even further, you can look into the following tutorials as well:
+The Graphics class: To draw simple lines and shaped on your GUI.
+Customize the look and feel: To change the looks of default components.
+Weekly Unity Background: Complete Section 3. Working with Assets.

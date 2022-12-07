@@ -1,0 +1,599 @@
+SPEAKER 0
+so welcome everyone. We're going to spend A bit of time now going
+
+SPEAKER 1
+over resource pack designed one and this is being done as part of class meeting three.
+
+SPEAKER 2
+The resource pack is posted to e class so you
+
+SPEAKER 1
+can use that pdf as a starting place for your own notes And like I mentioned, the time is short, so I'm just going to try to move through this quickly. There's 21 slides and I am hoping to finish it
+
+SPEAKER 2
+in 15 minutes, but the fact that we have an
+
+SPEAKER 1
+action packed agenda should not stop you from asking questions please um feel free and you can put in the
+
+SPEAKER 2
+chat or in discord, let me get discord showing.
+
+SPEAKER 1
+Hang on.
+
+SPEAKER 0
+So the channel I'm monitoring is class discussions.
+
+SPEAKER 1
+That's the channel I'm monitoring in discard. Okay, so here is the intellectual property notice. So this resource pack assumes that you're, we don't have any dependencies.
+
+SPEAKER 2
+I'm not even assuming that you have even done teamwork
+
+SPEAKER 0
+group work in previous courses, although I suspect that's not
+
+SPEAKER 1
+the case many of you have. Okay, so if you three inquiry questions, number one is
+
+SPEAKER 0
+teamwork, the norm and uX design, I think, you know
+
+SPEAKER 2
+the answer to that, Number two, what are some project management basics? Many of these things you will know already, but it
+
+SPEAKER 1
+doesn't hurt for us all to be on the same page.
+
+SPEAKER 0
+And number three.
+
+SPEAKER 2
+Really importantly, how can I be a good team number from good team members come good functional teams.
+
+SPEAKER 0
+So is teamwork, the norman design in a natural, Yes, tremendously important and here's why for a long time the
+
+SPEAKER 1
+process used what is basically a waterfall model where there
+
+SPEAKER 2
+would be a big front end of, you know, a
+
+SPEAKER 0
+big, a big amount of design work up front and
+
+SPEAKER 1
+that was done by the design team and then they would prepare what's called the design handoff, which would be
+
+SPEAKER 0
+wireframe flows all the assets, all the copy everything basically
+
+SPEAKER 2
+that the DEV team would need to go and and statute the thing computational e with front end and back
+
+SPEAKER 1
+end. So this was the kind of separation of the design
+
+SPEAKER 0
+and the development into two stages with not too much interconnection between the two.
+
+SPEAKER 1
+But as you're probably very well aware, there's a general shift towards agile methodology and a replacement of this waterfall
+
+SPEAKER 0
+with a series of generative sprints.
+
+SPEAKER 1
+It's not to say that the Sprint teams begin immediately. There is some design research and design work done up front, some prototypes, some feedback, something like that.
+
+SPEAKER 0
+But the design handoff doesn't exist as this huge monolith
+
+SPEAKER 1
+anymore. Instead after this initial amount of front and uh upfront
+
+SPEAKER 0
+work, I have to be careful not to call it front end because that means something else. The sprint team will start iterating and the sprint team
+
+SPEAKER 2
+interestingly notably usually contains a couple of DEV's a front
+
+SPEAKER 0
+end developer designers and a team leader of course. So what your role is in the future like is up to you.
+
+SPEAKER 2
+But if you do a degree in computer science or in digital media you're actually positioned to go in either
+
+SPEAKER 1
+of the deV or the design directions. The design direction of course will take additional training beyond this one single course. But as we'll soon talk in the future, resource pack
+
+SPEAKER 0
+design is not professionalized in the sense that there's like requirement to take an accredited program or to receive professional
+
+SPEAKER 1
+designations if you have a good portfolio and you prove
+
+SPEAKER 0
+yourself as like an effective designer cos Cannon will hire you. So um in general the industry is moving from water ball to agile.
+
+SPEAKER 1
+There are these teams, you're most likely a majority of
+
+SPEAKER 0
+you are going to have some role in the team. So it's really important to be able to function as a team both in terms of domain knowledge and also
+
+SPEAKER 1
+just like have you be a good team member.
+
+SPEAKER 2
+So these teams are going to be interdisciplinary.
+
+SPEAKER 0
+Of course. We're gonna come back to the topic of the industry
+
+SPEAKER 1
+practices. We're just doing a little quick thing here because I
+
+SPEAKER 0
+want to motivate why teamwork is so important and if you're really super keen to read ahead, there's a link
+
+SPEAKER 1
+there that's kind of great literature article. So in some teamwork is the norm it's becoming even
+
+SPEAKER 0
+more important.
+
+SPEAKER 2
+We're going to use a lot of teamwork in this
+
+SPEAKER 1
+course. It's right built into the course description, it's not automatic,
+
+SPEAKER 0
+it's not like a natural inborn talent. There are skills to be learned and everyone can engage
+
+SPEAKER 1
+in professional development, how to improve on being a team
+
+SPEAKER 2
+member.
+
+SPEAKER 0
+Also being a good team member also requires having some knowledge about project management.
+
+SPEAKER 2
+Even if you're not the project manager just to understand and in this educational setting we're going to have informal
+
+SPEAKER 0
+roles and like, you know, there's no way to use full organization processes but we're gonna emulated.
+
+SPEAKER 1
+Mhm. So what are some basics?
+
+SPEAKER 0
+Okay, first I want to just like say project management is this huge realm of practices.
+
+SPEAKER 1
+Knowledge is and skills and like project manager unlike designer
+
+SPEAKER 0
+is actually like a professional certification.
+
+SPEAKER 1
+So there's formal training, there's fieldwork requirements, a certain number of hours of project management so on. And there's these professionally um internationally recognized designations PMP or Prints to Prince two is usually used in Europe.
+
+SPEAKER 2
+So you may have heard of this, you know, in your internships or you might see this but it's an
+
+SPEAKER 0
+actual like a whole other specialization in of itself. So, you know, it's a hopeless to try and teach all of that in like one class or one course.
+
+SPEAKER 1
+We're going to just give some basics. There's all these different process groups, initiating projects, planning, executing,
+
+SPEAKER 2
+monitoring, Controlling, closing note projects.
+
+SPEAKER 1
+There's all these different knowledge areas about 10 different ones. So there's just like this huge breath of knowledge and skills to acquire. But for the sake of this context with pod based
+
+SPEAKER 0
+projects and then later in the course, smaller team based
+
+SPEAKER 1
+projects, we're going to just cover a few best practices and as I go through them, ask yourself do I
+
+SPEAKER 0
+recognize this practice in my previous teamwork or conversely like can I see a way to incorporate this practice?
+
+SPEAKER 1
+Okay, so this summary is coming from a kind of widely cited um Piece of gray literature about the nine best practices.
+
+SPEAKER 2
+So and I have used my expertise as a researcher
+
+SPEAKER 0
+and participant, a leader and a participant of many research
+
+SPEAKER 1
+projects to like taylor all of this down to this
+
+SPEAKER 0
+course. So number one like scope and stability is like a
+
+SPEAKER 1
+really important practice.
+
+SPEAKER 0
+The team has to know that it's clear what the scope of the work is and that it's not going to be changing.
+
+SPEAKER 2
+This happens in of course because the course instructors, the
+
+SPEAKER 1
+teaching team decides on the scope of the work and
+
+SPEAKER 0
+provides it to you in the form of the activity
+
+SPEAKER 2
+specification. Number two, everyone knows what they're doing. So the best practices that there are roles and team
+
+SPEAKER 0
+members have roles and there needs to be a leader,
+
+SPEAKER 2
+right?
+
+SPEAKER 1
+So this is going to be informal, sometimes it's de facto and the types of roles that are needed depend
+
+SPEAKER 0
+on the project work but everyone should have an idea of what they're doing and that's just really important.
+
+SPEAKER 2
+Number three, it's important upfront that the team understands what
+
+SPEAKER 0
+counts as like adequate and good quality and that the
+
+SPEAKER 2
+team understands like this is going above and beyond the
+
+SPEAKER 0
+call of duty, this is what we're aiming for, this is falling below our standards.
+
+SPEAKER 1
+Many problems happen in teams because there's a lack of
+
+SPEAKER 0
+common ground about what counts as like done or what
+
+SPEAKER 1
+counts as good. I hear a lot of stories about a team member
+
+SPEAKER 0
+will do the piece of work and then the other team member will say, I don't like it and then they'll just redo the whole thing like on the slide without even telling the person, so that's like a really
+
+SPEAKER 1
+bad practice.
+
+SPEAKER 0
+Number four, the team understands as a whole what the process will be. We're going to plan for this long, then we're going to move on into implementing our solution or implementing or creating our deliverables and then we're moving to the phase of like we're submitting these are the three phases that
+
+SPEAKER 1
+are relevant for this, this productivity.
+
+SPEAKER 0
+So you understand clearly what happens at the end of
+
+SPEAKER 2
+each phase.
+
+SPEAKER 0
+Number five. The planning is realistic, it's realistic in terms of the
+
+SPEAKER 1
+available time and what the team members are willing and
+
+SPEAKER 0
+able to do. The plan has to match the work to be completed and people need to know like what is Dubai when to what degree of quality.
+
+SPEAKER 2
+Number six, it's really important that teams be able to self correct, the team needs to be able to see if there is a deviation from the plan and more
+
+SPEAKER 0
+importantly, come up with some kind of corrective steps, if you are scheduling right down to the wire and you have no extra time at all, it's impossible to do
+
+SPEAKER 1
+corrective steps. So that's part of the planning to provision for that,
+
+SPEAKER 2
+to mitigate the risk of things going wrong.
+
+SPEAKER 0
+Number seven interpersonal issues can sink any team.
+
+SPEAKER 2
+So there has to be some kind of process where
+
+SPEAKER 1
+people try to solve it between them and then escalated up as needed.
+
+SPEAKER 0
+So things have to get resolved. Interpersonal issues cannot linger and fester and number eight, um, if there is a disruption to the plan, then the team is able to deal with it. This is not an interpersonal issue, but things like scope creep, um that's in the minds of all the team members, wouldn't it be great if we did this extra thing and let's add this onto and let's make our report like this.
+
+SPEAKER 1
+So like it grows and grows slippage. So we have deadlines mapped out, but you know, people are like two hours later, half a half a day late and then the whole thing starts to slip and
+
+SPEAKER 2
+defects. So this might be a team member who delivers a
+
+SPEAKER 1
+piece of work that's below the agreed upon quality standard
+
+SPEAKER 2
+or maybe inadvertently, there's a misunderstanding about things.
+
+SPEAKER 1
+So these are all things that um, you know, people
+
+SPEAKER 0
+are following the plan or attempting to, but for whatever
+
+SPEAKER 1
+reason, the plan cannot be implemented as initially envisioned.
+
+SPEAKER 0
+So in a nutshell, those are like eight, I guess
+
+SPEAKER 1
+I cut out one, I probably took out change control or there's a lot of complexity.
+
+SPEAKER 0
+Okay, so let me just see quickly from uh feedback.
+
+SPEAKER 2
+Would you say you're a group work in the past
+
+SPEAKER 1
+has been characterized by all of these best practices?
+
+SPEAKER 0
+Yes, no, definitely not, no, nope, kind of Okay, good. No way.
+
+SPEAKER 2
+Okay, okay, there's a little bit of like, sometimes kind
+
+SPEAKER 1
+of not even a little Okay, so it sounds like
+
+SPEAKER 0
+many of you have not had this experience. Let's just try to like turn the ship around and
+
+SPEAKER 2
+get a good team work underway. Oh, Stephens has always awesome.
+
+SPEAKER 1
+Whoever is in Stephen's pod is all set, Stefan looks like an experienced person unless Stefan, are you being sarcastic? It's hard to tell and chat.
+
+SPEAKER 0
+Okay, so let's move on, I have to keep track
+
+SPEAKER 2
+of the time here. How can I be a good team member?
+
+SPEAKER 0
+Okay, there's a lot to this. This is just the first Pass through at the 10,000 foot level will later come back into what this means. But I hope some of this connects with you on
+
+SPEAKER 1
+an intuitive level.
+
+SPEAKER 0
+So let's start with the literary coat, Leo Tolstoy famously
+
+SPEAKER 2
+wrote all happy families are alike, but every unhappy family is unhappy in its own way.
+
+SPEAKER 0
+So all functional teams. All good teams, are you no good in a similar
+
+SPEAKER 2
+way, but dysfunctional teams are dysfunctional in all sorts of
+
+SPEAKER 0
+different ways, So it's just like analogous lee True, So, well functioning teams just need like surprisingly a few ingredients
+
+SPEAKER 2
+and there's like a nice video that boils it down,
+
+SPEAKER 1
+but I'm going to leave it for you to watch after.
+
+SPEAKER 0
+So number one, there's an equity of conversational terms, so
+
+SPEAKER 2
+everyone is talking maybe not within the whole session, maybe
+
+SPEAKER 0
+not for a particular deliverable, but in the some at the like high level view, when you look at the totality of the project, all the team members have contributed more or less equally in terms of like conversational turn
+
+SPEAKER 1
+taking. So that's Number one, that's a sign that team is working well. Number two, there is a environment of mutual respect and
+
+SPEAKER 2
+that means that team members have to be able to read and respond to social cues.
+
+SPEAKER 1
+This is particularly hard when you're not in a face to face setting because as we know, computer mediated communication
+
+SPEAKER 2
+mucks up with our turn taking behaviors and our social
+
+SPEAKER 1
+cues. So you need extra skills to read facial expressions and to deal with the small time latency ease that can affect group dynamics And # three, like those good um project management practices I just met, here's this video, it's
+
+SPEAKER 0
+only two minutes long, but seriously we're so short in time we're going to pass by it.
+
+SPEAKER 2
+I want to take this chance to emphasis The 15
+
+SPEAKER 1
+minute rule, A team member can take 15 minutes to
+
+SPEAKER 0
+solve the problem, Any which way they can, but if
+
+SPEAKER 2
+a team member doesn't have the answer after 15 minutes, don't keep hitting your head against the Wall. Don't spin, reach out to your team member. You have to ask someone that's called the 15 minute
+
+SPEAKER 1
+rule. Okay, so This is just some comment about pod-based activities, I know that these are big groups, 12-13 people. This is a large team, it's really challenging.
+
+SPEAKER 2
+We didn't get a chance to like really meet each other. I'm throwing you in the deep end. So consider this a ramp up.
+
+SPEAKER 0
+We're not going to have team contracts at this point
+
+SPEAKER 2
+because we're doing fast and easy, rapid things. I shouldn't say easy. I mean many of you will find the activity easy,
+
+SPEAKER 1
+but some of you, it will stretch you in a new way, but the activities uh is really clearly defined,
+
+SPEAKER 0
+it has a very particular narrow scope and the pod
+
+SPEAKER 2
+based activities are designed to be easy to divide up
+
+SPEAKER 1
+and there's different ways to divide it up. So there's five competencies, you need to be a good
+
+SPEAKER 2
+team member. First of all, you have to be committed, you're gonna contribute to the, the team's work, you're going to demonstrate commitment. You come prepared and you keep your deadlines and you can you deliver complete and accurate work as per those
+
+SPEAKER 1
+discussions I mentioned before, the best practices about having commonly agreed upon standards.
+
+SPEAKER 2
+Number two, communication, this is a key competency. You have to be effective in your communication. You have to have a spirit of openness and sharing. You're going to be timely. It's no good to be open and like effective but slow and late on everything. You're going to request feedback and you're not just going to make a show, but you're actually going to incorporate
+
+SPEAKER 0
+the feedback and all team members do this and before
+
+SPEAKER 2
+you like take unilateral action, you consult with your teammates
+
+SPEAKER 1
+using your judgment of course about the trade offs were just deciding versus um consulting.
+
+SPEAKER 2
+So commitment and competency and communication are two key competencies.
+
+SPEAKER 0
+Number three capability, you have to have a certain amount of capability.
+
+SPEAKER 2
+You demonstrate the capabilities needed for the team to perform. If you don't have it, you seek to gain that capability, you gain the knowledge, skills, abilities, us teammates. They show you you learn that's the whole point here and part of this is being aware of what your other teammates are doing and how they're doing it.
+
+SPEAKER 1
+So in general, your that's a key competency to just have the capability.
+
+SPEAKER 0
+Number four, you have some standards about your work.
+
+SPEAKER 1
+You care about the team's work as a whole.
+
+SPEAKER 2
+You believe your team is capable of achieving high standards, You're confident you're not a nay Sayer and you're doing your part to encourage and motivate and last. You. You have focused as a competency, you're monitoring issues that affecting the team. You're noticing problems. You don't leave that only up to the leader, Everyone
+
+SPEAKER 1
+is going to be part of this.
+
+SPEAKER 2
+You're going to provide meaningful growth oriented and regular feedback and you're doing your part to help plan and organize
+
+SPEAKER 0
+the work and to anticipate issues. So those are five competencies that you as a human
+
+SPEAKER 2
+being can and should have to be a good team member.
+
+SPEAKER 1
+Uh I have here Stephen saying, hello professor is teamwork
+
+SPEAKER 2
+a majority of the always right. So you're talking about decision making processes within the team I guess.
+
+SPEAKER 1
+That's right. Yeah.
+
+SPEAKER 2
+So this is something when you develop a team contract,
+
+SPEAKER 0
+you decide upon your decision making mechanism. The framework we're using really strongly emphasizes consensus.
+
+SPEAKER 1
+So you know, usually people if they feel they've been
+
+SPEAKER 2
+heard there okay to they agree to disagree. Some team contracts, decide to do vote of the majority
+
+SPEAKER 1
+like you're mentioning but it really has to be decided. So I'm not gonna like unilaterally decide. This is the decision making module. What I'm gonna do later is um elaborate on some of the options and then the teams can decide for
+
+SPEAKER 2
+this activity though because it's fast and quick.
+
+SPEAKER 1
+People just have to get it done.
+
+SPEAKER 2
+So I don't think there's going to be voting. I'm hoping in the team meeting today, people can go and do their thing. Yeah.
+
+SPEAKER 1
+Okay. So let me continue on what makes for a healthy
+
+SPEAKER 2
+team. we're going to talk about this more, but there's four dimensions communication, adaptability, relationships, and education in the interest of time. I think I'm gonna leave you to read this afterwards
+
+SPEAKER 1
+and um we just get to the summary here. Okay, so I've given you the big picture about project
+
+SPEAKER 2
+management, best practices, there's going to be different degrees of
+
+SPEAKER 1
+experience and knowledge, but this is something you can learn.
+
+SPEAKER 2
+You as a team member.
+
+SPEAKER 0
+You're asking yourself, how am I doing on these five competencies? Not everyone is a master of all the competencies right
+
+SPEAKER 1
+now, but by the end of the course I hope
+
+SPEAKER 2
+that you have accomplish some growth in these areas.
+
+SPEAKER 0
+Everyone has the ability to improve and there's four key
+
+SPEAKER 1
+areas so I'm going to stop here and before I
+
+SPEAKER 2
+do is there any questions that we want to capture in the recording?
+
+SPEAKER 1
+Okay, now, so let's stop this.

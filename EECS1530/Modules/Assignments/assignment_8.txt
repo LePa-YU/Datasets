@@ -1,0 +1,16 @@
+Assignment 8 - Data Management
+1. Write a Python program that takes in seasonal precipitation and temperature data from the provided .csv files. (Look at the data files given. There will be two seasonal files aka have 4 seasons: Winter, Spring, Summer, Fall)
+
+Take these two sets of data and create one data frame called ‘weather’ and remove all rows with empty fields (aka NaN fields)
+Calculate the total change of precipitation and save it into a new column called ‘Annual (P)’.
+Calculate the total change of temperature and save it into a new column called ‘Annual (T)’.
+Save into a new .csv file called ‘seasonal_weather.csv’
+2. Write a Python program that takes a snapshot of the data in ‘seasonal_weather.csv’ and saves it into a ‘weather_snapshot.csv’ file.
+The snapshot file should be the data from year 1990 to the latest possible year
+Add a new column called ‘Pressure’ and fill it with the ALPI pressure data, make sure there are no NaN values
+
+To submit: 
+Download the provided .ipynb file to colab
+Answer the assignment questions in the code block with the #comment
+Download your answers as a .py file from colab
+Upload the .py file to Moodle
