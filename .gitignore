@@ -4,6 +4,8 @@ Lecture_Audio*
 *.mp4
 *.wav
 
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
