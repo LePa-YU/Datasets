@@ -1,6 +1,4 @@
 # Own folder .gitignore files
-Lecture_Videos*
-Lecture_Audio*
 *.mp4
 *.wav
 
