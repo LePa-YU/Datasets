@@ -1,5 +1,5 @@
 ID,title,alternative,targetUrl,type,assesses,comesAfter,alternativeContent,requires,isRequiredBy ,isPartOf,isFormatOf ,comesAfter_aER
-0,Start,,,start,,,,,,,,
+0,Start,start,,start,,,,,,,,
 1,Overview,,,iER,,0,,,,,,
 2,Content,,,.txt,,,,,,1,,
 3,Syllabus,1530-Syllabus_W2020,,.pdf,,,,,,1,,
@@ -266,4 +266,4 @@ ID,title,alternative,targetUrl,type,assesses,comesAfter,alternativeContent,requi
 264,Final Exam Answers,,,rER,260,,,,,,,
 265,Answer key,,,.txt,,,,,,264,,
 266,Answer key automatic,,,.html,,,,,,264,,
-267,Finish,,,end,,264,,,,,,
+267,Finish,end,,end,,264,,,,,,

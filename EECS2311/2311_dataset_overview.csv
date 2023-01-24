@@ -1,5 +1,5 @@
 ID,title,alternative,targetUrl,type,assesses,comesAfter,alternativeContent,requires,isRequiredBy ,isPartOf,isFormatOf ,comesAfter_aER
-0,Start,,,start,,,,,,,,
+0,Start,start,,start,,,,,,,,
 1,Main,EECS_2311_[EECS2311],,iER,,0,,,,,,
 2,Main,Main,,.txt,,,,,,1,,
 3,Course Outline,Course_Outline_[EECS2311],,iER,,1,,,,,,
@@ -186,4 +186,4 @@ ID,title,alternative,targetUrl,type,assesses,comesAfter,alternativeContent,requi
 184,Grades,Grades,,.txt,,,,,,183,,
 185,Instructor & TAs,Instructor_&_TAs_[EECS2311],,iER,,1,,,,,,
 186,Instructor & TAs,Instructor & TAs,,.txt,,,,,,185,,
-187,Finish,,,end,,164,,,,,,
+187,Finish,end,,end,,164,,,,,,
