@@ -1,4 +1,4 @@
-﻿ID,Title,Alternative,targetUrl,Type,isPartOf,assesses,comesAfter,requires
+﻿id,title,alternative,targetUrl,type,isPartOf,assesses,comesAfter,requires
 0,Start,start,,start,,,,
 1,Module 1: Activity,Module_1_activity,,aER,,,3,3
 2,Module 1: Lab task,Module_1_lab_tasks,,.txt,1,,,"5, 11, 12"
