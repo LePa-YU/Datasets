@@ -24,7 +24,7 @@ identifier,title,description,url,type,assesses,comesAfter,alternativeContent,req
 22,Week 2: Activity,week_2_activity,,aER,,24,,"252, 24",,,
 23,Weekly goals,week_2_weekly_goals,,.txt,,,,,22,,
 24,Week 2: Instructions,week_2_instructions,,iER,,5,,,,,
-25,Instructions,,,.txt,,,,,25,,
+25,Instructions,,,.txt,,,,,24,,
 26,Study material,week_2_study_material,,.txt,,,,,25,,
 27,Lecture video,instructor video for this week.,https://echo360.ca/media/19e82230-fb84-4a68-8fb7-0646b2c2e9b5/public,.mp4,,,,,25,,
 28,Lecture video audio,,,.wav,,,,,27,27,
