@@ -1,4 +1,4 @@
-identifier,title,description,url,type,Assesses,comesAfter,alternativeContent,requires,isPartOf,isFormatOf 
+identifier,title,description,url,type,assesses,comesAfter,alternativeContent,requires,isPartOf,isFormatOf 
 0,Start,start,,start,,,,,,
 1,Module 00: Intro,Module_00_Intro_(half_week),,iER,,0,,,,
 2,Content,EECS3461_Module_00_Intro_(half_week)_content.txt,,.txt,,,,,1,
